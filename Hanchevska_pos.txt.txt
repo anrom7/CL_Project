@@ -1,34 +1,25 @@
 ﻿А			а               conj:coord 
 мені		я               pron:pers:s:1:v_dav:anim
 дуже		дуже            adv 
-подобаєть 	-           	- (подобається подобатися  verb:pres:imperf)
+подобається подобатися  verb:pres:imperf
 і       	і               conj:coord
 атмосфера 	атмосфера     	noun:f:v_naz
-,       	-               -
 і       	і               conj:coord 
 працівники 	працівник    	noun:p:v_naz:anim 
 завжди		завжди 			adv
 привітні 	привітний      	adj:p:v_naz:compb
-!	     	-           	SENT_END 
 Кухня	    кухня           noun:f:v_naz
 смачна	    смачний         adj:f:v_naz:compb 
-,           -               -
 а	        а               conj:coord
-настоянки   настоянка		noun:p:v_naz  
-,           -               -
+настоянки   настоянка		noun:p:v_naz
 напевно	    напевно         adv
-,           -               -
 найкращі    хороший         adj:p:v_naz:super 
 з	        з               prep:rv_rod
 тих	        той 			pron:dem
-,           -               -
 що	        що 				conj:subord
 коли-небудь	коли-небудь		adv
 пробувала  	пробувати       verb:past:f:imperf 
-.	       	-               SENT_END
-                            PARA_END
 Смачно	   	смачно          adv:compb 
-,           -               -
 але	       	але             conj:coord 
 порції	   	порція		   	noun:p:v_naz
 не	       	не              part
@@ -37,23 +28,17 @@
 як	       	як				adv
 на	       	на              prep:rv_mis
 мене	   	я     			pron:pers:s:1:v_mis:anim
-.	       	-               SENT_END
 Ввічливі   	ввічливий       adj:p:v_naz:v-u
 офіціанти  	офіціант		noun:p:v_naz:anim
-.	       	-               SENT_END
 Є	       	бути			verb:pres:s::imperf
 дитяча	   	дитячий         adj:f:v_naz
 кімната	   	кімната         noun:f:v_naz
 з	       	з               prep:rv_oru 
 черепахою  	черепаха        noun:f:v_oru:anim
-:	       	-               - 
-)	       	-               -
 Обов'язково обов'язково    	adv
 зайду	   	зайти           verb:futr:s:1:perf
 ще	       	ще              adv
 раз	       	раз				noun:m:v_naz
-.	       	-               SENT_END 
-							PARA_END
 Були	   	бути            verb:past:p:imperf 
 в	       	в				prep:rv_mis
 цьому	   	цей				pron:dem
@@ -61,31 +46,24 @@
 двічі	    двічі          	adv
 і	        і              	conj:coord
 прийдемо    прийти         	verb:futr:p:1:perf
-ще-	    	-              	- (ще ще adv) 
+ще 			ще 				adv
 насправді   насправді      	adv 
 дивно	    дивно          	adv:compb
 чути	    чути           	verb:inf:imperf
 такий	    такий        	pron:def
 відгук	    відгук  		noun:m:v_zna
-(	        -              	-
 яким	    який  			pron:int:rel:def
 був	        бути           	verb:past:m:imperf
 попередній  попередній 		adj:m:v_zna 
-)	        -              	-
-.	        -              	SENT_END
 персонал    персонал       	noun:m:v_naz
 навіть	    навіть         	part
 дуже	    дуже           	adv
-"	    	-              	-
 натасканий  натасканий     	adjp:pasv:past:m:v_naz 
-"	    	-              	-
-(	    	-              	-
 трохи	    трохи          	adv
 розбираюсь  розбиратися    	verb:rev:pres:s:1:imperf
 в	        в              	prep:rv_zna:rv_mis:rv_rod:v-u 
 ресторанній ресторанний    	adj:f:v_mis
 сфері	    сфера          	noun:f:v_mis
-)	        -              	-
 дуже	    дуже           	adv 
 уважний	    уважний        	adj:m:v_naz:compb
 першого	    перший         	adj:m:v_rod
@@ -95,7 +73,6 @@
 до	        до             	prep:rv_rod 
 нас	        ми 			   	pron:pers:p:1:v_rod:anim
 підходили   підходити      	verb:past:p:imperf 
-,           -              	- 
 в	        в              	prep:rv_mis 
 меню	    меню		   	noun:n:v_mis:nv
 і	        і              	conj:coord
@@ -103,25 +80,18 @@
 обізнані    обізнаний      	adj:p:v_naz 
 всі	        весь		   	pron:dem 
 офіціанти   офіціант	   	noun:p:v_naz:anim 
-,	        -              	-
 все			весь           	pron:dem 
 приносили   приносити     	verb:past:p:imperf 
 вчасно	    вчасно        	adv
-.	        -             	SENT_END
 на	        на            	prep:rv_zna
 рахунок	    рахунок       	noun:m:v_zna
 страв	    страва        	noun:p:v_rod 
--	        -             	-
 то	        то            	conj:subord
 все			весь           	pron:dem 
 дуже	    дуже          	adv
 смачне	    смачний       	adj:n:v_naz:compb
-(	    	-             	-
 на	        на            	prep:rv_zna
-рах	        -             	- 
-.	        -             	SENT_END
 солі	    сіль          	noun:f:v_rod 
--	        -             	-
 в	        в             	prep:rv_mis:v-u
 кожного	    кожний        	pron:def 
 мабуть      мабуть        	insert 
@@ -129,8 +99,6 @@
 ставлення   ставлення		noun:n:v_zna
 до	        до            	prep:rv_rod
 цього	    цей           	pron:dem
-)	        -             	-
--	        -             	-
 ми	        ми            	pron:pers:p:1:v_naz:anim
 часто	    часто         	adv:compb
 ходимо	    ходити        	verb:pres:p:1:imperf 
@@ -138,56 +106,43 @@
 ресторани   ресторан      	noun:p:v_zna 
 італійської італійський   	adj:f:v_rod 
 кухні	    кухня         	noun:f:v_rod
-,      	    -             	-
 тому	    тому          	adv
 порівняти   порівняти     	verb:inf:perf 
 маємо	    мати          	verb:pres:p:1:imperf  
 з	        з             	prep:rv_rod:rv_zna:rv_oru 
 чим	        що            	pron:int:rel:n:v_oru 
-.	        -             	SENT_END
 ціни		ціна			noun:p:v_naz
-?	       	-              	SENT_END 
 такі	   	такий          	pron:def
 як	       	як             	adv
 і	       	і              	conj:coord 
 в	       	в              	prep:rv_mis
 будь-якому 	будь-який		pron:ind
 ресторані  	ресторан       	noun:m:v_mis 
-,    	   	-              	- 
 я	       	я              	pron:pers:s:1:v_naz:anim 
 б	       	б              	part 
 не	       	не             	part 
 сказала	   	сказати        	verb:past:f:perf 
-,	       	-              	-
 що	       	що             	conj:subord
 завищені   	завищений      	adjp:pasv:past:p:v_naz
-.	       	-              	SENT_END  
 щодо	   	щодо           	prep:rv_rod
 туалету	   	туалет          noun:m:v_rod
 нічого		ніщо			pron:neg:v_zna 
 не	       	не             	part
-можу	   	могти          	verb:unknown(можу  могти  verb:imperf:1) 
+можу  		могти  			verb:imperf:1
 сказати	   	сказати        	verb:inf:perf 
-,	       	-              	-
 бо	       	бо             	conj:subord 
 не	       	не             	part 
-відвідувала відвідувати   	verb:past:f:imperf 
--	   		-              	-  
-нічого		ніщо			pron:neg:v_zna 
-на	       	на             	prep:rv_zna:rv_mis 
-разі	   	раз            	noun:m:v_mis (наразі  наразі  adv)
+відвідувала відвідувати   	verb:past:f:imperf
+нічого		ніщо			pron:neg:v_zna
+наразі  	наразі  		adv
 не	       	не             	part
-можу	   	могти          	verb:unknown (можу  могти  verb:imperf:1)
+можу  		могти  			verb:imperf:1
 сказати	   	сказати        	verb:inf:perf 
-							SENT_END 
-							PARA_END 
 На          на 		  		prep:rv_mis 
 початках   	початок        	noun:p:v_mis
 відкриття  	відкриття      	noun:n:v_zna
-"	        -  		  		- 
-ресторану  	ресторан        noun:m:v_rod 
-Дель	   	дель           	unknown
-Песто	   	- 		      	- (Дель Песто  Дель Песто  noun)
+ресторану  	ресторан        noun:m:v_rod
+Дель Песто  Дель Песто  	noun:proper
 що	       	що             	conj:subord
 важко	   	важко 	      	adv:compb 
 зараз	   	зараз 	      	adv 
@@ -201,39 +156,29 @@
 неймовірно  неймовірно   	adv:compb 
 смачні	    смачний 	  	adj:p:v_naz:compb 
 піци	    піца 	       	noun:p:v_naz  
-.	        - 		     	SENT_END
 на жаль		на жаль 	 	<insert>
 кожного	    кожний 	 		adj:m:v_rod:&pron:def
 місяця	    місяць 	 		noun:m:v_rod 
 йде	        йти 	     	verb:pres:s:3:imperf
 на	        на				prep:rv_zna:rv_mis 
-спад	    спад 	     	noun:m:v_zna  
-,	        - 		     	- 
+спад	    спад 	     	noun:m:v_zna 
 що	        що 	    		conj:subord 
 кухня	    кухня      		noun:f:v_naz 
-,	        - 		    	-
 що	        що 	   			conj:subord 
 обслуговування обслуговування noun:n:v_naz
-.	        - 		   		SENT_END
 По	        по 		   		prep:rv_mis 
 порядку	    порядок    		noun:m:v_mis
-:	        - 		   		- 
-сьогодні    сьогодні   		adv 
-,	       	- 		   		- 
+сьогодні    сьогодні   		adv
 замовив	    замовити  		verb:past:m:perf 
 піцу	    піца 	  		noun:f:v_zna 
 свою	    свій 	  		pron:pos 
 улюблену    улюблений 		adjp:pasv:past:f:v_zna:compb
--	         - 		   		- 
 чотири	    чотири 	  		numr:p:v_zna  
-сири	    сир				noun:p:v_zna 
-:	      	- 		  		- 
+сири	    сир				noun:p:v_zna
 На	        на       		prep:rv_mis 
 сирі	    сир 	  		noun:m:v_mis
 явно	    явно 	  		adv 
 економлять  економити  		verb:pres:p:3:imperf 
-:	        - 		   		-
-(	        - 		   		-
 смак	    смак 	   		noun:m:v_naz 
 сирів		сир 	   		noun:p:v_rod 
 в	        в 		   		prep:rv_mis
@@ -243,19 +188,16 @@
 чути	    чути 	   		verb:inf:imperf 
 смак	    смак 	   		noun:m:v_zna 
 лише	    лише 			part 
-тіста	    тісто 	   		noun:n:v_rod 
-(	       	- 		   		-
+тіста	    тісто 	   		noun:n:v_rod
 склад	    склад 	   		noun:m:v_zna
 сирів		сир 	   		noun:p:v_rod 
 поміняли    поміняти   		verb:past:p:perf 
--	        - 		   		-
 тулять	    тулити 	   		verb:pres:p:3:imperf 
 дешеве	    дешевий    		adj:n:v_zna:compb
 а	        а 		   		conj:coord
 ціна	    ціна 	   		noun:f:v_naz 
 за	        за 		   		prep:rv_zna
 дорогі	    дорогий			adj:p:v_zna:compb 
-)	    	- 		   		-
 намагався   намагатися 		verb:rev:past:m:imperf 
 покращити   покращити 		verb:inf:perf 
 смак	    смак 	   		noun:m:v_zna
@@ -268,7 +210,6 @@
 не	    	не 		   		part
 принесли    принести   		verb:past:p:perf 
 одразу	    одразу 	   		adv
-,	    	- 		   		-
 принесли    принести 		verb:past:p:perf
 коли	    коли			conj:subord
 піца	    піца 	   		noun:f:v_naz 
@@ -285,34 +226,28 @@
 і	    	і 		   		conj:coord
 не	    	не 		   		part
 доїв	    доїсти 	   		verb:past:m:perf 
-.	    	- 		   		SENT_END
 Замовив	    замовити 		verb:past:m:perf 
 салат	    салат 			noun:m:v_zna 
-Капрезе	    - 		   		-(Капрезе  Капрезе noun)
+Капрезе	    Капрезе 		noun
 листя	    листя 	   		noun:n:v_naz
-салата	    салата 	   		noun:f:v_naz(салату салат noun:f:v_rod)
+салату 		салат 			noun:f:v_rod
 місцями	    місце 	   		noun:p:v_oru 
-чорновате   - 		   		-(чорнувате чорний adj:s:n:v_naz:compb)
-,	    	-          		-
+чорнувате 	чорний 			adj:s:n:v_naz:compb
 сир	    	сир 	   		noun:m:v_naz
-моцарела    - 		   		- (моцарела  моцарела noun)
+моцарела    моцарела 		noun
 потребував  потребувати  	verb:past:m:imperf 
-чуть	    - 		   		-
 більше	    багато 	   		adv:compr
-соуса	    - 		   		- (соусу соус noun:m::v_rod)
-,	    	- 		   		-
+соусу 		соус 			noun:m::v_rod
 та	    	та 		   		conj:coord 
 приправ	    приправа   		noun:p:v_rod
-.	    	- 	 	   		SENT_END  
-(	    	- 		   		-
 Кухарі	    кухар 			noun:p:v_kly:anim
 сходіть	    сходити    		verb:impr:p:2:imperf 
-в	        в 		   		prep:rv_mis
-Япі	    	- 		   		- (Япі Япі noun)
+в	        в 		   		prep:rv_mis 
+Япі 		Япі 			noun
 та	    	та 		   		conj:coord
 скуштуйте   скуштувати 		verb:impr:p:2:perf 
 там	    	там				adv
-Капрезе	   	-  		   		- (Капрезе Капрезе noun)
+Капрезе	   	Капрезе 	 	noun
 щоб	   	   	щоб 		   	conj:subord
 ви	   	   	ви				pron:pers:p:2:v_naz:anim 
 відчули	   	відчути 	   	verb:past:p:perf
@@ -321,29 +256,20 @@
 смакових   	смаковий    	adj:p:v_mis
 якостях	   	якість 	   		noun:p:v_mis 
 цього	   	цей 		   	adj:m:v_rod 
-салата	   	салата 	   		noun:f:v_naz(слату салату noun:f:v_rod) 
-)	   		- 		   		-
-.	   		- 		   		SENT_END 	 
+слату 		салат 			noun:f:v_rod
 Це	   	    цей 	   		pron:dem
 один	   	один 	   		numr:m:v_naz
 опис	   	опис 	   		noun:m:v_naz
 падіння	   	падіння			noun:p:v_zna 
-Дель	   	дель        	unknown 
-Песто	   	- 		   		- (Дель Песто  Дель Песто noun)
-.	   		- 		   		SENT_END
+Дель Песто  Дель Песто 		noun
 Напій	   	напій 	   		noun:m:v_naz 
 журавлиний  журавлиний  	adj:m:v_naz
--	   		- 		   		-
-смачний	   	смачний 	   	adj:m:v_naz:compb
-.	   		- 		   		SENT_END 
-							PARA_END 
+смачний	   	смачний 	   	adj:m:v_naz:compb 
 Були	   	бути   	   		verb:past:p:imperf 
 в	   		в  		   		prep:rv_mis 
-Дель	   	дель 	   		unknown
-Песто	   	-  		   		- (Дель Песто  Дель Песто noun)
+Дель Песто  Дель Песто 		noun
 у	   		у 		   		prep:rv_mis
 вересні	   	вересень    	noun:m:v_mis 
--	  		- 		   		-
 вперше    	вперше 	   		adv:v-u
 натрапили 	натрапити    	verb:past:p:perf 
 на	  	  	на  		   	prep:rv_mis 
@@ -353,13 +279,11 @@
 прогулянок 	прогулянка  	noun:p:v_rod 
 Львовом	  	Львів 	   		noun:m:v_oru 
 вранці	  	вранці 	   		adv:v-u
-,	  		- 		   		-
 та	  	  	та 		   		conj:coord 
 заклад	  	заклад 	   		noun:m:v_naz 
 ще	  		ще 		   		adv 
 був	  		бути 	   		verb:past:m:imperf 
 зачинений  	зачинений 		adjp:pasv:past:m:v_naz 
-.	   		- 		   		SENT_END
 Ввечері	  	ввечері 	   	adv:v-u 
 таки	  	таки 		   	part
 вирішили  	вирішити 	   	verb:past:p:perf 
@@ -367,14 +291,12 @@
 і	  	  	і 		   		conj:coord 
 придивитись придивитися 	verb:rev:inf:perf 
 поближче   	поближче 		adv:bad
--	   		-  		   		-
 і	  		і 		   		conj:coord 
 були	  	бути 		   	verb:past:p:imperf 
 дуже	  	дуже 		   	adv 
 приємно	  	приємно 	   	adv:compb 
 здивовані 	здивований   	adjp:pasv:past:p:v_naz 
 цінами	  	ціна 		   	noun:p:v_oru 
-(	  		- 		   		-
 особливо  	особливо 	   	adv
 на	  		на 		  		prep:rv_mis 
 фоні	  	фон 		  	noun:m:v_mis 
@@ -382,57 +304,44 @@
 закладів  	заклад 	  		noun:p:v_rod 
 в	  		в 		  		prep:rv_mis
 Чернівцях 	Чернівці 	  	noun:p:v_mis 
-)	  		- 		  		-
-,	  		- 		  		-
 рівнем	  	рівень  	  	noun:m:v_oru 
 сервісу	  	сервіс 	  		noun:m:v_rod 
 та	  		та 		  		conj:coord 
 смаком	  	смак 		  	noun:m:v_oru 
 страв	  	страва 	  		noun:p:v_rod 
-.	  		- 		  		SENT_END 
 Паста	  	паста 	  		noun:f:v_naz 
--	  		- 		 		-
 винятково 	винятково 	  	adv
 смачна	  	смачний 	  	adj:f:v_naz:compb 
-;	  		- 		  		-
 рівень	  	рівень 	  		noun:m:v_naz 
 цін	  		ціна 		  	noun:p:v_rod 
--	  		- 		  		-
 помірний  	помірний 	  	adj:m:v_naz 
 навіть	  	навіть 	  		part 
 по	  		по 		  		prep:rv_mis 
-Львівським 	львівський 	  	adj:p:v_dav (за Львівськими мірками)
+Львівським 	львівський 	  	adj:p:v_dav
 міркам	  	мірка 	  		noun:p:v_dav 
-,	  		- 		  		-
 а	  		а 		 	 	conj:coord 
-уж	  		-		  		-
 в	  		в 		  		prep:rv_mis 
 порівнянні 	порівняння 	  	noun:n:v_mis 
 з	  		з 		  		prep:rv_oru 
 нашими	  	наш 		  	adj:p:v_oru
 Київськими 	київський 	  	adj:p:v_oru 
 цінами	  	ціна 		  	noun:p:v_oru 
-...	  		- 		  		SENT_END 
 Окремо	  	окремо 	  		adv 
 все	  		все 		  	conj:coord:v-u 
 ж	  		ж 		  		part 
 ще	  		ще 		  		adv
 раз	  		раз 		  	noun:m:v_naz
-відмічу	  	відмітити 	  	verb:futr:s:1:perf(відмічу відмічати verb: imperf:1) 
+відмічу	  	відмітити 	  	verb:futr:s:1:perf
 рівень	  	рівень 	  		noun:m:v_zna 
 сервісу	  	сервіс 	  		noun:m:v_rod
--	  		- 		  		-
 офіціанти  	офіціант 	  	noun:p:v_naz:anim 
 дуже	  	дуже 		  	adv 
 привітливі 	привітливий 	adj:p:v_naz 
-,	  		- 		  		-
-можуть	  	могти 	  		verb:unknown (можу  могти  verb:imperf:1) 
+можуть	  	могти 	  		verb:imperf:1
 порадити  	порадити 	  	verb:inf:perf 
 страву	  	страва 	  		noun:f:v_zna 
 чи	  		чи 		  		conj:coord:subord 
 коктейль  	коктейль 	  	noun:m:v_zna 
-(	  		- 		  		-
-причом	  	- 		  		-
 радять	  	радити 	  		verb:pres:p:3:imperf 
 зовсім	  	зовсім 	  		adv 
 не	  		не 		  		part 
@@ -442,8 +351,6 @@
 дорогий	  	дорогий 	  	adj:m:v_zna:compb
 пункт	  	пункт 	  		noun:m:v_zna 
 меню	  	меню 		  	noun:n:v_zna:nv 
-)	  		- 		  		-
-,	  		- 		  		-
 чи	  		чи 		  		conj:coord:subord 
 як	  		як 		  		adv
 правильно 	правильно 	  	adv:compb 
@@ -452,8 +359,6 @@
 за	  		за 		  		prep:rv_oru
 допомогою 	допомога 	  	noun:f:v_oru 
 ложки	  	ложка 	  		noun:p:v_zna 
-=	  		- 		 		-
-)	  		-		  		-
 Після	  	після 	  		adv
 того	  	той 		  	adj:m:v_rod
 вечора	  	вечір 	  		noun:m:v_rod 
@@ -461,13 +366,10 @@
 ще	  		ще 		  		adv
 2	  		2  		  		number
 рази	  	раз 		  	noun:p:v_zna
--	  		- 		  		-
 наступного 	наступний 	  	adj:m:v_rod 
 вечора	  	вечір 	  		noun:m:v_rod
-,	  		- 		  		-
 та	  		та 		  		conj:coord 
 вранці	  	вранці 	  		adv:v-u 
-,	  		- 		  		-
 і	  		і 		  		conj:coord 
 кожного	  	кожний 	  		adj:m:v_rod
 разу	  	раз 		   	noun:m:v_rod 
@@ -475,56 +377,44 @@
 враження  	враження 	  	noun:n:v_zna
 лише	  	лише 		  	conj:subord 
 посилювалось посилюватися 	verb:rev:past:n:imperf 
-.	  		- 		  		SENT_END 
 Єдиною	  	єдиний 	  		adj:f:v_oru 
 гіркою	  	гіркий 	  		adj:f:v_oru:compb
 краплею	  	крапля 	  		noun:f:v_oru 
 були	  	бути 		  	verb:past:p:imperf 
 коктейлі  	коктейль 	 	noun:p:v_naz  
--	  		- 		  		-
 воно	  	воно 		  	pron:pers:n:3:v_naz 
 і	  		і 		  		conj:coord 
 зрозуміло  	зрозуміло 	  	adv:compb
-,	  		-   		 	-
 це	  		цей 		  	adj:n:v_naz
 ж	  		ж 		  		part 
 ресторан  	ресторан 	  	noun:m:v_naz 
 а	  		а 		  		conj:coord 
 не	  		не 		  		part 
 бар	  		бар 		  	noun:m:v_naz 
-,	  		-		  		-
 але	  		але 		  	conj:coord 
 з	  		з  		  		prep:rv_rod
-4х	  		- 		  		-
 різних	  	різний 	  		adj:p:v_rod
 коктейлів  	коктейль 	  	noun:p:v_rod 
-,	  		- 		  		-
 що	  		що 		  		conj:subord 
 ми	  		ми 		  		pron:pers:p:1:v_naz:anim
 куштували  	куштувати	  	verb:past:p:imperf 
--	  		- 		  		-
 сподобався 	сподобатися    	verb:rev:past:m:perf 
 лише	  	лише 		  	part
-один	  	один 		  	numr:m:v_naz 
-.	  		- 		  		SENT_END 
+один	  	один 		  	numr:m:v_naz
 Але	  		але 		  	conj:coord 
 в	  		в 		  		prep:rv_mis
 будь-якому 	будь-який 	  	adj:m:v_mis
 разі	  	раз 		  	noun:m:v_mis
-,	  		- 		  		-
 ми	  		ми 		  		pron:pers:p:1:v_naz:anim 
 повернемось повернутися   	verb:rev:futr:p:1:perf 
 сюди	  	сюди 		  	adv
 ще	  		ще 		  		adv 
 не	  		не  		  	part
 раз	  		раз 		  	noun:m:v_zna
-.	  		- 		  		SENT_END 
-							PARA_END  
 Одне	  	один 		 	numr:n:v_naz 
 з	  		з    		  	prep:rv_rod
 кращих	  	хороший 	  	adj:p:v_rod:compr
 місць	  	місце 	  		noun:p:v_rod 
-,	  		- 		  		- 
 яке	  		який 		  	pron:int:rel:def
 ми	 	 	ми 		  		pron:pers:p:1:v_naz:anim 
 зустріли  	зустріти  	  	verb:past:p:perf 
@@ -533,14 +423,11 @@
 перебування перебування  	noun:n:v_rod 
 у	  		у 		  		prep:rv_mis 
 Львові	  	Львів 	  		noun:m:v_mis 
-!	  		- 		  		SENT_END
 Дуже	  	дуже 		  	adv 
 затишний  	затишний 	  	adj:m:v_naz:compb 
 інтер'єр  	інтер'єр 	  	noun:m:v_naz 
-,	  		- 		  		-
 привітний  	привітний 	  	adj:m:v_naz:compb 
 персонал   	персонал 	  	noun:m:v_naz 
-,	  		- 		  		-
 надзвичайно надзвичайно   	adv
 смачні	  	смачний 	  	adj:p:v_naz:compb 
 страви	  	страва 	  		noun:p:v_naz
@@ -548,70 +435,56 @@
 чудова	  	чудовий 	  	adj:f:v_naz:compb 
 музика	  	музика 	  		noun:f:v_naz 
 на	  		на 		  		prep:rv_zna
-додачу	  	додача 	  		noun:f:v_zna 
-!	  		- 		  		SENT_END 
+додачу	  	додача 	  		noun:f:v_zna
 Меню	  	меню 		  	noun:n:v_naz:nv 
 побачень  	побачення 	  	noun:p:v_rod
 теж	  		теж 		  	adv
 дуже	  	дуже 		  	adv
 порадувало  порадувати    	verb:past:n:perf 
-!	  		- 		  		SENT_END 
-							PARA_END 
 Замовили   	замовити 	  	verb:past:p:perf 
-равіолі	   	- 		  		- (равіолі равіолі noun:p:v_rod)
+равіолі 	равіолі 		noun:p:v_rod
 з	  		з 		  		prep:rv_oru
-пармською  	- 		  		- (пармський пармський anj:s:rv_rod)
+пармською  	пармський 		anj:s:rv_rod
 шинкою	  	шинка 	  		noun:f:v_oru 
-,	  		- 		  		-
 принесли  	принести 	  	verb:past:p:perf 
 якісь	   	якийсь 	  		pron:ind 
 зовсім	  	зовсім 	  		adv 
 інші	  	інший		  	adj:p:v_naz
-,	  		- 		  		-
 ще	 		ще 		  		adv
 й	 	 	й 		  		conj:coord 
 недоварені 	недоварений    	adj:p:v_naz 
 і	  		і		 	 	conj:coord 
 не	  		не 		  		part 
-смачні	  	смачний 	  	adj:p:v_naz:compb 
-.	  		- 		  		SENT_END 
+смачні	  	смачний 	  	adj:p:v_naz:compb
 Замовили  	замовити 	  	verb:past:p:perf
 настоянку 	настоянка 	  	noun:f:v_zna 
 полуничну  	полуничний 	  	adj:f:v_zna 
-,	  		- 		  		-
 вишневу	  	вишневий 	  	adj:f:v_zna 
 і	  		і 		  		conj:coord 
-чорничну  	чорничний 	  	adj:f:v_zna 
--	  		- 		  		-
+чорничну  	чорничний 	  	adj:f:v_zna
 принесли  	принести 	  	verb:past:p:perf 
 на	  		на 		  		prep:rv_mis 
 свій	  	свій 		  	pron:pos 
 вибір	  	вибір 	  		noun:m:v_mis 
 горіхову  	горіховий 	  	adj:f:v_zna 
-,	  		- 		  		- 
 не	  		не 		  		part
 узгодивши  	узгодити 	  	advp:perf 
 попередньо 	попередньо 	  	adv
 з         	з 		  		prep:rv_oru
 нами	  	ми 		  		pron:pers:p:1:v_oru:anim 
-.	  		- 		  		SENT_END 
 По	  		по		  		prep:rv_mis
 меню	  	меню 		  	noun:n:v_mis:nv
 побачень  	побачення 	  	noun:p:v_rod 
 піца	  	піца		  	noun:f:v_naz 
 з	  		з 		 		prep:rv_oru
 помідорами 	помідор 	  	noun:p:v_oru 
-черрі	  	- 		  		- 
--	  		- 		  		-
 принесли  	принести 	  	verb:past:p:perf 
 дві	  		два 		  	numr:f:v_zna
 піци	  	піца 		  	noun:p:v_zna
 тільки	  	тільки 	  		adv
 з	  		з 		  		prep:rv_oru
 сиром	  	сир		  		noun:m:v_oru 
-(	  		- 		  		-
 причому	  	причому 	  	conj:subord  
-,	  		- 		 	 	- 
 не	  		не		  		part 
 першої	  	перший	  		adj:f:v_rod 
 свіжості  	свіжість 	  	noun:f:v_rod
@@ -619,35 +492,27 @@
 і	  		і 		  		conj:coord 
 холодна	  	холодний	  	adj:f:v_naz:compb 
 піца	  	піца 		  	noun:f:v_naz 
-)	  		- 		  		- 
-.	  		- 	 	  		SENT_END 
 Поцікавились поцікавитися 	verb:rev:past:p:perf 
-,	  		- 		  		- 
 чому	  	чому 		  	adv
 немає	  	немає 	  		predic 
 помідорів  	помідор 	  	noun:p:v_rod 
--	  		- 		  		-
 офіціант  	офіціант 	  	noun:m:v_naz:anim
 збрехав	  	збрехати 	  	verb:past:m:perf 
-,	  		- 		  		-
 що	  		що 		  		conj:subord 
 їх	  		вони 		  	pron:pers:p:3:v_rod:anim
 там	  		там 		  	adv
 бути	  	бути 		  	verb:inf:imperf 
 не	  		не 		  		part
 мало	  	мало 		  	adv:compb 
-.	  		- 		  		SENT_END 
 І         	і 		  		conj:coord 
 кому	  	хто 		  	pron:int:rel:m:v_dav:anim 
 яке	  		який 		  	adj:n:v_naz
 діло	  	діло 		  	noun:n:v_naz 
-,	  		- 		  		-
 що	  		що 		  		conj:subord 
 в	  		в 		  		prep:rv_mis
 меню	  	меню 		  	noun:n:v_dav:nv 
 вони	  	вони 		  	pron:pers:p:3:v_naz:anim 
-є	  		бути 		  	verb:pres:p:3:imperf  
-.	  		- 		  		SENT_END 
+є	  		бути 		  	verb:pres:p:3:imperf 
 В	  		в 		  		prep:rv_zna
 мене	  	я 		  		pron:pers:s:1:v_zna:anim
 відчуття  	відчуття 	  	noun:n:v_naz 
@@ -657,8 +522,6 @@
 обдурили  	обдурити 	  	verb:past:p:perf 
 вашою	  	ваш 		  	adj:f:v_oru:&pron:pos 
 рекламою  	реклама 	  	noun:f:v_oru 
-							SENT_END 
-							PARA_END
 Нікому	  	ніхто 	  		pron:neg:v_dav:anim 
 не	  		не 		  		part 
 рекомендую 	рекомендувати  	verb:pres:s:1:imperf 
@@ -666,56 +529,38 @@
 на	  		на 		  		prep:rv_zna:rv_mis
 Андріївські андріївський  	adj:p:v_zna
 вечорниці  	вечорниці 	  	noun:p:v_zna 
--	  		- 		  		- 
-шараварщина - 		  		- (шароварщина шароварщина noun:v_naz)
-.	  		- 		  		SENT_END 
+шараварщина шароварщина 	noun:v_naz
 Була	  	бути	  		verb:past:f:imperf 
 на	  		на 		  		prep:rv_zna:rv_mis 
 вінкоплетинах вінкоплетини 	noun:p:v_mis 
--	  		-	   		  	-
 розчарувалась розчаруватися verb:rev:past:f:perf 
 в	  		в 		  		prep:rv_zna:rv_mis:rv_rod:v-u 
-людях	  	люди 		  	noun:p:v_mis:anim 
-.	  		- 		  		SENT_END 
+людях	  	люди 		  	noun:p:v_mis:anim  
 Як	  		як 		  		adv
 можна	  	можна 	  		predic 
 настільки 	настільки 	  	adv
 не	  		не 		  		part
 орієнтуватися орієнтуватися verb:rev:inf:imperf 
-,	  		- 		  		-
 і	  		і 		  		conj:coord 
 навіть	  	навіть 	  		part 
 полінуватися полінуватися 	verb:rev:inf:perf 
 відкрити  	відкрити 	  	verb:inf:perf 
-інтернет  	інтернет 	  	noun:m:v_zna 
-.	  		- 		  		SENT_END 
-							PARA_END  
+інтернет  	інтернет 	  	noun:m:v_zna
 Була	  	бути 	  		verb:past:f:imperf
 вчора	  	вчора 	  		adv:v-u
-,	  		- 		 	 	-
 мені	  	я 		  		pron:pers:s:1:v_dav:anim
 дуже	  	дуже 		  	adv 
 сподобалося сподобатися	  	verb:rev:past:n:perf 
-)	  		- 		  		-
-)	  		- 		  		-
-)	  		- 		  		-
 і	  		і 		  		conj:coord 
 персонал  	персонал 	  	noun:m:v_naz 
 привітний 	привітний 	  	adj:m:v_naz:compb 
-,	  		- 		  		-
 посміхається посміхатися  	verb:rev:pres:s:3:imperf 
-)	  		- 		  		- 
-)	  		- 		  		- 
-)	  		- 		  		- 
 Молодці	  	молодець 	  	noun:p:v_kly:anim 
-.	  		- 		  		SENT_END 
-							PARA_END 
 Дуже	  	дуже 		  	adv
 романтична 	романтичний    	adj:f:v_naz:compb 
 і	  		і 		  		conj:coord 
 затишна	  	затишний 	  	adj:f:v_naz:compb 
 атмосфера 	атмосфера 	  	noun:f:v_naz 
-.	  		- 		  		SENT_END 
 Посидіти  	посидіти 	  	verb:inf:perf 
 можна	  	можна 	  		predic
 і	  		і 		  		conj:coord 
@@ -725,140 +570,90 @@
 з	  		з 		  		prep:rv_oru
 коханою	  	кохана 	  		noun:f:v_oru:anim
 людиною	  	людина 	  		noun:f:v_oru:anim 
-.	  		- 		  		SENT_END 
 Приємна	  	приємний 	  	adj:f:v_naz:compb 
 музика	  	музика 	  		noun:f:v_naz 
-,	  		- 		  		-
 свічки	  	свічка 	  		noun:p:v_naz 
-,	  		- 		  		-
 романтика 	романтика 	  	noun:f:v_naz 
-...	  		- 		  		SENT_END 
-							PARA_END 
 Були	  	бути 		  	verb:past:p:imperf 
 один	  	один 		  	numr:m:v_zna 
 раз	  		раз 		  	noun:m:v_zna  
 з	  		з 		  		prep:rv_oru
 друзями	  	друзі		  	noun:p:v_oru:anim 
-.	  		- 		  		SENT_END 
 Сподобалось сподобатися   	verb:rev:past:n:perf 
-!	  		- 		  		SENT_END 
 Дуже	  	дуже		  	adv 
 затишна	  	затишний 	  	adj:f:v_naz:compb 
-,	  		- 		  		-
 домашня	  	домашній 	  	adj:f:v_naz 
-,	  		- 		  		-
 світла	  	світлий 	  	adj:f:v_naz:compb 
-атмосфера 	атмосфера	  	noun:f:v_naz 
-.	  		- 		  		SENT_END 
+атмосфера 	атмосфера	  	noun:f:v_naz
 Меню	  	меню 		  	noun:n:v_naz:nv 
 не	  		не 		  		part 
 особливо  	особливо 	  	adv
 встигла	  	встигнути 	  	verb:past:f:perf:v-u
 оцінити	  	оцінити 	  	verb:inf:perf 
-,	  		- 		  		-
 але	  		але		  		conj:coord 
 замовлені 	замовлений 	  	adjp:pasv:past:p:v_naz 
-турамісу  	- 		  		-(тірамісу тільки noun:n:v_naz  )
+турамісу  	тірамісу  		noun:n:v_naz 
 і	  		і 		 	 	conj:coord 
-мохіто	  	- 		  		-(мохіто мохіто noun:n:v_naz )
+мохіто	  	мохіто 			noun:n:v_naz 
 були	  	бути 		  	verb:past:p:imperf 
 дуже	  	дуже 		  	adv 
 смачними  	смачний 	  	adj:p:v_oru:compb 
-!	  		- 		  		SENT_END 
-							PARA_END 
 Дуже	  	дуже 		  	adv
 гарний	  	гарний 	  		adj:m:v_naz:compb 
 заклад	  	заклад 	  		noun:m:v_naz 
-,	  		- 		 	 	-
 приємний  	приємний 	  	adj:m:v_naz:compb 
-інтер	  	- 		  		-
-"	  		- 		  		-
-єр	  		- 		  		- (інтер'єр інтер'єр noun:m:v_naz )
-,	  		- 		  		-
+інтер'єр 	інтер'єр 		noun:m:v_naz
 дуже-дуже  	дуже-дуже	  	adv
-смачно	  	смачно 	  		adv:compb
-!	  		- 		  		-
-!	  		- 		  		-
-!	  		- 		  		SENT_END 
-							PARA_END
-Не	  		не 		  		part 
 смачно	  	смачно 	  		adv:compb 
-.	  		- 		  		SENT_END 
+Не	  		не 		  		part 
+смачно	  	смачно 	  		adv:compb  
 Чай	  		чай 		  	noun:m:v_naz 
-,	  		- 		  		- 
 ніби	  	ніби 		  	conj:subord 
 з	  		з 		  		prep:rv_zna
 сіна	  	сіно 		  	noun:p:v_zna 
-.	  		- 		  		SENT_END 
 Помідори  	помідор 	  	noun:p:v_naz 
 в	  		в 		  		prep:rv_mis
-салатах	  	салат 	  		noun:p:v_mis 	
-зооовсім  	- 		  		- (зовсім зовсім adv) 
+салатах	  	салат 	  		noun:p:v_mis 
+зовсім 		зовсім 			adv
 не	  		не 		  		part 
 першої	  	перший 	  		adj:f:v_rod 
 свіжості  	свіжість 	  	noun:f:v_rod
-.	  		- 		  		SENT_END 
-							PARA_END 
 Надзвичайно надзвичайно   	adv 
 затишний  	затишний 	  	adj:m:v_naz:compb 
-ресторан  	ресторан 	  	noun:m:v_naz 
-!	  		- 		  		SENT_END 
-Заходи	  	захід 	  		noun:p:v_naz 
-							noun:p:v_zna 
-ла	  		- 		  		-(заходила заходила verb:past:f:perf)
+ресторан  	ресторан 	  	noun:m:v_naz
+заходила 	заходила 		verb:past:f:perf
 туди	  	туди 		  	adv:&pron:dem 
 з	  		з 		  		prep:rv_oru
-друзями	  	друзі 	  		noun:p:v_oru:anim 
-!	  		- 		  		SENT_END 
-Офіціан	  	- 		  		-
-ти	  		ти 		  		pron:pers:s:2:v_kly:anim 
-							pron:pers:s:2:v_naz:anim(офіціанти офіціанти noun:p:v_naz)
+друзями	  	друзі 	  		noun:p:v_oru:anim  
+офіціанти 	офіціанти 		noun:p:v_naz
 привітні  	привітний 	  	adj:p:v_naz:compb 
-,	  		- 		  		-
 знають	  	знати		  	verb:pres:p:3:imperf 
 свою	  	свій 		  	adj:f:v_zna:&pron:pos 
 справу	  	справа 	  		noun:f:v_zna 
-,	  		- 		  		-
 меню	  	меню 		  	noun:n:v_naz:nv
 оригінальне оригінальний  	adj:n:v_naz:compb 
-,	  		- 		  		-
 надзвичайно надзвичайно   	adv
 сподобались сподобатися   	verb:rev:past:p:perf 
 суші	  	суша 		  	noun:p:v_zna  
-,	  		- 		 	 	-
 загалом	  	загалом 	  	adv
 приємна	  	приємний 	  	adj:f:v_naz:compb 
 атмосфера  	атмосфера 	  	noun:f:v_naz 
-,	  		- 		  		-
 чудова	  	чудовий 	  	adj:f:v_naz:compb 
-музика	  	музика 	  		noun:f:v_naz 
-!	  		- 		  		SENT_END  
-Процвіта  	- 		  		-
-ння	  		- 		  		-(процвітання процвітання noun:n:v_zna)
-Вам	  		ви 		 		 pron:pers:p:2:v_dav:anim
-Del	  		- 		  		-
-Pesto	  	-		  		-(Del Pesto noun:proper)
-!	  		- 		  		-
-!	  		- 		  		-
-!	  		- 		  		-
-!	  		-		  		-
-!	  		- 		  		SENT_END 
-							PARA_END 
+музика	  	музика 	  		noun:f:v_naz
+процвітання процвітання 	noun:n:v_zna
+Вам	  		ви 		 		pron:pers:p:2:v_dav:anim
+Del Pesto 	Del Pesto 		noun:proper
 Святкувала 	святкувати 	  	verb:past:f:imperf 
 день	  	день 		  	noun:m:v_zna 
 народження 	народження 	  	noun:n:v_zna
 в	  		в 		  		prep:rv_mis:v-u 
-дель	  	дель 		  	unknown 
-песто	  	- 		  		-(Del Pesto noun:proper) 
-,	  		- 		  		- 
+Del Pesto 	Del Pesto		noun:proper 
 дуже	  	дуже 		  	adv
 сподобалось сподобатися   	verb:rev:past:n:perf 
-,	  		- 		  		- 
 все	  		весь 		  	pron:dem
 було	  	бути 		  	verb:past:n:imperf 
 дуже	  	дуже 		  	adv 
 затишно	  	затишно 	  	adv:compb 
-.	  		- 		  		SENT_END 
 Офіціанти 	офіціант 	  	noun:p:v_naz:anim 
 дуже	  	дуже 		  	adv 
 привітні  	привітний 	  	adj:p:v_naz:compb 
@@ -866,19 +661,16 @@ Pesto	  	-		  		-(Del Pesto noun:proper)
 й	  		й 		  		conj:coord 
 адміністратори адміністратор noun:p:v_naz:anim
 теж	  		теж 		  	adv 
-.	  		- 		  		SENT_END 
 Піца	  	піца 		  	noun:f:v_naz 
 теж	  		теж 		  	adv 
 дуже-дуже  	дуже-дуже	  	adv 
 смачна	  	смачний 	  	adj:f:v_naz:compb 
-,	  		- 		  		- 
 ще	  		ще 		  		adv 
 дуже	  	дуже 		  	adv  
 смачні	  	смачний 	  	adj:p:v_naz:compb 
-роли	  	- 		  		- (рол рол noun:p:v_naz)
+роли	  	рол 			noun:p:v_naz
 з	  		з 		  		prep:rv_oru 
-фетою	  	- 		  		- (фета фета noun:f:v_naz)
-,	  		-		  		-
+фетою	  	фета 			noun:f:v_naz
 та	  		та 		  		conj:coord 
 й	  		й 		  		conj:coord 
 в	  		в 		 		prep:rv_mis:v-u 
@@ -889,7 +681,6 @@ Pesto	  	-		  		-(Del Pesto noun:proper)
 було	  	бути 		  	verb:past:n:imperf 
 дуже	  	дуже 		  	adv
 смачне	  	смачний 	  	adj:n:v_naz:compb 
-,	  		- 		  		-
 всі	  		весь 		  	ron:dem 
 і	  		і 		  		conj:coord 
 я	  		я		  		pron:pers:s:1:v_naz:anim 
@@ -899,33 +690,14 @@ Pesto	  	-		  		-(Del Pesto noun:proper)
 залишились 	залишитися     	verb:rev:past:p:perf 
 дуже	  	дуже 		  	adv 
 задоволеними задоволений  	adj:p:v_oru:compb
-,	  		- 		  		- 
-дя	  		- 		  		-
-кую	  		кувати 	  		verb:pres:s:1:imperf (дякую дякую verb:pres:s)
-Дель	  	дель 		  	unknown 
-Песто	  	- 		  		- (Del Pesto noun:proper)
-)	  		- 		  		-
-*	  		- 		  		SENT_END 
-							PARA_END
+дякую 		дякую 			verb:pres:s
+Del Pesto 	Del Pesto		noun:proper
 Дуже	  	дуже 		  	adv 
 любимо	  	любити 	  		verb:pres:p:1:imperf 
-пі	  		пі 		  		noun:n:v_dav:nv:np 
-							noun:n:v_mis:nv:np 
-							noun:n:v_naz:nv:np 
-							noun:n:v_oru:nv:np 
-							noun:n:v_rod:nv:np 
-							noun:n:v_zna:nv:np 
-церію	  	церій 	  		noun:m:v_dav 
-							noun:m:v_mis 
-							noun:m:v_rod (піцерію піцерія noun:f:v_zna)
-Да	  		- 		  		-
-Вінці	  	вінце 	  		noun:n:v_mis 	  
-			вінець 	  		noun:m:v_mis 
-							noun:p:v_naz 
-							noun:p:v_zna (Да Вінчі noun:proper)
+піцерію 	піцерія 		noun:f:v_zna
+Да Вінчі 	Да Вінчі		noun:proper
 біля	  	біля 		  	adv 
 оперного  	оперний 	  	adj:m:v_rod 
-,	  		- 		  		- 
 Мені	  	я 		  		pron:pers:s:1:v_dav:anim
 особисто  	особисто 	  	adv:compb 
 та     	 	та 		  		conj:coord 
@@ -934,11 +706,8 @@ Pesto	  	-		  		-(Del Pesto noun:proper)
 там	  		там 		  	adv
 завжди	  	завжди 	  		adv
 подобалося 	подобатися     	verb:rev:past:n:imperf 
-,	  		- 		  		-
 затишно	  	затишно 	  	adv:compb 
-,	  		- 		  		-
 смачно	  	смачно 	  		adv:compb 
-,	  		- 		  		-
 але	  		але 		  	conj:coord 
 наш	  		наш 		  	adj:m:v_naz
 вчорашній 	вчорашній 	  	adj:m:v_naz:v-u
@@ -948,35 +717,26 @@ Pesto	  	-		  		-(Del Pesto noun:proper)
 думку	  	думка 	  		noun:f:v_zna 
 на	  		на 		  		prep:rv_zna
 протилежну 	протилежний    	adj:f:v_zna 
-зовсім	  	зовсім 	  		adv 
-.	  		- 		  		SENT_END 
+зовсім	  	зовсім 	  		adv
 Коротко	  	коротко 	  	adv:compb 
 розповім  	розповісти 	  	verb:futr:s:1:perf 
-:	  		- 		  		- 
 Ми	  		ми 		  		pron:pers:p:1:v_naz:anim 
 прийшли	  	прийти 	  		verb:past:p:perf 
 12.12.2014 	12.12.2014 	  	date 
-у	  		у 		  		prep:rv_zna:rv_mis:rv_rod:v-u 	
-Вечері	  	вечеря 	  		noun:f:v_dav 
-							noun:f:v_mis 
-							noun:f:v_rod 
-							noun:p:v_naz 
-							noun:p:v_zna (увечері увечері adv)
+увечері 	увечері 		adv
 поїсти	  	поїсти  	  	verb:inf:perf 
 смачну	  	смачний 	  	adj:f:v_zna:compb
 піцу	  	піца 		  	noun:f:v_zna 
 і	  		і 		  		conj:coord 
-хотіли	  	хотіти 	  		verb:unknown (хотіли хотіти verb:past:p:perf)
+хотіли 		хотіти 			verb:past:p:perf
 замовити  	замовити 	  	verb:inf:perf 
 стіл	  	стіл 		  	noun:m:v_naz 
 на	  		на 		  		prep:v_rod 
-1-січня	  	- 		  		- (1 січня січень noun:v_rod)
-,	  		- 		 	 	-
+1 січня 	січень 			noun:v_rod
 залишити  	залишити 	  	verb:inf:perf 
 завдаток  	завдаток 	  	noun:m:v_zna 
 як	  		як 		  		adv
 належно	  	належно 	  	adv 
-,	  		- 		  		-
 Нам	  		ми 		  		pron:pers:p:1:v_dav:anim 
 офіціантка 	офіціантка 	  	noun:f:v_naz:anim 
 сказала	  	сказати 	  	verb:past:f:perf 
@@ -984,7 +744,6 @@ Pesto	  	-		  		-(Del Pesto noun:proper)
 Адміністратор адміністратор noun:m:v_naz:anim 
 в	  		в 		  		prep:rv_mis
 офісі	  	офіс 		  	noun:m:v_mis 
-,	  		- 		  		-
 і	  		і 		  		conj:coord 
 завдатки  	завдаток 	  	noun:p:v_naz 
 на	  		на 		  		prep:rv_zna 
@@ -992,18 +751,14 @@ Pesto	  	-		  		-(Del Pesto noun:proper)
 рік	  		рік 		  	noun:m:v_zna 
 приймаються прийматися    	verb:rev:pres:p:3:imperf 
 з	  		з 		  		prep:rv_zna
-15-грудня  	-		  		- (15 грудня грудень noun:m:v_zna)
-(	  		- 		  		-
-3-дні	  	- 		  		-(3 дні день noun:p:v_zna)
+15 грудня 	грудень 		noun:m:v_zna
+3 дні 		день 			noun:p:v_zna
 ніби	  	ніби 		  	conj:subord 
 щось	  	щось 		  	pron:ind:n:v_zna 
 вирішать  	вирішити 	  	verb:futr:p:3:perf 
-)	  		- 		  		- 
-,	  		- 		  		- 
 мене	  	я 		  		pron:pers:s:1:v_rod:anim 
 з	  		з		  		prep:rv_oru 
 тим	  		той 		  	pron:dem 
-...	  		- 		  		SENT_END 
 На	  		на		  		prep:rv_mis 
 той	  		той 		  	pron:dem 
 час	  		час 		  	noun:m:v_zna 
@@ -1016,33 +771,24 @@ Pesto	  	-		  		-(Del Pesto noun:proper)
 там	  		там 		  	adv
 дуже	  	дуже		  	adv  
 багато	  	багато 	  		adv 
-людей	  	люди 		  	noun:p:v_zna:anim  
-,	  		- 		  		- 
+людей	  	люди 		  	noun:p:v_zna:anim 
 Ми	  		ми 		  		pron:pers:p:1:v_naz:anim 
 очікували  	очікувати 	  	verb:past:p:imperf 
 на	  		на 		  		prep:rv_zna
 піцу	  	піца 		  	noun:f:v_zna 
-1-годину  	- 		  		- (1 годину година noun:f:v_zna)
-,	  		- 		  		- 
+1 годину 	година 			noun:f:v_zna
 нам	  		ми 		  		pron:pers:p:1:v_dav:anim 
 принесли  	принести 	  	verb:past:p:perf 
 щось	  	щось 		  	pron:ind:n:v_zna
-,	  		- 		  		-
 що	        що 				conj:subord
-піцею	  	- 		  		- (піцею піца noun:f:v_oru) 
+піцею 		піца 			noun:f:v_oru 
 назвати	  	назвати 	  	verb:inf:perf 
 дуже	  	дуже		  	adv  
 важко	  	важко 	  		adv:compb 
-,	  		- 		  		-
 сира	  	сирий 	  		adj:f:v_naz
-,	  		- 		  		-
-безвкусна  	- 		  		-
-,	  		-		  		-
 тісто	  	тісто 	  		noun:n:v_naz 
 прісне	  	прісний 	  	adj:n:v_naz 
-,	  		- 		  		-
 ніяке	  	ніякий 	  		adj:n:v_naz
-,	  		- 		  		-
 інгредієнтів інгредієнт  	noun:p:v_rod 
 навіть	  	навіть 	 		part 
 половини  	половина 	 	noun:f:v_rod 
@@ -1051,7 +797,6 @@ Pesto	  	-		  		-(Del Pesto noun:proper)
 на	  		на 		 		prep:rv_zna:rv_mis 
 тій	  		той 		  	adj:f:v_dav
 піці	  	піца		  	noun:f:v_dav 
-,	  		- 		 	 	-
 Ми	  		ми 		  		pron:pers:p:1:v_naz:anim
 були	  	бути 		  	verb:past:p:imperf 
 дуже	  	дуже		  	adv  
@@ -1064,43 +809,31 @@ Pesto	  	-		  		-(Del Pesto noun:proper)
 туди	  	туди 		  	adv
 на	  		на 		  		prep:rv_zna:rv_mis
 піцу	  	піца 		  	noun:f:v_zna 
-,	  		-	 	  		- 
 знаємо	  	знати 	  		verb:pres:p:1:imperf 
 як	       	як				adv
 вона	  	вона 		 	pron:pers:f:3:v_naz:anim 
 має	  		мати		  	verb:pres:s:3:imperf  
-буди	  	будити	  		verb:impr:s:2:imperf  
-			буда 		  	noun:f:v_rod 
-							noun:p:v_naz 
-							noun:p:v_zna (бути бути verb:pres:s::imperf)
-.	 		- 		  		SENT_END 
+бути 		бути 			verb:pres:s::imperf
 Ви	  		ви 		  		pron:pers:p:2:v_naz:anim
 відмовилися відмовитися   	verb:rev:past:p:perf 
 від	  		від 		 	prep:rv_rod 
 тієї	  	той 			pron:dem 
 піци	  	піца 		  	noun:f:v_rod 
-,	  		- 		  		- 
 і	  		і 		  		conj:coord 
 попросили 	попросити 	  	verb:past:p:perf 
 щоб	  		щоб 		  	conj:subord 
 нам	  		ми 		  		pron:pers:p:1:v_dav:anim
 зробили	  	зробити 	  	verb:past:p:perf 
 нормальну  	нормальний 	  	adj:f:v_zna 
-,	  		- 		  		-
 і	  		і 		  		conj:coord 
 тут	  		тут 		  	adv
 почалося  	початися	  	verb:rev:past:n:perf 
 на	  		на 		  		prep:rv_zna:rv_mis (нас ми pron:dem)
 просто	  	просто 	  		adv
-нахамили  	- 		  		- 
-,	  		- 		  		-
--коментую  	- 		  		-(- коментую коментувати verb:pres:s:ind)
+коментую 	коментувати 	verb:pres:s:ind
 слова	  	слово 	  		noun:p:v_zna
--	  		- 		  		- 
-(	  		- 		  		- 
 Ви	  		ви 		  		pron:pers:p:2:v_naz:anim
 думаєте	  	думати 	  		verb:pres:p:2:imperf 
-,	  		- 		  		- 
 якщо	  	якщо 		  	conj:subord 
 замовите  	замовити	  	verb:futr:p:2:perf 
 іншу	  	інший 	  		pron:def 
@@ -1108,41 +841,32 @@ Pesto	  	-		  		-(Del Pesto noun:proper)
 вона	  	вона 		  	pron:pers:f:3:v_naz:anim
 будить	  	будити 	  		verb:pres:s:3:imperf 
 смачніша  	смачний 	  	adj:f:v_naz:compr 
-)	  		- 		  		-
-.	  		- 		  		SENT_END 
 Почувши	  	почути 	  		advp:perf 
 таке	  	такий 	  		pron:def 
 ми	  		ми 		  		pron:pers:p:1:v_naz:anim 
 в	  		в 		  		prep:rv_zna:rv_mis:rv_rod:v-u 
-пали	  	палити 	  		verb:impr:s:2:imperf 
-			пасти 	  		verb:past:p:imperf (впали впасти verb:p:p:perf)
+впали 		впасти 			verb:p:p:perf
 просто	  	просто 	  		adv:compb 
 в	  		в 		  		prep:rv_zna 
 штопор	  	штопор 	  		noun:m:v_zna 
-,	  		- 		  		-
 при	  		при		  		prep:rv_mis  
 просьбі	  	просьба 	  	noun:f:v_mis 
 покликати 	покликати 	  	verb:inf:imperf 
 Адміністратора адміністратор noun:m:v_zna:anim 
-,	  		- 		  		-
 нам	  		ми 		  		pron:pers:p:1:v_dav:anim 
 сказали	  	сказати 	  	verb:past:p:perf 
 що	  		що 		  		conj:subord 
 його	  	він 		  	pron:pers:m:3:v_rod:anim  
 нема	  	нема 		  	predic 
-,	  		- 		  		- 
 спочатку  	спочатку 	  	adv 
 в	  		в 		  		prep:rv_mis:v-u 
 офісі	  	офіс 		  	noun:m:v_mis 
-,	  		- 		  		- 
 потім	  	потім 	  		adv
 вже	  		вже 		  	adv:v-u 
 нема	  	нема 	  	  	predic 
-.	  		- 		 		SENT_END  
 Ми	  		ми 		  		pron:pers:p:1:v_naz:anim 
 вийшли	  	вийти 	  		verb:past:p:perf:perf 
 не	  		не 		  		part 
-тещо	  	- 		  		-(те що) 
 не	  		не 		  		part 
 задоволені 	задоволений    	adj:p:v_naz:compb
 а	  		а 		  		conj:coord 
@@ -1153,12 +877,9 @@ Pesto	  	-		  		-(Del Pesto noun:proper)
 персоналу  	персонал 	  	noun:m:v_rod 
 в	  		в 		  		prep:rv_zna:rv_mis:rv_rod:v-u 
 загалом	  	загалом	  		adv  
-,	  		- 		  		-
 ми	  		ми 		  		pron:pers:p:1:v_naz:anim 
 були	  	бути 		  	verb:past:p:imperf 
 розчаровані розчарований  	adjp:pasv:past:p:v_naz 
-.	  		- 	 	  		-
-,	  		- 		  		-
 а	  		а 		  		conj:coord 
 при	  		при		  		prep:rv_mis  
 виході	  	вихід 	  		noun:m:v_mis 
@@ -1169,34 +890,23 @@ Pesto	  	-		  		-(Del Pesto noun:proper)
 сідає	  	сідати 	  		verb:pres:s:3:imperf 
 а	  		а 		  		conj:coord (в в prep:rv_mis)
 таксі	  	таксі		  	noun:n:v_mis:nv
-.	  		- 		  		- 
-,	  		- 		  		- 
 так	  		так 		  	adv
 це	  		цей 		  	pron:dem 
 нас	  		ми 		  		pron:pers:p:1:v_zna:anim
 взагалі	  	взагалі 	  	adv:v-u 
-вбило	  	вбити 	  		verb:past:n:perf:v-u 
-...	  		- 		  		SENT_END 
+вбило	  	вбити 	  		verb:past:n:perf:v-u
 Прошу	  	просити 	  	verb:pres:s:1:imperf 
 дирекцію  	дирекція 	  	noun:f:v_zna 
-Да Вінчі	да Вінчі 	  	<noun:m:nv> 
+Да Вінчі	да Вінчі 	  	noun:m:proper
 прийняти  	прийняти 	  	verb:inf:perf 
 міри	  	міра		  	noun:p:v_zna
-,	  		- 		  		- 
 дійсно	  	дійсно 	  		adv 
 дуже	  	дуже		  	adv 
 шкода	  	шкода 	  		noun:f:v_naz 
 закладу	  	заклад	  		noun:m:v_dav 
-.	  		-		   		SENT_END 
-amareta@ukr - 		  		-
-.	  		- 		  		-
-net	  		- 		 		-
 прошу	  	просити 	  	verb:pres:s:1:imperf 
 відписати 	відписати 	  	verb:inf:perf 
-.	  		- 		  		SENT_END 
 Дякую	  	дякувати 	  	verb:pres:s:1:imperf 
-							SENT_END 
-							PARA_END 
 На	  		на		  		prep:rv_mis 
 цьому	  	цей 		  	pron:dem 
 тижні	  	тиждень 	  	noun:m:v_mis 
@@ -1204,17 +914,12 @@ net	  		- 		 		-
 у	  		у 		  		prep:rv_mis:v-u 
 вашому	  	ваш 		  	pron:pos 
 ресторанчику ресторанчик  	noun:m:v_mis
-.	  		- 		  		SENT_END 
 Що	  		що 		  		conj:subord 
 я	  		я		  		pron:pers:s:1:v_naz:anim
 можу	  	могти 	  		verb:unknown 
 сказати	  	сказати 	  	verb:inf:perf 
--	  		- 		  		- 
 просто	  	просто 	  		adv:compb 
 СУПЕР	  	супер 	  		noun:m:v_naz 
-!	  		- 		  		- 
-!	  		-		  		- 
-!	  		- 		  		SENT_END 
 Красиве	  	красивий 	  	adj:n:v_naz:compb 
 і	  		і 		  		conj:coord 
 затишне	  	затишний 	  	adj:n:v_naz:compb 
@@ -1225,7 +930,6 @@ net	  		- 		 		-
 і	  		і 		  		conj:coord 
 неймовірною неймовірний   	adj:f:v_oru:compb 
 атмосферою 	атмосфера 	  	noun:f:v_oru 
-.	  		- 		  		SENT_END 
 Обслуговування обслуговування noun:n:v_naz 
 на	  		на 		  		prep:rv_mis  
 рівні	  	рівень	  		noun:f:v_mis
@@ -1237,30 +941,22 @@ net	  		- 		 		-
 повертатися повертатися   	verb:rev:inf:imperf 
 знову	  	знову 	  		adv 
 і	  		і 		  		conj:coord 
-знову	  	знову 	  		adv 
-.	  		- 		  		SENT_END 
+знову	  	знову 	  		adv  
 Ми	  		ми 		  		pron:pers:p:1:v_naz:anim
 тут	  		тут 		  	adv
 вечеряли  	вечеряти 	  	verb:past:p:imperf 
--	  		- 		  		- 
 все	  		все		  		adv
 приготували приготувати  	verb:past:p:perf 
 дуже	  	дуже		  	adv  
 смачно	  	смачно 	  		adv:compb 
-!	  		- 		  		SENT_END 
 Наступного наступний 	  	adj:m:v_rod 
 дня	  		день 		  	noun:m:v_rod 
 завітали  	завітати 	  	verb:past:p:perf 
 на	  		на 		  		prep:rv_zna
 бізнес-ланч бізнес-ланч   	noun:m:v_zna:bad
--	  		- 		  		- 
-цибульковий - 		  		- 
 суп-пюре  	суп-пюре 	  	noun:m:v_zna 
 це	  		цей 		  	adj:n:v_naz:&pron:dem
 щось	  	щось 		  	pron:ind:n:v_zna 
-)	  		- 		  		- 
-)	  		- 		  		- 
-)	  		- 		  		SENT_END 
 Ціни	  	ціна	  		noun:p:v_naz
 помірні	  	помірний 	  	adj:p:v_naz 
 і	  		і 		  		conj:coord 
@@ -1269,7 +965,6 @@ net	  		- 		 		-
 різноманітні різноманітний 	adj:p:v_naz:compb 
 пропозиції 	пропозиція 	  	noun:p:v_naz
 закладу	  	заклад	  		noun:m:v_rod
-.	  		- 		  		SENT_END 
 Щиро	  	щиро 		  	adv:compb 
 вам	  		ви 		  		pron:pers:p:2:v_dav:anim
 дякуємо	  	дякувати 	  	verb:pres:p:1:imperf 
@@ -1277,46 +972,31 @@ net	  		- 		 		-
 незабутні 	незабутній	  	adj:p:v_zna
 позитивні  	позитивний 	  	adj:p:v_zna:compb
 враження  	враження 	  	noun:p:v_zna 
-!	  		- 		  		SENT_END 
 Так	  		так 		  	adv
 тримати	  	тримати 	  	verb:inf:imperf 
-"	  		- 		  		- 
-Дель	  	дель 		  	unknown 
-Песто	  	- 		  		- (Del Pesto noun:proper)
-"	  		- 		  		- 
-!	  		- 		  		SENT_END 
-							PARA_END 
+Del Pesto 	Del Pesto		noun:proper
 Наш	  		наш 		  	pron:pos 
 улюблений 	улюблений 	  	adjp:pasv:past:m:v_naz:compb
 ресторанчик ресторанчик   	noun:m:v_naz 
 з	  		з 		  		prep:rv_oru 
 хлопцем	  	хлопець 	  	noun:m:v_oru:anim 
-!	  		- 		  		SENT_END 
 Меню	  	меню 		  	noun:n:v_naz:nv
-побачень-  	- 		  		- (побачень побачення noun:n:v_rod)
+побачень 	побачення 		noun:n:v_rod
 супер	  	супер 	  		noun:m:v_zna 
 ідея	  	ідея 		  	noun:f:v_naz 
-!	  		- 		  		- 
-!	  		- 		 	 	- 
-!	  		- 		  		SENT_END 
 Приходимо 	приходити 	  	verb:pres:p:1:imperf 
 туди	  	туди 		  	adv:&pron:dem 
 часто	  	часто		  	adv:compb 
 і	  		і 		  		conj:coord 
 не	  		не		  		part 
 розчаровуємось розчаровуватися verb:rev:pres:p:1:imperf
-.	  		- 		  		SENT_END 
 Процвітання процвітання	  	noun:n:v_naz 
 Вам	  		ви 		  		pron:pers:p:2:v_dav:anim
-!	  		- 		  		SENT_END 
-							PARA_END 
 Персонал  	персонал 	  	noun:m:v_naz 
 настільки  	настільки 	  	adv 
 привітний  	привітний 	  	adj:m:v_naz:compb 
-,	  		- 		  		- 
 що	  		що 		  		conj:subord 
 здається  	здаватися 	  	verb:rev:pres:s:3:imperf 
-,	  		- 		  		- 
 ніби	  	ніби 		  	conj:subord 
 ви	  		ви 		  		pron:pers:p:2:v_naz:anim
 прийшли	  	прийти 	  		verb:past:p:perf 
@@ -1324,23 +1004,20 @@ net	  		- 		 		-
 на	  		на 		  		prep:rv_zna
 обідню	  	обідній	  		adj:f:v_zna  
 перерву	  	перерва	  		noun:f:v_zna  
-,	  		- 		  		- 
 а	  		а 		  		conj:coord 
 в	  		в 		  		prep:rv_mis
 гості	  	гість 		  	noun:p:v_mis:anim 
 до	  		до 		  		prep:rv_rod 
 гостинного 	гостинний 	  	adj:m:v_rod 
 друга	  	друг		  	noun:m:v_rod:anim 
-...	  		- 		  		- 
 який	  	який 		  	pron:int:rel:def
 не	  		не 		  		part 
 розпитує  	розпитувати 	verb:pres:s:3:imperf 
 про	  		про 		  	prep:rv_zna 
 твої	  	твій 		  	pron:pos 
 проблеми  	проблема 	  	noun:p:v_zna 
-тапереживання - 	  		-(та та conj:coord 
-							переживання переживання noun:p:v_zna ) 
-,	  		- 		  		- 
+та 			та 				conj:coord 
+переживання переживання 	noun:p:v_zna 
 а	  		а 		  		conj:coord 
 ввічливою 	ввічливий 	  	adj:f:v_oru:v-u 
 посмішкою  	посмішка 	  	noun:f:v_oru 
@@ -1350,43 +1027,27 @@ net	  		- 		 		-
 на	  		на 		  		prep:rv_zna
 весь	  	весь 		  	pron:dem 
 день	  	день 		  	noun:m:v_zna 
-!	  		- 		  		SENT_END 
 А	  		а 		  		conj:coord 
-КУХАР	  	кухар 	  		noun:m:v_naz:anim 
-!	  		-		  		- 
-!	  		-		  		-
-!	  		-		  		SENT_END 
-НАЙКРАЩИЙ 	хороший 	  	adj:m:v_naz:super 
-!	  		-		  		-
-!	  		-		  		-
-!	  		-		  		SENT_END 
+КУХАР	  	кухар 	  		noun:m:v_naz:anim
+НАЙКРАЩИЙ 	хороший 	  	adj:m:v_naz:super
 Єдиним	  	єдиний	  		adj:m:v_oru 
 мінусом	 	мінус 	 	 	noun:m:v_oru 
 є	  		бути		  	verb:pres:s:3:imperf 
 місце	  	місце		  	noun:n:v_naz 
 розташування розташування 	noun:n:v_naz 
-.	  		- 		  		SENT_END 
 Я	  		я 		  		pron:pers:s:1:v_naz:anim 
 живу	  	жити 			verb:pres:s:1:imperf   
 у	  		у		  		prep:rv_mis:v-u 
 Вінниці	  	Вінниця 	  	noun:f:v_mis 
-,	  		-	  	  		- 
 а	  		а 		  		conj:coord 
-Del	  		- 		  		- 
-Pesto	  	- 		  		-(Del Pesto noun:proper)
+Del Pesto 	Del Pesto		noun:proper
 у	  		у 		  		prep:rv_mis:v-u 
 Львові	  	Львів 	  		noun:m:v_mis 
-!	  		- 		  		-
-)	  		- 		  		-
-)	  		- 		  		-
-)	  		- 		  		SENT_END 
-							PARA_END 
 Прекрасне  	прекрасний 	  	adj:n:v_naz:compb 
 місце	  	місце 	  		noun:n:v_naz 
 для	  		для 		  	prep:rv_rod 
 романтичного романтичний  	adj:m:v_rod:compb 
 вечора	  	вечір 	  		noun:m:v_rod 
-.	  		- 		  		SENT_END 
 Дуже	  	дуже		  	adv 
 смачна	  	смачний 	  	adj:f:v_naz:compb 
 італійська 	італійський 	adj:f:v_naz 
@@ -1394,31 +1055,23 @@ Pesto	  	- 		  		-(Del Pesto noun:proper)
 та	  		та 		  		conj:coord 
 приємна	  	приємний 	  	adj:f:v_naz:compb 
 атмосфера 	атмосфера 	  	noun:f:v_naz 
-.	  		- 		  		SENT_END 
-							PARA_END
 Час	  		час		  		noun:m:v_naz 			 
 від	  		від 		  	prep:rv_rod 
 часу	  	час		  		noun:m:v_rod  
 з	  		з 		  		prep:rv_oru
 дівчиною  	дівчина 	  	noun:f:v_oru:anim 
 відвідуємо 	відвідувати 	verb:pres:p:1:imperf 
-Дель	  	дель 		  	unknown 
-Песто	  	- 		  		- (Del Pesto noun:proper)
-.	  		- 		  		SENT_END 
+Del Pesto 	Del Pesto		noun:proper
 Щоразу	  	щоразу 	  		adv 
 дуже	  	дуже		  	adv 
 задоволені 	задоволений    	adj:p:v_naz:compb
-,			- 				- 
 все	  		весь 		  	pron:dem 
 надзвичайно надзвичайно   	adv 
 смачно	  	смачно 	  		adv:compb 
-,	  		- 		  		-
 привітні  	привітний 	  	adj:p:v_naz:compb 
 офіціанти 	офіціант 	  	noun:p:v_naz:anim
-,	  		- 		  		- 
 гарна	  	гарний 	  		adj:f:v_naz:compb 
 атмосфера  	атмосфера 	  	noun:f:v_naz 
-.	  		- 		  		SENT_END 
 Завжди	  	завжди 	  		adv 
 покидаємо 	покидати 	  	verb:pres:p:1:imperf 
 заклад	  	заклад 	  		noun:m:v_zna
@@ -1427,16 +1080,12 @@ Pesto	  	- 		  		-(Del Pesto noun:proper)
 в	  		в 		  		prep:rv_mis:v-u 
 піднесеному піднесений 	  	adjp:pasv:past:m:v_mis
 настрої	  	настрій 	  	noun:m:v_mis 
-.	  		- 		  		SENT_END 
-							PARA_END 
 Були	  	бути 		  	verb:past:p:imperf 
 вчора	  	вчора 	  		adv:v-u 
 з	  		з 		  		prep:rv_oru 
 подругами 	подруга 	  	noun:p:v_oru:anim 
 в	  		в 		  		prep:rv_mis:v-u 
-Del	  		- 		  		- 
-Pesto	  	- 		  		-(Del Pesto noun:proper) 
-.	  		- 		  		SENT_END 
+Del Pesto 	Del Pesto		noun:proper
 Багато	  	багато 	  		adv 
 начиталася 	начитатися 	  	verb:rev:past:f:perf 
 тут	  		тут 		  	adv
@@ -1449,59 +1098,36 @@ Pesto	  	- 		  		-(Del Pesto noun:proper)
 тижні	  	тиждень	  		noun:m:v_mis 
 надумала  	надумати 	  	verb:past:f:perf 
 похід	  	похід 	  		noun:m:v_zna
-.	  		- 		  		SENT_END 
 Сподобалось сподобатися   	verb:rev:past:n:perf 
-,	  		- 		  		- 
 навіть	  	навіть 	  		part 
 дуже	  	дуже 		  	adv 
-.	  		- 		  		SENT_END 
 Сам	  		сам 		  	pron:def 
 дизайн	  	дизайн	  		noun:m:v_naz 
-...	  		- 		  		SENT_END 
-Шикарнючо  	- 		  		- 
 всередині  	всередині 	  	adv:v-u 
-(	  		- 		  		- 
 я	  		я 		  		pron:pers:s:1:v_naz:anim
 обожнюю	  	обожнювати	  	verb:pres:s:1:imperf 
 а-ля	  	а-ля 		  	conj:subord 
 старий	  	старий 	  		adj:m:v_naz:compb 
-французькогий - 	  		- 
 інтер'єр  	інтер'єр 	  	noun:m:v_naz 
-)	  		- 		  		- 
--	  		- 		  		- 
 затишні	  	затишний 	  	adj:p:v_naz:compb 
 кольори	  	колір 	  		noun:p:v_naz 
-,	  		- 		  		- 
 біленькі  	біленький 	  	adj:p:v_naz 
 столики	  	столик 	  		noun:p:v_naz 
 і	  		і 		  		conj:coord 
 стільці	  	стілець 	  	noun:p:v_naz
-,	  		- 		  		- 
-біленькиі 	- 		  		- 
-"	  		- 		  		- 
 зістарені 	зістарений 	  	adjp:pasv:past:p:v_naz 
-"	  		- 		  		- 
 меблі	  	меблі 	  		noun:p:v_naz 
-,	  		- 		  		- 
 кольорові  	кольоровий	  	adj:p:v_naz 
 і	  		і 		  		conj:coord 
-!	  		- 		  		- 
-!	  		- 		  		- 
-!	  		- 		  		SENT_END 
 чисті	  	чистий  	  	adj:p:v_naz:compb 
 скатертини 	скатертина 	  	noun:p:v_naz
 на	  		на 		  		prep:rv_mis 
 столах	  	стіл 		  	noun:p:v_mis 
-,	  		- 		  		- 
 посуд	  	посуд 	  		noun:m:v_naz 
 чистенький 	чистенький 	  	adj:m:v_naz 
-,	  		- 		  		- 
-вишуруваний - 		  		- 
--	  		- 		  		- 
 взагалі	  	взагалі 	  	adv:v-u 
 нічого	  	ніщо 		  	pron:neg:v_rod 
 такого	  	такий 	  		pron:def 
-,	  		- 		  		- 
 щоб	  		щоб 		  	conj:subord 
 не	  		не 		  		part 
 сподобалось сподобатися  	verb:rev:past:n:perf 
@@ -1509,68 +1135,39 @@ Pesto	  	- 		  		-(Del Pesto noun:proper)
 насторожило насторожити   	verb:past:n:perf 
 не	  		не 		  		part 
 побачила  	побачити 	  	verb:past:f:perf 
-!	  		- 		  		SENT_END 
 про	  		про 		  	prep:rv_zna 
 кухню	  	кухня 	  		noun:f:v_zna 
-...	  		- 		  		- 
 як	  		як 		  		adv
 на	  		на 		  		prep:rv_zna
 мене	  	я 		  		pron:pers:s:1:v_zna:anim 
-,	  		- 		  		-
 вибрати	  	вибрати 	  	verb:inf:perf 
 є	  		бути		  	verb:pres:s::imperf 
 з	  		з 		  		prep:rv_rod
 чого	  	що 		  		pron:int:rel:n:v_rod 
-+	  		- 		  		- 
 помірні	  	помірний 	  	adj:p:v_naz 
 ціни	  	ціна	  		noun:p:v_naz 
-...	  		- 		  		- 
 багато	  	багато 	  		adv 
 є	  		бути 		  	verb:pres:s::imperf
 цікавих	  	цікавий 	  	adj:p:v_rod:compb  
 трав	  	трава 	  		noun:p:v_rod 
-(	  		- 		  		- 
 не	  		не 		  		part 
 там	  		там 		  	pron:dem 
-...	  		- 		  		-
 смажена	  	смажений 	  	adjp:pasv:past:f:v_naz 
 картопля  	картопля 	  	noun:f:v_naz 
-,	  		- 		  		- 
 чи	  		чи 		  		conj:coord:subord 
 смажена	  	смажений	  	adjp:pasv:past:f:v_naz 
 риба	  	риба 		  	noun:f:v_naz:anim 
 і	  		і 		  		conj:coord 
-т	  		т 		  		noun:f:v_dav:nv:abbr 
-							noun:f:v_mis:nv:abbr 
-							noun:f:v_naz:nv:abbr 
-							noun:f:v_oru:nv:abbr 
-							noun:f:v_rod:nv:abbr 
-							noun:f:v_zna:nv:abbr 
-							noun:p:v_dav:nv:abbr 
-							noun:p:v_mis:nv:abbr 
-							noun:p:v_naz:nv:abbr 
-							noun:p:v_oru:nv:abbr 
-							noun:p:v_rod:nv:abbr 
-							noun:p:v_zna:nv:abbr 
-.	  		- 		  		SENT_END 
-д	  		- 		  		- 
-.	  		- 		  		-(т.д.)
-)	  		- 		  		- 
 десерти	  	десерт 	  		noun:p:v_naz 
 теж	  		теж 		  	adv 
 оригінальні оригінальний  	adj:p:v_naz:compb 
-.	  		- 		  		SENT_END 
 Офіціанти 	офіціант 	  	noun:p:v_naz:anim
-:	  		- 		  		- 
 Усміхнені 	усміхнений 	  	adj:p:v_naz:v-u 
-,	  		- 		  		- 
 уважні	  	уважний 	  	adj:p:v_naz:compb 
 і	  		і 		  		conj:coord 
 акуратні  	акуратний 	  	adj:p:v_naz:compb 
-.	  		-		  		SENT_END 
 Враховуючи 	враховувати 	advp:imperf:v-u 
 те	  		той 		  	pron:dem 
-,	  		- 		  		- 
 що	  		що 		  		conj:subord 
 колись	  	колись	  		adv 
 працювала 	працювати 	  	verb:past:f:imperf 
@@ -1580,17 +1177,11 @@ Pesto	  	- 		  		-(Del Pesto noun:proper)
 часто	  	часто 	  		adv:compb 
 до	  		до 		  		prep:rv_rod 
 всього	  	весь 		  	pron:dem 
-придираюся 	-		  		- 
-,	  		- 		  		- 
 вчора	  	вчора 	  		adv:v-u 
 не	  		не 		  		part 
 робила	  	робити 	  		verb:past:f:imperf 
 нікому	  	ніхто 	  		pron:neg:v_dav:anim 
 зауважен  	зауваження 	  	noun:p:v_rod 
-P	  		- 		  		- 
-.	  		- 		  		- 
-S	  		- 		  		- 
-.	  		- 		  		- 
 Замовляла 	замовляти 	  	verb:past:f:imperf 
 смородиновий смородиновий 	adj:m:v_naz 
 чізкейк	  	- 		  		- 
@@ -1608,12 +1199,10 @@ S	  		- 		  		-
 з	  		з 		  		prep:rv_rod
 домашнього 	домашній 	  	adj:m:v_rod 
 сиру	  	сир		 		noun:m:v_rod
-,	  		- 		  		- 
 а	  		а 		  		conj:coord 
 не	  		не 		  		part 
 з	  		з 		  		prep:rv_rod
 магазинного магазинний    	adj:m:v_rod 
-,	  		- 		  		- 
 бо	  		бо 		  		conj:subord 
 пахнув	  	пахнути 	  	verb:past:m:perf
 і	  		і 		 	 	conj:coord 
@@ -1621,37 +1210,24 @@ S	  		- 		  		-
 саме	  	саме		  	part
 якось	  	якось 	  		adv
 по-домашному по-домашному   adv
-							SENT_END 
-							PARA_END 
-Заказали  	заказати 	  	verb:past:p:perf (замовили замовити verb:past:p:1:perf)
+замовили 	замовити 		verb:past:p:1:perf
 на	  		на 		  		prep:rv_zna 
 обід	  	обід 		  	noun:m:v_zna
 в	  		в 		  		prep:rv_mis:v-u 
-пн	  		- 		  		- 
-.	  		- 		  		- 
 привезли  	привезти 	  	verb:past:p:perf 
 вчасно	  	вчасно 	  		adv 
-.	  		- 		  		SENT_END 
 Було	  	бути		  	verb:past:n:imperf 
 дуже	  	дуже		  	adv  
 смачно	  	смачно 	  		adv:compb 
-!	  		- 		  		- 
-!	  		- 		  		- 
-!	  		- 		  		SENT_END 
-							PARA_END
 Це	  		цей 		  	pron:dem
-жах	  		жах 		  	noun:m:v_naz 
-.	  		- 		  		SENT_END 
+жах	  		жах 		  	noun:m:v_naz  
 Довго	  	довго 	  		adv:compb 
 чекала	  	чекати 	  		verb:past:f:imperf
-,	  		- 		  		- 
 щоб	  		щоб 		  	conj:subord 
-взяот	  	- 		  		- 
 замовлення 	замовлення 	  	noun:n:v_zna
 у	  		у 		  		prep:rv_mis:v-u 
 обідній	  	обідній 	  	adj:f:v_mis
 час	  		час 		  	noun:m:v_zna
-.	  		- 		  		SENT_END 
 Ланч	  	ланч 		  	noun:m:v_naz:bad 
 представляв представляти  	verb:past:m:imperf 
 собою	  	себе 		  	pron:refl:m:v_oru 
@@ -1662,40 +1238,30 @@ S	  		- 		  		-
 увагу	  	увага 	  		noun:f:v_zna 
 до	  		до 		  		prep:rv_rod 
 місця	  	місце 	  		noun:n:v_rod 
-,	  		- 		  		- 
 а	  		а 		  		conj:coord 
 відвернути 	відвернути 	  	verb:inf:perf 
-.	  		- 		  		SENT_END 
 Суп	  		суп 		  	noun:m:v_naz 
 з	  		з 		  		prep:rv_rod
 води	  	вода 		  	noun:f:v_rod 
-,	  		- 		  		- 
 свинина	  	свинина 	  	noun:f:v_naz 
 з	  		з 		  		prep:rv_rod 
 усіх	  	увесь 	  		pron:dem 
 куточків  	куточок 	  	noun:p:v_rod 
-«	  		- 		  		- 
 що	  		що 		  		pron:int:rel:n:v_naz
 зосталося 	зостатися 	  	verb:rev:past:n:perf 
-»	  		- 		  		- 
-,	  		- 		  		-
 у	  		у 		  		prep:rv_mis:v-u 
 салаті	  	салат		  	noun:m:v_mis  
 Більшість 	більшість 	  	noun:f:v_naz 
 це	  		цей 		  	pron:dem 
-лук	  		лук 		  	noun:m:v_naz (цибуля цибуля noun:f:v_naz)
-,	  		- 		  		-
 а	  		а 		  		conj:coord 
 не	  		не 		  		part 
 інші	  	інший 	  		pron:def 
 овочі	  	овоч 		  	noun:p:v_zna
-.	  		- 		  		SENT_END 
 Меренги	  	меренга 	  	noun:p:v_naz
 та	  		та		  		conj:coord 
 кава	  	кава		  	noun:f:v_naz 
 більш	  	багато	  		adv:compr 
 нормальні 	нормальний 	  	adj:p:v_naz 
-.	  		- 		  		SENT_END 
 І	  		і 		  		conj:coord 
 залі	  	зал		  		noun:m:v_mis 
 для	  		для 		  	prep:rv_rod 
@@ -1703,10 +1269,6 @@ S	  		- 		  		-
 не	  		не 		  		part 
 працює	  	працювати 	  	verb:pres:s:3:imperf 
 вентиляція 	вентиляція 	  	noun:f:v_naz 
-.	  		- 		  		SENT_END 
-Неуд	  	- 		  		- 
-.	  		- 		  		SENT_END 
-							PARA_END 
 Дуже	  	дуже		  	adv  
 приємні	  	приємний 	  	adj:p:v_naz:compb 
 враження  	враження 	  	noun:n:v_naz 
@@ -1717,30 +1279,25 @@ S	  		- 		  		-
 в	  		в 		  		prep:rv_mis:v-u 
 цьому	  	цей 		  	pron:dem 
 ресторані  	ресторан 	  	noun:m:v_mis 
-.	  		- 		  		SENT_END 
 Величезна  	величезний 	  	adj:f:v_naz
 вдячність  	вдячність 	  	noun:f:v_naz 
 персоналу  	персонал 	  	noun:m:v_dav 
 й	  		й 		  		conj:coord 
 окремо	  	окремо 	  		adv 
-Юліі	  	- 		  		-(Юлії Юлія noun:f:v_dav:anim ) 
-.	  		-		  		SENT_END 
+Юлії 		Юлія 			noun:f:v_dav:anim  
 Всі	  		весь 		  	pron:dem
 надзвичайно надзвичайно   	adv 
 уважні	  	уважний 	  	adj:p:v_naz:compb 
-,	  		- 		  		- 
 приємні	  	приємний 	  	adj:p:v_naz:compb 
 й	  		й 		  		conj:coord 
 професійні  професійний   	adj:p:v_naz:compb 
-.	  		- 		  		SENT_END 
 А	  		а 		  		conj:coord 
-кухня-це  	- 		  		-(кухня кухня noun:f:v_naz
-							це це part) 
+кухня 		кухня 			noun:f:v_naz
+це 			це 				part
 взагалі	  	взагалі 	  	adv:v-u 
 вище	  	високий 	  	adj:n:v_naz:compr 
 всілякої  	всілякий 	  	pron:gen:v-u 
 похвали	  	похвала 	  	noun:f:v_rod
-.	  		- 		  		SENT_END 
 До	  		до 		  		prep:rv_rod 
 сих	  		сей 		  	pron:p:v_rod:rare
 пір	  		пора 		  	noun:p:v_rod 
@@ -1749,8 +1306,6 @@ S	  		- 		  		-
 бачимо	  	бачити 	  		verb:pres:p:1:imperf
 у	  		у 		  		prep:rv_mis:v-u 
 снах	  	сон  		  	noun:p:v_mis 
-)	  		- 		  		- 
-)	  		- 		  		- 
 З	  		з 		  		prep:rv_oru 
 великим	  	великий 	  	adj:n:v_oru:compb
 задоволенням задоволення   	noun:n:v_oru 
@@ -1759,7 +1314,6 @@ S	  		- 		  		-
 Вас	  		ви 		  		pron:pers:p:2:v_rod:anim 
 іще	  		іще 		  	adv 
 раз	  		раз 		  	noun:m:v_naz
-.	  		- 		  		SENT_END 
 З	  		з 		  		prep:rv_oru
 повагою	  	повага 	  		noun:f:v_oru 
 і	  		і 		  		conj:coord 
@@ -1767,16 +1321,12 @@ S	  		- 		  		-
 гості		гість 	  		noun:p:v_naz:anim
 з	  		з 		  		prep:rv_zna
 Дніпропетровську Дніпропетровськ noun:m:v_mis
-.	  		- 		  		SENT_END 
-							PARA_END 
 Дякую	  	дякувати 	  	verb:pres:s:1:imperf 
-,	  		- 		  		- 
 дуже	  	дуже		  	adv  
 сподобався 	сподобатися 	 verb:rev:past:m:perf 
 стейк	  	стейк 	  		noun:m:v_zna
 з	  		з 			  	prep:rv_rod
 яловичини 	яловичина 	  	noun:f:v_rod 
-.	  		- 		  		SENT_END 
 Гадаю	  	гадати 	  		verb:pres:s:1:imperf 
 що	  		що 		  		conj:subord 
 інші	  	інший 	  		pron:def 
@@ -1784,5 +1334,3 @@ S	  		- 		  		-
 такі	  	такий 	  		pron:def 
 ж	  		ж 		  		part
 смачні	  	смачний 	  	adj:p:v_naz:compb 
-.	  		- 		  		SENT_END 
-							PARA_END 
