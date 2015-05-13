@@ -23,11 +23,9 @@
 потім 	        потім        	adv
 нас 	        ми           	pron:pers:p:1:v_zna:anim
 обрахували   	обрахувати      verb:past:p:perf
-на            	на          	part
-                                prep:rv_zna
+на            	на          	prep:rv_zna
 40            	40              number
-грн 	        грн             noun:f:v_zna:nv:abbr
-                              
+грн 	        грн             noun:f:v_zna:nv:abbr                            
 не 	            не              part
 видавши 	    видати          advp:perf
 чеку 	        чек (noun:m:v_zna)  noun:m:v_dav
@@ -44,7 +42,7 @@
 заслужена 	    заслужений      adjp:pasv:past:f:v_naz
 роками 	        рік             noun:p:v_oru
 репутація    	репутація       noun:f:v_naz
-в           	в           	prep:rv_zna:rv_mis:rv_rod:v-u
+в           	в           	prep:rv_zna:v-u
 один        	один          	numr:m:v_zna
 момент         	момент      	noun:m:v_zna
 розіб'ється 	розбитися   	verb:rev:futr:s:3:perf
@@ -77,8 +75,7 @@
 
 
              SENT_START	
-Кафе 	        кафе      	    noun:n:v_naz:nv                      
-                       
+Кафе 	        кафе      	    noun:n:v_naz:nv                                            
 непогане 	    непоганий	    adj:n:v_zna
 .   -                       	SENT_END 
 		                		SENT_START
@@ -104,7 +101,7 @@
 вживаю 	        вживати  	    verb:pres:s:1:imperf:v-u
 .    -                          SENT_END
 		            	        SENT_START
-На 	            на           	prep:rv_zna:rv_mis
+На 	            на           	prep:rv_mis
 2-му 	        2-й     	    adj:m:v_mis                               
 поверсі 	    поверх   	    noun:m:v_mis
 кафе 	        кафе        	noun:n:v_rod:nv                               
@@ -159,9 +156,7 @@
 .   -                           SENT_END
                                 SENT_START
 Придбав 	    придбати	    verb:past:m:perf
-на       	    на (prep:rv_zna) excl
-                                part
-                                prep:rv_zna:rv_mis
+на       	    на              prep:rv_zna
 подарунок 	    подарунок  	    noun:m:v_zna
 тільки 	        тільки      	part
 квадратик 	    квадратик	    noun:m:v_zna
@@ -199,7 +194,7 @@
 шоколадні 	    шоколадний	    adj:p:v_zna
 ручні 	        ручний       	adj:p:v_zna
 витвори 	    витвір       	noun:p:v_zna
-кондитерського  кондитерський	adj:m:v_rod                                
+кондитерського  кондитерський	adj:n:v_rod                                
 мистецтва 	    мистецтво       noun:n:v_rod                                
 цілими   	    цілий        	adj:p:v_oru
 кошиками 	    кошик       	noun:p:v_oru
@@ -234,8 +229,7 @@
 його 	        його            pron:pos                            
 роблять 	    робити   	    verb:pres:p:3:imperf
 ,  -  -  
-і 	            і        	    conj:coord
-                                
+і 	            і        	    conj:coord                               
 ти 	            ти              pron:pers:s:2:v_naz:anim
 можеш         	могти           verb:unknown
 спостерігати    спостерігати    verb:inf:imperf	
@@ -260,7 +254,7 @@
                                                                                adj:n:v_zna:&pron:dem	
                                                   одно 	        один        	numr:n:v_naz
 не        	    не        	    part
-вийде 	        вийти(verb:futr:s:3:perf)  verb:futr:s:3:perf:perf
+вийде 	        вийти            verb:futr:s:3:perf:perf
 -  -  -  
 бо 	            бо       	    conj:subord                                
 грошей 	        гроші    	    noun:p:v_rod
@@ -286,8 +280,7 @@
 приємні 	    приємний        adj:p:v_naz:compb                                
 люди 	         люди	        noun:p:v_naz:anim
 ,  -   -								
-але 	        але 	        conj:coord
-                                
+але 	        але 	        conj:coord                               
 у 	            у               prep:rv_rod:v-u
 крамниці 	    крамниця	    noun:f:v_rod                                
 -   -  - 								
@@ -447,7 +440,7 @@
 ласунів 	    ласун    	    noun:p:v_rod:anim                                
 .    -                  		SENT_END 
                                 SENT_START
-По 	            по           	prep:rv_mis:
+По 	            по           	prep:rv_mis
 смакоті 	    смакота     	noun:f:v_mis
 -   -  - 							
 дійсно 	        дійсно   	    adv
@@ -620,8 +613,7 @@
                                 
 ... -                           SENT_END	
 		                        SENT_START
-Але 	        але          	conj:coord
-                               
+Але 	        але          	conj:coord                             
 найбільше 	    великий         adv:super
 образило 	    образити     	verb:past:n:perf
 те              той             pron:dem
@@ -645,11 +637,10 @@
 кращої 	        хороший      	adj:f:v_rod:compr
 думки    	    думка         	noun:f:v_rod
 ,   -   -								
-але 	        але        	    conj:coord
-                                
+але 	        але        	    conj:coord                              
 тепер 	        тепер         	adv
 дуже     	    дуже            adv                
-розчарована     розчарований(adjp:pasv:past:f:v_zna) adjp:pasv:past:f:v_naz
+розчарована     розчарований    adjp:pasv:past:f:v_zna
 .   -                           SENT_END 											
 								PARA_END
 
@@ -814,7 +805,7 @@
 Офіціанти    	офіціант	    noun:p:v_naz:anim
 ввічливі 	    ввічливий	    adj:p:v_zna:v-u
 ,  -  - 								
-заказ 	       (замовлення   noun:n:v_zna )
+заказ 	       
 приносять 	    приносити	    verb:pres:p:3:imperf
 вчасно  	    вчасно          adv
 .   -                         	SENT_END 		
@@ -857,7 +848,7 @@
 .   -                        	SENT_END
 	                         	SENT_START
 В 	            в   	        prep:rv_rod:v-u
-майстерні 	     майстерня      noun:f:v_rod                                
+майстерні 	    майстерня      noun:f:v_rod                                
 класно 	        класно 	        adv
 . -                          	SENT_END
 	                         	SENT_START	
@@ -991,7 +982,7 @@
 ціною   	    ціна    	    noun:f:v_oru
 каву 	        кава     	    noun:f:v_zna
 попити 	        попити          verb:inf:perf                
-зараз 	        зараз           adv:&pron:dem               
+зараз 	        зараз           adv              
 стає     	    ставати 	    verb:pres:s:3:imperf
 проблемою 	    проблема 	    noun:f:v_oru
 .   -                           SENT_END 											
@@ -1032,7 +1023,7 @@
 касі 	        каса     	    noun:f:v_mis
 , -   - 								
 що       	    що           	conj:subord                               
-вийшло   	    вийти   	    verb:past:n:perf
+вийшло   	    вийти(verb:past:n:pasv) verb:past:n:perf:perf
 дорожче     	дорогий  	    adj:n:v_zna:compr                                
 ,  -   -						
 ніж 	        ніж      	    conj:subord                                
@@ -1040,12 +1031,10 @@
 .                         		SENT_END	
 		                        SENT_START
 Але 	        але          	conj:coord
-дуже 	        дуже            adv
-               
+дуже 	        дуже            adv             
 спішилась 	    спішитися 	    verb:rev:past:f:imperf                                
 ,  -   								
-тому 	        тому            conj:subord
-                
+тому 	        тому            conj:subord             
 заплатила 	    заплатити	    verb:past:f:perf
 і 	            і        	    conj:coord
 не      	    не           	part
@@ -1087,7 +1076,7 @@
 печальний 	    печальний	    adj:m:v_zna
 , -  -								
 але 	        але      	    conj:coord
-звикла           звикнути        verb:past:f:perf
+звикла          звикнути        verb:past:f:perf
 людям 	        люди     	    noun:p:v_dav:anim
 довіряти        довіряти	    verb:inf:imperf
  .  -                           SENT_END
@@ -1212,7 +1201,7 @@
 виготовлений    виготовлений	adjp:pasv:past:m:v_zna
 на        	    на          	prep:rv_zna:rv_mis
 наш 	        наш      	    pron:pos
-смак 	        смак        	 noun:m:v_zna
+смак 	        смак        	noun:m:v_zna
 цікавий 	    цікавий      	adj:m:v_naz:compb
 для 	        для          	prep:rv_rod
 дітей 	        діти     	    noun:p:v_rod:anim 	
@@ -1382,7 +1371,6 @@
 не        	    не          	part
 відреагували    відреагувати	verb:past:p:perf
 ніяк 	        ніяк      	    adv
-                                predic 
                                 SENT_END 	
                                 SENT_START
 Жахливе 	    жахливий	    adj:n:v_naz:compb
@@ -1499,7 +1487,7 @@
 дуже 	        дуже            adv
 смачний 	    смачний      	adj:m:v_naz:compb
 ,  -  - 	
-до 	            до речі         <insert>          
+до речі	        до речі         <insert>          
 Хоч 	        хоч          	conj:subord
 далеко  	    далеко   	    adv:compb
 не 	            не              part
