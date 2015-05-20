@@ -1,4 +1,4 @@
-﻿Token	           Part-of-speech	                  Власний варіант
+Token	           Part-of-speech	                  Власний варіант
 Прийдіть	   verb:impr:p:2:perf 	
 в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 
 і	           conj:coord 	
