@@ -1,0 +1,1335 @@
+Rurych 20-30 female
+А	                  а 	           conj:coord 	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+о	                  о 	           excl 	  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це	                  цей     	       adj:n:v_naz:&pron:dem 	(pron:dem)    	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ти	                  ти 	           pron:pers:s:2:v_naz:anim	         	          joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дарма                 дарма 	       adv 					  joy 0 sadness 30 anger 3 fear 0 amazement 0 disgust 0
+Їхнє	              їхній 	       adj:n:v_zna:&pron:pos 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво	              пиво 	           noun:n:v_naz 	 joy 27 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже	              дуже 	           adv 		 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть	              навіть 	       part 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачне	              смачний          adj:n:v_naz:compb  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Думаю	              думати 	       verb:pres:s:1:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+враховуючи	          враховувати      advp:imperf:v-u  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що	                  що 	           conj:subord   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нирки	              нирка 	       noun:p:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тебе	              ти 	           pron:pers:s:2:v_zna:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+болять	              боліти 	       verb:unknown (verb:pres:p:1:imperf:akriv) joy 0 sadness 86 anger 32 fear 32 amazement 0 disgust 0
+ти		              ти               pron:pers:s:2:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+напевно               напевно          adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийшов               прийти           verb:past:m:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туди                  туди             adv:&pron:dem (pron:dem) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вже                   вже              adv:v-u  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+випившим              випивший         -   (adjp:past:aktiv:v_oru) joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 30
+тому                  тому             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                     і                part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                    не               part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відчув                відчути          verb:past:m:perf  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+яке                   який             adj:n:v_naz:&pron:int:rel:def joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+воно–                 він              pron  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво                  пиво             noun:s:n:v_naz joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 30
+на                    на               prep:rv_zna joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смак                  смак             noun:m:v_zna joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+                     (на смак)         (prep) joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Один                  один             numr:m:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                     з                prep:rv_rod:rv_zna:rv_oru  (prep:rv_rod)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найкращих             хороший          adj:p:v_rod:super  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладів              заклад           noun:p:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львова                Львів            noun:m:v_rod  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в                     в                prep:rv_zna:rv_mis:rv_rod:v-u  (prep:rv_mis:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+центрі                центр            noun:m:v_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+міста                 місто            noun:n:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Так                   так              adv:&pron:dem  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як                    як               adv:&pron:int:rel (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це                    цей              adj:n:v_naz:&pron:dem  (pron:dem) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ресторан-пивоварня    ресторан-        noun:m:v_naz  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+                      пивоварня         joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то                    то               conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво                  пиво             noun:n:v_naz  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 29
+тут                   тут              adv:&pron:dem (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подають               подавати         verb:pres:p:3:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виготовлене           виготовлений     adjp:pasv:past:n:v_zna  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                    на               prep:rv_zny:rv_mis (prep:rv_mis) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+власній               власний          adj:f:v_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+броварні              броварня         noun:f:v_mis  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+До                     до речі         <insert>  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+речі                   до речі         </insert>  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гіркоти                гіркота         noun:f:v_rod                       joy 0 sadness 58 anger 0 fear 0 amazement 0 disgust 60
+і                      і               conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+запаху                 запах           noun:m:v_rod  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+від                    від             prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пересмаженого          пересмажений    adjp:pasv:past:m:v_rod  joy 0 sadness 61 anger 0 fear 0 amazement 0 disgust 59
+солоду                 солод           noun:m:v_rod  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в                      в               prep:rv_zna:rv_mis:rv_rod:v-u ( prep:rv_mis:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиві                   пиво            noun:n:v_mis  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 30
+не                     не              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відчувається           відчуватися     verb:rev:pres:s:3:imperf joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+все                    все             adv:v-u   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+                       весь            adj:n:v_naz:&pron:dem  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ж                      ж               part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+таки                   таки            part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+                      (все таки)       (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+львівське              львівський      adj:n:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво                   пиво            noun:n:v_naz  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+найкраще               хороший         adj:n:v_naz:super  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Страви                 страва          noun:p:v_naz  joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+теж                    теж             adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+неперевершені          неперевершений  adj:p:v_naz:&adjp:pasv:past  (adjp:pasv:past) joy 100 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Дуже                   дуже            adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+різноманітне           різноманітний   adj:n:v_naz:compb   joy 43 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+м'ясне                 м'ясний         adj:n:v_naz  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+меню                   меню            noun:n:v_naz:nv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Їхній                  їхній           (pron:pos)                                    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кумпель                -               -  (noun:m:s:v_naz) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смакота                смакота         noun:f:v_naz  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вартість               вартість        noun:f:v_naz  joy 0 sadness 0 anger 0 fear 30 amazement 0 disgust 0
+страв                  страва          noun:p:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щоправда               щоправда        (adv:&insert ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                     не              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всім                   весь            adj:p:v_dav:&pron:dem  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дозволяє               дозволяти       verb:pres:s:3:imperf  joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідати              відвідати       verb:inf:perf  joy 29 sadness 0 anger 0 fear 3 amazement 0 disgust 0
+цей                    цей             (pron:dem) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад                 заклад          noun:m:v_zna   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво                   пиво            noun:n:v_naz  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+чудове                 чудовий         adj:n:v_naz:compb  joy 95 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+також                  також           adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а                      а               conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+величезні              величезний      adj:p:v_naz  joy 45 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+і                      і               conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачні                 смачний         adj:p:v_naz:compb  joy 85 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Саме                   саме            part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+                       сам             adj:n:v_naz:&pron:def  joy 0 sadness 15 anger 0 fear 2 amazement 0 disgust 0
+                       самий           adj:n:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+головне                головний        adj:n:v_zna:compb  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+                       (найголовніший) (adj:n:v_zna:super) joy 16 sadness 0 anger 0 fear 3 amazement 0 disgust 0
+це                     цей             adj:n:v_naz:&pron:dem(pron:dem) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+надзвичайно            надзвичайно     adv  joy 0 sadness 0 anger 0 fear 3 amazement 31 disgust 0
+уважні                 уважний         adj:p:v_naz:compb  joy 4 sadness 0 anger 0 fear 0 amazement 31 disgust 0
+і                      і               conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітні               привітний       adj:p:v_naz:compb  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціанти              офіціант        noun:p:v_naz:anim  joy 15 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+смачна                 смачний         adj:f:v_naz:compb  joy 75 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+кухня                  кухня           noun:f:v_naz  joy 30 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+а                      а               conj:coord  joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+пиво                   пиво            noun:n:v_naz  joy 45 sadness 1 anger 0 fear 0 amazement 0 disgust 15
+ммм                    -               - (excl) joy 99 sadness 1 anger 0 fear 0 amazement 46 disgust 0
+це                     цей             adj:n:v_naz:&pron:dem (pron:dem) joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+неймовірне             неймовірний     adj:n:v_naz:compb  joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+Щойно                  щойно           adv  joy 0 sadness 1 anger 0 fear 0 amazement 21 disgust 0
+із                     із              prep:rv_rod:rv_zna:rv_oru (prep:rv_rod) joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+закладу                заклад          noun:m:v_rod  joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+все                    все             adv:v-u joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+дуже                   дуже            adv  joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+сподобалося            сподобатися     verb:rev:past:n:perf  joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+Нічого                 нічого          adv  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+смачнішого             смачний         adj:n:v_rod:compr  joy 89 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+за                     за              prep:rv_rod:rv_zna:rv_oru (prep) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+завиванець             завиванець      noun:m:v_naz:anim  (noun:m:s:v_naz) joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+теплий                 теплий          adj:m:v_naz:compb   joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вишневий               вишневий        adj:m:v_naz  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+штрудельт              (струдель)      (noun:m:s:v_naz)  joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                      з               prep:rv_rod:rv_zna:rv_oru (prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кулькою                кулька          noun:f:v_oru  joy 51 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+морозива               морозиво        noun:n:v_rod  joy 51 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+декорованого           декорований     adjp:pasv:past:n:v_rod  joy 51 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+джемом                 джем            noun:m:v_oru  joy 51 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та                     та              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+карамеллю              карамель        noun:f:v_oru  joy 50 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+раніше                 раніше          adv joy 0 sadness 0 anger 0 fear 3 amazement 16 disgust 0
+не                     не              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+куштувала              куштувати       verb:past:f:imperf  joy 60 sadness 0 anger 0 fear 6 amazement 1 disgust 0
+Неймовірно             неймовірно      adv:compb  joy 60 sadness 0 anger 0 fear 6 amazement 1 disgust 0
+смачно                 смачно          adv:compb  joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В                      в               prep:rv_zna:rv_mis:rv_rod:v-u  (prep:rv_mis) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Києві                  Київ            noun:m:v_mis   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такого                 такий           adj:m:v_rod:&pron:def                                joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смаколика              смаколик        noun:m:v_rod  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                     не              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зустрічала             зустрічати      verb:past:f:imperf  joy 30 sadness 0 anger 0 fear 5 amazement 3 disgust 0
+Рекомендую             рекомендувати   verb:pres:s:1:imperf  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усім                   увесь           adj:p:v_dav:&pron:dem (pron:dem:p:v_dav) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+така                   такий           adj:f:v_naz:&pron:def (pron:def:f:v_naz joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                     що              conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна                  можна           predic  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тарілку                тарілка         noun:f:v_zna  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пиво	               пиво 	       noun:n:v_naz  joy 46 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+супер                   супер          noun:m:v_naz joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Музика                 музика          noun:f:v_naz  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гріє                   гріти           verb:pres:s:3:imperf  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+душу                   душа            noun:f:v_zna  joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Буде                   бути            verb:futr:s:3:imperf  joy 1 sadness 0 anger 0 fear 1 amazement 0 disgust 0
+що                     що              conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+згадати                згадати         verb:inf:perf  joy 11 sadness 0 anger 0 fear 1 amazement 15 disgust 0
+на                     на              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стрості                -               -  joy 0 sadness 15 anger 2 fear 3 amazement 0 disgust 0
+років                  рік             noun:p:v_rod  joy 0 sadness 0 anger 0 fear 5 amazement 0 disgust 0
+Що                     що              conj:subord joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+люди                   люди            noun:p:v_naz:anim  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+на жаль                на жаль         </insert>  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мають                  мати            verb:pres:p:3:imperf  joy 16 sadness 0 anger 0 fear 0 amazement 1 disgust 0
+маленькі               маленький       adj:p:v_zna  joy 0 sadness 31 anger 0 fear 0 amazement 1 disgust 0
+шлунки                 шлунок          noun:p:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 4
+нездатні               нездатний       adj:p:v_zna  joy 0 sadness 45 anger 15 fear 0 amazement 0 disgust 2
+вмістити               вмістити        verb:inf:perf:v-u  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всю                    весь            adj:f:v_zna:&pron:dem (pron:dem:f:v_zna) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смакоту                смакота         noun:f:v_zna  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ель                    ель             noun:m:v_naz (noun:m:v_kly) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Це                     цей             adj:n:v_naz:&pron:dem  (pron:dem) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+жах                    жах             noun:m:v_naz  joy 0 sadness 90 anger 60 fear 7 amazement 0 disgust 61
+Мало                   мало            adv:compb  joy 0 sadness 90 anger 60 fear 7 amazement 0 disgust 61
+того                   той             adj:m:v_rod:&pron:dem (pron:dem:m:v_rod) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                     що              conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                     не              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дозволяють             дозволяти       verb:pres:p:3:imperf  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+просити                просити         verb:inf:imperf  joy 0 sadness 31 anger 16 fear 15 amazement 0 disgust 0
+стакани                стакан          noun:p:v_zna  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                      з               prep:rv_rod:rv_zna:rv_oru  (prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+простою                простий         adj:f:v_oru:compb  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+водою                  вода            noun:f:v_oru  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щоб                    щоб             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+запити                 запити          verb:inf:perf   joy 59 sadness 0 anger 0 fear 7 amazement 0 disgust 0
+таблетку               таблетка        noun:f:v_zna  joy 0 sadness 65 anger 3 fear 15 amazement 0 disgust 15
+Та                     та              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще                     ще              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+й                      й               part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потім                  потім           adv:&pron:dem (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+поводять               поводити        verb:pres:p:3:imperf  joy 15 sadness 0 anger 0 fear 0 amazement 1 disgust 0
+себе                   себе            pron:refl:m:v_rod (pron:refl:p:v_rod ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+по-хамськи             по-хамськи      adv  joy 0 sadness 80 anger 30 fear 15 amazement 0 disgust 80
+змушуючи               змушувати       advp:imperf  joy 0 sadness 80 anger 30 fear 15 amazement 0 disgust 80
+піти                   піти            verb:inf:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так                    так             adv:&pron:dem    (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                      і               part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                     не              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дочекавшись            дочекатися      advp:rev:perf  joy 0 sadness 47 anger 8 fear 0 amazement 0 disgust 0
+замовлення             замовлення      noun:n:v_rod noun:p:v_zna  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Це                     цей             adj:n:v_naz:&pron:dem (pron:dem ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я                      я               pron:pers:s:1:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+промовчу               промовчати      verb:futr:s:1:perf  joy 0 sadness 16 anger 0 fear 0 amazement 0 disgust 0
+про                    про             prep:rv_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те                     той             adj:n:v_naz:&pron:dem (pron:dem:n:v_naz) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                     що              conj:subord joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+під                    під             prep:rv_zna:rv_oru  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+час                    час             noun:m:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+					   (під час)       (prep) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прибирання             прибирання      noun:n:v_rod  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 4
+сусідніх               сусідній        adj:p:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столів                 стіл            noun:p:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мають                  мати            verb:pres:p:3:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нахабність             нахабність      noun:f:v_zna  joy 0 sadness 90 anger 16 fear 15 amazement 0 disgust 10
+виставляти             виставляти      verb:inf:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+брудний                брудний         adj:m:v_zna:compb  joy 0 sadness 95 anger 15 fear 6 amazement 0 disgust 31
+посуд                  посуд           noun:m:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                     на              prep:rv_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столик                 столик          noun:m:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за                     за              prep:rv_rod:rv_zna:rv_oru (prep:rv_oru ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+яким                   який            adj:m:v_oru:&pron:int:rel:def  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ви                     ви              pron:pers:p:2:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Таке                   такий           adj:n:v_naz:&pron:def (pron:def:n:v_naz) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+враження               враження        noun:n:v_naz  joy 45 sadness 0 anger 0 fear 0 amazement 59 disgust 0
+що                     що              conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приходиш               приходити       verb:pres:s:2:imperf  joy 15 sadness 0 anger 0 fear 0 amazement 16 disgust 0
+до                     до              prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціантів             офіціант        noun:p:v_rod:anim  joy 45 sadness 0 anger 8 fear 0 amazement 0 disgust 0
+додому                 додому          adv  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а                      а               conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                     не              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+є                      бути            verb:pres:s:2:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+клієнтом               клієнт          noun:m:v_oru:anim  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якому                  який            adj:m:v_dav:&pron:int:rel:def (pron:int:rel:def:m:v_dav) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мають                  мати            verb:pres:p:3:imperf  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+догоджати              догоджати       verb:inf:imperf  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+в                      в               prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кумпелі                -               - (noun:m:s:v_mis) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нам                    ми              pron:pers:p:1:v_dav:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                      з               prep:rv_rod:rv_zna:rv_oru (prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чоловіком              чоловік         noun:m:v_oru:anim  joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 4
+все                    все             adv:v-u joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подобається            подобатися      verb:rev:pres:s:3:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але                    але             conj:coord   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                     не              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подобається            подобатися      verb:rev:pres:s:3:imperf  joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1                      1               number  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                     що              conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всі                    весь            adj:p:v_naz:&pron:dem  (pron:dem:p:v_naz) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+поглядом               погляд          noun:m:v_oru  joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+оцінюють               оцінювати       verb:pres:p:3:imperf  joy 29 sadness 0 anger 0 fear 16 amazement 0 disgust 0
+твій                   твій            adj:m:v_naz:&pron:pos (pron:pos:m:v_zna) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стан	               стан 	       noun:m:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тобто                  тобто           conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я                      я               pron:pers:s:1:v_naz:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наприклад              наприклад       insert  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже                   дуже            adv  joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+молодо                 молодо          adv  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виглядаю               виглядати       verb:pres:s:1:imperf  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                      і               conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+люблю                  любити          verb:pres:s:1:imperf  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спортивний             спортивний      adj:m:v_zna  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+одяг                   одяг            noun:m:v_zna   joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийшовши              прийти          advp:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туди                   туди            adv:&pron:dem  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+коли                   коли            conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+є                      бути            verb:pres:p::imperf   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місця                  місце           noun:p:v_zna  joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посадять               посадити        verb:futr:p:3:perf  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тих                    той             adj:p:v_mis:&pron:dem   (pron:dem:p:v_rod)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+людей                  люди            noun:p:v_rod:anim  joy 7 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+що                     що              conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                     не              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будьте                 бути            verb:impr:p:3:imperf  joy 0 sadness 15 anger 2 fear 0 amazement 0 disgust 0
+такими                 такий           adj:p:v_oru:&pron:def  (pron:def:p:v_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                      і               conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                     не              part  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+дивіться               дивитися        verb:rev:impr:p:2:imperf joy 7 sadness 0 anger 0 fear 0 amazement 31 disgust 0
+на                     на              prep:rv_zna joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+маску                  маска           noun:f:v_zna  joy 3 sadness 0 anger 0 fear 2 amazement 45 disgust 0
+ГРОШІ                  гроші           noun:p:v_naz  joy 100 sadness 0 anger 0 fear 2 amazement 0 disgust 3
+Є                      бути            verb:pres:p::imperf   joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                      і               conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хочеться               хотітися        verb:s:3:pres:imperf joy 16 sadness 0 anger 0 fear 16 amazement 0 disgust 0
+віддихнути             віддихнути      verb:inf:perf  joy 90 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+на                     на              prep:rv_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+них                    вони            pron:pers:p:3:v_mis:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А                      а               part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ДЕ                     де              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ж                      ж               part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гостинність            гостинність     noun:f:v_naz  joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+людям                  люди             noun:p:v_dav:anim  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 6
+перед                  перед            noun:m:v_naz (prep) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нами                   ми               pron:pers:p:1:v_oru:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сказали                сказати          verb:past:p:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до                     до               prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+побачення              побачення        noun:n:v_rod  joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дякую                  дякувати         verb:pres:s:1:imperf  joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до                     до               prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нас                    ми               pron:pers:p:1:v_rod:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ПРОМОВЧАЛИ             промовчати       verb:past:p:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Часто                  часто            adv:compb  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+відвідую               відвідувати      verb:pres:s:1:imperf  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цей                    цей              adj:m:v_naz:&pron:dem (pron:dem) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад                 заклад           noun:m:v_zna  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+особливо               особливо         adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+коли                   коли             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+друзі                  друзі            noun:p:v_naz:anim  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                      з                prep:rv_rod:rv_zna:rv_oru joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інших                  інший            adj:p:v_mis:&pron:def (pron:def:p:v_mis) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+міст                   місто            noun:p:v_rod  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кухня                  кухня            noun:f:v_naz  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відмінна               відмінний        adj:f:v_naz  joy 90 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+обслуговування         обслуговування   noun:n:v_naz  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+непогане               непоганий        adj:n:v_naz  joy 15 sadness 6 anger 0 fear 0 amazement 0 disgust 0
+але                    але              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+адміністратора         адміністратор    noun:m:v_zna:anim  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+який                   який             adj:m:v_naz:&pron:int:rel:def (pron:int:rel:def:m) joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зустрічає              зустрічати       verb:pres:s:3:imperf  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідувачів           відвідувач       noun:p:v_zna:anim  joy 30 sadness 0 anger 0 fear 0 amazement 4 disgust 0
+я                      я                pron:pers:s:1:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+б                      б                part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                     на               prep:rv_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місці                  місце            noun:n:v_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+власника               власник          noun:m:v_rod:anim  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+звільнила              звільнити        verb:past:f:perf  joy 0 sadness 75 anger 31 fear 5 amazement 0 disgust 0
+Замовили               замовити         verb:past:p:perf  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столик                 столик           noun:m:v_zna  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                     на               prep:rv_zna joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+двох                   два              numr:f:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але                    але              conj:coord   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прямуючи               прямувати        advp:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 8 disgust 0
+до                     до               prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кумпеля                -                - (noun:m:s:v_rod) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зустріли               зустріти         verb:past:p:perf  joy 15 sadness 0 anger 0 fear 0 amazement 3 disgust 0
+колегу                 колега           noun:f:v_zna:anim  joy 50 sadness 0 anger 2 fear 0 amazement 0 disgust 3
+який                   який             adj:m:v_naz:&pron:int:rel:def ((pron:int:rel:def:m)) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виявив                 виявити          verb:past:m:perf  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бажання                бажання          noun:n:v_zna  joy 75 sadness 0 anger 0 fear 4 amazement 5 disgust 0
+приєднатися            приєднатися      verb:rev:inf:perf  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Адміністратор          адміністратор    noun:m:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+почувши                почути           advp:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+про                    про              prep:rv_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те                     той              adj:n:v_naz:&pron:dem (pron:dem) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                     що               conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нас                    ми               pron:pers:p:1:v_rod:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде                   бути             verb:futr:s:3:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+троє                   троє             numr:p:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спочатку               спочатку         adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зверхнім               зверхній         adj:m:v_oru  joy 0 sadness 75 anger 15 fear 16 amazement 0 disgust 16
+наглим                 наглий           adj:m:v_oru  joy 0 sadness 90 anger 15 fear 16 amazement 0 disgust 16
+тоном                  тон              noun:m:v_oru  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+запитав                запитати         verb:past:m:perf  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Вам                    ви               pron:pers:p:2:v_dav:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                     що               pron:int:rel:n:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+незрозуміло            незрозуміло      adv:compb  joy 0 sadness 45 anger 16 fear 3 amazement 0 disgust 0
+було                   бути             verb:past:n:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якщо                   якщо             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щось                   щось             pron:ind:n:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+поміняється            помінятися       verb:rev:futr:s:3:perf  joy 0 sadness 0 anger 5 fear 0 amazement 15 disgust 0
+Я                      я                pron:pers:s:1:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стримано               стримано         adv:compb  joy 0 sadness 3 anger 0 fear 16 amazement 0 disgust 0
+пояснюю                пояснювати       verb:pres:s:1:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+йому                   він              pron:pers:m:3:v_dav:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ситуацію               ситуація         noun:f:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                      і                conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+помітивши              помітити         advp:perf  joy 0 sadness 0 anger 0 fear 0 amazement 31 disgust 0
+що                     що               conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в                      в                prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+залі                   зал              noun:m:v_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато                 багато           adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вільних                вільний          adj:p:v_rod:compb  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столиків               столик           noun:p:v_rod  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                      з                prep:rv_rod:rv_zna:rv_oru  (prep:rv_oru ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+табличками             табличка         noun:p:v_oru  joy 0 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+зарезервовано          зарезервувати    verb:impers:perf  joy 0 sadness 30 anger 8 fear 0 amazement 0 disgust 0
+прошу                  просити          verb:pres:s:1:imperf  joy 0 sadness 45 anger 0 fear 2 amazement 0 disgust 0
+дати                   дати             verb:inf:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нам                    ми               pron:pers:p:1:v_dav:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+більший                великий          adj:m:v_zna:compr  joy 46 sadness 0 anger 0 fear 0 amazement 6 disgust 0
+столик                 столик           noun:m:v_zna  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+або                    або              conj:coord  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до                     до               prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столика                столик           noun:m:v_rod  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                     на               prep:rv_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+двох                   два              numr:f:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+доставити              доставити        verb:inf:perf  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+третє                  третій           adj:n:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+крісло                 крісло           noun:n:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У                      у                prep:rv_zna:rv_mis:rv_rod:v-u  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповідь              відповідь        noun:f:v_naz  joy 14 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+на                     на               prep:rv_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+					   (у відповідь на)	prep			 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це                     цей              adj:n:v_naz:&pron:dem (pron:dem) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+адміністратор          адміністратор    noun:m:v_naz:anim  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                      з                prep:rv_rod:rv_zna:rv_oru (prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+таким                  такий            adj:m:v_oru:&pron:def  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виглядом               вигляд           noun:m:v_oru  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніби                   ніби             part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+він                    він              pron:pers:m:3:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нам                    ми               pron:pers:p:1:v_dav:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+робить                 робити           verb:pres:s:3:imperf  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+велику                 великий          adj:f:v_zna:compb  joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+послугу                послуга          noun:f:v_zna  joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пропонує               пропонувати      verb:pres:s:3:imperf  joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нам                    ми               pron:pers:p:1:v_dav:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нижній                 нижній           adj:m:v_zna  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+зал                    зал              noun:m:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у                      у                prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якому                  який             adj:m:v_mis:&pron:int:rel:def  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+від                    від              prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тютюнового             тютюновий        adj:m:v_rod  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 30
+диму                   дим              noun:m:v_rod  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 30
+аж                     аж               part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+очі                    око              noun:p:v_naz  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сльозяться             сльозитися       verb:rev:pres:p:3:imperf  joy 0 sadness 75 anger 30 fear 15 amazement 0 disgust 0
+і                      і                conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут                    тут              adv:&pron:dem (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у                      у                prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_rod:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мене                   я                pron:pers:s:1:v_rod:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обірвався              обірватися       verb:rev:past:m:perf  joy 0 sadness 76 anger 0 fear 7 amazement 0 disgust 0
+терпець                терпець          noun:m:v_zna  joy 0 sadness 30 anger 0 fear 16 amazement 0 disgust 0
+Я                      я                pron:pers:s:1:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пояснила               пояснити         verb:past:f:perf  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+адміністратору         адміністратор    noun:m:v_dav:anim  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                     що               conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми                     ми               pron:pers:p:1:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийшли                прийти           verb:past:p:perf  joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                     не               part  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+випити                 випити           verb:inf:perf  joy 75 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+по                     по               prep:rv_mis:rv_zna (prep:rv_dav) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+келиху                 келих            noun:m:v_dav  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пива                   пиво             noun:n:v_rod  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 16
+а                      а                conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+добре                  добре            adv  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+повечеряти             повечеряти       verb:inf:perf  joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                      і                conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+плануємо               планувати        verb:pres:p:1:imperf  joy 31 sadness 0 anger 0 fear 0 amazement 16 disgust 0
+залишити               залишити         verb:inf:perf  joy 4 sadness 14 anger 0 fear 2 amazement 0 disgust 0
+у                      у                prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладі                заклад           noun:m:v_mis  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                     не               part  joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+менше                  мало             adv:compr  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+1200—1500              1200—1500        number  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+грн                    грн              noun:p:v_rod:nv:abbr  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+І                       і               part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+після                   після           prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цього                   цей             adj:m:v_rod:&pron:dem (pron:dem:m:v_rod) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+О                       о               prep:rv_zna:rv_mis (excl ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+диво                    диво            noun:n:v_naz   joy 100 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+нас                     ми              pron:pers:p:1:v_zna:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нарешті                 нарешті         insert  joy 0 sadness 28 anger 0 fear 0 amazement 0 disgust 0
+посадили                посадити        verb:past:p:perf  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+за                      за              prep:rv_rod:rv_zna:rv_oru (prep:rv_zna) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столик                  столик          noun:m:v_zna  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розрахований            розрахований    adjp:pasv:past:m:v_zna  joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть                  навіть          part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                      на              excl (prep:rv_rod) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чотирьох                четверо         numr:p:v_rod   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+персон                  персона         noun:p:v_rod:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+З                       з               prep:rv_rod:rv_zna:rv_oru (prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+моїм                    мій             adj:m:v_mis:&pron:pos (pron:pos:m:v_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+братом                  брат            noun:m:v_oru:anim  joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нещодавно               нещодавно       adv  joy 5 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+трапився                трапитися       verb:rev:past:m:perf  joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+теж                     теж             adv  joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+неприємний              неприємний      adj:m:v_naz:compb  joy 0 sadness 76 anger 0 fear 0 amazement 0 disgust 4
+з                       з               prep:rv_rod:rv_zna:rv_oru (prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+парубком                парубок         noun:m:v_oru:anim  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                      на              prep:rv_zna:rv_mis (prep:rv_mis) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вході                   вхід            noun:m: joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Він                      він            pron:pers:m:3:v_naz:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привів                   привести       verb:past:m:perf  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+до                       до             prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кумпеля                  -              - (noun:m:s:v_rod) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+компанію                 компанія       noun:f:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+друзів                   друзі          noun:p:v_zna:anim  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_rod) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одеси                    Одеса          noun:f:v_rod  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+5                        5              number  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хлопців                  хлопець        noun:p:v_rod:anim  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На                       на             excl (prep:rv_zna ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+питання                  питання        noun:n:v_zna   joy 0 sadness 0 anger 0 fear 15 amazement 16 disgust 0
+про                      про            prep:rv_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наявність                наявність      noun:f:v_zna  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вільних                  вільний        adj:p:v_zna:compb  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місць                    місце          noun:p:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+він                      він            pron:pers:m:3:v_naz:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+отримав                  отримати       verb:past:m:perf  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповідь                відповідь      noun:f:v_zna  joy 45 sadness 0 anger 0 fear 0 amazement 2 disgust 0
+Може                     могти          verb:unknown                   joy 15 sadness 0 anger 0 fear 0 amazement 2 disgust 0
+                         (може)         (insert) joy 15 sadness 0 anger 0 fear 0 amazement 2 disgust 0
+спочатку                 спочатку       adv  joy 15 sadness 0 anger 0 fear 5 amazement 0 disgust 0
+треба                    треба          predic  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітатися              привітатися    verb:rev:inf:perf  joy 89 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Столиків                 столик         noun:p:v_rod  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru  (prep:rv_oru) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+табличками               табличка       noun:p:v_oru  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Зарезервовано            зарезервувати  verb:impers:perf  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було                     бути           verb:past:n:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато                   багато         adv  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але                      але            conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хлопці                   хлопець        noun:p:v_naz:anim  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розвернулися             розвернутися   verb:rev:past:p:perf  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пішли                    піти           verb:past:p:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у                        у              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Старгород                -              - (noun:m:s:v_naz) joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+де                       де             adv:&pron:int:rel (conj:subord) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зустріли                 зустріти       verb:past:p:perf  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+привітно                 привітно       adv:compb  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посміхаючись             посміхатися    advp:rev:imperf  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та                       та             conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+непогано                 непогано       adv  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+повечеряли               повечеряти     verb:past:p:perf  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                       на             excl (prep:rv_zna) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Можливо                  можливо        adv (insert) joy 0 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+Пан                      пан            noun:m:v_naz:anim  joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Адміністратор            адміністратор  noun:m:v_naz:anim  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+забув                    забути         verb:past:m:perf  joy 0 sadness 31 anger 4 fear 0 amazement 0 disgust 0
+що                       що             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+він                      він            pron:pers:m:3:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+є                        бути           verb:pres:s:3:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обслуговуючий            обслуговуючий  adjp:actv:pres:m:v_naz:bad  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+персонал                 персонал       noun:m:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а                        а              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можливо                  можливо        adv (insert) joy 0 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+він                      він            pron:pers:m:3:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+є                        бути           verb:pres:s:3:imperf  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+родичем                  родич          noun:m:v_oru:anim  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+когось                   хтось          pron:ind:v_zna:anim  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+із                       із             prep:rv_rod:rv_zna:rv_oru (prep:rv_rod)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+власників                власник        noun:p:v_rod:anim  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тому                     тому           adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дозволяє                 дозволяти      verb:pres:s:3:imperf  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+собі                     себе           pron:refl:m:v_dav  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+таку                     такий          adj:f:v_zna:&pron:def  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+поведінку                поведінка      noun:f:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а                        а              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можливо                  можливо        adv (insert) joy 0 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+він                      він            pron:pers:m:3:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вважає                   вважати        verb:pres:s:3:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                       що             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кумпель                  -              - (noun:m:s:v_naz) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад                   заклад         noun:m:v_naz  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у                        у              prep:rv_zna:rv_mis:rv_rod:v-(prep:rv_mis:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львові                   Львів          noun:m:v_mis  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+де                       де             adv:&pron:int:rel (conj:subord ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачно                   смачно         adv:compb  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+готують                  готувати       verb:pres:p:3:imperf  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я                        я              pron:pers:s:1:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вважаю                   вважати        verb:pres:s:1:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                       що             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кожен                    кожний         adj:m:v_naz:contr  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працівник                працівник      noun:m:v_naz:anim  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+будь-якого               будь-який      adj:m:v_rod:&pron:ind  joy 0 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+закладу                  заклад         noun:m:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+повинен                  повинен        predic  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+від                      від            prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+початку                  початок        noun:m:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до                       до             prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кінця                    кінець         noun:m:v_rod  joy 0 sadness 9 anger 0 fear 0 amazement 0 disgust 0
+поводитись               поводитися     verb:rev:inf:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_oru)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+клієнтом                 клієнт         noun:m:v_oru:anim  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так                      так            adv:&pron:dem (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щоб                      щоб            conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у                        у              prep:rv_zna:rv_mis:rv_rod:v-u  (prep:rv_rod:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+клієнта                  клієнт         noun:m:v_rod:anim  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було                     бути           verb:past:n:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бажання                  бажання        noun:n:v_naz  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приходити                приходити      verb:inf:imperf  joy 15 sadness 0 anger 0 fear 0 amazement 4 disgust 0
+знову                    знову          adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знову                    знову          adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а                        а              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+бажання                  бажання        noun:n:v_naz  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розвернутися             розвернутися   verb:rev:inf:perf  joy 0 sadness 15 anger 0 fear 14 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 15 anger 0 fear 14 amazement 0 disgust 0
+піти                     піти           verb:inf:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+геть                     геть           adv  joy 0 sadness 30 anger 0 fear 0 amazement 15 disgust 0
+Чудовий                  чудовий        adj:m:v_naz:compb  joy 90 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+заклад                   заклад         noun:m:v_naz  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Потрапила                потрапити      verb:past:f:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туди                     туди           adv:&pron:dem  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вранці                                  adv:v-u   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Замовила                 замовити       verb:past:f:perf  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каву                     кава           noun:f:v_zna  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+медом                    мед            noun:m:v_oru  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та                       та             conj:coord joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+молоком                  молоко         noun:n:v_oru  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Це                       цей            adj:n:v_naz:&pron:dem (pron:dem) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+БОМБА                    бомба          noun:f:v_naz  joy 75 sadness 75 anger 75 fear 76 amazement 0 disgust 0
+Десерт                   десерт         noun:m:v_naz  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+був                      бути           verb:past:m:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+також                    також          adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже                     дуже           adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачним                  смачний        adj:m:v_oru:compb  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ще                       ще             adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+один                     один           numr:m:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+плюс                     плюс           noun:m:v_naz  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цього                    цей            adj:m:v_rod:&pron:dem (pron:dem:v_rod) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладу                  заклад         noun:m:v_rod  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це                       цей            adj:n:v_naz:&pron:dem (pron:dem) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те                       той            adj:n:v_naz:&pron:dem (pron:dem joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                       що             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+він                      він            pron:pers:m:3:v_naz:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працює                   працювати      verb:pres:s:3:imperf  joy 30 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+цілодобово               цілодобово     adv  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Окрема                   окремий        adj:f:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вдячність                вдячність      noun:f:v_naz  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціанту                офіціант       noun:m:v_dav:anim  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+котрий                   котрий         adj:m:v_naz:&pron:int (pron:int:&conj:subord) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приніс                   принести       verb:past:m:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мені                     я              pron:pers:s:1:v_dav:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ковдру                   ковдра         noun:f:v_zna  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так                      так            conj:coord:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як                       як             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було                     бути           verb:past:n:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+досить                   досить         adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прохолодно               прохолодно     adv:compb  joy 0 sadness 45 anger 7 fear 0 amazement 0 disgust 4
+Я                        я              pron:pers:s:1:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+люблю                    любити         verb:pres:s:1:imperf  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кухню                    кухня          noun:f:v_zna  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кумпеля                  -              - (noun:m:s:v_rod) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хоча                     хоча           conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мені                     я              pron:pers:s:1:v_dav:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+видалось                 видатися       verb:rev:past:n:perf  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+що                       що             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво                     пиво           noun:n:v_naz  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+дійсно                   дійсно         adv  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+змінилося                змінитися      verb:rev:past:n:perf  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+а                        а              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було                     бути           verb:past:n:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у                        у              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львові                   Львів          noun:m:v_mis  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сподобався               сподобатися    verb:rev:past:m:perf  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пивний                   пивний         adj:m:v_naz  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+агрегат                  агрегат        noun:m:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+при                      при            prep:rv_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вході                    вхід           noun:m:v_mis  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Персонал                 персонал       noun:m:v_naz  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+справді                  справді        adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніби                     ніби           part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як                       як             adv:&pron:int:rel joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_rod) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дешевого                 дешевий        adj:m:v_rod:compb  joy 0 sadness 90 anger 0 fear 0 amazement 0 disgust 0
+генделика                генделик       noun:m:v_rod  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Нам                      ми             pron:pers:p:1:v_dav:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+хамили                   хамити         verb:past:p:imperf  joy 0 sadness 90 anger 30 fear 8 amazement 0 disgust 0
+але                      але            conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те                       той            adj:n:v_naz:&pron:dem (pron:dem:n:v_naz) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                       що             pron:int:rel:n:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціанти                офіціант       noun:p:v_naz:anim  joy 30 sadness 15 anger 8 fear 0 amazement 0 disgust 0
+непрофесійні             непрофесійний  adj:p:v_naz   joy 0 sadness 90 anger 8 fear 0 amazement 3 disgust 0
+то                       то             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+факт                     факт           noun:m:v_naz   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Коли                     коли           conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відчиняєш                відчиняти      verb:pres:s:2:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+двері                    двері          noun:p:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до                       до             prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кумпеля                  -              - (noun:s:v_rod) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у                        у              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_rod:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+персоналу                персонал       noun:m:v_rod  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+завжди                   завжди         adv:&pron:gen (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такий                    такий          adj:m:v_naz:&pron:def (pron:def:m:v_naz) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вигляд                   вигляд         noun:m:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніби                     ніби           conj:subord   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тебе                     ти             pron:pers:s:2:v_rod:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чекають                  чекати         verb:pres:p:3:imperf  joy 0 sadness 45 anger 15 fear 0 amazement 0 disgust 0
+ЗАВЖДИ                   завжди         adv:&pron:gen  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то                       то             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я                        я              pron:pers:s:1:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+огляду                   огляд          noun:m:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                       на             prep:rv_zna joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+						(з огляду на)	(prep)			  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те                       той            adj:n:v_zna:&pron:dem(pron:dem) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                       що             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+захожу                   захожий        adj:f:v_zna (помилка у слові, мало бути слово "знаходжу", тому морфологічний аналіз неправильний) joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+час від часу             час від часу   </adv>  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+протягом                 протяг         noun:m:v_oru  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+                         (протягом)     (prep ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+5                        5              number  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+років                    рік            noun:p:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+економлять               економити      verb:pres:p:3:imperf  joy 0 sadness 60 anger 0 fear 15 amazement 0 disgust 0
+хороші                   хороший        adj:p:v_zna:compb  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столики                  столик         noun:p:v_zna  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мені                     я              pron:pers:s:1:v_dav:anim pron:pers:s:1:v_mis:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вже                      вже            adv:v-u  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+аж                       аж             part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смішно                   смішно         adv  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Єдина                    єдиний         adj:f:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+причина                  причина        noun:f:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чого                     що             pron:int:rel:n:v_rod (pron:int:rel:n:v_rod:&conj:subord) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я                        я              pron:pers:s:1:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все                      все            adv:v-u  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ж                        ж              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прихожу                  прихожий       adj:f:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то                       то             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кухня                    кухня          noun:f:v_naz  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+адекватні                адекватний     adj:p:v_naz:compb  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                       на             prep:rv_zna:rv_mis ( prep:rv_zna) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+неї                      вона           pron:pers:f:3:v_zna:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціни                     ціна           noun:p:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А                        а              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+от                       от             part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+традиційної              традиційний    adj:f:v_rod:compb  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+галицької                галицький      adj:f:v_rod  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гостинності              гостинність    noun:f:v_rod  joy 76 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якраз                    якраз          adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+немає                    немає          predic  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а                        а              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+веранда                  веранда        noun:f:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зараз                    зараз          adv:&pron:dem (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+генделик                 генделик       noun:m:v_naz  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+генделиком               генделик       noun:m:v_oru  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+як                       як             adv:&pron:int:rel  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                       на             prep:rv_zna:rv_mis (prep:rv_mis)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вокзалі                  вокзал         noun:m:v_mis  joy 0 sadness 15 anger 0 fear 15 amazement 0 disgust 0
+Жлобство                 жлобство       noun:n:v_naz:slang  joy 0 sadness 90 anger 15 fear 0 amazement 0 disgust 15
+Читаю                    читати         verb:pres:s:1:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивуюсь                  дивуватися     verb:rev:pres:s:1:imperf joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Відвідую                 відвідувати    verb:pres:s:1:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цей                      цей            adj:m:v_naz:&pron:dem (pron:dem) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад                   заклад         noun:m:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже                     дуже           adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+часто                    часто          adv:compb  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_rod) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+моменту                  момент         noun:m:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відкриття                відкриття      noun:n:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На                       на             prep:rv_zna joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рахунок                  рахунок        noun:m:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+						 (на рахунок/але правильна форма "щодо") (prep:v_rod)				 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пива                     пиво           noun:n:v_rod  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 16
+нічого                   нічого         predic  joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+сказати                  сказати        verb:inf:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можу                     могти          verb:unknown (verb:s:1:pres:imperf) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+оскільки                 оскільки       conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рідко                    рідко          adv:compb  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+його                     воно           pron:pers:n:3:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+п'ю                      пити           verb:pres:s:1:imperf  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а                        а              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+от                       от             part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кухня                    кухня          noun:f:v_naz  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+просто                   просто         part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обожнюю                  обожнювати     verb:pres:s:1:imperf  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їхні                     їхній          adj:p:v_zna:&pron:pos  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гарячі                   гарячий        adj:p:v_naz:compb  joy 15 sadness 15 anger 0 fear 15 amazement 0 disgust 0
+закуски                  закуска        noun:p:v_naz  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+десерти                  десерт         noun:p:v_naz  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Персонал                 персонал       noun:m:v_naz  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+може                     може           insert  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+й                        й              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                       на             prep:rv_zna:rv_mis (prep:rv_mis ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найвищому                високий        adj:m:v_mis:super  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рівні                    рівень         noun:m:v_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але                      але            conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+достатньо                достатньо      adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітний                привітний      adj:m:v_naz:compb  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ввічливий                ввічливий      adj:m:v_naz:v-u  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Приходила                приходити      verb:past:f:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туди                     туди           adv:&pron:dem  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+по                       по             prep:rv_mis:rv_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спортивному              спортивний     adj:m:v_dav  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+(має бути "спортивно" - adv, а не "по спортивному"										 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вдягнена                 вдягнений      adjp:pasv:past:f:v_naz  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+при                      при            prep:rv_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+повному                  повний         adj:m:v_mis:compb  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+параді                   парад          noun:m:v_mis  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ставлення                ставлення      noun:n:v_naz   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+однакове                 однаковий      adj:n:v_naz   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пишуть                   писати         verb:pres:p:3:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                       що             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+внизу                    внизу          adv:v-u  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже                     дуже           adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+накурено                 накурити       verb:impers:perf  joy 0 sadness 75 anger 15 fear 15 amazement 0 disgust 15
+не                       не             part  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+пригадую                 пригадувати    verb:pres:s:1:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такого                   такий          adj:m:v_rod:&pron:def (pron:def:m:v_zna) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хоча                     хоча           conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+						 (хоч)			insert	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сама                     сам            adj:f:v_naz:&pron:def joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+курю                     курити         verb:pres:s:1:imperf  joy 0 sadness 68 anger 8 fear 0 amazement 0 disgust 15
+витяжка                  витяжка        noun:f:v_naz  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+там                      там            adv:&pron:dem (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже                     дуже           adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потужна                  потужний       adj:f:v_naz:compb  joy 0 sadness 75 anger 0 fear 0 amazement 0 disgust 0
+Часто                    часто          adv:compb  joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+друзі                    друзі          noun:p:v_naz:anim  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_rod) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одеси                    Одеса          noun:f:v_rod  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мукачево                 - (Мукачево)   - (noun:m:v_rod)  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в                        в              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_zna:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+програму                 програма       noun:f:v_zna  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відпочинку               відпочинок     noun:m:v_rod  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+завжди                   завжди         adv:&pron:gen  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+входить                  входити        verb:pres:s:3:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідування             відвідування   noun:p:v_naz   joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кумпелю                  -              - (noun:m:s:v_kly) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Від                      від            prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мене                     я              pron:pers:s:1:v_rod:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+особисто                 особисто       adv:compb  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладу                  заклад         noun:m:v_dav  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+п'ятірка                 п'ятірка       noun:f:v_naz  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Хоча                     хоча           conj:subord (insert) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якщо                     якщо           conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+є                        бути           verb:pres:p::imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стільки                  стільки        numr:p:v_naz:&pron:ind  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нарікань                 нарікання      noun:p:v_rod  joy 0 sadness 90 anger 15 fear 0 amazement 0 disgust 0
+мусите                   мусити         verb:pres:p:2:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вдосконалюватись       вдосконалюватись verb:rev:inf:imperf:v-u  joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чого                     що             pron:int:rel:n:v_rod ((pron:int:rel:n:v_rod:&conj:subord)) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вам                      ви             pron:pers:p:2:v_dav:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бажаю                    бажати         verb:pres:s:1:imperf  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Доброго                  добрий         adj:m:v_rod:compb  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дня                      день           noun:m:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На                       на             prep:rv_zna:rv_mis (prep:rv_mis ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+днях                     день           noun:p:v_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їздили                   їздити         verb:past:p:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+компанією                компанія       noun:f:v_oru  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до                       до             prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львова                   Львів          noun:m:v_rod  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нам                      ми             pron:pers:p:1:v_dav:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порекомендували          порекомендуватиverb:past:p:perf  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Купмель                  -              - (noun:m:s:v_naz) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їхнє                     їхній          adj:n:v_zna:&pron:pos  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бурштинове               бурштиновий    adj:n:v_zna  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                       що             pron:int:rel:n:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можу                     могти          verb:unknown (verb:s:1:pres:imperf) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво                     пиво           noun:n:v_naz   joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+в                        в              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+світі                    світ           noun:m:v_mis  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це                       цей            adj:n:v_naz:&pron:dem (pron:dem) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тільки                   тільки         part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+моя                      мій            adj:f:v_naz:&pron:pos  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+думка                    думка          noun:f:v_naz  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Хочеться                 хотітися       verb:unknown  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+повертатися              повертатися    verb:rev:inf:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до                       до             prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львова                   Львів          noun:m:v_rod  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знову                    знову          adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знову                    знову          adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заходити                 заходити       verb:inf:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до                       до             prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Куплеля                  -              - (noun:m:s:v_rod) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Стосовно                 стосовно       adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працівників              працівник      noun:p:v_rod:anim  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+можу                     могти          verb:unknown  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сказати                  сказати        verb:inf:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                       що             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все                      все            adv:v-u   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було                     бути           verb:past:n:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                       на             prep:rv_zna:rv_mis (prep:rv_mis) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+висоті                   висота         noun:f:v_mis  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+починаючи                починати       advp:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+від                      від            prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+входу                    вхід           noun:m:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нами                     ми             pron:pers:p:1:v_oru:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привіталися              привітатися    verb:rev:past:p:perf  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знайшли                  знайти         verb:past:p:perf  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+нам                      ми             pron:pers:p:1:v_dav:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вільні                   вільний        adj:p:v_zna:compb  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місці                    місце          noun:n:v_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+протягом                 протяг         noun:m:v_oru  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+                         (протягом)     (prep ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вечора                   вечір          noun:m:v_rod  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ввічлива                 ввічливий      adj:f:v_naz:v-u  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розмова                  розмова        noun:f:v_naz  joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+швидке                   швидкий        adj:n:v_naz:compb  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+реагування               реагування     noun:n:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+зміна                    зміна          noun:f:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+попільничок              попільничка    noun:p:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 45
+виніс                    винести        verb:past:m:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пустих                   пустий         adj:p:v_rod   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все                      все            adv:v-u   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було                     бути           verb:past:n:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найкраще                 хороший        adj:n:v_naz:super  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+при                      при            prep:rv_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виході                   вихід          noun:m:v_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нами                     ми             pron:pers:p:1:v_oru:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+попрощалися              попрощатися    verb:rev:past:p:perf  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+та                       та             conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+побажали                 побажати       verb:past:p:perf  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приємного                приємний       adj:m:v_rod:compb  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+часу                     час            noun:m:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+проведення               проведення     noun:n:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у                        у              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u )       joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львові                   Львів          noun:m:v_mis  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ДУЖЕ                     дуже           adv  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+б                        б              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотілося                 хотітися       verb:unknown (verb:n:s:past) joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щоб                      щоб            conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+філії                    філія          noun:p:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відкривалися             відкриватися   verb:rev:past:p:imperf  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у                        у              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u )       joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інших                    інший          adj:p:v_mis:&pron:def  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+містах                   місто          noun:p:v_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ну                       ну             excl  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+дуже                     дуже           adv  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+далеко                   далеко         adv:compb  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+їхати                    їхати          verb:inf:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до                       до             prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вас                      ви             pron:pers:p:2:v_rod:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_rod) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Харкова                  Харків         noun:m:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я                        я              pron:pers:s:1:v_naz:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кажу                     казати         verb:pres:s:1:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Наглий                   наглий         adj:m:v_naz  joy 0 sadness 90 anger 15 fear 0 amazement 0 disgust 15
+зверхній                 зверхній       adj:m:v_naz  joy 0 sadness 90 anger 15 fear 0 amazement 0 disgust 15
+та                       та             conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хамовитий                хамовитий      adj:m:v_naz   joy 0 sadness 90 anger 15 fear 0 amazement 0 disgust 15
+адміністратор            адміністратор  noun:m:v_naz:anim  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                       на             prep:rv_zna:rv_mis  (prep:rv_mis) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вході                    вхід           noun:m:v_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніяк                     ніяк           adv:&pron:neg  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+додає                    додавати       verb:pres:s:3:imperf  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+престижу                 престиж        noun:m:v_rod  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для                      для            prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладу                  заклад         noun:m:v_rod  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+                         закласти       verb:futr:s:1:perf  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+комфорту                 комфорт        noun:m:v_rod  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для                      для            prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+його                     він            pron:pers:m:3:v_rod:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідувачів             відвідувач     noun:p:v_rod:anim  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Але                      але            conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як                       як             adv:&pron:int:rel joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я                        я              pron:pers:s:1:v_naz:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зрозумів                 зрозуміти      verb:past:m:perf  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хамство                  хамство        noun:n:v_naz  joy 90 sadness 0 anger 15 fear 0 amazement 0 disgust 15
+це                       цей            adj:n:v_naz:&pron:dem(pron:dem)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+така                     такий          adj:f:v_naz:&pron:def  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+політика                 політика       noun:f:v_naz  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+власника                 власник        noun:m:v_rod:anim  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладу                  заклад        noun:m:v_rod  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щоби                     щоби           conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відсіяти                 відсіяти       verb:inf:perf  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+менш                     мало           adv:compr  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+платоспроможних          платоспроможнийadj:p:v_zna  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+клієнтів                 клієнт         noun:p:v_zna:anim  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нічого                   нічого         predic  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Подібних                 подібний       adj:p:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закладів                 заклад         noun:p:v_rod  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+є                        бути           verb:pres:p::imperf  joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще                       ще             part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+немало                   немало         adv  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+залишатиму               залишати       verb:futr:s:1:imperf  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+свої                     свій           adj:p:v_zna:&pron:pos  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гроші                    гроші          noun:p:v_zna  joy 99 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в                        в              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інших                    інший          adj:p:v_mis:&pron:def  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Заклад                   заклад         noun:m:v_naz  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+останнім                 останній       adj:m:v_oru  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+часом                    час            noun:m:v_oru  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже                     дуже           adv  joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зіпсувався               зіпсуватися    verb:rev:past:m:perf  joy 0 sadness 90 anger 15 fear 0 amazement 0 disgust 15
+пиво                     пиво           noun:n:v_naz  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+стало                    стати          verb:past:n:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нікудишнє                нікудишній     adj:n:v_naz (adj:n:v_oru) joy 0 sadness 76 anger 0 fear 15 amazement 0 disgust 0
+ми                       ми             pron:pers:p:1:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+друзями                  друзі          noun:p:v_oru:anim  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вже                      вже            adv:v-u  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туди                     туди           adv:&pron:dem (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+ходимо                   ходити         verb:pres:p:1:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у                        у              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львові                   Львів          noun:m:v_mis  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щодня                    щодня          adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відкривають              відкривати     verb:pres:p:3:imperf  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нові                     новий          adj:p:v_zna:compb  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклади                  заклад         noun:p:v_zna  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там                      там            adv:&pron:dem (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+персонал                 персонал       noun:m:v_naz  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                       на             prep:rv_zna:rv_mis (prep:rv_zna) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порядок                  порядок        noun:m:v_zna  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кращі                    хороший        adj:p:v_naz:compr  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вперше                   вперше         adv:v-u  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідали                відвідати      verb:past:p:perf  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад                   заклад         noun:m:v_zna  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пару                     пар            noun:m:v_dav  (numr:v_rod) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+днів                     день           noun:p:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тому                     тому           conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хочу                     хотіти         verb:unknown  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відзначити               відзначити     verb:inf:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+надзвичайно              надзвичайно    adv  joy 75 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+колоритну                колоритний     adj:f:v_zna:compb  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосферу                атмосфера      noun:f:v_zna  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачну                   смачний        adj:f:v_zna:compb  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кухню                    кухня          noun:f:v_zna  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цікавий                  цікавий        adj:m:v_naz:compb  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смак                     смак           noun:m:v_naz  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+теплого                  теплий         adj:n:v_rod:compb  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пива                     пиво           noun:n:v_rod  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ромом                    ром            noun:m:v_oru  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+приємне                  приємний       adj:n:v_naz:compb  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обслуговування           обслуговування noun:n:v_naz  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дякуємо                  дякувати       verb:pres:p:1:imperf  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціанту                офіціант       noun:m:v_dav:anim  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Валентину                Валентин       noun:m:v_dav:anim:fname (noun:m:v_dav:anim:mname) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+                         Валентина      noun:f:v_zna:anim:fname  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Панує                    панувати       verb:pres:s:3:imperf  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гостинність              гостинність    noun:f:v_naz  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+почуття                  почуття        noun:n:v_naz  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+гумору                   гумор          noun:m:v_rod  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На                       на             prep:rv_zna:rv_mis (prep:rv_zna) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мій                      мій            adj:m:v_zna:&pron:pos  joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+погляд                   погляд         noun:m:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+                         (на мій погляд)(insert) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кращий                   хороший        adj:m:v_naz:compr  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад                   заклад         noun:m:v_naz  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у                        у              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_misv-u)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+свої                     свій           adj:p:v_naz:&pron:pos (adj:p:v_mis:&pron:pos ) joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пивній                   пивний         adj:f:v_mis  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+категорії                категорія      noun:f:v_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Жаль                     жаль           noun:m:v_naz  joy 0 sadness 30 anger 1 fear 0 amazement 0 disgust 0
+що                       що             conj:subord  joy 0 sadness 0 anger 1 fear 0 amazement 0 disgust 0
+у                        у              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u ) joy 0 sadness 0 anger 1 fear 0 amazement 0 disgust 0
+нас                      ми             pron:pers:p:1:v_mis:anim  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в                        в              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Києві                    Київ           noun:m:v_mis  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такого                   такий          adj:m:v_rod:&pron:def (pron:def:n:v_rod) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+немає                    немає          predic  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Обов'язково              обов'язково    adv  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+відвідаємо               відвідати      verb:futr:p:1:perf  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кумпель                  -              - (noun:m:s:v_naz) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+одним                    один           numr:m:v_oru  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+із                       із             prep:rv_rod:rv_zna:rv_oru (prep:rv_zna) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перших                   перший         adj:p:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+під                      під            prep:rv_zna:rv_oru  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+час                      час            noun:m:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+						 (під час)       (prep)				 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наступної                наступний      adj:f:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мандрівки                мандрівка      noun:f:v_rod  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до                       до             prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львова                   Львів          noun:m:v_rod  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Найсмачніша              смачний        adj:f:v_naz:super  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кухня                    кухня          noun:f:v_naz  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у                        у              prep:rv_zna:rv_mis:rv_rod:v-u  (prep:rv_mis:v-u ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львові                   Львів          noun:m:v_mis  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже                     дуже           adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+раджу                    радити         verb:pres:s:1:imperf  joy 9 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ковбаски                 ковбаска       noun:p:v_zna  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чесну                    чесний         adj:f:v_zna:compb  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+часникову                часниковий     adj:f:v_zna  joy 0 sadness 31 anger 0 fear 0 amazement 0 disgust 10
+зупу                     зупа           noun:f:v_zna:rare  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Бурштинове               бурштиновий    adj:n:v_zna  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво                     пиво           noun:n:v_zna  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+З                        з              prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+першого                  перший         adj:m:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+разу                     раз            noun:m:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у                        у              prep:rv_zna:rv_mis:rv_rod:v-u ( prep:rv_zna:v-u ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+новий                    новий          adj:m:v_zna:compb  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ресторан                 ресторан       noun:m:v_zna  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кумпель                  -              - (noun:m:s:v_naz) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                       на             prep:rv_zna:rv_mis (prep:rv_mis ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Чорновола                Чорновіл       noun:m:v_rod:anim:lname (noun:m:v_mis:anim:lname) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+попали                   попасти        verb:past:p:perf  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все                      все            adv:v-u  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було                     бути           verb:past:n:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зайнято                  зайняти        verb:impers:perf  joy 0 sadness 45 anger 15 fear 0 amazement 0 disgust 0
+хоча                     хоча           conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це                       цей            adj:n:v_naz:&pron:dem (pron:dem ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+був                      бути           verb:past:m:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+четвер                   четвер         noun:m:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+19.00                    19.00          time  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На                       на             prep:rv_zna:rv_mis (prep:rv_zna) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+другий                   другий         adj:m:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+раз                      раз            noun:m:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вже                      вже            adv:v-u  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+попередньо               попередньо     adv  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зарезервували            зарезервувати  verb:past:p:perf  joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столик                   столик         noun:m:v_zna  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Інтер'єр                 інтер'єр       noun:m:v_naz   joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мені                     я              pron:pers:s:1:v_dav:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже                     дуже           adv  joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобався               сподобатися    verb:rev:past:m:perf  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а                        а              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+от                       от             part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обслуговування           обслуговування noun:n:v_naz  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотілося                 хотітися       verb:unknown (verb:n:s:past) joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+б                        б              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+краще                    хороший        adj:n:v_naz:compr  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Було                     бути           verb:past:n:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+таке                     такий          adj:n:v_naz:&pron:def (pron:def:n:v_naz) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відчуття                 відчуття       noun:n:v_naz  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                       що             conj:subord   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я                        я              pron:pers:s:1:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прийшла                  прийти         verb:past:f:perf  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+без                      без            prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+запрошення               запрошення     noun:n:v_rod  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в                        в              prep:rv_zna:rv_mis:rv_rod:v-u ( prep:rv_mis:v-u)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гості                    гостя          noun:f:v_mis:anim  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже                     дуже           adv  joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їх                       вони           pron:pers:p:3:v_rod:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там                      там            adv:&pron:dem (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цим                      цей            adj:m:v_oru:&pron:dem (pron:dem:n:v_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дратую                   дратувати      verb:pres:s:1:imperf  joy 0 sadness 60 anger 29 fear 0 amazement 0 disgust 15
+Ми                       ми             pron:pers:p:1:v_naz:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розраховувались          розраховуватисяverb:rev:past:p:imperf  joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так                      так            adv:&pron:dem (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціант                 офіціант       noun:m:v_naz:anim  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+трошки                   трошки         adv  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+розгубився               розгубитися    verb:rev:past:m:perf  joy 0 sadness 29 anger 0 fear 0 amazement 0 disgust 0
+кому                     кома           noun:f:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+                         хто            pron:int:rel:m:v_dav:anim (conj:subord) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+віддавати                віддавати      verb:inf:imperf  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 0
+картку                   картка         noun:f:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дурна                    дурний         adj:f:v_naz:compb  joy 0 sadness 75 anger 15 fear 0 amazement 0 disgust 9
+ситуація                 ситуація       noun:f:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Жаль                     жаль           noun:m:v_naz  joy 0 sadness 46 anger 15 fear 0 amazement 0 disgust 2
+що                       що             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ввели                    ввести         verb:past:p:perf:v-u  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обмеження                обмеження      noun:n:v_zna  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+на                       на             prep:rv_zna:rv_mis (prep:rv_zna) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво                     пиво           noun:n:v_zna  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+по                       по             prep joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+віковій                  віковий        adj:f:v_dav  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+категорії                категорія      noun:f:v_dav  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тільки                   тільки         part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+від                      від            prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+21                       21             number  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Так                      так            adv:&pron:dem (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніби                     ніби           part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми                       ми             pron:pers:p:1:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в                        в              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+США                      США            noun:p:v_mis:nv:ns  joy 30 sadness 0 anger 0 fear 15 amazement 0 disgust 0
+живемо                   жити           verb:pres:p:1:imperf  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+де                       де             adv:&pron:int:rel (conj:subord ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+повноліття               повноліття     noun:n:v_naz  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_rod) joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+21                       21             number  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В                        в              prep:rv_zna:rv_mis:rv_rod:v-u  (prep:rv_rod:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нас                      ми             pron:pers:p:1:v_rod:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_rod) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+18                       18             number  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кумпель                  -              - (noun:m:s:v_naz) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудовий                  чудовий        adj:m:v_naz:compb  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад                   заклад         noun:m:v_naz  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+І                        і              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порції                   порція         noun:p:v_naz  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+великі                   великий        adj:p:v_naz:compb  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пиво                     пиво           noun:n:v_naz  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+там                      там            adv:&pron:dem (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найкраще                 хороший        adj:n:v_naz:super  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_rod:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усіх                     увесь          adj:p:v_rod:&pron:dem  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кнайп                    кнайпа         noun:p:v_rod  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у                        у              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цікаво                   цікаво         adv:compb  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вони                     вони           pron:pers:p:3:v_naz:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там                      там            adv:&pron:dem (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво                     пиво           noun:n:v_zna  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+дійсно                   дійсно         adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варять                   варити         verb:pres:p:3:imperf  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чи                       чи             conj:coord:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то                       то             conj:subord (part) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бутафорія                бутафорія      noun:f:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зробили                  зробити        verb:past:p:perf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+б                        б              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якусь                    якийсь         adj:f:v_zna:&pron:ind  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+презентацію              презентація    noun:f:v_zna  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Дуже                     дуже           adv  joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+крутий                   крутий         adj:m:v_naz:compb  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад                   заклад         noun:m:v_naz  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru ( prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пивом                    пиво           noun:n:v_oru  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+у                        у              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львові                   Львів          noun:m:v_mis  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Класно                   класно         adv  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                       що             conj:subord   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+він                      він            pron:pers:m:3:v_naz:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тепер                    тепер          adv:&pron:dem (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працює                   працювати      verb:pres:s:3:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цілодобово               цілодобово     adv  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В                        в              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кумпелі                  -              - (noun:m:s:v_mis) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були                     бути           verb:past:p:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лише                     лише           part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тричі                    тричі          adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+жодного                  жодний         adj:m:v_rod:&pron (pron) joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+разу                     раз            noun:m:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+зіткнулись               зіткнутися     verb:rev:past:p:perf  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хамством                 хамство        noun:n:v_oru  joy 90 sadness 0 anger 15 fear 0 amazement 0 disgust 15
+або                      або            conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+неадекватністю           неадекватність noun:f:v_oru  joy 75 sadness 0 anger 15 fear 0 amazement 0 disgust 15
+персоналу                персонал       noun:m:v_rod  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Можливо                  можливо        adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нам                      ми             pron:pers:p:1:v_dav:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пощастило                пощастити      verb:past:n:perf  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Хоча                     хоча           conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+й                        й              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+довелось                 довестися      verb:rev:past:n:perf  joy 0 sadness 15 anger 7 fear 0 amazement 0 disgust 0
+трохи                    трохи          adv  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+почекати                 почекати       verb:inf:perf  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+замовлення               замовлення     noun:n:v_rod  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але                      але            conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ж                        ж               part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніяк                     ніяк           adv:&pron:neg  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+годину                   година         noun:f:v_zna  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кухня                    кухня          noun:f:v_naz  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+справді                  справді        insert  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже                     дуже           adv  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+непогана                 непоганий      adj:f:v_naz  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Особисто                 особисто       adv:compb  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нам                      ми             pron:pers:p:1:v_dav:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подобається              подобатися     verb:rev:pres:s:3:imperf  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в                        в              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хлібі                    хліб           noun:m:v_mis  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+качка                    качка          noun:f:v_naz:anim  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+соління                  соління        noun:n:v_naz  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 15
+різні                    різний         adj:p:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ковбаски                 ковбаска       noun:p:v_naz  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Як                       як             adv:&pron:int:rel  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                       на             prep:rv_zna:rv_mis (prep:rv_zna) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мій                      мій            adj:m:v_zna:&pron:pos  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+погляд                   погляд         noun:m:v_zna 	 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+						 (як на мій погляд) (insert)			 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кумпель                  -              -(noun:m:s:v_naz)  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цікаве                   цікавий        adj:n:v_naz:compb  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце                    місце          noun:n:v_naz  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+яке                      який           adj:n:v_naz:&pron:int:rel:def (conj:subord) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хоча                     хоча           part  joy 0 sadness 0 anger 0 fear 0 amazement 4 disgust 0
+б                        б              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+раз                      раз            adv  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+має                      мати           verb:pres:s:3:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відвідати                відвідати      verb:inf:perf  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+той                      той            adj:m:v_naz:&pron:dem (pron:dem:m:v_naz) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хто                      хто            conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приїздить                приїздити      verb:pres:s:3:imperf  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до                       до             prep:rv_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львова                   Львів          noun:m:v_rod  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вперше                   вперше         adv:v-u  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були                     бути           verb:past:p:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+минулої                  минулий        adjp:actv:past:f:v_rod  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+суботи                   субота         noun:f:v_rod   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru  (prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подругою                 подруга        noun:f:v_oru:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в                        в              prep:rv_zna:rv_mis:rv_rod:v-u  (prep:rv_mis:v-u)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кумпелі                  -              - (noun:m:s:v_mis) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+той                      той            adj:m:v_naz:&pron:dem (pron:dem:m:v_naz) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що                       що             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в                        в              prep:rv_zna:rv_mis:rv_rod:v-u (prep:rv_mis:v-u)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+центрі                   центр          noun:m:v_mis  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Їжа                      їжа            noun:f:v_naz  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+жах                      жах            noun:m:v_naz  joy 0 sadness 90 anger 30 fear 0 amazement 0 disgust 15
+замовляли                замовляти      verb:past:p:imperf  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бефстроганов             бефстроганов   noun:p:v_rod:nv  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з                        з              prep:rv_rod:rv_zna:rv_oru  ( prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кльоцками                -              - (n:rare) joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Їсти                     їсти           verb:inf:imperf  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було                     бути           verb:past:n:imperf  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+можливо                  можливо        adv   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Телятина                 телятина       noun:f:v_naz  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якась                    якийсь         adj:f:v_naz:&pron:ind  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+якби                     якби           conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хтось                    хтось          pron:ind:v_naz:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+доїв                     доїсти         verb:past:m:perf  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+                         доїти          verb:past:m:imperf  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зранку                   зранку         adv  joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а                        а              conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нам                      ми             pron:pers:p:1:v_dav:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потім                    потім          adv:&pron:dem  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підігріли                підігріти      verb:past:p:perf  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Подача                   подача         noun:f:v_naz  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+жах                      жах            noun:m:v_naz   joy 0 sadness 90 anger 15 fear 0 amazement 0 disgust 15
+скинули                  скинути        verb:past:p:perf  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+як                       як             adv:&pron:int:rel  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+свиням                   свині          noun:unknown (noun:p:v_dav) joy 0 sadness 75 anger 15 fear 0 amazement 0 disgust 15
+Я                        я              pron:pers:s:1:v_naz:anim joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже                     дуже           adv  joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+люблю                    любити         verb:pres:s:1:imperf  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цей                      цей            adj:m:v_naz:&pron:dem (pron:dem) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад                   заклад         noun:m:v_zna  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але                      але            conj:coord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вже                      вже            adv:v-u  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+втретє                   втретє         adv:v-u  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там                      там            adv:&pron:dem  (adv) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+І                        і              part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+накінець                 накінець       adv:bad  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лайми                    лайм           noun:p:v_zna  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо                       бо             conj:subord  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пити                     пити           verb:inf:imperf  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+текілу                   текіла         noun:f:v_zna  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+з                        з              prep:rv_rod:rv_zna:rv_oru (prep:rv_oru) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лимоном                  лимон          noun:m:v_oru  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не                       не             part  joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+дуже                     дуже           adv  joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як                       як             part  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на                       на             prep:rv_zna:rv_mis  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мене                     я              pron:pers:s:1:v_rod:anim  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+						 (як на мене)	(insert)			 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
