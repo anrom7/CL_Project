@@ -1,7 +1,7 @@
 ﻿А			а               conj:coord 
 мені		я               pron:pers:s:1:v_dav:anim
 дуже		дуже            adv 
-подобається подобатися  verb:pres:imperf
+подобається подобатися  	verb:pres:imperf
 і       	і               conj:coord
 атмосфера 	атмосфера     	noun:f:v_naz
 і       	і               conj:coord 
