@@ -1185,13 +1185,9 @@ Del Pesto 	Del Pesto		noun:proper
 Замовляла 	замовляти 	  	verb:past:f:imperf 
 смородиновий смородиновий 	adj:m:v_naz 
 чізкейк	  	- 		  		- 
-...	  		- 		  		- 
 ммммм	  	- 		  		-
-,	  		- 		  		- 
 смакота	  	смакота 	  	noun:f:v_naz 
-...	  		- 		  		- 
 здається  	здаватися 	  	verb:rev:pres:s:3:imperf 
-,	  		- 		  		- 
 що	  		що 		  		pron:int:rel:n:v_naz
 він	  		він 		  	pron:pers:m:3:v_naz:anim
 був	  		бути 		  	verb:past:m:imperf 
