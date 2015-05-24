@@ -1,0 +1,388 @@
+Ju 20-30 female
+ремонт joy 44 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+репутацію  joy 44 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+репутація joy 44 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ресторан  joy 27 sadness 0 anger 0 fear 0 amazement 74 disgust 0
+рецептам joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+решта joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+решта  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+решті  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+робити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розмовляли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розмірів  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розраховуємо  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розташовані  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розумію  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+року joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рукою  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рівень joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+різні  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рік  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сайт joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сам  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+самих  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+самообслуговування joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+самі  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+своїх  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+своїх  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+свіжості joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+себе joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+селянська joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сервіс joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сервісів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+серед  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+середині  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сестра joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сиділа  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сиділа  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ситуацію  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+скажемо  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сказав  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сказавши  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сказала joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+складного  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+складовій joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+скільки  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+слова  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+словами  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+словом joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+словом  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+слоган  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смак joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сміються joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+собою joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+совістні  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+соках  joy 0 sadness 0 anger 0 fear 0 amazement 60 disgust 0
+соку  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сонні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+соромно  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалось joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спортила  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+споруди joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спостерігав  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+справді  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спричиняли  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сприяє  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спілкуватись  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+став  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ставлення  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стаканів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стандартам joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стандарти  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стані joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стараєтесь  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стерво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+столик joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стосовно  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стоять joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+страв  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+студентів  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стіл  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стільки  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+суботу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сумочки  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+супер joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+супермаркеті joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+суха joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+суші joy 52 sadness 0 anger 0 fear 0 amazement 53 disgust 0
+суші – барів joy 52 sadness 0 anger 0 fear 0 amazement 53 disgust 0
+суші- бару joy 52 sadness 0 anger 0 fear 0 amazement 53 disgust 0
+суші-барів  joy 52 sadness 0 anger 0 fear 0 amazement 53 disgust 0
+сюрприз  joy 52 sadness 0 anger 0 fear 0 amazement 53 disgust 0
+сільради  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такої  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тепер  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ти  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+того joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тому joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тоненька joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тоном  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+торгових  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+торгово-розважальних joy 0 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+точно  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+традиційним  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+трапилась  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+третє joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тримати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+трошки  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+трьох  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туалету  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туда joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тягне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тяжко  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тільки  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+увагу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ужасно  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+українцями  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+упаси joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усе  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усміхатись  joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+усмішки  joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+усім joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усіх  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+уявляєте joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+факт joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+форматах joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+форматі  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+формувати  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+форумах joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фігня joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 61
+фізичного  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хамити  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 60
+хвильку  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хлопці  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хліб  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ходжу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хороше joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотіли  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотіли зробити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотілось  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хочу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хто  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хто-зна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хтось joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цей  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+центрах joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+центрі  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цьому  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цю  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+час  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+час  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+часу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+через  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чи  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чим  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чому  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чутливий  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чуть  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шановні  joy 59 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+швидко  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ше  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+широким  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шкода joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шлунок  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шокована joy 0 sadness 0 anger 0 fear 55 amazement 0 disgust 0
+шокована  joy 0 sadness 0 anger 0 fear 55 amazement 0 disgust 0
+шоколад  joy 86 sadness 0 anger 0 fear 0 amazement 93 disgust 0
+шоці  joy 0 sadness 0 anger 0 fear 57 amazement 0 disgust 0
+штатах joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шість joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шість  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щоб joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щось  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+який  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якої  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якщо  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+які joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якісним  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якісно  joy 0 sadness 0 anger 0 fear 0 amazement 60 disgust 0
+якістні  joy 0 sadness 0 anger 0 fear 0 amazement 60 disgust 0
+якість  joy 0 sadness 0 anger 0 fear 0 amazement 60 disgust 0
+японські  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+є joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ідіть  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+імбиру  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+іменує  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інгредієнти  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+іноземною joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+іноземцями joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інтерєр  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інше  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+історії  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+іти  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ївши  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їжу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їй joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Був у п'ятницю (18.10.13) перший раз . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бслуговування жахливе .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 100
+Замовили кілька м'ясних страв , закуски випивку , все несли дуже довго , а хліб принесли вже коли ми зібрались іти , та й то після того як ми покликали адміністратора , хоч нагадували офіціантам кілька разів .  joy 0 sadness 60 anger 0 fear 0 amazement 0 disgust 0
+Потім ми піднялись на другий поверх на дискотеку , все було гарно , та коли принесли рахунок , в ньому було окрім інших страв 12 порцій соку по 0,2 л . , хоча ми замовили два літрових пакети , я запитав офіціанта , чому нам так порахували , мені відповіли що так всім рахують - літровий пакет рахують як шість стаканів по 0,2 л .  joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+Я пробував пояснити офіціанту що в одному літрі п'ять порцій по 0,2 літри а не шість , та він мене не зрозумів . - сказав так видає касовий апарат , значить так правильно .  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Знов попросили адміністратора , та його вже не було - друга година ночі . Не погано так на соках хлопці піднімаються ! joy 0 sadness 60 anger 59 fear 0 amazement 0 disgust 0
+Просто жуууть .  joy 0 sadness 60 anger 89 fear 0 amazement 0 disgust 32
+Повеселило меня это место от души , такой кислой попсы , я , наверно , нигде не встречала .  joy 0 sadness 45 anger 50 fear 0 amazement 0 disgust 32
+Хотя , я так поняла , что людям нравится.  joy 60 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+И это повеселило меня ещё больше))) joy 77 sadness 0 anger 0 fear 0 amazement 83 disgust 0
+на пр.Свободи приміщення вражає! joy 77 sadness 0 anger 0 fear 0 amazement 83 disgust 0
+роли малуваті, імбиру на трьох мало дають joy 0 sadness 0 anger 37 fear 0 amazement 0 disgust 0
+руда офіціантка . . .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зверхнє стерво joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+а ше там літала велика муха і пилючно joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 30
+Скажу так. . . персонал веселий , і завжди в хорошому гуморі ! кухня смачна , сама смачна піца це , — селянська і парма , ще готика смачна , але трошки суха , а піца ХХЛ це просто бомба , таких самих розмірів що і в мене в штатах (long beach NY « west , or east side Pizza » ) ! повора совістні і якщо добре попросити то готові на любі компроміси ! все смачно ! продукти точно якістні , бо в мене шлунок дуже чутливий до продуктів ! ну взагалі все сподобалось ! буду заходити ! =) joy 76 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+" ЯпонаХата " національна мережа суші – барів .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На 1 листопада 2010 року , мережа включає в себе найбільшу кількість суші - барів в межах України , таким чином ми є найбільшим оператором . Наші суші бари знаходяться у великих місцях України : Київ , Львів , Дніпропетровськ , Харків , Донецьк , Луганськ . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ми працюємо у двох форматах : форматі ресторану та суші барів , що розташовані в торгово - розважальних центрах .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Наша місія : годувати усіх людей смачно і доступно , з користю для фізичного і морального здоров’я . joy 75 sadness 0 anger 0 fear 0 amazement 76 disgust 0
+Позиціонування: в основі позиціонування ТМ " ЯпонаХата " закладений критерій " Смачно " . Тому слоган компанії – " Смачно як в Японії " . Ми готуємо найсмачніші суші і страви японської кухні , зберігаючи при цьому повноцінні виходи і пропорції продуктів .  joy 75 sadness 0 anger 0 fear 0 amazement 76 disgust 0
+Також наші повара приділяють особливу увагу естетичній складовій .  joy 75 sadness 0 anger 0 fear 0 amazement 76 disgust 0
+Так як аутентична японська кухня це не тільки смак та якість а і краса . joy 75 sadness 0 anger 0 fear 0 amazement 76 disgust 0
+Ми зробили японські делікатеси доступними широким верствам населення , при цьому зберегли високі стандарти якості приготування ( наші повара працюють тільки по традиційним японським рецептам ) .  joy 68 sadness 0 anger 0 fear 0 amazement 89 disgust 0
+З іншого боку наші Гості мають можливість зануритися в атмосферу японського суші - бару : цьому сприяє дизайн наших закладів та обслуговування . joy 87 sadness 0 anger 0 fear 0 amazement 89 disgust 0
+Суші справді найсмачніші у Львові ( пробували все ) , однак обслуговування псується на очах : дівчата сонні , не уважні , обслуговують дуже довго ! ! ! !  joy 0 sadness 77 anger 65 fear 0 amazement 0 disgust 17
+Можливо вони перевтомлюються при такій кількості відвідувачів , але це вже питання до організаторів праці ! joy 0 sadness 77 anger 0 fear 0 amazement 0 disgust 0
+Суші ,звичайно класні ,але про бесплатну доставку при покупці на 200 грн . ліпа ! ! ! joy 0 sadness 0 anger 54 fear 0 amazement 0 disgust 0
+НАРОД ДЛЯ ЧОГО ТАК ОБМАНЮВАТИ СПОЖИВАЧІВ ! ! ? ?  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+так можна всіх клієнтів втратити ! ! ! ! ! ! joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+ЗАДУМАЙТЕСЬ І ВИПРАВТЕ ПОМИЛКУ НА САЙТІ ! ! ! ! ! ! joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+колись - це була моя любима кав'ярня , поки не зайшла останій раз пару днів тому . . .  joy 0 sadness 100 anger 0 fear 0 amazement 0 disgust 0
+По перше - ваняло калінізацією ,по друге любимий королівський шоколад став гидотний,по третє-заказала каву з молоком . . . но я не знаю що це було таке . . . таке не можливо пити ,ацтой повний ,більше туда не піду . . . і офіціантка не дружелюбна . joy 0 sadness 46 anger 47 fear 0 amazement 0 disgust 17
+Скажіть у вас тепер так заведено самообслуговування ?  joy 0 sadness 0 anger 47 fear 0 amazement 0 disgust 61
+Колись приходила на Староєврейську з задоволенням ,бо знала що там один з найкращих сервісів у Львові . joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+А тепер ?  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Чогось ваші працівники стоять , сміються ,ОБНІМАЮТЬСЯ ,вони де на роботі чи у себе дома ?  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 29
+Я вважаю що робота роботою ,а усе особисте поза нею . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 29
+Вкрай незадоволена .  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+Це якийсь притон для гопоти , а не елітний клуб .  joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+І я не говорю про відвідувачів , боже упаси .  joy 0 sadness 45 anger 45 fear 44 amazement 0 disgust 0
+Я говорю про персонал — люди , ви де вчились ?  joy 0 sadness 27 anger 15 fear 21 amazement 0 disgust 0
+Вас хто пустив до людей ? joy 0 sadness 27 anger 15 fear 21 amazement 0 disgust 0
+Моя сестра приїхала з Америки після довгої відсутності в Україні і попросила у бармена воду з під крану .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Барменша сказала їй , що вода не питна , але сестра наполягала на своєму .  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Тоді барменша сказала їй піти попити води з туалету . joy 0 sadness 30 anger 30 fear 0 amazement 0 disgust 0
+Це взагалі що? ? ?  joy 0 sadness 30 anger 76 fear 0 amazement 0 disgust 0
+Люди, ви хоч в курсі, що у всій Європі та Америці, будь-де, будь-хто може попросити воду з під крану і їй принесуть ?  joy 0 sadness 49 anger 76 fear 0 amazement 0 disgust 68
+У вас через місяь Євро 2012 ! ! !  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Іноземців буде валом .  joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+Ви всіх до туалету будете відправляти ? joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Викликали адміністратора .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Він не говорив англійською .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Питання вирішити ніяк не міг , тільки белькотів , що не розуміє англійську . joy 0 sadness 69 anger 69 fear 0 amazement 0 disgust 0
+Люди , дивіться коментар попереднього абзацу .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ви як плануєте спілкуватись з іноземною клієнтурою ?  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вони ж прийдуть — ви в центрі міста знаходитесь .  joy 0 sadness 63 anger 0 fear 0 amazement 0 disgust 0
+Так і будете белькотіти ?  joy 0 sadness 0 anger 75 fear 0 amazement 0 disgust 0
+Питання адміністратор не вирішив .  joy 0 sadness 0 anger 75 fear 0 amazement 0 disgust 0
+Сестру разом з подругами через те , що вони спричиняли галас , вивели на вулицю . joy 0 sadness 0 anger 75 fear 0 amazement 0 disgust 75
+Моя сестра проплакала півночі від цієї образи .  joy 0 sadness 74 anger 0 fear 0 amazement 0 disgust 0
+Мало того , що бармен її відправила пити воду з туалету , її попід руки вивели з клубу , як якогось злочинця . joy 0 sadness 74 anger 73 fear 41 amazement 0 disgust 0
+Люди в Фешн клабі , якщо ви думаєте , що таке відношення нормально , то ви помиляєтесь .  joy 0 sadness 0 anger 73 fear 0 amazement 0 disgust 0
+Іноземці звикли до зовсім іншого поводження , вони знаєть свої права .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 25
+І якщо ви думаєете , що обійдетесь пляшкою вина безкоштовно , то ви дуже помиляєтесь .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 100
+Європейці і американці не те що вважають це саме собою зрозуміле , вони вимагатимуть більше : людського відношення до своїх прав . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 100
+Саме погане , що я , живучи в Києві , роблю бізнес з цими іноземцями .  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Ви собі навіть не уявляєте , як тяжко їх переконати в тому , що є номральні люди в Україні після такого .  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Так хочеться привести бізнес в ту країну , так хочеться жити по - людськи тут , а не закордоном , але пілся такого . . . після того , як бармен відправляє клієнта в туалет пити воду , що можна сказати . . . joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Елітний клуб ?  joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я так не думаю . joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Мій емайл hoxtremeatgmail.com . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Якщо вам не байдужа власна репутація , прощу зі мною зв'язатись і пояснити поведінку власного персоналу . joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+Йдеться про зміну , в якій адміністраторами були Тарас та Володимир . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Абсолютно ви праві , дівчата .  joy 0 sadness 0 anger 0 fear 0 amazement 16 disgust 0
+Дякую за підтримку .  joy 45 sadness 0 anger 0 fear 0 amazement 54 disgust 0
+Огидно , бо через місяць місто прийматиме Євро 2012 і ці люди будуть формувати враження від міста .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 45
+Іноземці повернуться додому , і хто-зна , що ми після того читатимемо в Фейсбуці , Твіттері , і на форумах . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ДОбре якщо тільки напишуть , що у елітному клубі не говорять по англійськи .  joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+А якщо напишуть , що там хамло працює ? І відразу подумає — якщо вже таке хамло у Львові (!) , у елітному клубі (!) , то на решті України мабуть зовсім якесь голодрантя без сільради живе і працєю .  joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 30
+І з такою думкою поїдуть додому .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+І не повернуться більше ніколи . joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+А я люблю своє місто , і свою країну .  joy 30 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+І хочу тут жити . joy 30 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+Хочу , щоб під час Євро 2012 кожен побачив , яке прекрасне місто Львів , і які хороші тут люди є . joy 91 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+Впевнена , що і вам це відчуття близьке . joy 91 sadness 0 anger 0 fear 0 amazement 92 disgust 0
+Мені огидно за Фешен , і дуже соромно за людей , що там працюють , і за власників , які до такого допускают"ь . joy 0 sadness 0 anger 24 fear 0 amazement 0 disgust 25
+Я гадаю , що посилати клієнта напитись з туалету ажніяк не можна назвати якісним обслуговуванням і піклуванням про клієнта . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Не плутайте , будь-ласка , котлети з мухами . joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Немає нічого поганого в тому , щоб застерегти клієнта від пиття води з-під крану . joy 0 sadness 45 anger 47 fear 0 amazement 0 disgust 0
+Погано , коли бармен дозволяє собі відправляти клієнтів пити з туалету .  joy 0 sadness 45 anger 47 fear 0 amazement 0 disgust 0
+Ось це піклуванням тяжко назвати за будь-яких обставин . joy 0 sadness 46 anger 0 fear 0 amazement 0 disgust 0
+Вчора ввечері 22:10 23.08.2013 у місті Львові ми зайшли в Острів суші « Япі » сиділа дівчина при вході , з закладеними чуть не на стіл ногами ( виглядало воно гидко та непристойно ) , сказала що працюють до 23 год , Ми сказали ок — ми встигнемо ПОЇСТИ і з виглядом « чого приперлися » провела нашу компанію в зал . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Прийшла офіціантка і подала нам меню . 10 хв ми його вивчали і ще через 5 хв вона прийшла знову . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Коли ми хотіли замовити їжу — офіціантка нам сказала що кухня вже НЕ працює ! joy 0 sadness 0 anger 37 fear 0 amazement 0 disgust 0
+Це не можна було сказати одразу ?  joy 0 sadness 0 anger 100 fear 0 amazement 0 disgust 0
+Вона нам запрпонувала тільки роли невідомо якої свіжості . joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 15
+Ми звернулись до адміністратора закладу — він хамовито доказував нам що ми не праві , ця сама дівчина на вході коли ми до неї говорили ( хоть би встала коли з нею розмовляли ) — так і сиділа з закладеними ногами . joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 15
+В результаті з зіпсованим настроєм і голодні ми пішли в інший заклад . joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 15
+Куштував суші в цій нікчемній забігайлівці , хотіли надурити з рахунком — принесли його на папірці сказавши що в них не працює каосвий апарат , добре що дівчина глянула в разхунок і сказала що там щось забагато — поприсив меню повторно і виявилось що наразували на 50% більше . . .  joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 15
+Бульше туди ніколи не піду , тай смак суші що я замовив в цей деь нічим не кращий ніж заморжених куплених в супермаркеті .  joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+Чи ви не згідні ? joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обслуговування жахливе .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 31
+як тільки зайшли менеджер , в якої не було бейджа , тоном вахтера в гуртожитку буркнула : " закривайте за собою двері і вказала рукою на гардероб " .  joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 31
+дивно , що не сказали поприбирати за собою столик ! ! ! joy 0 sadness 0 anger 60 fear 0 amazement 0 disgust 0
+це нечувано , щоб заклад , який іменує себе рестораном , вів таку політику обслуговування ! ! joy 0 sadness 0 anger 75 fear 0 amazement 0 disgust 0
+за годину не побачила жодної усмішки у персоналу , а мимо нас носили інгредієнти на кухню . joy 0 sadness 0 anger 75 fear 0 amazement 0 disgust 0
+офіціантка і словом не промовилась , що замовлене мною блюдо дуже гостре , а в меню відповідної позначки не було .  joy 0 sadness 61 anger 62 fear 0 amazement 0 disgust 0
+одним словом , я краще витрачу час і поїду в СУШИЮ , де подібного ніколи не траплялось .  joy 0 sadness 61 anger 0 fear 0 amazement 0 disgust 0
+Категорично раджу не лишати гроші в закладі , який не поважає своїх клієнтів ! ! ! joy 0 sadness 61 anger 100 fear 0 amazement 0 disgust 71
+Те , що двері не закриваються самі — проблема виключно людей , які готували заклад до відкриття .  joy 0 sadness 61 anger 0 fear 0 amazement 0 disgust 0
+Ресторан ( яким ЯПІ вважається ) — це « особливий тип підприємства , у якому організація виробництва різноманітного асортименту кулінарної продукції складного готування поєднується з організацією високого (!!!!!!) рівня обслуговування відвідувачів у торгових залах ресторану » . joy 77 sadness 0 anger 0 fear 0 amazement 77 disgust 0
+А сервіс починається з входу .  joy 77 sadness 0 anger 0 fear 0 amazement 77 disgust 0
+Додати більше нічого . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Завжди віддавала перевагу закладу Сушия порівняно з іншими суші - барами .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Але дуже не подобається організація доставки . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Зробила замовлення 22:40 , а 22:50 передзвонили і сказали що не зможуть доставити суші , бо заклад закривається .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кілька хвилин дуже зіпсували репутацію цього закладу в моїх очах і відвідувати його більше нема ніякого бажання!!!! joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Просто жахливий заклад ! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 61
+Гроші лишаєш великі обслуга абсолютно ворожо - хамовито настоєнна , кухня навідь на радянську столовку не тягне .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 61
+Люди не ідіть і не підтримуйте закладів подібного типу  ! ! ! ! ! joy 0 sadness 0 anger 60 fear 0 amazement 0 disgust 61
+а керівництву порада : якщо хочете нормально працювати дивіться уважно кого ви наймаєте на роботу . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Це факт , я теж була в шоці від відвідування вперше цього закладу , хоча чула негатив стосовно цього закладу попередньо . joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+зокрема .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+про брудне , хамське ставлення жіночки на вході , яка може дозволити собі просто обізвати лайкою любого клієнта ,і про охорону , яка некерована , відчула це все на собі - ОГИДА ! ! ! ! , більш нічого не залишилось . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 60
+обізвали мене , після того , як я запропонувала свою курточку , яка тоненька , покласти у мою сумочку , щоб не здавати у гардероб , оскільки відчувала прохолоду , на що почула - марш звідси , забирайся ! ! ! ! ! ! ! ! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я була шокована . joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+Ще більше була шокована від почутого - ми тут приватна власність ,і маємо право робити що хочемо і впускати тих , хто нам подобається , а хто неподобається можемо викидати геть , зараз скажемо , що ти була в нетверезому стані ,і ми вирішили невпустити . joy 0 sadness 0 anger 60 fear 0 amazement 0 disgust 0
+(хоча це було не так) . . . і ти нічого нікому недокажеш . joy 0 sadness 0 anger 60 fear 0 amazement 0 disgust 0
+Я ще такого хамства ніде не зустрічала , невже дирекція клубу незацікавлена ,щоб був позитив ,щоб хотілось туди приходити , тепер я розумію реакцію багатьох моїх знайомих - Занзібар - НІЗАЩО , ТІЛЬКИ НЕ ТУДИ . joy 0 sadness 0 anger 75 fear 0 amazement 0 disgust 75
+Хоча персоналу пофіг скільки клієнтів , їм чим менеше , тим краще , а власник там , як виявилося ,сам грузин чи армянин ,але живе у Росії . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+РОСІЙСЬКИЙ ОЛІГАРХ , якому до одного місця , що з тими українцями робить його персонал , чи він їх викидає , при цьому обдираючи руки дор крові , чи просто б'є , я думаю , йому це навіть до вподоби . joy 0 sadness 0 anger 0 fear 60 amazement 0 disgust 0
+Так що якщо не хочете бути принижені , ображені і не виключення побиті , тільки тому , що ви несподобаєтесь жіночці на вході , яка дуууже груба , і здається , дуже незадоволена життям ,вибирайте інше місце відпочинку . joy 0 sadness 60 anger 0 fear 60 amazement 0 disgust 0
+а хтось має карточку ? joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+коли була там то сказали що її можна зробити через сайт , але по-моєму офіціант просто був не у настрої її робити ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хоча в загальному обслуговування хороше ,страви смачні ,інтерєр приємний ) joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всім задоволенна )  joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+але дуже хочу карточку ) joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+Дуже дивно , роблячи ремонт - чому не передбачили встановлення додаткових кондиціонерів ! joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Літом в Фешині як в ПЕКЛІ !  joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+Це просто ЖАХ Якщо ви себе позиціонуєете елітним клубом , то як можна приємно відпочити , коли дихнути нема чим , я не говорю про те щоб потанцювати ! ! joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+При чому крім входу 100 грн , тепер потрібно платити за стіл 100 грн і обслуговування ви включаєте в рахунок ( апетити у вас нічогенькі) , а рівень — не дотягуєте ! ! ! joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+Здав свох позиції цей клуб давно ! joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+За такі гроші , які платяться за вхід , можна було б і кондиціонування зробити і дивани пропалені замінити !  joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 0
+В середині приміщення настільки накурено , що декількох хвилин вистачає щоб весь одяг проник димом ! joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 30
+Ми раніше  :!: :oops: цей заклад , але вже близько року — ні ногою !  joy 0 sadness 60 anger 60 fear 0 amazement 0 disgust 45
+Офіціанти можуть на протязі 15 хв навіть меню не принести !  joy 0 sadness 0 anger 60 fear 0 amazement 0 disgust 0
+Дуже шкода , бо місце хороше і кухня смачна , а от все решта — одні мінуси !  joy 0 sadness 100 anger 0 fear 0 amazement 0 disgust 0
+Гадюшня ! joy 0 sadness 0 anger 75 fear 0 amazement 0 disgust 30
+Шановна Оксано , нажаль не можу погодитись з вашими притензіями до даного закладу .  joy 0 sadness 0 anger 75 fear 0 amazement 0 disgust 30
+Всі прекрасно у Львові розумію і знають що воду з під крану пити у нас не бажано тому що вона не відповідає жодним стандартам , і для того щоб особисто в цьому переконатись я відвідував очистні споруди . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нічого хорошо і позитивного я там не побачив !  joy 0 sadness 69 anger 0 fear 0 amazement 0 disgust 0
+А ви б могли хоч на хвильку подумати про те що персонал елементарно попіклуваввся про ваше здоровя , не даючи вам води з під крану не тому що їм шкода а тому що її вживати небажано . joy 0 sadness 69 anger 0 fear 0 amazement 0 disgust 0
+Важко коментувати цю ситуацію яка трапилась з вами та вашими друзями так як не спостерігав ні вашої поведінки ні поведінки персоналу .  joy 0 sadness 69 anger 0 fear 0 amazement 0 disgust 0
+Але не перший рік відвідую це заклад , та вважаю його в будь якому випадку найкращим в місті . joy 78 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Так звісно за стільки часу і зі мною траплялись різні казусні історії але персонал та адміністрація в тому числі , намагались завжди швидко та якісно її вирішити .  joy 78 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+І повірте мені у них це завжди прекрасно виходить ! ! ! joy 78 sadness 0 anger 0 fear 0 amazement 64 disgust 0
+Дякую Фешн , дякую Адміністрація та персонал за те що ви є і стараєтесь для людей ! joy 78 sadness 0 anger 0 fear 0 amazement 64 disgust 0
+Так тримати ! ! ! ! joy 78 sadness 0 anger 0 fear 0 amazement 79 disgust 0
+Ні , акцій для студентів там нема,заклад заявлений для відвування іншої публіки . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Люди , я вам дивуюсь ,ївши одне морозиво — бакланите що все решта фігня .  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Заплативши за вхід — возмущаетесь чому вам не видали столика .  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Та мабуть тому що як і всюди його потрібно замовляти ! ! joy 0 sadness 34 anger 15 fear 0 amazement 0 disgust 0
+Не подобаються діти в закладі ? ?  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+Так їх ж туди не на дискотеку приводять , а серед білого дня,бо кухня там відмінна .  joy 0 sadness 0 anger 0 fear 0 amazement 63 disgust 0
+Гоните що публіка там било — а самі як себе поводите тут ? деякі ваші претензії просто не логічні .  joy 0 sadness 0 anger 61 fear 0 amazement 0 disgust 0
+Я не відвідую цей заклад як клуб , але як ресторан — то просто супер , люблю їхню кухню ! joy 72 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+За пів години до закриття офіціанти дозволяють собі зустрічати гостей на порозі з словами « Ми вже розраховуємо людей » 21.30 в суботу закривати кафе і не пускати відвідувачів ? joy 0 sadness 0 anger 48 fear 0 amazement 0 disgust 27
+Ви де таке бачили шановні власники ? joy 0 sadness 0 anger 48 fear 0 amazement 0 disgust 0
+хочу звернутись до Oksanu Horbach . . . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+я писала позитивні відгуки про цей клуб але якщо там таке відношення до людей як ви написали я хочу забрати свої слова назад на рахунок того що я рекомендувала цей клуб усім .  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+на рахунок барменів нічого погано сказати не можу томущо мене дійсно гарно обслуговували але я впевнена що ви попали на інших працівників клубу і це ужасно коли такі люди працюють в громацьких місцях тому я хочу звернутись до власників цього закладу нехай добре відбирають людей яких беруть на роботу а таких хамів які посилають людей пити воду у туалет навіть на поріг не пускати. . . joy 0 sadness 86 anger 0 fear 0 amazement 0 disgust 0
+Так приємно , смачно , затишно ! : - ) joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спасибі ! joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Штрудель смачний і кава — один позитив : - ) joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Тепер буду заходити в Києві в Вашу кав`ярню . joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Щасти Вам ! joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Подобається Фешн і ходжу тільки туди, але недавно почула хамське ставлення від нічного адміна (така з вигляду мила , а насправді така с . . . ) .  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Вона повинна усміхатись і комунікабельно спілкуватись з клієнтами , а не хамити .  joy 0 sadness 45 anger 0 fear 0 amazement 48 disgust 0
+Мені друзі сюрприз хотіли зробити і переховавули « його » в іншу сумочку , вона сказала , що я горілку переливаю . Тупішого я нічого не чула ( це при тому , що сумочки охорона передивилась) і камери мені так і не показали .  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+Коли прийшла на другий день сказала , що без резервації не пускають , хоча столики вільні були ( це нам охорона сказала ) ! ! !  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+На другий раз прийду ще щось придумає . joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Два дня підряд спортила так настрій . . . joy 0 sadness 100 anger 0 fear 0 amazement 0 disgust 0
+Таких просто потрібно звільняти і все ! joy 0 sadness 100 anger 0 fear 0 amazement 0 disgust 0
