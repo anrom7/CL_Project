@@ -1,0 +1,394 @@
+﻿Bulavkina 20-30 female
+мені	           pron:pers:s:1:v_dav:anim	 10
+теж	           adv 	 0
+не	           part 	 0
+подобаються	   verb:rev:pres:p:3:imperf  39
+я	           pron:pers:s:1:v_naz:anim	 50
+просто	           adv:compb  	 50
+не	           part 	 -10
+звертаю	           verb:pres:s:1:imperf 	 2
+на	           prep:rv_zna:rv_mis 	                  (prep:rv_zna) 0
+них	           pron:pers:p:3:v_zna:anim	 0
+уваги	           noun:f:v_rod 	                  (noun:f:s:v_rod) 0
+а	           conj:coord 	 0
+насолоджуюсь	   verb:rev:pres:s:1:imperf 	 38
+відпочинком	   noun:m:v_oru                           (noun:m:s:v_oru)	 50
+Цікаво	           adv:compb 	 50
+в	           prep:rv_zna:rv_mis:rv_rod:v-u          (prep:rv_mis:v-u)	 0
+яких	           adj:p:v_mis:&pron:int:rel:def          (pron:p:v_mis:int:rel:def) 0
+                   adj:p:v_rod:&pron:int:rel:def  0
+                   adj:p:v_zna:&pron:int:rel:def	 0
+закладах	   noun:p:v_mis 	 35
+відпочиває	   verb:pres:s:3:imperf 	 43
+Зорянка	           noun:f:v_naz:anim:fname  13
+напевно	           adv 	 0
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 0
+банальній	   adj:f:v_dav:compb                      (adj:f:s:v_mis) -18
+                   adj:f:v_mis:compb 	 0
+мережі	           noun:f:v_mis                           (noun:f:s:v_mis) 	 0
+Фест	           noun:m:v_naz:bad  	 33
+низькопробний	   adj:m:v_naz                            (adj:m:s:v_naz:compb)	 -29
+бордель	           noun:m:v_naz                           (noun:m:s:v_naz) -50
+для	           prep:rv_rod 	 0
+людей	           noun:p:v_rod:anim 	 0
+з	           prep:rv_rod:rv_zna:rv_oru              (prep:rv_oru)	 0
+невеликими	   adj:p:v_oru 	 -7
+вимогами	   noun:p:v_oru 	 16
+до	           prep:rv_rod 	 0
+життя	           noun:n:v_rod 		 50
+Заклад	           noun:m:v_naz                           (noun:m:s:v_naz)	 50
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 0
+якому	           adj:m:v_dav:&pron:int:rel:def          (pron:m:s:v_mis:int:rel:def) 0
+                   adj:m:v_mis:&pron:int:rel:def 0
+                   adj:n:v_dav:&pron:int:rel:def  0
+                   adj:n:v_mis:&pron:int:rel:def 	 0
+можна	           predic 	 0
+примітивні	   adj:p:v_naz:compb  	 -18
+інстинкти	   noun:p:v_zna 	 12
+такі	           adj:p:v_naz:&pron:def                  (pron:p:v_naz:def) 0
+                   adj:p:v_zna:&pron:def 	 0
+як	           conj:subord  	 0
+напитись	   verb:rev:inf:perf 	 -40
+і	           conj:coord	 0
+подивитись	   verb:rev:inf:perf 	 3
+на	           prep:rv_zna:rv_mis 	                  (prep:rv_zna) 0
+оголених	   adjp:pasv:paдівча 	 -50
+дівчат             noun:p:v_zna:anim                  0
+з	           prep:rv_rod:rv_zna:rv_oru 	          (prep:rv_rod) 0
+великої	           adj:f:v_rod:compb 	                  (adj:f:s:v_rod) 37
+дороги	           noun:f:v_rod                           (noun:f:s:v_rod) 27
+Ніякого	           adj:m:v_rod:&pron:neg                  (pron:m:v_rod:neg) -31
+                   adj:m:v_zna:&pron:neg  0
+                   adj:n:v_rod:&pron:neg 	 0
+естетичного	   adj:m:v_rod:compb                      (adj:m:s:v_rod) 22
+                   adj:m:v_zna:compb  0
+                   adj:n:v_rod:compb 	 0
+задоволення	   noun:n:v_rod  	                  (noun:n:s:v_rod) 50
+крім	           prep:rv_rod 	 -6
+дорогого	   adj:m:v_rod:compb                      (adj:m:s:v_rod) 15
+                   adj:m:v_zna:compb  0
+                   adj:n:v_rod:compb 	 0
+ремонту            noun:m:v_rod                           (noun:m:s:v_rod)  19
+в	           prep:rv_zna:rv_mis:rv_rod:v-u          (prep:rv_mis:v-u) 	 0
+цьому	           adj:m:v_dav:&pron:dem                  (pron:m:s:v_mis:dem) 0
+                   adj:m:v_mis:&pron:dem  0
+                   adj:n:v_dav:&pron:dem  0
+                   adj:n:v_mis:&pron:dem 	 0
+закладі	           noun:m:v_mis                           (noun:m:s:v_mis) 	 50
+не	           part 	 0
+шукайте	           verb:impr:p:2:imperf 	 -6
+Згідна	           adj:f:v_naz                            (adj:f:s:v_naz)	 14
+з	           prep:rv_rod:rv_zna:rv_oru 	 0
+іншими	           adj:p:v_oru:&pron:def                  (pron:p:v_oru:def)	 0
+заклад	           noun:m:v_naz                           (noun:m:s:v_naz)	 50
+несе	           verb:pres:s:3:imperf 	 0
+в	           prep:rv_zna:rv_mis:rv_rod:v-u          (prep:rv_mis:v-u)	 0
+собі	           pron:refl:m:v_dav                      (pron:refl:v_mis) 9
+                   pron:refl:m:v_mis  0
+                   pron:refl:n:v_dav  0
+                   pron:refl:n:v_mis 	 0
+совдепівський	   adj:m:v_naz:slang 	 -50
+менталітет	   noun:m:v_naz 	                  (noun:m:s:v_naz) 8
+з	           prep:rv_rod:rv_zna:rv_oru 	          (prep:rv_oru) 0
+претензіями	   noun:p:v_oru 	 -23
+на	           excl                                   (prep:rv_zna) 0
+                   part                               0
+                   prep:rv_zna:rv_mis 	 0
+оригінальність	   noun:f:v_zna                           (noun:f:s:v_zna:np) 	 25
+Була	           verb:past:f:imperf 	 -9
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 0
+там	           adv:&pron:dem                          (adv) 0
+                   part 	 0
+3	           number 	 0
+рази	           noun:p:v_naz 	 0
+на	           excl                                   (prep:rv_zna) 0
+                   part  0
+                   prep:rv_zna:rv_mis 	 0
+запрошення	   noun:n:v_zna                           (noun:n:p:v_zna)	 22
+друзів	           noun:p:v_rod:anim 	 32
+винесла	           verb:past:f:perf 	 -15
+з	           prep:rv_rod:rv_zna:rv_oru              (bad)	 0
+лише	           part 	 0
+відразу	           adv	 10
+Переконана	   adjp:pasv:past:f:v_naz 	 17
+більше	           adv:compr  	 17
+туди	           adv:&pron:dem                          (adv)	 0
+не	           part 	 0
+піду	           verb:futr:s:1:perf 	 0
+і	           conj:coord 	 0
+іншим	           adj:m:v_oru:&pron:def                  (pron:p:v_dav:def) 0
+                   adj:n:v_oru:&pron:def  0
+                   adj:p:v_dav:&pron:def 	 0
+буду	           verb:futr:s:1:imperf 	 0
+радити	           verb:inf:imperf 	 0
+не	           part 	 0
+ходити	           verb:inf:imperf 	 0
+Доречі	           adv:bad 	 0
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 0
+рекламі	           noun:f:v_mis 	                  (noun:f:s:v_mis) -22
+ШОУ	           noun:n:v_naz:nv 	 -32
+ніяких	           adj:p:v_mis:&pron:neg                  (pron:p:v_rod:neg) -23
+                   adj:p:v_rod:&pron:neg  0
+                   adj:p:v_zna:&pron:neg 	 0
+згадок	           noun:p:v_rod 	 20
+про	           prep:rv_zna 	 0
+стриптиз	   noun:m:v_zna 	                  (noun:m:s:v_zna) 31
+не	           part 	 0
+було	           verb:past:n:imperf 	 -9
+і	           conj:coord 	 0
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 0
+залі	           noun:m:v_mis 9
+                   noun:f:v_mis  9
+доречі	           adv:bad 	 0
+було	           verb:past:n:imperf 	                    -10
+багато	           adv                                    (numr:p:v_rod) 20
+                   numr:p:v_naz:&pron:ind      0
+                   numr:p:v_zna:&pron:ind 	 0
+неповнолітніх	   adj:p:v_rod 	 0
+дітей	           noun:p:v_rod:anim 	 50
+Крім	           prep:rv_rod 0
+                   <insert> 	 0
+того	           adj:m:v_rod:&pron:dem                  (pron:dem) 0
+                   adj:m:v_zna:&pron:dem  0
+                   adj:n:v_rod:&pron:dem 0
+                   </insert> 	 0
+стриптизу	   noun:m:v_rod                           (noun:m:s:v_rod)	 35
+як	           conj:subord  	 0
+такого	           adj:m:v_rod:&pron:def                  (pron:m:v_rod:def) 0
+                   adj:m:v_zna:&pron:def  0
+                   adj:n:v_rod:&pron:def 	 0
+там	           adv:&pron:dem                          (adv) 0
+                   part 	 0
+теж	           adv 	 0
+не	           part 	 0
+було	           verb:past:n:imperf 	 0
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 0
+кращому	           adj:m:v_mis:compr 	                  (adj:m:s:v_mis:compr) 14
+розумінні	   noun:n:v_mis 	                  (noun:n:v_mis:np) 9
+слова	           noun:n:v_rod                           (noun:n:s:v_rod)	 9
+стриптиз	   noun:m:v_naz  	                  (noun:m:s:v_naz) 35
+Було	           verb:past:n:imperf 	 -13
+примітивне	   adj:n:v_naz:compb  	 -28
+оголених	   adjp:pasv:past:p:v_rod  	 -50
+дівчат	           noun:p:v_rod:anim                      (дівчина) 	 48
+які	           adj:p:v_naz:&pron:int:rel:def          (pron:p:int:rel:def) 0
+                   adj:p:v_zna:&pron:int:rel:def	 0
+ходили	           verb:past:p:imperf 	 -10
+поміж	           prep:rv_rod:rv_zna:rv_oru              (prep:rv_oru)	 0
+столами	           noun:p:v_oru 	 0
+з	           prep:rv_rod:rv_zna:rv_oru              (prep:rv_oru) 	 0
+їжею	           noun:f:v_oru 	 50
+і	           conj:coord	 0
+напоями	           noun:p:v_oru 	 25
+і	           conj:coord 	 0
+терлись	           verb:rev:past:p:imperf 	 -42
+до	           prep:rv_rod 	 0
+чоловіків	   noun:p:v_rod:anim 	 50
+Одним	           numr:m:v_oru  	 -15
+словом	           noun:n:v_oru                           (noun:n:s:v_oru)	 0
+легалізований	   adjp:pasv:past:m:v_naz                 (adj:pasv:past:m:v_naz:compb) 18
+                   adjp:pasv:past:m:v_zna 	 0
+будинок	           noun:m:v_naz 	                  (noun:m:s:v_naz) 50
+розпусти	   noun:f:v_rod 	                  (noun:f:s:v_rod:np) -50
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 0
+центрі	           noun:m:v_mis                           (noun:m:s:v_mis) 	 27
+міста	           noun:n:v_rod  	                  (noun:n:s:v_rod) 27
+І	           conj:coord  0
+на	           prep:rv_zna:rv_mis                     (prep:rv_mis)	 0
+трасу	           noun:f:v_zna 	                  (noun:f:s:v_mis) 0
+не	           part 	 0
+потрібно	   adv:compb 	 0
+ось	           part 	 0
+вам	           pron:pers:p:2:v_dav:anim	 0
+все	           adv:v-u                                (весь - pron:dem) 0
+                   conj:coord:v-u  0
+                   part:v-u  0
+                   adj:n:v_naz:&pron:dem  0
+                   adj:n:v_zna:&pron:dem 	 0
+під	           prep:rv_zna:rv_oru 	                  (prep:rv_oru) 0
+носом	           noun:m:v_oru 	                  (noun:m:s:v_oru) 0
+маєте	           verb:pres:p:2:imperf  10
+на	           excl                                   (prep:rv_zna) 0
+                   part  0
+                   prep:rv_zna:rv_mis 	 0
+хтось	           pron:ind:v_naz:anim 	 0
+ненавидить	   verb:pres:s:3:imperf 	 -50
+реконструкція	   noun:f:v_naz 	                  (noun:f:s:v_naz) 5
+СРСР	           noun:m:v_rod:nv:np:abbr	 0
+то	           conj:subord 	 0
+на	           excl                                   (bad) 0
+                   part  0
+                   prep:rv_zna:rv_mis 	 0
+туди	           adv:&pron:dem                          (adv) 	 0
+йти	           verb:inf:imperf 	 0
+Та	           conj:coord	 0
+й	           conj:coord 	 0
+в	           prep:rv_zna:rv_mis:rv_rod:v-u          (prep:rv_naz:v-u)	 0
+інші	           adj:p:v_naz:&pron:def                  (adj:p:v_naz) 0
+                   adj:p:v_zna:&pron:def 	 0
+дні	           noun:p:v_naz 	 0
+там	           adv:&pron:dem                          (adv) 0
+                   part 	 0
+ніяким	           adj:m:v_oru:&pron:neg                  (adj:m:s:v_oru:neg) 0
+                   adj:n:v_oru:&pron:neg  0
+                   adj:p:v_dav:&pron:neg 	 0
+СРСР	           noun:m:v_oru:nv:np:abbr 	 0
+не	           part 	 0
+пахне	           verb:futr:s:3:perf 	 15
+Дуже	           adv	                                  (adv:compb) 15
+класне	           adj:n:v_naz                            (adj:n:v_naz:compb)	 36
+справжнє	   adj:n:v_naz 	                          (adj:n:v_naz:compb) 50
+живе	           adj:n:v_naz:compb 	 50
+пиво	           noun:n:v_naz	 13
+та	           conj:coord	 0
+й	           conj:coord  0
+теж	           adv 	 0
+супер	           noun:m:v_naz                           (coll) 50
+                   noun:m:v_zna 	 0
+Сподіваюсь	   verb:rev:pres:s:1:imperf 	 32
+що	           conj:subord  	 0
+не	           part 	 0
+зіпсуються	   verb:rev:futr:p:3:perf 	 -25
+з	           prep:rv_rod:rv_zna:rv_oru	          (prep:rv_oru) 0
+часом	           noun:m:v_oru 	                  (noun:m:s:v_oru) 0
+місце	           noun:n:v_naz	                          (noun:n:s:v_naz) 0
+куди	           adv:&pron:int:rel 	                  (adv) 0
+можна	           predic 	 21
+з	           prep:rv_rod:rv_zna:rv_oru	          (prep:rv_oru) 0
+гостями	           noun:p:v_oru:anim 	 19
+навідатись	   verb:rev:inf:perf  11
+східняки	   noun:p:v_naz:anim 	 -50
+приперлись	   verb:rev:past:p:perf 	 -29
+сюди	           adv:&pron:dem 	                  (adv) 0
+зі	           prep:rv_rod:rv_zna:rv_oru	          (prep:rv_oru) 0
+своїми	           adj:p:v_oru:&pron:pos 	          (pron:pos:p:v_oru) 0
+дурнуватими	   adj:p:v_oru 	 -15
+шоу	           noun:p:v_oru:nv 	 -23
+то	           conj:subord 	 0
+за	           prep:rv_rod:rv_zna:rv_oru              (prep:rv_naz:coll)	 0
+реконструкція	   noun:f:v_naz 	                  (noun:f:s:v_naz) 9
+СРСР	           noun:m:v_rod:nv:np:abbr	 0
+то	           conj:subord 	 0
+за	           prep:rv_rod:rv_zna:rv_oru              (prep:rv_naz:coll)	 0
+день	           noun:m:v_naz	                          (noun:m:s:v_naz) 0
+радянської	   adj:f:v_rod                            (adj:f:s:v_rod)	 -25
+армії	           noun:f:v_rod	                          (noun:f:s:v_rod) -31
+і	           conj:coord 	 0
+флоту	           noun:m:v_rod                           (noun:m:s:v_rod) -17
+в	           prep:rv_zna:rv_mis:rv_rod:v-u          (prep:rv_mis:v-u)	 0
+українському	   adj:m:v_mis  	                  (adj:m:s:v_mis) 50
+календарі	   noun:m:v_mis 	                  (noun:m:s:v_mis) 3
+такого	           adj:m:v_rod:&pron:def                  (pron:def:m:v_rod) 0
+                   adj:m:v_zna:&pron:def  0
+                   adj:n:v_rod:&pron:def 	 0
+вже	           adv:v-u 	 0
+20	           number 	 0
+років	           noun:p:v_rod 	 0
+нема	           predic 	 0
+а	           conj:coord  	 0
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)  0
+них	           pron:pers:p:3:v_mis:anim 	  0
+красна	           adj:f:v_naz                            (adj:f:s:v_naz)	 32
+армія	           noun:f:v_naz                           (noun:f:s:v_naz)	 -29
+і	           conj:coord  0
+Ілліч	           noun:m:v_naz:anim:patr 	 -31
+мабуть	           insert 	 -3
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 0
+кабінеті	   noun:m:v_mis 	                  (noun:m:s:v_mis) 23
+начальника	   noun:m:v_rod:anim 	                  (noun:m:s:v_rod:anim) 35
+за	           prep:rv_rod:rv_zna:rv_oru 	          (prep:rv_oru) 0
+кріслом	           noun:n:v_oru 	                  (noun:n:s:v_oru) 7
+висить	           verb:pres:s:3:imperf 	 -19
+червоний	   adj:m:v_naz:compb                      (adj:m:s:v_naz:compb)	 37
+прапор	           noun:m:v_naz	                          (noun:m:s:v_naz) 37
+серп	           noun:m:v_naz 	                  (noun:m:s:v_naz) -22
+і	           conj:coord	 0
+молот	           noun:m:v_naz 	                  (noun:m:s:v_naz) -21
+нова	           adj:f:v_naz:compb 	                  (adj:f:s:v_naz:compb) 30
+символіка	   noun:f:v_naz 	                  (noun:f:s:v_naz) 30
+організатори	   noun:p:v_naz:anim 	 11
+тупі	           adj:p:v_naz:compb 	 -33
+аж	           part 	 0
+але	           conj:coord	 0
+рублі	           noun:p:v_naz	 -21
+на	           prep:rv_zna:rv_mis 	                  (prep:rv_zna) 0
+рекламу	           noun:f:v_zna                           (noun:f:s:v_zna)	 -35
+витрачають	   verb:pres:p:3:imperf 	 -6
+непомірно	   adv 	 -6
+краще	           adj:n:v_naz:compr 	 10
+б	           part 	 0
+зарплату	   noun:f:v_zna 	                  (noun:f:s:v_zna) 50
+персоналу	   noun:m:v_rod 	                  (noun:m:s:v_rod) 15
+підняли	           verb:past:p:perf 	 -16
+а	           conj:coord 	 0
+то	           conj:subord 	 0
+знайома	           noun:f:v_naz:anim                      (noun:f:s:v_naz:anim)	 6
+чим	           pron:int:rel:n:v_oru 	 6
+довше	           adv:compr 		 6
+працює	           verb:pres:s:3:imperf 	 16
+тим	           adj:m:v_oru:&pron:dem                  (pron:dem:m:v_oru) 0
+                   adj:n:v_oru:&pron:dem  0
+                   adj:p:v_dav:&pron:dem 	 0
+менше	           adj:n:v_zna:compr  	 -18
+заробляє	   verb:pres:s:3:imperf 	 40
+будете	           verb:futr:p:2:imperf 	 6
+проходити	   verb:inf:imperf 	 7
+повз	           adv 	 1
+проходьте	   verb:impr:p:2:imperf 	 -11
+Дівчинко	   noun:f:v_kly:anim                      (noun:f:s:v_kly:anim)	 0
+це	           adj:n:v_naz:&pron:dem                  (pron:dem:n:v_naz) 0
+                   adj:n:v_zna:&pron:dem 	 0
+не	           part 	 0
+бордель	           noun:m:v_naz                           (noun:m:s:v_naz) 	 -50
+це	           adj:n:v_naz:&pron:dem                  (pron:dem:n:v_naz) 0
+                   adj:n:v_zna:&pron:dem 	 0
+заклад	           noun:m:v_naz 	                  (noun:m:s:v_naz) 50
+я	           pron:pers:s:1:v_naz:anim 	 50
+там	           adv:&pron:dem                          (adv) 0
+                   part 	 0
+бувала	           verb:past:f:imperf 	 -14
+і	           conj:coord 	 0
+говорю	           verb:pres:s:1:imperf 	 0
+що	           conj:subord   0
+                   pron:int:rel:n:v_zna 	 0
+обслуговування	   noun:n:v_naz                           (noun:n:s:v_naz:np)	 28
+супер	           noun:m:v_naz                           (coll) 50
+                   noun:m:v_zna 	 0
+атмосфера	   noun:f:v_naz 	                  (noun:f:v_naz:np) 27
+шикарна	           adj:f:v_naz 	 27
+а	           conj:coord 	 0
+якщо	           conj:subord 	 0
+ти	           pron:pers:s:2:v_naz:anim 	 0
+це	           adj:n:v_naz:&pron:dem                  (pron:dem:n:v_zna) 0
+                   adj:n:v_zna:&pron:dem 	 0
+вважаєш	           verb:pres:s:2:imperf 	 0
+розпустою	   noun:f:v_oru 	                  (noun:f:v_oru:np) -50
+то	           conj:subord 	 0
+якого	           adj:m:v_rod:&pron:int:rel:def          (pron:int:rel:def:m:v_zna) 0
+                   adj:m:v_zna:&pron:int:rel:def 0
+                   adj:n:v_rod:&pron:int:rel:def 	 0
+ти	           pron:pers:s:2:v_kly:anim 	 0
+біса	           noun:m:v_rod                           (noun:m:v_rod)  0
+перлась	           verb:rev:past:f:imperf 	 -23
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 0
+щоб	           conj:subord 	 0
+не	           part 	 0
+писати	           verb:inf:imperf 	 0
+такої	           adj:f:v_rod:&pron:def 	          (pron:def:f:v_rod) 0
+фігні	           noun:f:v_rod 	                  (noun:f:v_rod:slang:np) -27
+як	           conj:subord 	 0
+ти	           pron:pers:s:2:v_naz:anim 	 0
+пишеш	           verb:pres:s:2:imperf 	 0
+треба	           predic 	 0
+взнавати	   verb:inf:imperf:v-u 	 0
+розклад	           noun:m:v_zna 	                  (noun:m:s:v_zna) -13
+програм	           noun:p:v_rod 	 15
+і	           conj:coord  	 0
+не	           part 	 0
+звинувачувати	   verb:inf:imperf 	 -24
+заклад	           noun:m:v_zna 	                  (noun:m:s:v_zna) 50
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 0
+цьому	           adj:m:v_dav:&pron:dem                  (pron:dem:m:v_mis) 0
+                   adj:m:v_mis:&pron:dem  0
+                   adj:n:v_dav:&pron:dem  0
+                   adj:n:v_mis:&pron:dem 	 0

@@ -1,0 +1,416 @@
+﻿Token	           Part-of-speech	                  Власний варіант
+Прийдіть	   verb:impr:p:2:perf 	
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 
+і	           conj:coord 	
+почитайте	   verb:impr:p:2:perf 	
+Книгу	           noun:f:v_zna 	                  (noun:f:s:v_zna)
+відгуків	   noun:p:v_rod 	
+та	           conj:coord  	
+пропозицій	   noun:p:v_rod 	
+Тема	           noun:f:v_naz 	                  (noun:f:s:v_naz) 
+більшості	   noun:p:v_rod 	
+СКАРГ	           noun:p:v_rod 	                  (noun:f:p:v_rod) 
+дрескод	           noun:m:v_naz                           (noun:m:v_naz:np) 		
+Довідка	           noun:f:v_naz 	                  (noun:f:s:v_naz)
+Ресторан	   noun:m:v_naz 	                  (noun:m:s:v_naz)
+це	           adj:n:v_naz:&pron:dem                  (це - part)
+                   adj:n:v_zna:&pron:dem 	
+заклад	           noun:m:v_naz                           (noun:m:s:v_naz) 
+підприємство	   noun:n:v_naz                           (noun:n:s:v_naz)	
+громадського	   adj:n:v_rod 	
+харчування	   noun:n:v_naz  	                  (noun:n:v_naz:np)           
+з	           prep:rv_rod:rv_zna:rv_oru	          (prep:rv_oru)
+високим	           adj:m:v_oru:compb  	                  (adj:m:v_oru)
+рівнем	           noun:m:v_oru 	                  (noun:m:s:v_oru)
+комфорту	   noun:m:v_rod 	                  (noun:m:s:v_rod)
+матеріально-     
+технічного	   adj:n:v_rod 	
+оснащення	   noun:n:v_naz  	                  (noun:n:s:v_naz)
+КВАЛІФІКАЦІЇ	   noun:f:v_rod                           (noun:f:s:v_rod)                                	
+ПРАЦІВНИКІВ	   noun:p:v_rod:anim 	
+різноманітним	   adj:m:v_oru:compb 	                  (adj:m:s:v_oru)
+асортиментом	   noun:m:v_oru 	                  (noun:m:s:v_oru)
+страв	           noun:p:v_rod 	
+складного	   adj:n:v_rod:compb 	
+виготовлення	   noun:n:v_naz 	                  (noun:n:v_naz:np)
+включаючи	   advp:imperf:v-u 	
+фірмові	           adj:p:v_naz                            (adj:p:v_naz:compb) 	
+тютюнові	   adj:p:v_naz 	                          (adj:p:v_naz:compb) 
+та	           conj:coord  	
+кондитерські	   adj:p:v_naz 	                          (adj:p:v_naz:compb) 
+вироби	           noun:p:v_naz 	
+з	           prep:rv_rod:rv_zna:rv_oru              (prep:rv_oru)	
+підвищеним	   adjp:pasv:past:m:v_oru 	           
+рівнем	           noun:m:v_oru 	                  (noun:m:s:v_oru)
+обслуговування	   noun:n:v_naz                           (noun:n:s:v_naz:np)
+і	           conj:coord  	
+організацією	   noun:f:v_oru 	
+відпочинку	   noun:m:v_rod 	                  (noun:m:s:v_rod) 
+споживачів	   noun:p:v_rod:anim  		
+На	           prep:rv_zna:rv_mis 	                  (prep:rv_mis)
+власному	   adj:m:v_mis	                          (adj:m:s:v_mis)
+досвіді	           noun:m:v_mis 	                  (noun:m:s:v_mis) 
+переконалась	   verb:rev:past:f:perf 	
+у	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
+КВАЛІФІКАЦІЇ	   noun:f:v_mis                           (noun:f:s:v_mis)
+ПРАЦІВНИКІВ	   noun:p:v_rod:anim  	
+які	           adj:p:v_naz:&pron:int:rel:def          (pron:p:v_naz)
+                   adj:p:v_zna:&pron:int:rel:def	    
+заборонили	   verb:past:p:perf 	
+заходити	   verb:inf:imperf  	
+до	           prep:rv_rod 	
+РЕСТОРАНУ	   noun:m:v_rod                           (noun:m:s:v_rod)
+у	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
+верхньому	   adj:m:v_mis                            (adj:m:s:v_mis)	
+одязі	           noun:m:v_mis 	                   
+ЖАКЕТІ	           noun:m:v_mis                           (noun:m:s:v_mis)
+така	           adj:f:v_naz:&pron:def 	          (adj:f:s:v_naz)
+назва	           noun:f:v_naz 	                  (noun:f:s:v_naz)
+була	           verb:past:f:imperf 	           
+вказана	           adjp:pasv:past:f:v_naz:v-u 	   
+на	           prep:rv_zna:rv_mis 	                  (prep:rv_mis)
+ціннику	           noun:m:v_mis 	                  (noun:m:s:v_mis)
+ярлику	           noun:m:v_mis 	                  (noun:m:s:v_mis)
+виробника	   noun:m:v_rod:anim                      (noun:m:s:v_rod:anim)	
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
+магазині	   noun:m:v_mis 	                  (noun:m:s:v_mis)
+мотивуючи	   advp:imperf 	
+це	           adj:n:v_naz:&pron:dem                  (pron:dem)
+                   adj:n:v_zna:&pron:dem 	
+тим	           adj:m:v_oru:&pron:dem                  (pron - вказівний)
+                   adj:n:v_oru:&pron:dem 
+                   adj:p:v_dav:&pron:dem 	
+що	           conj:subord  	
+ОХОРОНА	           noun:f:v_naz 	
+не	           part 	
+пропустить	   verb:futr:s:3:perf 		
+Я	           pron:pers:s:1:v_naz:anim	
+так	           part 	
+розумію	           verb:pres:s:1:imperf 	
+що	           conj:subord  	
+усі	           adj:p:v_naz:&pron:dem                  (pron:dem)
+                   adj:p:v_zna:&pron:dem 	
+охоронці	   noun:p:v_naz:anim 
+як	           conj:subord 	
+мінімум	           adv  	
+успішно	           adv:compb 	
+закінчили	   verb:past:p:perf 	
+Курси	           noun:p:v_zna 	
+дизайну	           noun:m:v_rod 	                  (noun:m:s:v_rod)
+одягу	           noun:m:v_rod 		
+На	           prep:rv_zna:rv_mis 	                  (prep:rv_zna)  
+думку	           noun:f:v_zna 	                  (noun:f:s:v_zna)
+працівників	   noun:p:v_rod:anim  
+я	           pron:pers:s:1:v_naz:anim 	
+була	           verb:past:f:imperf 	
+одягнена	   adjp:pasv:past:f:v_naz 	
+у	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_zna:v-u)
+ПЛАЩ	           noun:m:v_naz 	                  (noun:m:s:v_naz)
+Довідка	           noun:f:v_naz 	                  (noun:f:s:v_naz) 
+Верхній	           adj:m:v_naz 	                          (adj:m:s:v_naz) 
+одяг	           noun:m:v_naz 	
+це	           adj:n:v_naz:&pron:dem                  (це - part)
+                   adj:n:v_zna:&pron:dem	
+елемент	           noun:m:v_naz	                          (noun:m:s:v_naz)
+одягу	           noun:m:v_rod 	
+що	           conj:subord  	
+надягається	   verb:rev:pres:s:3:imperf	
+на	           prep:rv_zna:rv_mis 	
+ноги	           noun:f:v_rod 
+                   noun:p:v_naz 
+                   noun:p:v_zna 	
+та	           conj:coord 	
+на	           excl                                   (prep:rv_zna)
+                   part 
+                   prep:rv_zna:rv_mis 	
+тулуб	           noun:m:v_zna 	                  (noun:m:s:v_zna)
+і	           conj:coord 	
+руки	           noun:p:v_zna 	
+Здебільшого	   adv 	
+надягають	   verb:pres:p:3:imperf 	
+під	           prep:rv_zna:rv_oru 	                  (adv - під час)
+час	           noun:m:v_naz                           (adv - під час)
+                   noun:m:v_zna 	
+поганої	           adj:f:v_rod:compb 	
+погоди	           noun:f:v_rod 	
+Верхній	           adj:m:v_naz 	                          (adj:m:v_naz:compb)
+одяг	           noun:m:v_naz 	
+по	           prep:rv_mis:rv_zna 	                  (bad)
+статях	           noun:p:v_mis 	
+відрізняється	   verb:rev:pres:s:3:imperf	
+менше	           adv:compr 
+аніж	           conj:subord 	
+нижня	           adj:f:v_naz                            (adj:f:s:v_naz)	
+білизна	           noun:f:v_naz 	                  (noun:f:s:v_naz)	
+Верхній	           adj:m:v_naz                            (adj:m:s:v_naz:compb)  	
+одяг	           noun:m:v_naz 	
+чоловіка	   noun:m:v_rod:anim 	                  (noun:m:s:v_rod:anim)
+Штани	           noun:p:v_naz 	
+Светр	           noun:m:v_naz	                          (noun:m:s:v_naz)
+Пальто	           noun:n:v_naz                           (noun:n:s:v_naz)	
+Куртка             noun:f:v_naz                           (noun:f:s:v_naz) 	
+Шуба	           noun:f:v_naz 	                  (noun:f:s:v_naz)
+Плащ	           noun:m:v_naz                           (noun:m:s:v_naz)	
+Піджак	           noun:m:v_naz                           (noun:m:s:v_naz)	
+Смокінг	           noun:m:v_naz 	                  (noun:m:s:v_naz)
+Гольф	           noun:m:v_naz  	                  (noun:m:s:v_naz)
+Сорочка	           noun:f:v_naz 	                  (noun:f:s:v_naz)
+Верхній	           adj:m:v_naz 	                          (adj:m:s:v_naz:compb)
+одяг	           noun:m:v_naz 	                  (noun:m:s:v_naz)
+жінки	           noun:f:v_rod:anim	                  (noun:f:s:v_rod:anim)
+Спідниця	   noun:f:v_naz 	                  (noun:f:s:v_naz)
+або	           conj:coord 	
+штани	           noun:p:v_naz 	
+Светр              noun:m:v_naz                           (noun:m:s:v_naz) 	
+Пальто	           noun:n:v_naz                           (noun:n:s:v_naz)	
+Куртка	           noun:f:v_naz 	                  (noun:f:s:v_naz)
+Шуба	           noun:f:v_naz 	                  (noun:f:s:v_naz)
+Плащ	           noun:m:v_naz                           (noun:m:s:v_naz)	
+Піджак	           noun:m:v_naz                           (noun:m:s:v_naz)	
+Сорочка	           noun:f:v_naz 	                  (noun:f:s:v_naz)
+Гольф	           noun:m:v_naz 	                  (noun:m:s:v_naz)
+Блузка	           noun:f:v_naz                           (noun:f:s:v_naz)
+Плащ	           noun:m:v_naz 	                  (noun:m:s:v_naz)
+верхній	           adj:m:v_naz                            (adj:m:s:v_naz:compb)	
+одяг	           noun:m:v_naz 	
+з	           prep:rv_rod:rv_zna:rv_oru	          (prep:rv_oru)
+рукавами	   noun:p:v_oru 	
+з	           prep:rv_rod:rv_zna:rv_oru	          (prep:rv_rod)
+матеріалу	   noun:m:v_rod 	                  (noun:m:s:v_rod)
+Існує	           verb:pres:s:3:imperf 	
+кілька	           numr:p:v_naz:&pron:ind                 (numr:p:v_naz)	
+різновидів	   noun:p:v_rod 	
+плащів	           noun:p:v_rod 	
+так	           adv:&pron:dem                          (adv)
+                   conj:coord:subord 
+                   part 	
+наприклад	   insert 	
+плащ	           noun:m:v_naz                           (noun:m:s:v_naz)	
+з                  prep:rv_rod:rv_zna:rv_oru	          (prep:rv_rod)
+прорезиненої	   adjp:pasv:past:f:v_rod:bad	
+тканини            noun:f:v_rod                           (noun:f:s:v_rod )	
+називається	   verb:rev:pres:s:3:imperf 	
+макінтош	   noun:m:v_naz                           (noun:m:s:v_naz)
+Історично	   adv 	
+плащ	           noun:m:v_naz                           (noun:m:s:v_naz)	
+це	           adj:n:v_naz:&pron:dem                  (це - part)
+                   adj:n:v_zna:&pron:dem	
+широкий    	   adj:m:v_naz:compb 	
+одяг	           noun:m:v_naz  	
+без	           prep:rv_rod 	
+рукавів 	   noun:p:v_rod 	
+В	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
+такому	           adj:m:v_dav:&pron:def                  (pron:s:3:m:v_mis)
+                   adj:m:v_mis:&pron:def 
+                   adj:n:v_dav:&pron:def 
+                   adj:n:v_mis:&pron:def 	
+значенні	   noun:n:v_mis                           (noun:n:s:v_mis)	
+слово	           noun:n:v_naz  	                  (noun:n:s:v_naz)
+використовується   verb:rev:pres:s:3:imperf 	
+і	           conj:coord  	
+тепер	           adv:&pron:dem 	                  (adv)
+Одним	           numr:m:v_oru 	                  (numr:m:s:v_oru )
+з	           prep:rv_rod:rv_zna:rv_oru	          (prep:rv_rod)
+варіантів	   noun:p:v_rod 	
+одягу	           noun:m:v_rod 	
+є	           verb:pres:p:1:imperf                   (verb:pres:impers) 
+                   verb:pres:p:2:imperf 
+                   verb:pres:p:3:imperf 
+                   verb:pres:p::imperf 
+                   verb:pres:s:1:imperf 
+                   verb:pres:s:2:imperf 
+                   verb:pres:s:3:imperf 
+                   verb:pres:s::imperf 	
+армійські	   adj:p:v_naz                            (adj:p:v_naz:compb)	
+Також	           adv  	
+ВРАЗИВ	           verb:past:m:perf 	
+високий	           adj:m:v_naz:compb  	
+рівень         	   noun:m:v_naz 	                  (noun:m:s:v_naz)
+комфорту	   noun:m:v_rod                           (noun:m:s:v_rod)        	
+при	           prep:rv_mis  	
+виході	           noun:m:v_mis 	                  (noun:m:s:v_mis)
+охоронців	   noun:p:v_rod:anim 	
+у	           prep:rv_zna:rv_mis:rv_rod:v-u          (prep:rv_mis:v-u)	
+бронежилетах	   noun:p:v_mis 	 
+І	           conj:coord  	
+це	           adj:n:v_naz:&pron:dem                  (це - part - вказівний)
+                   adj:n:v_zna:&pron:dem 	
+о                  prep:rv_zna:rv_mis                     (prep:rv_mis)	
+19:00              time 	
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
+РЕСТОРАНІ	   noun:m:v_mis 	
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
+Львова             noun:m:v_rod 	
+в	           prep:rv_zna:rv_mis:rv_rod:v-u          (prep:rv_mis:v-u)	
+умовах             noun:p:v_mis 	
+підвищеної	   adjp:pasv:past:f:v_rod 	
+комфортності	   noun:f:v_rod 	                  (noun:f:s:v_rod:np)	
+Абсурд	           noun:m:v_naz                           (noun:m:s:v_naz:np)	
+Ось                part 	
+така	           adj:f:v_naz:&pron:def                  (pron:s:3:f:v_naz) 	
+моя	           adj:f:v_naz:&pron:pos 	          (pron:pos)
+історія	           noun:f:v_naz 	                  (noun:f:s:v_naz)
+Висновок	   noun:m:v_naz                           (noun:m:s:v_naz) 
+відремонтована	   adjp:pasv:past:f:v_naz 	          (adjp:pasv:past:f:s:v_naz)
+стайня	           noun:f:v_naz 	                  (noun:f:s:v_naz)
+з	           prep:rv_rod:rv_zna:rv_oru	          (prep:rv_oru)
+претензією	   noun:f:v_oru 	                  (noun:f:s:v_oru)
+на	           excl                                   (prep:rv_zna)
+                   part 
+                   prep:rv_zna:rv_mis 	
+сервіс         	   noun:m:v_zna                           (noun:m:s:v_zna) 
+але	           conj:coord 	
+з                  prep:rv_rod:rv_zna:rv_oru              (prep:rv_oru)	
+ментальністю	   noun:f:v_oru 	                  (noun:f:s:v_oru)
+СОВДЕПІЇ	   noun:f:v_rod:slang 	                  (noun:f:s:v_rod:slang:np)
+дуже	           adv  	
+класний	           adj:m:v_naz                            (adj:m:s:v_naz:compb)	
+великий	           adj:m:v_naz:compb 	                  (adj:m:s:v_naz:compb)
+гарний	           adj:m:v_naz:compb                      (adj:m:s:v_naz:compb)	
+заклад   	   noun:m:v_naz                           (noun:m:s:v_zna) 	
+персонал	   noun:m:v_naz                           (noun:m:s:v_zna) 	
+приємний	   adj:m:v_naz:compb                      (adj:m:s:v_naz:compb) 
+а	           conj:coord	
+кухня	           noun:f:v_naz                           (noun:f:s:v_naz)	
+порції	           noun:p:v_naz  	
+великі	           adj:p:v_naz:compb 	
+і	           conj:coord  	
+смачні	           adj:p:v_naz:compb 	
+цікаві	           adj:p:v_naz:compb 	
+до	           prep:rv_rod 	
+пива	           noun:n:v_rod 	
+те	           adj:n:v_naz:&pron:dem                  (pron:dem)
+                   adj:n:v_zna:&pron:dem	
+треба	           predic 		
+і	           conj:coord  	
+зовсім	           adv 	
+це	           adj:n:v_naz:&pron:dem                  (це - part - вказівний) 
+                   adj:n:v_zna:&pron:dem 	
+НЕ	           part 		
+підіть	           verb:impr:p:2:perf 	
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
+Казанову	   noun:m:v_zna:anim:fname                (noun:m:v_mis:anim:fname )	
+чи	           conj:coord:subord                      (conj:coord)	
+Носоріг	           noun:m:v_naz:anim                      (noun:m:s:v_mis:anim)	
+а	           conj:coord  	
+ПРЕЗЕРВАТИВИ	   noun:p:v_naz 	
+продають	   verb:pres:p:3:imperf 	
+дійсно	           adv 	
+і	           conj:coord 	
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
+багатьох	   numr:p:v_mis:&pron:ind                 (numr:p:v_mis)	
+інших	           adj:p:v_mis:&pron:def                  (adj:p:v_mis)	
+місцях	           noun:p:v_mis 		
+але	           conj:coord 	
+ж	           part 	
+у	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
+є	           verb:pres:p:1:imperf                   (verb:pres:impers)
+                   verb:pres:p:2:imperf 
+                   verb:pres:p:3:imperf 
+                   verb:pres:p::imperf 
+                   verb:pres:s:1:imperf 
+                   verb:pres:s:2:imperf 
+                   verb:pres:s:3:imperf 
+                   verb:pres:s::imperf 	
+кімнатка	   noun:f:v_naz 	                  (noun:f:s:v_naz)
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
+туалеті	           noun:m:v_mis                           (noun:m:s:v_mis)
+ВСЕ	           adj:n:v_naz:&pron:dem  	
+ДУЖЕ	           adv 	
+КЛАСНО	           adv 	
+ЩЕ	           part 	
+НЕ	           part 		
+НЕ	           part 	
+РОЗЧАРУВАЛАСЯ	   verb:rev:past:f:perf 	
+Слухайте	   verb:impr:p:2:imperf 	
+якщо	           conj:subord 	
+ви	           pron:pers:p:2:v_naz:anim 	
+хочете	           verb:unknown                           (verb:pres:p:2:imperf)	
+мати	           verb:inf:imperf 	
+добрий	           adj:m:v_naz:compb                      (adj:m:s:v_naz:compb) 	
+настрій	           noun:m:v_naz 	                  (noun:m:s:v_naz)
+і	           conj:coord 	
+повеселитися	   verb:rev:inf:perf 
+то	           conj:subord 	
+ідіть	           verb:impr:p:2:imperf 	
+у	           prep:rv_zna:rv_mis:rv_rod:v-u          (prep:rv_mis:v-u) 
+Ми	           pron:pers:p:1:v_naz:anim	
+були	           verb:past:p:imperf 	
+знову	           adv 	
+тут	           adv:&pron:dem 	                  (adv)
+18	           number 	                          (date)                   
+липня	           noun:m:v_rod                           (noun:m:s:v_rod ) 
+святкували	   verb:past:p:imperf 	
+подружнього	   adj:n:v_rod                            (adj:n:s:v_rod)	
+життя	           noun:n:v_rod  	
+Море	           noun:n:v_naz                           (noun:n:s:v_naz) 	
+задоволення	   noun:n:v_rod  	                  (noun:n:s:v_rod)
+отримали	   verb:past:p:perf 	
+ми	           pron:pers:p:1:v_naz:anim	
+та	           conj:coord  	
+наші	           adj:p:v_naz:&pron:pos                  (pron:pos:v_naz)
+                   adj:p:v_zna:&pron:pos 	
+гості	           noun:p:v_naz:anim  	
+Підемо	           verb:futr:p:1:perf 		
+Підтримую	   verb:pres:s:1:imperf 	
+Машу	           noun:f:v_zna:anim:fname	
+що	           conj:subord  	
+до                 prep:rv_rod 	
+атмосфери	   noun:f:v_rod 	                  (noun:f:s:v_rod) 
+і	           conj:coord	
+рівня	           noun:m:v_rod 	                  (noun:m:s:v_rod)
+обслуговування	   noun:n:v_rod 	                  (noun:m:s:v_rod:np)	
+Приємно	           adv:compb 	
+що	           conj:subord 	
+в	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u)
+такому	           adj:m:v_dav:&pron:def                  (pron:s:m:3:v_mis)
+                   adj:m:v_mis:&pron:def 
+                   adj:n:v_dav:&pron:def 
+                   adj:n:v_mis:&pron:def 	
+масштабному	   adj:m:v_dav:compb                      (adj:m:s:v_dav)	
+закладі	           noun:m:v_mis 	                  (noun:m:s:v_mis)
+тримають	   verb:pres:p:3:imperf 	
+дисципліну	   noun:f:v_zna 	                  (noun:f:s:v_zna)
+і	           conj:coord	
+крім	           prep:rv_rod
+                   <insert> 	
+того	           adj:m:v_rod:&pron:dem                  (pron:dem:m:v_rod)
+                   adj:m:v_zna:&pron:dem 
+                   adj:n:v_rod:&pron:dem
+                   </insert> 	
+кожного	           adj:m:v_rod:&pron:def                  (pron:def:m:v_rod)
+                   adj:m:v_zna:&pron:def 
+                   adj:n:v_rod:&pron:def 	
+тижня	           noun:m:v_rod                           (noun:m:s:v_rod)	
+мають	           verb:pres:p:3:imperf 	
+нову	           adj:f:v_zna:compb                      (adj:f:s:v_zna)	
+ідею	           noun:f:v_zna 	                  (noun:f:s:v_zna)
+вечірки	           noun:f:v_rod                           (noun:f:s:v_rod) 	
+Ті	           adj:p:v_naz:&pron:dem                  (pron:dem:p:v_naz)
+                   adj:p:v_zna:&pron:dem 	
+грудасті	   adj:p:v_naz 	
+тьоті	           noun:p:v_naz:anim 	
+	
+	
+
+ 
+	
+	
+
+
+	
+
+
+ 
+	
+
+ 
+	
+
+	
+
+
+	
+
+	
+

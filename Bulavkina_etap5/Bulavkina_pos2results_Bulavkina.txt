@@ -1,0 +1,392 @@
+﻿Bulavkina 20-30 female
+доречі	           adv:bad 	 0
+якщо	           conj:subord 	 0
+тобі	           pron:pers:s:2:v_dav:anim 	 0
+там	           adv:&pron:dem                          (adv) 0
+                   part 	 0
+не	           part 	 0
+сподобалось	   verb:rev:past:n:perf 	 28
+то	           conj:subord 	 0
+чого	           pron:int:rel:n:v_rod 	 0
+аж	           part 	 0
+3	           number 	 0
+рази	           noun:p:v_naz 	 0
+бувала	           verb:past:f:imperf 	 -10
+На	           prep:rv_zna:rv_mis                     (prep:rv_mis)	 0
+всіх	           adj:p:v_mis:&pron:dem                  (adj:p:v_mis) 0
+                   adj:p:v_rod:&pron:dem  0
+                   adj:p:v_zna:&pron:dem	 0
+сайтах	           noun:p:v_mis 	 14
+один	           numr:m:v_naz 	 14
+і	           conj:coord  	 0
+то	           conj:subord                            (bad - той) 	 0
+й	           conj:coord                             (bad - той) 0
+же	           part 	 0
+відгук	           noun:m:v_naz	                          (noun:m:s:v_naz) 0
+сміх	           noun:m:v_naz 	                  (noun:m:s:v_naz) 29
+та	           conj:coord 	 0
+й	           conj:coord  0
+годі	           predic 	 0
+оце	           adj:n:v_zna:&pron:dem	          (pron:dem:n:v_zna) 0
+так	           adv:&pron:dem                          (adv) 0
+                   conj:coord:subord  0
+                   part 	 0
+справді	           adv                                    (adv) 0
+                   insert  0
+                   part 	 0
+нема	           predic 	 0
+чим	           pron:int:rel:n:v_oru 	 0
+зайнятись	   verb:rev:inf:perf  0
+щоб	           conj:subord 	 0
+на	           prep:rv_zna:rv_mis 	                  (prep:rv_mis)	 0
+всіх	           adj:p:v_mis:&pron:dem                  (adj:p:v_mis) 0
+                   adj:p:v_rod:&pron:dem  0
+                   adj:p:v_zna:&pron:dem	 0
+сайтах	           noun:p:v_mis 	 -5
+при	           prep:rv_mis 	 0
+чому	           pron:int:rel:n:v_dav  	 0
+однаково	   adv 	 0
+Ви	           pron:pers:p:2:v_naz:anim	 0
+б	           part 	 0
+хоч	           part 	 0
+на	           prep:rv_zna:rv_mis                     (prep:rv_mis)	 0
+різних	           adj:p:v_mis	 15
+різне	           adj:n:v_naz 	 15
+писали	           verb:past:p:imperf 	 5
+а	           conj:coord 	 0
+то	           conj:subord 	 0
+аж	           part 	 0
+смішно	           adv 	 23
+з	           prep:rv_rod:rv_zna:rv_oru              (prep:rv_rod)	 0
+Вас	           pron:pers:p:2:v_rod:anim	 0
+На	           excl                                   (prep:rv_zna) 0
+                   part  0
+                   prep:rv_zna:rv_mis 	 0
+свята	           noun:p:v_zna 	 50
+захотілося	   verb:unknown                           (verb:impers:rev)	 50
+піти	           verb:inf:perf  	 10
+сім'єю	           noun:f:v_oru                           (noun:f:s:v_oru)	 50
+у	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_zna:v-u) 0
+якийсь	           adj:m:v_naz:&pron:ind                  (adj:m:s:v_zna) 0
+                   adj:m:v_zna:&pron:ind 	 0
+новий	           adj:m:v_zna:compb 	 25
+заклад	           noun:m:v_zna                           (noun:m:s:v_zna)	 50
+і	           conj:coord  	 0
+почувши	           advp:perf 	 0
+про	           prep:rv_zna 	 0
+завітали	   verb:past:p:perf 	  24
+у	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_zna:v-u) 0
+цей	           adj:m:v_naz:&pron:dem                  (adj:m:v_zna) 0
+                   adj:m:v_zna:&pron:dem 	 0
+ресторан	   noun:m:v_zna 	                  (noun:m:s:v_zna) 50
+Звичайно	   adv:compb                              (adv)	 12
+місць	           noun:p:v_rod 	 12
+не	           part 	 -8
+було	           verb:past:n:imperf 	  -8
+все	           adj:n:v_naz:&pron:dem                  (pron:dem:n:v_naz) 7
+                   adj:n:v_zna:&pron:dem 	 0
+зарезервовано	   verb:impers:perf 	 -17
+але	           conj:coord  	 -8
+ми	           pron:pers:p:1:v_naz:anim	 23
+буквально	   adv 	 -10
+попросилися	   verb:rev:past:p:perf 	 4
+на	           prep:rv_zna:rv_mis                     (prep:rv_zna)	 0
+годинку	           noun:f:v_zna                           (noun:f:s:v_zna) 3
+оглянути	   verb:inf:perf 	 12
+новий	           adj:m:v_zna:compb 	 35
+ресторан	   noun:m:v_zna                           (noun:m:s:v_zna)	 50
+й	           conj:coord  	 0
+подивитися	   verb:rev:inf:perf 	 5
+на	           excl                                   (prep:rv_zna) 0
+                   part  0
+                   prep:rv_zna:rv_mis 	 0
+грандіозні	   adj:p:v_zna:compb 	 50
+зали	           noun:p:v_zna  4
+                   noun:p:v_zna 	 0
+з	           prep:rv_rod:rv_zna:rv_oru	          (prep:rv_oru) 0
+блискучими	   adj:p:v_oru:compb                      (adj:p:v_oru)	 13
+величезними	   adj:p:v_oru 	 26
+чанами	           noun:p:v_oru 	 0
+для	           prep:rv_rod 	 0
+варіння	           noun:n:v_rod                           (noun:n:v_rod:np) 	 0
+пива	           noun:n:v_rod                           (noun:n:v_rod:np)  10
+Приміщення	   noun:n:v_naz                           (noun:n:s:v_naz) 	 0
+вразило	           verb:past:n:perf 	 0
+своїми	           adj:p:v_oru:&pron:pos 	          (pron:pos:p:v_oru) 0
+дійсно	           adv 	 0
+великими	   adj:p:v_oru:compb 	                  (adj:p:v_oru) 22
+масштабами	   noun:p:v_oru 	 27
+двома	           numr:f:v_oru                           (numr:p:v_oru)                  17
+                   numr:m:v_oru  0
+                   numr:n:v_oru 	 0
+поверхами	   noun:p:v_oru 	 6
+й	           conj:coord 	 0
+підвальним	   adj:m:v_oru	                          (adj:m:s:v_oru) -23
+приміщенням	   noun:n:v_oru	                          (noun:n:s:v_oru) -23
+яке	           adj:n:v_naz:&pron:int:rel:def          (pron:int:rel:def:n:v_naz) 0
+                   adj:n:v_zna:&pron:int:rel:def	 0
+тільки	           adv  	 0
+реставрувалося	   verb:rev:past:n:imperf  	 -8
+Декорації	   noun:p:v_naz 	 6
+виконані	   adjp:pasv:past:p:v_naz 	 26
+у	           prep:rv_zna:rv_mis:rv_rod:v-u          (prep:rv_mis:v-u)	 0
+стилі	           noun:m:v_mis  	                  (noun:m:s:v_mis) 6
+баварських	   adj:p:v_rod  	 31
+пивоварень	   noun:p:v_rod 	 0
+офіціанти	   noun:p:v_naz:anim 	 0
+були	           verb:past:p:imperf 	 -8
+вбрані	           adjp:pasv:past:p:v_naz:v-u 	 23
+у	           prep:rv_zna:rv_mis:rv_rod:v-u          (prep:rv_zna:v-u)	 0
+костюми	           noun:p:v_zna 	 11
+саме	           adv	 0
+тих	           adj:p:v_mis:&pron:dem                  (pron:dem:p:v_rod) 0
+                   adj:p:v_rod:&pron:dem  0
+                   adj:p:v_zna:&pron:dem 	 0
+народів	           noun:p:v_rod 	 29
+грубо	           adv:compb 	 -29
+зібрані	           adjp:pasv:past:p:v_naz 	 4
+лави	           noun:p:v_naz 	 4
+і	           conj:coord 	 0
+стільці	           noun:p:v_naz  	 -4
+вікна	           noun:p:v_naz 	 18
+виконані	   adjp:pasv:past:p:v_naz  	 24
+у	           prep:rv_zna:rv_mis:rv_rod:v-u          (prep:rv_mis:v-u)	 0
+австро-угорському  adj:m:v_mis                            (adj:m:s:v_mis)	 0
+стилі	           noun:m:v_mis                           (noun:m:s:v_mis)	 21
+17	           number 	 15
+століття	   noun:n:v_rod  	 0
+Разом	           adv 	 34
+з	           prep:rv_rod:rv_zna:rv_oru              (prep:rv_oru)	 0
+тим	           adj:m:v_oru:&pron:dem                  (pron:dem:m:v_oru) 0
+                   adj:n:v_oru:&pron:dem  0
+                   adj:p:v_dav:&pron:dem 	 0
+зовсім	           adv 	 7
+недоречно	   adv 	 -8
+дивилася	   verb:rev:past:f:imperf 	 10
+сучасна	           adj:f:v_naz:compb                      (adj:f:s:v_naz:compb)	 26
+жердина	           noun:f:v_naz 	                  (noun:f:s:v_naz) -25
+посеред	           prep:rv_rod 	 -10
+такої	           adj:f:v_rod:&pron:def 	          (adj:f:s:v_rod) 0
+величної	   adj:f:v_rod:compb 	                  (adj:f:s:v_rod) 20
+баварської	   adj:f:v_rod                            (adj:f:s:v_rod) 	 5
+зали	           noun:p:v_naz                           (noun:f,m:v_rod) 15
+                   noun:p:v_zna 0
+                   noun:f:v_rod  0
+                   noun:p:v_naz  0
+                   noun:p:v_zna 	 0
+Коли	           adv:&pron:int:rel                      (adv) 0
+                   conj:subord  0
+                   part  0
+нам	           pron:pers:p:1:v_dav:anim	 0
+принесли	   verb:past:p:perf 	 0
+меню	           noun:n:v_zna:nv 	 50
+ми	           pron:pers:p:1:v_naz:anim	 0
+попросили	   verb:past:p:perf 	 -5
+запропонувати	   verb:inf:perf 	  11
+фірмову	           adj:f:v_zna 	                          (adj:f:s:v_zna) 21
+страву	           noun:f:v_zna 	                  (noun:f:s:v_zna ) 50
+і	           conj:coord 	 0
+офіціант	   noun:m:v_naz:anim                      (noun:m:s:v_naz:anim)	 0
+довго	           adv:compb 	 -22
+не	           part 	 -8
+міг	           verb:unknown                           (verb:past:modal:m)	 0
+пояснити	   verb:inf:perf 	 14
+нам	           pron:pers:p:1:v_dav:anim	 8
+назву	           noun:f:v_zna                           (noun:f:s:v_zna) 0
+фірмової	   adj:f:v_rod                            (adj:f:s:v_rod)	 17
+страви	           noun:f:v_rod 	                  (noun:f:s:v_rod) 50
+З	           prep:rv_rod:rv_zna:rv_oru 	          (prep:rv_oru) 5
+українською	   adj:f:v_oru 	                          (adj:f:s:v_oru) 50
+мовою	           noun:f:v_oru 	                  (noun:f:s:v_oru)                      50
+він	           pron:pers:m:3:v_naz:anim	 50
+не	           part 	 -6
+товаришував	   verb:past:m:imperf 	 6
+і	           conj:coord  	 0
+висловлюючись	   advp:rev:imperf 	 5
+мовою	           noun:f:v_oru 	                  (noun:f:s:v_oru) 50
+Азарова	           noun:m:v_rod:anim:lname	 -31
+запропонував	   verb:past:m:perf 	 10
+нам	           pron:pers:p:1:v_dav:anim 	 0
+Тільки	           adv  		 0
+після	           prep:rv_rod 	 0
+третього	   adj:n:v_rod 	 0
+роз'яснення	   noun:n:v_rod 	 11
+ми	           pron:pers:p:1:v_naz:anim	 0
+зрозуміли	   verb:past:p:perf 	 8
+що	           conj:subord  	 0
+мова	           noun:f:v_naz 	                  (noun:f:s:v_naz) 50
+йдеться	           verb:rev:pres:s:3:imperf 	 0
+про	           prep:rv_zna 	 0
+свиняче	           adj:n:v_zna                            (adj:n:s:v_zna)	 0
+коліно	           noun:n:v_zna 	                  (noun:n:v_zna) 0
+Все	           adj:n:v_naz:&pron:dem                  (pron:dem:n:v_naz) 0
+                   adj:n:v_zna:&pron:dem	 0
+виявилось	   verb:rev:past:n:perf 	 9
+смачним	           adj:m:v_oru:compb                      (adj:m:s:v_oru) 34
+                   adj:n:v_oru:compb  34
+                   adj:p:v_dav:compb 	 0
+хоча	           conj:subord  	 0
+й	           conj:coord  	 0
+досить	           adv  	 5
+дорогим	           adj:m:v_oru:compb                      (adj:m:s:v_oru) -18
+                   adj:n:v_oru:compb  -18
+                   adj:p:v_dav:compb 	 0
+На	           prep:rv_zna:rv_mis                     (prep:rv_mis)	 0
+виході	           noun:m:v_mis                           (noun:m:s:v_mis)	 0
+зайшовши	   advp:perf 	 3
+до	           prep:rv_rod 	 0
+туалету	           noun:m:v_rod 	                  (noun:m:s:v_rod) -20
+наша	           adj:f:v_naz:&pron:pos 	          (pron:pos:f:v_naz) 6
+дитина	           noun:f:v_naz:anim 	                  (noun:f:s:v_naz:anim) 50
+здивовано	   adv 	 21
+спитала	           verb:past:f:perf 	 0
+в	           prep:rv_zna:rv_mis:rv_rod:v-u          (prep:rv_rod:v-u) 	 0
+мене	           pron:pers:s:1:v_rod:anim  	 0
+що	           conj:subord 	 0
+там	           adv:&pron:dem                          (adv) 0
+                   part 	 0
+у	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 0
+туалеті	           noun:m:v_mis 	                  (noun:m:s:v_mis) -9
+за	           prep:rv_rod:rv_zna:rv_oru              (bad)	 0
+автомати	   noun:p:v_naz 	 0
+такі	           adj:p:v_naz:&pron:def                  (adj:p:v_naz) 0
+                   adj:p:v_zna:&pron:def 	 0
+вирішила	   verb:past:f:perf 	 11
+що	           conj:subord 	 0
+то	           conj:subord 	 0
+жуйки	           noun:p:v_naz  	 40
+Я	           pron:pers:s:1:v_naz:anim 	 50
+була	           verb:past:f:imperf 	 7
+здивована	   adjp:pasv:past:f:v_naz 	 7
+коли	           conj:subord   	 0
+побачила	   verb:past:f:perf 	 -12
+там	           adv:&pron:dem                          (adv) 0
+                   part 	 0
+автомати	   noun:p:v_zna 	 -39
+з	           prep:rv_rod:rv_zna:rv_oru	          (prep:rv_oru) 0
+презервативами	   noun:p:v_oru 	 0
+Навіть	           part 	 0
+не	           part 	 0
+здивована	   adjp:pasv:past:f:v_naz 	 15
+а	           conj:coord  	 0
+вражена	           adjp:pasv:past:f:v_naz 	 28
+недоречністю	   noun:f:v_oru  	                  (noun:f:s:v_oru) -15
+у	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 0
+ресторані	   noun:m:v_mis 	                  (noun:m:s:v_mis) 50
+ставити	           verb:inf:imperf 	 6
+автомати	   noun:p:v_zna 	 -17
+з	           prep:rv_rod:rv_zna:rv_oru              (prep:rv_oru)	 0
+презервативами	   noun:p:v_oru 	 0
+Вдома	           adv:v-u 	 50
+зайшовши	   advp:perf 	 0
+на	           excl                                   (prep:rv_zna) 0
+                   part  0
+                   prep:rv_zna:rv_mis 	 0
+сайт	           noun:m:v_zna                           (noun:m:s:v_zna)	 16
+отримала	   verb:past:f:perf 	 16
+всі	           adj:p:v_naz:&pron:dem                  (adj:p:v_naz) 27
+                   adj:p:v_zna:&pron:dem	 0
+відповіді	   noun:p:v_zna 	 36
+на	           excl                                   (prep:rv_zna) 0
+                   part  0
+                   prep:rv_zna:rv_mis 	 0
+запитання	   noun:p:v_zna 	 -9
+Харківська	   adj:f:v_naz 	                          (adj:f:s:v_naz) 0
+фірма	           noun:f:v_naz 	                  (noun:f:s:v_naz) 0
+відкрила	   verb:past:f:perf 	 14
+у	           prep:rv_zna:rv_mis:rv_rod:v-u 	  (prep:rv_mis:v-u) 0
+Львові	           noun:m:v_mis                           (noun:m:v_mis:np) 	 50
+легалізований	   adjp:pasv:past:m:v_zna 	 25
+дім	           noun:m:v_zna 	                  (noun:m:s:v_zna) 25
+розпусти	   noun:f:v_rod 	                  (noun:f:s:v_rod) -50
+Ото	           part 	 0
+отримав	           verb:past:m:perf 	 22
+подаруночок	   noun:m:v_zna 	                  (noun:m:v_zna)  50
+Львів	           noun:m:v_naz	                          (noun:m:v_naz:np) 50
+Я	           pron:pers:s:1:v_naz:anim 	 50
+рахувала	   verb:past:f:imperf 	 0
+наше	           adj:n:v_naz:&pron:pos                  (pron:pos:n:v-zna) 0
+                   adj:n:v_zna:&pron:pos 	 0
+місто	           noun:n:v_zna                           (noun:n:s:v_zna)	 18
+чи	           part 	 0
+то	           conj:subord 	 0
+не	           part 	 0
+пуританським	   adj:m:v_oru 	 -26
+пишалася	   verb:rev:past:f:imperf 	 28
+його	           pron:pers:m:3:v_rod:anim	 0
+традиціями	   noun:p:v_oru 	 24
+його	           pron:pers:m:3:v_rod:anim	 0
+до	           prep:rv_rod 	 0
+болі	           noun:m:v_mis                           (noun:m:v_rod)  -50
+                   noun:p:v_naz  0
+                   noun:p:v_zna 	 0
+скромними	   adj:p:v_oru:compb                      (adj:p:v_oru) 17
+кав'ярнями	   noun:p:v_oru 	 50
+на	           prep:rv_zna:rv_mis 	                  (prep:rv_mis) 0
+вузьких	           adj:p:v_mis:compb                      (adj:p:v_mis) -24
+                   adj:p:v_rod:compb  0
+                   adj:p:v_zna:compb 	 0
+візерунчастих	   adj:p:v_mis	 14
+вуличках	   noun:p:v_mis 	 21
+з	           prep:rv_rod:rv_zna:rv_oru              (prep:rv_oru)	 0
+різнокольоровими   adj:p:v_oru 	 24
+букетиками	   noun:p:v_oru 	 50
+на	           prep:rv_zna:rv_mis 	                  (prep:rv_mis) 0
+балконах	   noun:p:v_mis 	 0
+Невже	           part 	 0
+все	           adj:n:v_naz:&pron:dem                  (pron:dem:n:v_naz) 0
+                   adj:n:v_zna:&pron:dem 	 0
+що	           conj:subord  	 0
+ми	           pron:pers:p:1:v_naz:anim	 0
+можемо	           verb:unknown 	                  (verb:modal:p:1) 13
+отримати	   verb:inf:perf 	 13
+зі	           prep:rv_rod:rv_zna:rv_oru	          (prep:rv_rod) 0
+сходу	           noun:m:v_rod 	 -50
+від	           prep:rv_rod 	 0
+нової	           adj:f:v_rod:compb 	                  (adj:f:s:v_rod) 36
+влади	           noun:f:v_rod                           (noun:f:s:v_rod)	 23
+буде	           verb:futr:s:3:imperf 	 23
+таким	           adj:m:v_oru:&pron:def                  (adj:m:s:v_oru) 14
+                   adj:n:v_oru:&pron:def  0
+                   adj:p:v_dav:&pron:def 	 0
+як	           conj:subord 0
+отой	           adj:m:v_naz:&pron:dem                  (pron:dem:m:v_naz) 0
+                   adj:m:v_zna:&pron:dem 	 0
+З	           prep:rv_rod:rv_zna:rv_oru              (prep:rv_oru)	 0
+отими	           adj:p:v_oru:&pron:dem 	          (adj:p:v_oru) 0
+голими	           adj:p:v_oru 	 0
+дівчатами	   noun:p:v_oru:anim 	                  (дівчина) 0
+политими	   adjp:pasv:past:p:v_oru 	 11
+шоколадом	   noun:m:v_oru 	                  (noun:m:v_oru:np) 50
+на	           prep:rv_zna:rv_mis 	                  (prep:rv_mis) 0
+їхньому	           adj:m:v_dav:&pron:pos                  (pron:pos:m:v_mis) 0
+                   adj:m:v_mis:&pron:pos  0
+                   adj:n:v_dav:&pron:pos  0
+                   adj:n:v_mis:&pron:pos 	 0
+сайті	           noun:m:v_mis 	                  (noun:m:s:v_mis) 0
+З	           prep:rv_rod:rv_zna:rv_oru	          (prep:rv_oru) 0
+голодними	   adj:p:v_oru:compb 	                  (adj:p:v_oru) -50
+чоловіками	   noun:p:v_oru:anim 	 50
+що	           conj:subord  	 0
+злизують	   verb:pres:p:3:imperf 	 -50
+той	           adj:m:v_naz:&pron:dem                  (pron:dem:m:v_naz) 0
+                   adj:m:v_zna:&pron:dem 	 0
+Не	           part 	 0
+повірите	   verb:futr:p:2:perf 	 24
+але	           conj:coord	 0
+коли	           conj:subord   0
+розповіла	   verb:past:f:perf 	 16
+на	           prep:rv_zna:rv_mis                     (prep:rv_mis)	 0
+роботі	           noun:f:v_mis                           (noun:f:s:v_mis)	 0
+про	           prep:rv_zna 	 0
+ресторан	   noun:m:v_zna 	                  (noun:m:s:v_zna) 50
+і	           conj:coord	 0
+його	           pron:pers:m:3:v_rod:anim 		 12
+сайт	           noun:m:v_zna 	                  (noun:m:s:v_zna) 0
+не	           part 	 0
+один	           numr:m:v_naz 	 -12
+чоловік	           noun:m:v_naz:anim 	                  (noun:m:s:v_naz:anim) 50
+попросив	   verb:past:m:perf 	 -10
+Сміх	           noun:m:v_naz                           (noun:m:s:v_naz:np)	 50
+крізь	           prep:rv_zna 	 0
+сльози	           noun:p:v_zna -50
