@@ -1,0 +1,301 @@
+kulba 20-30 female
+20% joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+22:00 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+22:00 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+23:00 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+2 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+2 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1 раз joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1-2 оливки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1-ша joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1-ша боялась повідомити joy 0 sadness 0 anger 0 fear 30 amazement 0 disgust 0
+2 офіціантки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+2 поверхи joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+20грн joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+20грн за чашку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+21ст joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+2-х  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+300г joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Wi-Fi joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Wi-Fi та Нетбук joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а біля Вашого як не пройдеш joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а біля Вашого як не пройдеш,завжди є вільні місця joy 0 sadness 0 anger 0 fear 0 amazement 60 disgust 15
+а взагалі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а взагалі надала невірну інформацію joy 0 sadness 0 anger 45 fear 0 amazement 15 disgust 15
+А відправляти відгук на електронку в нікуди — не бачу сенсу.  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+а для тих хто шукає роботу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а досі отримую відповіді joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а клієнтів не було взагалі... joy 0 sadness 0 anger 0 fear 0 amazement 60 disgust 16
+а лише «заробітчани» joy 0 sadness 0 anger 0 fear 0 amazement 60 disgust 0
+а має лише придати естетичного вигляду блюду joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а можливість звернути увагу і виправити Вам свої помилки. joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+А не робити неадекватні висновки ! joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 15
+а не у Книзі разом із службою захисту споживачів. joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+А причина по якій ви працюєте до 22:00  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А причина по якій ви працюєте до 22:00 мені стала зрозуміла після відвідування joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 15
+А причина по якій ви працюєте до 22:00 мені стала зрозуміла після відвідування , в таке місце не можуть повертатись відвідувачі . joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 60
+а солянку в глечику joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а солянку в глечику , де була переважно одна водичка , трошки-трошки огірків , жменька грибів , 1-2 оливки , ? дольки лимону  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а таке слово як Wi-Fi та Нетбук joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а таке слово як Wi-Fi та Нетбук , чи мобільний інтернет мабуть Вам невідоме ?  joy 0 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+а у Вас ж 2 поверхи joy 0 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+а фірмова страва (шкода, назву не пригадаю)  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а фірмова страва (шкода, назву не пригадаю) — такий собі великий дерун joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 30
+а фірмова страва (шкода, назву не пригадаю) — такий собі великий дерун,який ніби переїхав КАМАЗ, сухий та ледве теплий.  joy 0 sadness 15 anger 30 fear 0 amazement 15 disgust 60
+абсолютно  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+абсолютно  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+абсолютно не відповідають цінам  joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+аж  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+аж світиться joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+активоване  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+активоване вугілля joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Але все це у Ваших інтересах і бажаннях. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Але і смак страв кращий!!!  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але на вигляд і смак — жахливо! joy 0 sadness 76 anger 100 fear 0 amazement 15 disgust 100
+але на обслуговуванні це ніяк не відбилось ((( joy 0 sadness 14 anger 30 fear 0 amazement 15 disgust 100
+Але накупили шоколадок joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Але накупили шоколадок — всуснятина !!  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але обслужили швидко joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Але потрапити в той вечір кудись було нереально...  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+але як заклад харчування , де можна поснідати-пообідати-повечеряти туристу — точно для цього не годиться joy 0 sadness 30 anger 30 fear 0 amazement 0 disgust 45
+а-ля Болоньєз joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Аналізуючи  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Аналізуючи інтонацію joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Аналізуючи інтонацію коментарів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Аналізуючи інтонацію коментарів , потрібно брати їх до уваги і виправляти свої помилки joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+Аналізуючи інтонацію коментарів , потрібно брати їх до уваги і виправляти свої помилки , joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+ані  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ані бажанню добре працювати за таких умов joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+аніж joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+аніж листати півгодини  joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+антиреклама joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 15
+асорті joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+асорті joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосфера joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосфера  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосфера не дуже... joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 30
+атмосфера та «вихованність» персоналу joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+б joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+б joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+б хотілось joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато зусиль joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато людей joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато людей joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато людей joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бажанню  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бажаннях joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Бажаю  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Бажаю цьому кафе як найшвидше закритись joy 0 sadness 15 anger 75 fear 0 amazement 0 disgust 30
+Бажаю цьому кафе як найшвидше закритись і щоб на його місці відкрився гідний заклад для львівян та гостей міста ! joy 0 sadness 15 anger 75 fear 0 amazement 0 disgust 30
+бачу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бачу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бачу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бачу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+без  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+без толку займає joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+більше joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+більше  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+більше туди ні ногою joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+біля joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+біля Вашого  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+близька  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+блюду joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+блюду joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо на смак воно якєсь дивне joy 0 sadness 0 anger 45 fear 0 amazement 45 disgust 45
+бо пішла з обуренням,нічого не замовивши joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо причина офіціанткою була названа зовсім інша joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо такого від Львову я зовсім не чекала . joy 0 sadness 45 anger 60 fear 0 amazement 30 disgust 30
+Болоньєз joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+борщ  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Борщ  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Борщ принесли joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Борщ принесли в малюсінькій тарілочці  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Борщ принесли в малюсінькій тарілочці , а солянку в глечику , де була переважно одна водичка , трошки-трошки огірків , жменька грибів , 1-2 оливки , ? дольки лимону ... joy 0 sadness 15 anger 0 fear 0 amazement 45 disgust 15
+боялась joy 0 sadness 15 anger 0 fear 30 amazement 0 disgust 0
+боялась повідомити joy 0 sadness 15 anger 0 fear 30 amazement 0 disgust 0
+брати  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+брати їх до уваги joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була один раз joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була один раз і більше туди ні ногою joy 0 sadness 30 anger 60 fear 30 amazement 0 disgust 100
+була порубана «Шуба» joy 0 sadness 16 anger 5 fear 6 amazement 15 disgust 10
+Була тут joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Була тут 1 раз...  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були в кафе joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були в кафе на травневі свята. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були накидані  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+Були сьогодні тут joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були сьогодні тут з дружиною  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були сьогодні тут з дружиною та дітьми joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були сьогодні тут з дружиною та дітьми,було багато людей але обслужили швидко,приготували смачно,РЕСПЕКТ!!! joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були там  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були там з колетивом joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були там з колетивом по роботі .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були у Львові joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були у Львові один день joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були у Львові один день , проїздом з Харкова , погуляти-подивитись місто .  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було багато людей joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було багато людей але обслужили швидко joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було замовлено joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було замовлено фруктове асорті joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було лише активоване вугілля joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було нами замовлено joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було нереально joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+буряка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бути joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бути joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бути joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в глечику joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в глечику joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в закладі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в закладі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в інших закладах joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в кафе joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в кафе joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В любий момент  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В любий момент можна залишити свої відгуки joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В любий момент можна залишити свої відгуки — і навіть туристу!!! joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в малюсінькій тарілочці  joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+в мене joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в мене не має joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В меню вказано солянка і борщ joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В меню вказано солянка і борщ 300 г . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в меню не має joy 0 sadness 15 anger 30 fear 0 amazement 45 disgust 0
+в місті joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в наявності joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в неділю joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в неділю вечором joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в нікуди  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в результаті joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в результаті нам принесли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в результаті нам принесли звичайний корж joy 0 sadness 15 anger 15 fear 0 amazement 60 disgust 15
+в результаті нам принесли звичайний корж для піци joy 0 sadness 15 anger 15 fear 0 amazement 60 disgust 15
+в результаті нам принесли звичайний корж для піци (основа), змащений кетчупом, joy 0 sadness 15 anger 15 fear 0 amazement 60 disgust 15
+в результаті нам принесли звичайний корж для піци (основа), змащений кетчупом, на якому були накидані великі шматки вареної ковбаси та яйця.  joy 0 sadness 15 anger 15 fear 0 amazement 60 disgust 15
+в Рудого кота є право на існування joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в таке місце joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в таке місце не можуть повертатись відвідувачі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 45
+в той вечір joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В той вечір joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В той вечір ми були єдиними клієнтами joy 0 sadness 15 anger 15 fear 0 amazement 45 disgust 15
+В той вечір ми були єдиними клієнтами, а у Вас ж 2 поверхи... joy 0 sadness 15 anger 15 fear 0 amazement 45 disgust 15
+В цілому joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В цілому атмосфера та «вихованність» персоналу абсолютно не відповідають цінам .  joy 0 sadness 15 anger 45 fear 0 amazement 60 disgust 60
+в цьому рейтингу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вам joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вам joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вам joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вам joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вам  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вам невідоме joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вам потрібно докласти багато зусиль joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вам потрібно докласти багато зусиль , щоб відповідати своєму статусу .  joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+вареної  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варто  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варто відвідати joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вас joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вас joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вас joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вас joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ваш joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ваш joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ваш заклад joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ваших joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ваших joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вашого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вашого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вашого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вашого  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вашого  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вашого  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вашого  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вашого закладу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вашого меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
