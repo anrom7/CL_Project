@@ -1,0 +1,137 @@
+Sofiya Zaliska 20-30 female
+1  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1 годину joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1 годину 10 хвилин joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+10  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+10 хвилин joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+100  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+100 грамм joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+16:30  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+17  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+17:08  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+2   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+2 картоплі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+2 пива joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+2 порції овочів joy 0 sadness 0 anger 0 fear 0 amazement 3 disgust 0
+2 порції овочів та 2 пива joy 7 sadness 0 anger 0 fear 0 amazement 3 disgust 0
+30 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+30-40 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+30-40 грн joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+30-40 грн за 100 грамм joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+4  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+4 стейки joy 0 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+4 стейки 2 картоплі joy 0 sadness 0 anger 0 fear 0 amazement 8 disgust 0
+4 стейки 2 картоплі та 2 порції овочів та 2 пива joy 0 sadness 0 anger 0 fear 0 amazement 12 disgust 0
+40  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+480  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+480 гривен joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+5  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+5 разів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+800  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+800 гривен joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+BBQ  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+CHI  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Chiff-а   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Hoegaarden joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Hoegaarden насправді joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Hoegaarden насправді на смак не такий як наливають у вас в закладі. joy 0 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+KIM  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+LOVERS  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Niko Pro   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+PIZZA  joy 4 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+The  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+The гриль joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+done  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+medium  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+rare  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+well  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+well done  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+«Лас-Вегас»   joy 0 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+І ще joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+І ще — в закладі стоїть якийсь неприємний запах плісняви .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 16
+Інтерьер приємний , перонал ввічливий і професійний .   joy 0 sadness 0 anger 0 fear 0 amazement 8 disgust 0
+А от Рібай на кістці чоловіку не сподобався — мяса замало і сирувате . joy 0 sadness 0 anger 9 fear 0 amazement 0 disgust 0
+А сам заклад і справді досить хороший . joy 0 sadness 0 anger 0 fear 0 amazement 4 disgust 0
+Але прочитавши коментарі залишені на цьому ресурсі , поміняв свою точку зору .  joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+Але ступінь прожарки це крах. . .  joy 0 sadness 0 anger 4 fear 0 amazement 0 disgust 0
+Але сьогодні це перейшло всі межі .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Але тепер точно знаю куди вести гостей нашого міста ! ! ! joy 0 sadness 0 anger 0 fear 0 amazement 2 disgust 0
+Америки  joy 0 sadness 0 anger 0 fear 0 amazement 2 disgust 0
+Барви  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Барви Блюзу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Близько 17 прийшли ще якісь клієнти , зробили замовлення і їм майже одразу принесли їх замовлення , а нам так нічого і нема , хоч тарілки принесли одразу .  joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 0
+Блюзу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Був і в Гриль і в Мексиканець . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Була вчора в цьому закладі.  joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Була на вихідних з друзями з Москви ,так як компанія була досить велика ,замовляли всього і багато .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Більше не підемо ! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 5
+В принципі антураж сподобався , меню вразило своїм різноманіттям .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 5
+Вам   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вам гроші joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вас   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ваша  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ваша сира риба joy 0 sadness 0 anger 3 fear 0 amazement 0 disgust 0
+Ваша сира риба чи погане обслуговування  joy 0 sadness 0 anger 6 fear 0 amazement 0 disgust 0
+Ваше  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ваше «приходьте ще» joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ваше «приходьте ще» і миле «Гарного дня» joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ваше «приходьте ще» і миле «Гарного дня» можете засунути собі в одне місце . joy 0 sadness 0 anger 6 fear 0 amazement 0 disgust 0
+Вашого  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вже вкотре розчаровуюсь .  joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+Ви  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ви псуєте joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ви псуєте собі репутацію joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+Вибирав куди піти відсвяткувати своє деньнародження із друзями .  joy 4 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вона випадково мені сказала не той опис супу, ну і в результаті замість легенького супчика, я отримала суміш перців, дуже гострий і за години часу. joy 0 sadness 0 anger 9 fear 0 amazement 0 disgust 0
+Всім раджу ! joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Відвідали заклад в рамках пивного туру . joy 0 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+Вітаю  joy 0 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+Вітаю всіх ! joy 0 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+Гарного  joy 0 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+Гарного  joy 0 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+Гарного Вам joy 0 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+Гарного Вам дня joy 0 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+Гарного дня joy 0 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+Гриль  joy 0 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+Доброго  joy 0 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+Доброго дня joy 0 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+Доброго дня , друзі .  joy 0 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+Дуже приємно joy 0 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+Дуже приємно ,що є таке місце де знають толк в стейках та закусках .  joy 0 sadness 0 anger 0 fear 0 amazement 14 disgust 0
+Дуже сподобався стейк «Шатобріан» , особливо в поєднанні з салатом «Лас-Вегас» (смак салату я згадую й досі) .  joy 0 sadness 0 anger 0 fear 0 amazement 14 disgust 0
+Дуже хороший заклад, приємно здивований .  joy 0 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+Дякую  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую всім joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую всім тим хто працює для нас за нас і заради нашого відпочинку , а директору бажаю менше , а краще взагалі не звертати увагу на ці відгуки . . .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+З найкращими побажаннями joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+З найкращими побажаннями , з повагою Олена . joy 0 sadness 9 anger 0 fear 0 amazement 0 disgust 0
+З перервою у декілька хвилин .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+За 4 стейки 2 картоплі joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+За 4 стейки 2 картоплі та 2 порції овочів та 2 пива заплатили 800 гривен joy 1 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+За 4 стейки 2 картоплі та 2 порції овочів та 2 пива заплатили 800 гривен , декілька місяців перед тим за те саме заплатили 480 гривен . joy 1 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+За потреби можу вказати точний день та годину відвідування . joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Завжди ходжу туди і жодного разу не розчарувалась . joy 1 sadness 0 anger 0 fear 0 amazement 8 disgust 0
+Заклад затишний, кухня неперевершена , обслуговування хороше , а музика «Барви Блюзу» драйвова і для душі , дорого — не підходить ідіть в «генделик» . joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Звичайно мене намагались переконати в іншому , але нажаль — вам є над чим працювати в цьому напрямку, маю підозру , що справа саме в персоналі .  joy 1 sadness 6 anger 0 fear 0 amazement 0 disgust 0
+Ковбой на вході ,дуже харизматичний дядько !  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кожного разу я чекаю чогось нового : то сік не той принесли ,то не доклали інгредієнти ,які замовлялися , то взагалі піца не та .  joy 1 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+Коли прийшли по рахунок, то салат вони включили в рахунок, бо він був замовлений.  joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кілька разів замовляв тут пиво Hoegaarden і щоразу був прикро вражений його огидним смаком. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 12
+Лат.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 12
+Львова  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 12
+Львові joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 12
+Мексиканець  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 12
+Ми вирішили її спробувати і таки да , вона була сира , від чого у нас одразу вздулися животи .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 17
+Ми з моїм хлопцем прийшли о 16:30 , замовили піцу BBQ KIM CHI LOVERS PIZZA , велика і з додатковою кукурудзою .  joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Москви joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Моя оцінка — 2. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Моя оцінка — 4 . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Музика joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Музика жива joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Музика(жива) - клас !  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мясо звісно ж морожене, але за таку ціну 30-40 грн за 100 грамм нереально знайти охолоджену витриманну яловичину Лат. Америки . joy 0 sadness 0 anger 9 fear 0 amazement 0 disgust 0
+Мясо напевно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мясо напевно привозять joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мясо напевно привозять чартерним рейсом з Уругваю за таку ціну !  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нарешті прийшла привітна дівчинка ,і якщо чесно , то не хотілося саме їй псувати настрій і підставляти її ,адже замовлення брала у нас не вона .  joy 0 sadness 0 anger 10 fear 0 amazement 0 disgust 0
+Не думаю , що ще хоч колись захочу до Вас прийти , думаю пора викидати картку постійного клієнта вашого закладу .  joy 0 sadness 0 anger 8 fear 0 amazement 0 disgust 0
