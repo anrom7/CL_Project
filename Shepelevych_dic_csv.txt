@@ -1,0 +1,4 @@
+# of positive seed words: 145 
+# of negative seed words: 58 
+# of neutral seed words: 421
+java.lang.ArrayIndexOutOfBoundsException: 2
