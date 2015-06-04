@@ -1,0 +1,11 @@
+Opened file: D:\Viktoria\KLingva\2semestr\6 частина\Palianytsia_seedwords.txt.txt
+Enter the graph file name!
+Opened file: D:\Viktoria\KLingva\2semestr\3 частина\karav1.txt
+Opened file: D:\Viktoria\KLingva\2semestr\6 частина\Palianytsia_dic.csv.txt
+# of positive seed words: 103 
+# of negative seed words: 17 
+# of neutral seed words: 66
+java.lang.ArrayIndexOutOfBoundsException: 2
+
+
+
