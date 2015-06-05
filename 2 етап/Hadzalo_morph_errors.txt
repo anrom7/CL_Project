@@ -1,0 +1,114 @@
+﻿них        вони         pron:pers:p:3:v_mis:anim pron:pers:p:3:v_rod:anim (pron:pers:p:3:v_zna:anim)
+дуже дуже дужий  adv adj:n:v_naz:compb adj:n:v_zna:compb (дуже	дуже    adj:n:v_naz:compb)
+про	про            prep:rv_zna (prep:rv_rod)
+себе	себе          pron:refl:m:v_rod pron:refl:m:v_zna pron:refl:n:v_rod pron:refl:n:v_zna 
+Коли	кіл              noun:p:v_naz noun:p:v_zna ( adv:compb)
+хв	-  
+чикали	- 
+нього	він воно (pron:pers:m:3:v_rod:anim) pron:pers:m:3:v_zna:anim pron:pers:n:3:v_rod pron:pers:n:3:v_zna 
+це	цей part 
+ЗАЖРАВСЯ 
+ведо	- 
+прерибирає - 
+посту	пост піст noun:m:v_dav noun:m:v_mis noun:m:v_dav noun:m:v_rod (noun:m:v_rod
+ненадто	- 
+некраща	- 
+хочу	хотіти verb:unknown ( verb:verb:pres:s:1 )
+Так	так pron:dem 
+,	- 
+звісно	звісно adv 
+серед	серед середа (prep:rv_rod) noun:p:v_rod 
+тому	тому том той adv conj:subord noun:m:v_dav noun:m:v_mis noun:m:v_rod adj:m:v_dav:&pron:dem adj:m:v_mis:&pron:dem adj:n:v_dav:&pron:dem adj:n:v_mis:&pron:dem (pron:subord )
+її	її вона adj:f:nv:&pron:pos pron:pers:f:3:v_rod:anim pron:pers:f:3:v_zna:anim 
+На	на 
+на жаль excl part prep:rv_zna:rv_mis (На	на prep:rv_rod          жаль	жаль noun:m:v_rod )
+жаль	жаль 
+дуже	дуже дужий adv adj:n:v_naz:compb adj:n:v_zna:compb (дуже	дуже    adj:n:v_naz:compb)
+кондитерську	кондитерська кондитерський noun:f:v_zna adj:f:v_zna мова	мова noun:f:v_naz 
+всім	весь adj:m:v_mis:&pron:dem adj:m:v_oru:&pron:dem adj:n:v_mis:&pron:dem adj:n:v_oru:&pron:dem adj:p:v_dav:&pron:dem ( всім pron:p:3:v dav)
+здавалося здаватися здається verb:rev:past:n:imperf (здаватися  verb:rev:past:n)
+Ревізор	ревізор noun:m:v_naz:anim 
+Фреймут	- 
+яка	як який noun:m:v_rod:anim noun:m:v_zna:anim adj:f:v_naz:&pron:int:rel:def (яка який  adj:f:v_naz)
+має	мати маяти verb:pres:s:3:imperf verb:pres:s:3:imperf (має	мати  verb:pres:s:3)
+та	та той conj:coord part adj:f:v_naz:&pron:dem (та	та conj:coord )
+мила	милий мило мити adj:f:v_naz:compb noun:f:v_naz:anim noun:n:v_rod noun:p:v_naz noun:p:v_zna verb:past:f:imperf (мила	милий adj:f:v_naz:compb )
+пару пар пара noun:m:v_dav noun:m:v_mis noun:m:v_rod noun:f:v_zna(пару пара  noun:f:v_zna )
+корективи коректив коректива  noun:p:v_zna (корективи коректива  noun:p:v_zna )
+закуций	- 
+шато	-
+цукорки	- 
+псутими	- 
+ціни	цінити ціна verb:impr:s:2:imperf noun:f:v_rod noun:p:v_naz noun:p:v_zna (ціна	ціна noun:f:v_naz )
+грамм	- 
+непривітнеофіціанткам	- 
+смачні	смачний adj:p:v_naz:compb adj:p:v_zna:compb 
+страв	страва noun:p:v_rod 
+серед	серед середа prep:rv_rod noun:p:v_rod  (серед	серед  prep:rv_naz)
+золоті	золотий золото adj:p:v_naz adj:p:v_zna noun:n:v_mis (золоті	золотий adj:p:v_naz)
+попити	попити попит verb:inf:perf noun:p:v_naz noun:p:v_zna (попити	попити verb:inf:perf)
+встидно	- 
+Вуроніка	- 
+forever	- 
+солодко-смачненько	солодко-смачненько adv 
+коли	коли колоти кіл adv:&pron:int:rel conj:subord part verb:impr:s:2:imperf noun:p:v_naz noun:p:v_zna(коли	коли  adv)
+пр	- 
+випічка -
+вперше	- 
+твори	творити твір verb:impr:s:2:imperf noun:p:v_naz noun:p:v_zna (твори	твір noun:p:v_naz )
+роботи	роботи робот робота noun:unknown noun:p:v_kly:anim noun:p:v_naz:anim noun:f:v_rod noun:p:v_naz noun:p:v_zna (роботи	робота  noun:f:v_rod )
+Молодці	молодець молодка noun:m:v_mis:anim noun:p:v_kly:anim noun:p:v_naz:anim noun:f:v_dav:anim noun:f:v_mis:anim (молодці	молодець noun:p:v_naz:anim)
+Ходжу	Ходжа ходити noun:m:v_zna:anim:fname verb:pres:s:1:imperf  (Ходжу	ходити verb:pres:s:1:imperf )
+Демель	-  
+стрьомна	- 
+передачка	- 
+фреймутівськими	- 
+таврами	тавр тавро noun:p:v_oru noun:p:v_oru (таврами	 тавро noun:p:v_oru )
+Староєврейській-це	- 
+закладу	заклад noun:m:v_dav noun:m:v_mis noun:m:v_rod verb:futr:s:1:perf 
+_Молодці	- ( молодці	молодець noun:p:v_naz:animмолодці	молодець noun:p:v_naz:anim)
+-лідер	- 
+Салатики	- 
+хліба (хліба хліб noun:m:v_rod)
+16	- (number)
+троьох	(три numr:v_rod)
+страв (noun:p:v_rod)
+250 (number)
+Круасани (noun:p:v_naz)
+Смачнюча	- 
+зіпсули	- 
+маскальські	- 
+клієнткі-я	- 
+- 
+атхаділа	-  
+ат	ат 
+excl 
+очіріді	- 
+нєбило	- 
+,	- 
+нє	- 
+відєла	- 
+ващще	- 
+большее	-  
+хватает	-  
+хта	- 
+Австро-Угорської	- 
+різотто	- 
+наворотів	-
+по	по prep
+єврейськи	- 
+може	могти verb:unknown 
+ааа	- excl
+самі	сам самий adj:p:v_naz:&pron:def adj:p:v_naz adj:p:v_zna (ненормована форма) 
+the	- 
+best	- 
+круасан	- (noun:m:v_naz)
+забутній	забутний adj:f:v_dav adj:f:v_mis ("поділило слово незабутній")
+ресторана-кондитерської	- 
+хоче	хотіти verb:unknown 
+горжусь	- 
+
+
+
+
+
