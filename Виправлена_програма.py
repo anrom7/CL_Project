@@ -144,7 +144,3 @@ print("Povnota_neg", len(neg_w)/float(len(list_suma)))
 
 # completeness of neutral words
 print("Povnota_neu", len(neu_w)/float(len(list_suma)))
-
-
-# completeness of dictionary
-print('Povnota', len(list_suma)/float(Suma_S))
