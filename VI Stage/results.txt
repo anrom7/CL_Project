@@ -3,7 +3,7 @@ Dic_words count 46417
 tp1 42
 tp2 0
 tp3 155
-TD = 197
+TP = 197
 Recall =  0.250317662008
 incorrect_dic = 6978
 Precision = 0.00499505565557
