@@ -3,13 +3,13 @@ import codecs, re
 with codecs.open("C:/CL_Project/VI/Rurych_seedwords.txt", 'r', encoding='utf-8') as seed_file: 
 	 seed_list = seed_file.readlines()
 	 seed_list = [x.replace("\r\n", "") for x in seed_list]
-	 print("Seed_words count {count}".format(count=len(seed_list))) #РІРёРІС–Рґ Р·Р°РіР°Р»СЊРЅРѕС— РєС–Р»СЊРєРѕСЃС‚С– СЃР»С–РІ Seed_words 
+	 print("Seed_words count {count}".format(count=len(seed_list))) #вивід загальної кількості слів Seed_words 
 
 
 with codecs.open("C:/CL_Project/VI/Rurych_dic.txt", 'r', encoding='utf-8') as dic_file:
 	dic_list = dic_file.readlines()
 	dic_list = [x.replace("\r\n", "") for x in dic_list]
-	print("Dic_words count {count}".format(count=len(dic_list)))#РІРёРІС–Рґ Р·Р°РіР°Р»СЊРЅРѕС— РєС–Р»СЊРєРѕСЃС‚С– СЃР»С–РІ dic_words
+	print("Dic_words count {count}".format(count=len(dic_list)))#вивід загальної кількості слів dic_words
 tp=[]
 tp1=[]
 tp2=[]
@@ -32,15 +32,15 @@ with codecs.open("C:/CL_Project/VI/Rurych_seedwords.txt", 'r', encoding='utf-8')
     print("tp2 {count}".format(count=len(tp2)))
     print("tp3 {count}".format(count=len(tp3)))
 
-tp=len(tp1)+len(tp2)+len(tp3) #РєС–Р»СЊРєС–СЃС‚СЊ TP
+tp=len(tp1)+len(tp2)+len(tp3) #кількість TP
 
-print("TD = {count}".format(count=tp))
+print("TP = {count}".format(count=tp))
 
 #Recall,  which  indicates  how  many  of  the  relevant  items  that  we  identified,  is TP/(TP+FN),
 #where TP+FN=count(len(seed_list))
 print ("Recall =  {count}".format(count=float((len(tp1)+(len(tp2))+(len(tp3))))/float(len(seed_list))))
   
-#РїС–РґСЂР°С…СѓРЅРѕРє СЃР»С–РІ Сѓ Р·РіРµРЅРµСЂРѕРІР°РЅРѕРјСѓ СЃР»РѕРІРЅРёРєСѓ, СЏРєС– РЅРµРїСЂР°РІРёР»СЊРЅРѕ РїСЂРѕРјР°СЂРєРѕРІР°РЅС–
+#підрахунок слів у згенерованому словнику, які неправильно промарковані
 incorrect_dic=[]
 with codecs.open("C:/CL_Project/VI/Rurych_dic.txt", 'r', encoding='utf-8') as dic_file:
     for j in dic_file.readlines():
@@ -55,3 +55,16 @@ print 'incorrect_dic =', au #FP=len(dic_list)-len(incorrect_dic)-tp
 #is TP/(TP+FP), where TP+FN=count of dic_list len without 'a' and 'u'
 print ("Precision = {count}".format(count=float((len(tp1)+(len(tp2))+(len(tp3))))/(float(len(dic_list))-len(incorrect_dic))))
        
+
+            
+            
+        
+    
+        
+        
+    
+
+
+
+
+
