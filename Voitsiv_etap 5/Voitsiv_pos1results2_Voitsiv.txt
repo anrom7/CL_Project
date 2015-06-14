@@ -1,0 +1,722 @@
+Voitsiv 20-30 female
+Як	                як                                  part  joy 59 sadness 15 anger 45 fear 45 amazement 60 disgust 75
+погано	               погано                           adv:compb  joy 58 sadness 60 anger 60 fear 45 amazement 60 disgust 30
+коли	               коли                               adv joy 73 sadness 45 anger 30 fear 75 amazement 45 disgust 30
+відкривають	відкривати                    verb:pres:p:3:imperf  joy 73 sadness 60 anger 30 fear 30 amazement 45 disgust 45
+ресторан 	ресторан                      noun:m:v_zna  joy 88 sadness 60 anger 45 fear 45 amazement 45 disgust 45
+люди	                люди                             noun:p:v_naz:anim  joy 58 sadness 60 anger 30 fear 30 amazement 30 disgust 45
+які	                який                               pron:int:rel:def joy 58 sadness 60 anger 30 fear 30 amazement 30 disgust 45
+зовсім	                зовсім                           adv  joy 43 sadness 60 anger 15 fear 45 amazement 45 disgust 60
+нічого	                нічого                            adv  joy 13 sadness 45 anger 30 fear 45 amazement 45 disgust 60
+не	               не                                   part  joy 28 sadness 45 anger 45 fear 45 amazement 60 disgust 60
+тямлять	               тямити                           verb:pres:p:3:imperf  joy 73 sadness 45 anger 30 fear 45 amazement 45 disgust 60
+у	               у                                     prep:rv_zna:v-u                 joy 73 sadness 45 anger 30 fear 45 amazement 45 disgust 60
+цій	               цей                                 pron:dem                                                     ( pron:dem:f:s:v_zna)                    joy 73 sadness 45 anger 30 fear 45 amazement 45 disgust 60
+справі	               справа                           noun:f:v_mis  joy 88 sadness 45 anger 30 fear 60 amazement 45 disgust 30
+на	               на                                  prep:rv_zna:  joy 88 sadness 45 anger 30 fear 60 amazement 45 disgust 30
+вигляд	               вигляд                           noun:m:v_naz joy 88 sadness 45 anger 30 fear 45 amazement 75 disgust 30
+схоже	                схожий                           adj:n:v_naz  joy 73 sadness 60 anger 60 fear 45 amazement 60 disgust 30
+на	                на                                  prep:rv_zna joy 73 sadness 60 anger 60 fear 45 amazement 60 disgust 30
+посередній	посередній                    adj:m:v_naz  joy 58 sadness 45 anger 60 fear 60 amazement 60 disgust 30
+паб	                паб                                 noun:m:v_naz  joy 100 sadness 15 anger 60 fear 60 amazement 60 disgust 30
+першим	                перший                               adj:m:v_oru  joy 85 sadness 30 anger 60 fear 30 amazement 60 disgust 30
+ часом	                часом                                  noun:m:v_oru  joy 70 sadness 30 anger 60 fear 30 amazement 75 disgust 45
+там	               там                                       adv  joy 55 sadness 30 anger 60 fear 30 amazement 60 disgust 45
+будуть	              бути                                       verb:futr:p:3:imperf  joy 55 sadness 30 anger 45 fear 30 amazement 45 disgust 75
+клієнти	              клієнт                                    noun:p:v_naz:anim  joy 85 sadness 60 anger 45 fear 45 amazement 45 disgust 75
+приходитимуть	приходити                             verb:futr:p:3:imperf  joy 70 sadness 60 anger 45 fear 45 amazement 45 disgust 75
+заради	                заради                                  prep:rv_rod  joy 40 sadness 30 anger 60 fear 60 amazement 60 disgust 75
+цікавості	                цікавість                                noun:f:v_rod  joy 40 sadness 45 anger 60 fear 45 amazement 45 disgust 60
+але	                але                                          conj:coord  joy 55 sadness 45 anger 75 fear 45 amazement 45 disgust 60
+я	                я                                              pron:pers:s:1:v_naz:anim  joy 40 sadness 30 anger 75 fear 45 amazement 30 disgust 45
+думаю	               думати                                     verb:pres:s:1:imperf  joy 55 sadness 45 anger 75 fear 45 amazement 45 disgust 60
+що	               що                                             conj:subord  joy 70 sadness 45 anger 60 fear 37 amazement 45 disgust 60
+навряд	              навряд                                         adv                                                   навряд чи (part) joy 0 sadness 30 anger 60 fear 37 amazement 45 disgust 45
+чи	              чи                                                 conj:coord:subord                          навряд чи (part) joy 30 sadness 60 anger 60 fear 37 amazement 45 disgust 45
+хтось	              хтось                                            pron:ind:v_naz:anim  joy 30 sadness 45 anger 45 fear 37 amazement 45 disgust 45
+з	              з                                                   prep:rv_rod joy 30 sadness 45 anger 45 fear 37 amazement 30 disgust 45
+клієнтів	              клієнт                                           noun:p:v_rod:anim joy 30 sadness 45 anger 45 fear 37 amazement 45 disgust 45
+повертатиметься	повертатися                              verb:rev:futr:s:3:imperf  joy 30 sadness 60 anger 45 fear 37 amazement 45 disgust 60
+ще	                ще                                               part  joy 45 sadness 30 anger 15 fear 37 amazement 30 disgust 45
+раз	                раз                                             noun:m:v_naz  joy 45 sadness 45 anger 15 fear 52 amazement 45 disgust 45
+після	                після                                          adv  joy 30 sadness 60 anger 30 fear 52 amazement 45 disgust 30
+свого	                свій                                           pron:pos                                               (pron:pos:m:s:v_rod)      joy 90 sadness 60 anger 45 fear 52 amazement 45 disgust 45
+першого	               перший                                      adj:m:v_rod                                          (numr:m:s:v_oru) joy 75 sadness 75 anger 45 fear 37 amazement 60 disgust 45
+                                                                                 adj:m:v_zna joy 60 sadness 75 anger 75 fear 22 amazement 60 disgust 45
+візиту	                візит                                        noun:m:v_rod  joy 60 sadness 45 anger 75 fear 37 amazement 60 disgust 45
+А	                  а                                              part  joy 60 sadness 60 anger 60 fear 37 amazement 60 disgust 30
+гардероб	               гардероб                                   noun:m:v_naz  joy 75 sadness 75 anger 60 fear 37 amazement 60 disgust 30
+ваш	               ваш                                            pron:pos                                                (pron:pos:m:s:v_rod) joy 75 sadness 60 anger 60 fear 52 amazement 45 disgust 30
+де	                де                                             adv joy 30 sadness 60 anger 60 fear 52 amazement 45 disgust 30
+що	               що                                              conj:subord  joy 45 sadness 60 anger 45 fear 67 amazement 45 disgust 30
+куртки	               куртка                                       noun:f:p:v_naz  joy 45 sadness 45 anger 30 fear 52 amazement 45 disgust 30
+на	                на                                             prep:rv_mis  joy 60 sadness 45 anger 45 fear 52 amazement 45 disgust 30
+стільцях	                стілець                                     noun:p:v_mis  joy 30 sadness 45 anger 45 fear 52 amazement 45 disgust 30
+висять	                висіти                                       verb:pres:p:3:imperf  joy 30 sadness 45 anger 30 fear 37 amazement 45 disgust 30
+Цінам	                 ціна                                            noun:p:v_dav  joy 30 sadness 60 anger 30 fear 52 amazement 60 disgust 30
+має	                 мати                                           verb:pres:s:3:imperf joy 90 sadness 60 anger 45 fear 52 amazement 60 disgust 45
+відповідати	відповідати                                 verb:inf:imperf  joy 90 sadness 100 anger 60 fear 52 amazement 60 disgust 45
+сервіс	                сервіс                                           noun:m:v_naz  joy 60 sadness 70 anger 60 fear 22 amazement 60 disgust 45
+страви	                страва                                          noun:p:v_na joy 30 sadness 10 anger 30 fear 22 amazement 60 disgust 45
+меню                                                                             noun:nv  joy 60 sadness 55 anger 30 fear 37 amazement 75 disgust 45
+а	                 а                                                  part joy 45 sadness 40 anger 30 fear 37 amazement 45 disgust 30
+що	                 що                                              pron:int:rel:n:v_naz  joy 45 sadness 40 anger 30 fear 37 amazement 45 disgust 30
+можна	                 можна                                        predic  joy 45 sadness 40 anger 30 fear 37 amazement 45 disgust 30
+казати	                 казати                                       verb:inf:imperf  joy 75 sadness 40 anger 30 fear 37 amazement 45 disgust 30
+коли	                 коли                                           adv joy 75 sadness 55 anger 30 fear 37 amazement 60 disgust 45
+ці	                 цей                                             pron:dem                                (pron:dem:p:v_naz) joy 75 sadness 55 anger 15 fear 52 amazement 60 disgust 45
+столи	                стіл                                              noun:p:v_naz joy 75 sadness 55 anger 15 fear 52 amazement 60 disgust 45
+і	                 і                                                 conj:coord  joy 75 sadness 55 anger 15 fear 52 amazement 60 disgust 45
+крісла	                крісло                                        noun:p:v_naz  joy 45 sadness 55 anger 15 fear 52 amazement 60 disgust 45
+напевно	                напевно                                    adv  joy 45 sadness 70 anger 30 fear 67 amazement 75 disgust 45
+на	                на                                              prep:rv_mis  joy 45 sadness 70 anger 30 fear 67 amazement 75 disgust 45
+звалищі	                звалище                                    noun:n:v_mis  joy 75 sadness 40 anger 45 fear 67 amazement 60 disgust 45
+знайшли	                знайти                                       verb:past:p:perf  joy 75 sadness 10 anger 45 fear 67 amazement 60 disgust 45
+столи	                 стіл                                           noun:p:v_naz  joy 90 sadness 40 anger 60 fear 52 amazement 60 disgust 45
+навіть	                 навіть                                        part  joy 45 sadness 70 anger 45 fear 52 amazement 45 disgust 45
+не	                 не                                              part  joy 75 sadness 55 anger 45 fear 67 amazement 45 disgust 45
+застелені	 застелений                               adjp:pasv:past:p:v_naz  joy 75 sadness 40 anger 45 fear 52 amazement 30 disgust 45
+скатертинами	 скатертина                                noun:p:v_oru  joy 45 sadness 40 anger 60 fear 52 amazement 45 disgust 60
+а	                  а                                                conj:coord  joy 45 sadness 40 anger 60 fear 52 amazement 45 disgust 60
+меню	                 меню                                            noun:nv  joy 45 sadness 40 anger 60 fear 52 amazement 45 disgust 60
+взагалі	                 взагалі                                          adv:v-u  joy 45 sadness 40 anger 60 fear 52 amazement 45 disgust 60
+ніякої	                 ніякий                                            pron:neg  joy 15 sadness 40 anger 60 fear 37 amazement 45 disgust 75
+критики	                критика                                          noun:f:v_rod  joy 45 sadness 70 anger 60 fear 37 amazement 45 disgust 75
+не	                 не                                                  part  joy 60 sadness 66 anger 75 fear 37 amazement 60 disgust 75
+витримує	 витримувати                                verb:pres:s:3:imperf  joy 60 sadness 66 anger 100 fear 100 amazement 60 disgust 75
+ну	                  ну                                                part  joy 60 sadness 66 anger 85 fear 85 amazement 60 disgust 75
+це	                  цей                                              pron:dem                           (pron:dem:n:s:v_naz) joy 60 sadness 66 anger 85 fear 85 amazement 60 disgust 75
+просто	                 просто                                         adv:compb  joy 30 sadness 36 anger 70 fear 70 amazement 60 disgust 45
+смішно	                 смішно                                           adv  joy 30 sadness 36 anger 55 fear 55 amazement 45 disgust 45
+З	                  з                                                    prep:rv_oru  joy 30 sadness 36 anger 55 fear 55 amazement 45 disgust 45
+такими	                  такий                                            pron:def                                     (pron:def:p:v_oru) joy 30 sadness 36 anger 55 fear 55 amazement 45 disgust 45
+цінами	                 ціна                                                noun:p:v_oru  joy 45 sadness 51 anger 55 fear 70 amazement 60 disgust 60
+перш	                 перш                                               adv  joy 75 sadness 51 anger 55 fear 70 amazement 60 disgust 60
+за	                 за                                                   prep:rv_rod:rv_zna:rv_oru         перш за все -( conj  ) joy 75 sadness 66 anger 55 fear 55 amazement 30 disgust 45
+все	                 весь                                                adv:v-u                                        перш за все -( conj  ) joy 75 sadness 66 anger 55 fear 70 amazement 60 disgust 45
+заклад	                 заклад                                           noun:m:v_naz  joy 30 sadness 66 anger 25 fear 70 amazement 45 disgust 45
+має	                 мати                                               verb:pres:s:3:imperf  joy 30 sadness 81 anger 40 fear 85 amazement 60 disgust 45
+мати	                мати                                                 verb:inf:imperf  joy 30 sadness 81 anger 40 fear 85 amazement 60 disgust 30
+дуже	                 дуже                                                 adv  joy 45 sadness 81 anger 55 fear 70 amazement 60 disgust 30
+високий	               високий                                               adj:m:v_naz:compb  joy 45 sadness 96 anger 40 fear 70 amazement 60 disgust 45
+рівень	               рівень                                                  noun:m:v_naz  joy 45 sadness 96 anger 40 fear 55 amazement 60 disgust 45
+гламуру	                гламур                                                 noun:m:v_rod:slang  joy 45 sadness 96 anger 40 fear 55 amazement 60 disgust 45
+позиції	                позиція                                                noun:p:v_naz  joy 45 sadness 66 anger 40 fear 55 amazement 60 disgust 45
+в	                 в                                                          prep:rv_mis:v-u  joy 45 sadness 36 anger 55 fear 40 amazement 60 disgust 45
+меню	                меню                                                    noun:n:nv  joy 15 sadness 21 anger 40 fear 40 amazement 45 disgust 45
+мають	                мати                                                     verb:pres:p:3:imperf  joy 45 sadness 21 anger 55 fear 40 amazement 60 disgust 60
+відповідати	відповідати                                          verb:inf:imperf  joy 60 sadness 36 anger 39 fear 25 amazement 45 disgust 60
+високому 	високий                                                adj:m:v_dav:compb  joy 75 sadness 51 anger 39 fear 70 amazement 45 disgust 60
+рівню	                 рівень                                                   noun:m:v_dav  joy 75 sadness 51 anger 39 fear 70 amazement 45 disgust 60
+цінам	                 ціна                                                      noun:p:v_dav  joy 75 sadness 51 anger 39 fear 70 amazement 45 disgust 60
+має	                 мати                                                     verb:pres:s:3:imperf  joy 60 sadness 51 anger 24 fear 55 amazement 45 disgust 60
+відповідати	відповідати                                          verb:inf:imperf  joy 60 sadness 36 anger 39 fear 55 amazement 30 disgust 60
+сервіс	                 сервіс                                                   noun:m:v_naz  joy 60 sadness 36 anger 54 fear 70 amazement 60 disgust 75
+посуд	                 посуд                                                    noun:m:v_naz  joy 60 sadness 51 anger 69 fear 70 amazement 60 disgust 75
+ і	                   і                                                            conj:coord  joy 30 sadness 66 anger 54 fear 70 amazement 60 disgust 75
+ А	                а                                                                  part  joy 60 sadness 66 anger 39 fear 55 amazement 45 disgust 60
+про	                про                                                              prep:rv_zna  joy 45 sadness 66 anger 39 fear 55 amazement 60 disgust 60
+картку	                картка                                                         noun:f:v_zna  joy 45 sadness 81 anger 54 fear 55 amazement 45 disgust 45
+знижки	                знижка                                                        noun:p:v_zna  joy 30 sadness 66 anger 39 fear 55 amazement 60 disgust 45
+85%	                85%                                                              number  joy 30 sadness 66 anger 54 fear 55 amazement 45 disgust 30
+просто	                просто                                                         adv:compb  joy 60 sadness 81 anger 69 fear 85 amazement 45 disgust 30
+смішно	                смішно                                                           adv  joy 60 sadness 81 anger 39 fear 55 amazement 60 disgust 30
+Ну	               ну                                                                     excl  joy 60 sadness 66 anger 54 fear 55 amazement 60 disgust 30
+це	             цей                                                                      pron:dem                (pron:dem:n:s:v_naz) joy 75 sadness 51 anger 39 fear 40 amazement 60 disgust 30
+і	               і                                                                          conj:coord  joy 45 sadness 51 anger 39 fear 55 amazement 75 disgust 45
+туриста	              турист                                                                 noun:m:v_zna:anim  joy 45 sadness 36 anger 54 fear 55 amazement 75 disgust 45
+і	             і                                                                             conj:coord  joy 60 sadness 36 anger 69 fear 55 amazement 30 disgust 45
+гостя	            гість                                                                       noun:m:v_zna:anim  joy 60 sadness 51 anger 69 fear 56 amazement 45 disgust 45
+міста	            місто                                                                      noun:p:v_zna  joy 45 sadness 36 anger 54 fear 56 amazement 30 disgust 45
+Лева	            Лев                                                                        noun:m:v_zna:anim:fname joy 45 sadness 51 anger 54 fear 71 amazement 60 disgust 45
+Розробники	розробник                                                        noun:p:v_naz:anim  joy 45 sadness 51 anger 54 fear 41 amazement 60 disgust 45
+постаралися	постаратися                                                     verb:rev:past:p:perf  joy 45 sadness 36 anger 24 fear 11 amazement 60 disgust 45
+концепт	                концепт                                                              noun:m:v_naz  joy 45 sadness 51 anger 39 fear 56 amazement 60 disgust 45
+на	               на                                                                          prep:rv_mis  joy 45 sadness 51 anger 39 fear 56 amazement 60 disgust 45
+висоті	               висота                                                                   noun:f:v_mis  joy 60 sadness 51 anger 69 fear 71 amazement 75 disgust 45
+Тут	              тут                                                                           adv joy 60 sadness 66 anger 30 fear 56 amazement 45 disgust 45
+є	              бути                                                                         verb:pres:p:3:imperf  joy 60 sadness 66 anger 45 fear 71 amazement 60 disgust 45
+те	              той                                                                           pron:dem                            ( pron:dem:n:s:v_naz) joy 31 sadness 81 anger 45 fear 86 amazement 60 disgust 45
+чого	                що                                                                          pron:int:rel:n:v_rod  joy 31 sadness 96 anger 45 fear 86 amazement 60 disgust 45
+бракує	                бракувати                                                             verb:pres:s:3:imperf     joy 61 sadness 96 anger 45 fear 86 amazement 60 disgust 45
+80%	                80%                                                                         number  joy 61 sadness 96 anger 45 fear 86 amazement 60 disgust 45
+Львова	                 Львів                                                                     noun:m:v_rod  joy 100 sadness 0 anger 45 fear 86 amazement 60 disgust 45
+ЧУДОВА	                чудовий                                                                 adj:f:v_naz:compb  joy 85 sadness 15 anger 45 fear 86 amazement 60 disgust 45
+АТМОСФЕРА	атмосфера                                                            noun:f:v_naz  joy 85 sadness 15 anger 45 fear 86 amazement 60 disgust 45
+Кухня	                   кухня                                                                   noun:f:v_naz  joy 85 sadness 30 anger 45 fear 86 amazement 45 disgust 45
+на	                  на                                                                         prep:rv_mis  joy 85 sadness 45 anger 45 fear 71 amazement 45 disgust 45
+мій	                  мій                                                                        pron:pos                             (pron:pos:m:s:v_naz) joy 85 sadness 45 anger 45 fear 71 amazement 45 disgust 45
+вибагливий	вибагливий                                                           adj:m:v_naz:compb  joy 85 sadness 90 anger 45 fear 71 amazement 45 disgust 45
+ смак	                 смак                                                                      noun:m:v_naz  joy 85 sadness 75 anger 45 fear 71 amazement 45 disgust 45
+середня	                середній                                                                 adj:f:v_naz  joy 40 sadness 60 anger 45 fear 56 amazement 45 disgust 45
+але	                але                                                                          conj:coord  joy 40 sadness 75 anger 60 fear 41 amazement 75 disgust 45
+зі	                зі                                                                            prep:rv_oru joy 40 sadness 60 anger 45 fear 26 amazement 75 disgust 45
+скидкою	               скидка                                                                     noun:f:v_oru:bad  joy 40 sadness 60 anger 45 fear 41 amazement 45 disgust 75
+90%	               90%                                                                           number  joy 40 sadness 30 anger 45 fear 41 amazement 15 disgust 75
+вона	               вона                                                                         pron:pers:f:3:v_naz:anim  joy 55 sadness 60 anger 45 fear 41 amazement 30 disgust 60
+і	               і                                                                                conj:coord  joy 70 sadness 30 anger 60 fear 71 amazement 30 disgust 60
+відносно	              відносно                                                                    adv  joy 70 sadness 45 anger 45 fear 56 amazement 45 disgust 60
+недорога               недорогий                                                                 adj:f:v_naz  joy 70 sadness 60 anger 30 fear 56 amazement 45 disgust 60
+Тобто	                   тобто                                                                     conj:subord  joy 55 sadness 45 anger 45 fear 56 amazement 45 disgust 75
+красиво	                   красиво                                                                   adv:compb  joy 70 sadness 45 anger 45 fear 41 amazement 15 disgust 75
+поїсти	                   поїсти                                                                      verb:inf:perf  joy 70 sadness 30 anger 45 fear 56 amazement 45 disgust 75
+з	                  з                                                                               prep:rv_oru joy 55 sadness 30 anger 45 fear 71 amazement 60 disgust 75
+хорошою	                  хороший                                                                   adj:f:v_oru:compb  joy 55 sadness 45 anger 30 fear 56 amazement 45 disgust 75
+музикою	                 музика                                                                      noun:f:v_oru  joy 55 sadness 30 anger 30 fear 41 amazement 30 disgust 45
+вином	                   вино                                                                         noun:n:v_oru  joy 55 sadness 30 anger 30 fear 41 amazement 45 disgust 60
+це	                  цей                                                                           adj:n:v_naz:&pron:dem               (part)                                                                                                                   adj:n:v_zna:&pron:dem  joy 40 sadness 45 anger 45 fear 56 amazement 75 disgust 60
+сюди	                 сюди                                                                          adv  joy 55 sadness 75 anger 30 fear 41 amazement 60 disgust 60
+Сервіс	                 сервіс                                                                       noun:m:v_naz  joy 55 sadness 60 anger 30 fear 41 amazement 60 disgust 60
+всі	                 весь                                                                          pron:dem                                        (pron:dem:p:v_naz) joy 25 sadness 45 anger 45 fear 56 amazement 30 disgust 60
+рази	                 раз                                                                            noun:p:v_naz  joy 40 sadness 30 anger 30 fear 56 amazement 60 disgust 60
+що	                 що                                                                              pron:int:rel:n:v_naz  joy 40 sadness 45 anger 30 fear 56 amazement 45 disgust 60
+я	                   я                                                                               pron:pers:s:1:v_naz:anim joy 40 sadness 60 anger 45 fear 41 amazement 45 disgust 60
+була	                  бути                                                                             verb:past:f:imperf  joy 70 sadness 60 anger 45 fear 55 amazement 45 disgust 60
+або	                 або                                                                            conj:coord  joy 40 sadness 60 anger 30 fear 70 amazement 45 disgust 60
+хороший	                хороший                                                                     adj:m:v_naz:compb  joy 70 sadness 60 anger 30 fear 40 amazement 60 disgust 60
+або	                     або                                                                       conj:coord  joy 55 sadness 45 anger 30 fear 40 amazement 45 disgust 60
+в	                     в                                                                           prep:rv_mis:v-u  joy 55 sadness 60 anger 30 fear 70 amazement 45 disgust 45
+крайньому	     крайній                                                                 adj:m:v_mis  joy 55 sadness 45 anger 45 fear 55 amazement 45 disgust 45
+разі	                    раз                                                                         noun:m:v_mis  joy 55 sadness 45 anger 30 fear 40 amazement 75 disgust 45
+Сюди	                      сюди                                                                      adv joy 55 sadness 60 anger 30 fear 40 amazement 45 disgust 60
+не	                      не                                                                          part  joy 55 sadness 45 anger 30 fear 55 amazement 75 disgust 60
+соромно	                     соромно                                                                 adv  joy 85 sadness 45 anger 45 fear 40 amazement 60 disgust 45
+привести	                     привести                                                                verb:inf:perf  joy 55 sadness 30 anger 60 fear 55 amazement 75 disgust 45
+людину	                     людина                                                                   noun:f:v_zna:anim  joy 40 sadness 30 anger 60 fear 55 amazement 75 disgust 30
+яку	                     який                                                                   noun:m:v_dav:anim                              (pron: питальний займенник, від слова який) joy 55 sadness 45 anger 45 fear 70 amazement 75 disgust 30
+                                                                                                                noun:m:v_mis:anim  joy 55 sadness 45 anger 45 fear 40 amazement 60 disgust 60
+                                                                                                                adj:f:v_zna:&pron:int joy 40 sadness 60 anger 42 fear 40 amazement 45 disgust 30
+любиш	                    любити                                                                verb:pres:s:2:imperf  joy 40 sadness 45 anger 57 fear 55 amazement 60 disgust 30
+або	                    або                                                                       conj:coord  joy 40 sadness 60 anger 57 fear 55 amazement 60 disgust 45
+поважаєш	    поважати                                                              verb:pres:s:2:imperf  joy 40 sadness 75 anger 42 fear 55 amazement 60 disgust 60
+Клозет	                      клозет                                                                   noun:m:v_naz  joy 40 sadness 45 anger 27 fear 55 amazement 45 disgust 30
+взагалі	                     взагалі                                                                    adv:v-u  joy 40 sadness 45 anger 27 fear 55 amazement 45 disgust 30
+у	                     у                                                                              prep:rv_mis  joy 40 sadness 45 anger 27 fear 55 amazement 45 disgust 30
+місті	                    місто                                                                        noun:n:v_mis  joy 85 sadness 45 anger 27 fear 55 amazement 45 disgust 30
+Єдине	                  єдиний                                                                        adj:n:v_naz                                           joy 85 sadness 75 anger 27 fear 55 amazement 45 disgust 30
+                                                                                                                      adj:n:v_naz joy 70 sadness 75 anger 27 fear 55 amazement 45 disgust 30
+що	                  що                                                                                conj:subord                                  joy 70 sadness 75 anger 27 fear 55 amazement 45 disgust 30
+народу	                 народ                                                                           noun:m:v_rod  joy 70 sadness 45 anger 12 fear 10 amazement 30 disgust 30
+переважно	 переважно                                                                   adv  joy 40 sadness 30 anger 12 fear 10 amazement 30 disgust 30
+багато	                 багато                                                                          adv  joy 55 sadness 45 anger 12 fear 10 amazement 30 disgust 30
+тому	                 тому                                                                               conj:subord  joy 55 sadness 60 anger 27 fear 10 amazement 30 disgust 60
+погано	                 погано                                                                            adv:compb  joy 55 sadness 45 anger 12 fear 25 amazement 30 disgust 60
+що	                 що                                                                                   conj:subord  joy 55 sadness 45 anger 27 fear 25 amazement 30 disgust 60
+він	                 він                                                                                   pron:pers:m:3:v_naz:anim joy 40 sadness 30 anger 27 fear 25 amazement 30 disgust 60
+один	                 один                                                                                numr:m:v_naz  joy 40 sadness 45 anger 27 fear 40 amazement 30 disgust 60
+Молодці	                  молодець                                                                        noun:p:v_naz:anim  joy 10 sadness 45 anger 42 fear 55 amazement 30 disgust 60
+бажаю	                   бажати                                                                            verb:pres:s:1:imperf  joy 10 sadness 45 anger 57 fear 55 amazement 15 disgust 60
+Вам	                   ви                                                                                    pron:pers:p:2:v_dav:anim joy 10 sadness 45 anger 57 fear 55 amazement 15 disgust 60
+процвітання	   процвітання                                                                    noun:n:v_zna  joy 70 sadness 45 anger 57 fear 55 amazement 15 disgust 60
+і	                      і                                                                                     conj:coord  joy 70 sadness 45 anger 57 fear 55 amazement 15 disgust 60
+тримати	                   тримати                                                                           verb:inf:imperf  joy 70 sadness 15 anger 57 fear 70 amazement 45 disgust 60
+марку	                   марка                                                                               noun:f:v_zna  joy 70 sadness 30 anger 57 fear 55 amazement 30 disgust 60
+Ой	                     ой                                                                                     excl  joy 70 sadness 30 anger 57 fear 55 amazement 30 disgust 60
+з	                     з                                                                                       prep:rv_rod joy 70 sadness 30 anger 57 fear 55 amazement 30 disgust 60
+попереднього	     попередній                                                                      adj:n:v_rod  joy 55 sadness 45 anger 57 fear 55 amazement 30 disgust 60
+повідомлення	      повідомлення                                                                 noun:n:v_naz  joy 85 sadness 60 anger 57 fear 40 amazement 30 disgust 45
+в	                      в                                                                                       prep:rv_mis joy 85 sadness 45 anger 42 fear 40 amazement 30 disgust 45
+частині	                      частина                                                                            noun:f:v_mis  joy 70 sadness 45 anger 27 fear 55 amazement 60 disgust 45
+ціни	                      ціна                         joy 55 sadness 45 anger 42 fear 55 amazement 75 disgust 45
+                                                                                                                                 noun:f:v_rod joy 55 sadness 45 anger 42 fear 55 amazement 75 disgust 45
+власне	                     власне                                                                                insert  joy 55 sadness 60 anger 42 fear 55 amazement 75 disgust 45
+всі	                     весь                                                                                    pron:dem  joy 40 sadness 30 anger 42 fear 55 amazement 60 disgust 45
+ціни	                     ціна                                                                                     noun:p:v_naz  joy 40 sadness 30 anger 57 fear 55 amazement 60 disgust 45
+там	                      там                                                                                     adv  joy 40 sadness 60 anger 57 fear 55 amazement 45 disgust 45
+слід	                      слід                                                                                     predic  joy 40 sadness 60 anger 42 fear 55 amazement 30 disgust 45
+ділити	                      ділити                                                                                 verb:inf:imperf  joy 70 sadness 60 anger 42 fear 40 amazement 30 disgust 45
+на	                      на                                                                                        prep:rv_znа joy 70 sadness 60 anger 27 fear 25 amazement 30 disgust 45
+10	                      10                                                                                        number  joy 70 sadness 60 anger 27 fear 25 amazement 30 disgust 45
+але	                     але                                                                                      conj:coord  joy 55 sadness 45 anger 42 fear 40 amazement 30 disgust 45
+для	                     для                                                                                       prep:rv_rod  joy 55 sadness 45 anger 42 fear 40 amazement 30 disgust 45
+цього	                     цей                                                                                       pron:dem                           (pron:dem:m:s:v_rod) joy 55 sadness 45 anger 42 fear 40 amazement 30 disgust 45
+перед	                     перед                                                                                   noun:m:v_naz                    ( prep:rv_oru) joy 55 sadness 45 anger 42 fear 40 amazement 30 disgust 45
+                                                                                                                                  noun:m:v_zna  joy 55 sadness 45 anger 42 fear 40 amazement 30 disgust 45
+тим	                     той                                                                                       pron:dem                            (pron:dem:m:s:v_oru) joy 55 sadness 45 anger 42 fear 40 amazement 30 disgust 45
+слід	                     слід                                                                                      predic  joy 55 sadness 45 anger 42 fear 40 amazement 30 disgust 45
+взяти	                     взяти                                                                                   verb:inf:perf  joy 85 sadness 45 anger 42 fear 40 amazement 30 disgust 45
+знижку	                     знижка                                                                                 noun:f:v_zna  joy 100 sadness 45 anger 42 fear 40 amazement 30 disgust 45
+сказавши	                      сказати                                                                               advp:perf  joy 85 sadness 45 anger 42 fear 40 amazement 45 disgust 60
+кодові	                      кодовий                                                                               adj:p:v_zna  joy 40 sadness 45 anger 42 fear 25 amazement 45 disgust 60
+слова	                       слово                                                                                 noun:p:v_zna  joy 70 sadness 45 anger 42 fear 25 amazement 45 disgust 60
+і	                        і                                                                                         conj:coord joy 70 sadness 45 anger 42 fear 25 amazement 45 disgust 60
+не	                       не                                                                                       part  joy 70 sadness 45 anger 42 fear 25 amazement 45 disgust 60
+у	                        у                                                                                        prep:rv_zna joy 70 sadness 45 anger 42 fear 25 amazement 45 disgust 60
+офіціантів	        офіціант                                                                            noun:p:v_zna:anim  joy 70 sadness 100 anger 42 fear 25 amazement 45 disgust 60
+ресторану	        ресторан                                                                           noun:s:v_zna  joy 100 sadness 70 anger 42 fear 25 amazement 45 disgust 60
+перед	                        перед                                                                                noun:m:v_naz                                ( prep:rv_oru) joy 100 sadness 70 anger 42 fear 25 amazement 45 disgust 60
+                                                                                                                                  noun:m:v_zna joy 100 sadness 70 anger 42 fear 25 amazement 45 disgust 60
+оплатою	                        оплата                                                                              noun:f:v_oru  joy 100 sadness 10 anger 42 fear 25 amazement 90 disgust 60
+а	                       а                                                                                         conj:coord  joy 100 sadness 10 anger 42 fear 25 amazement 90 disgust 60
+значно	                     значно                                                                                 adv:compb  joy 100 sadness 10 anger 42 fear 25 amazement 90 disgust 60
+раніше	                     раніше                                                                                  adv  joy 55 sadness 55 anger 42 fear 25 amazement 90 disgust 60
+З	                       з                                                                                     prep:rv_rod joy 55 sadness 55 anger 42 fear 25 amazement 90 disgust 60
+нашої	                       наш                                                                                 pron:pos  joy 55 sadness 55 anger 42 fear 25 amazement 90 disgust 60
+компанії	                       компанія                                                                         noun:f:v_rod  joy 100 sadness 55 anger 57 fear 40 amazement 90 disgust 60
+в	                       в                                                                                     prep:rv_zna:rv_mis:rv_rod:v-u  joy 100 sadness 55 anger 57 fear 40 amazement 90 disgust 60
+жодної	                       жодний                                                                           pron  joy 100 sadness 55 anger 57 fear 40 amazement 90 disgust 60
+людини	                      людина                                                                            noun:f:v_rod:anim  joy 55 sadness 55 anger 57 fear 40 amazement 90 disgust 60
+не	                      не                                                                                    part  joy 55 sadness 70 anger 57 fear 40 amazement 75 disgust 60
+переплутали	      переплутати                                                                   verb:past:p:perf  joy 10 sadness 100 anger 57 fear 40 amazement 75 disgust 60
+замовлення	      замовлення                                                                      noun:n:v_zna  joy 85 sadness 85 anger 57 fear 40 amazement 60 disgust 45
+Кухня	                       кухня                                                                                noun:f:v_naz  joy 10 sadness 85 anger 57 fear 40 amazement 60 disgust 45
+дуже	                       дуже                                                                                 adv  joy 10 sadness 85 anger 57 fear 40 amazement 60 disgust 45
+смачна	                       смачний                                                                           adj:f:v_naz:compb  joy 100 sadness 85 anger 57 fear 40 amazement 60 disgust 45
+Обслуговування	      обслуговування                                                              noun:n:v_naz  joy 100 sadness 70 anger 57 fear 25 amazement 30 disgust 45
+на	                      на                                                                                     prep:rv_mis  joy 100 sadness 70 anger 57 fear 25 amazement 30 disgust 45
+найвищому	      високий                                                                            adj:m:v_mis:super  joy 100 sadness 0 anger 100 fear 25 amazement 30 disgust 45
+рівні	                      рівень                                                                               noun:m:v_mis  joy 55 sadness 30 anger 40 fear 25 amazement 30 disgust 45
+Всім	                      весь                                                                                  pron:dem                                     (pron:dem:p:v_dav) joy 55 sadness 30 anger 40 fear 25 amazement 30 disgust 45
+рекомендую	    рекомендувати                                                                  verb:pres:s:1:imperf  joy 100 sadness 30 anger 40 fear 25 amazement 30 disgust 45
+Випадково	     випадково                                                                          adv  joy 70 sadness 45 anger 40 fear 25 amazement 30 disgust 45
+попали	                     попасти                                                                              verb:past:p:perf  joy 70 sadness 45 anger 40 fear 25 amazement 30 disgust 45
+до	                     до                                                                                        prep:rv_rod  joy 70 sadness 45 anger 40 fear 25 amazement 30 disgust 45
+масонів	                     масон                                                                                   noun:p:v_rod:anim  joy 70 sadness 45 anger 40 fear 25 amazement 30 disgust 45
+перед	                     перед                                                                                  noun:m:v_naz  joy 70 sadness 60 anger 40 fear 25 amazement 60 disgust 45
+                                                                                                                                 noun:m:v_zna                                                    ( prep:rv) joy 70 sadness 60 anger 40 fear 25 amazement 60 disgust 45
+футболом	    футбол                                                                                 noun:m:v_oru  joy 100 sadness 60 anger 40 fear 25 amazement 60 disgust 45
+По-перше	    по-перше                                                                                adv  joy 70 sadness 15 anger 40 fear 25 amazement 60 disgust 45
+нас	                     ми                                                                                           pron:pers:p:1:v_zna:anim joy 70 sadness 15 anger 40 fear 40 amazement 75 disgust 45
+ніхто	                     ніхто                                                                                        pron:neg:v_naz:anim  joy 70 sadness 15 anger 55 fear 40 amazement 75 disgust 45
+не	                     не                                                                                            part  joy 70 sadness 15 anger 55 fear 40 amazement 75 disgust 45
+попереджав	    попереджати                                                                           verb:past:m:imperf                                 joy 40 sadness 30 anger 55 fear 40 amazement 75 disgust 45
+про	                    про                                                                                           prep:rv_zna  joy 40 sadness 30 anger 55 fear 40 amazement 75 disgust 45
+таємний	                    таємний                                                                                   adj:m:v_zna  joy 40 sadness 30 anger 55 fear 40 amazement 75 disgust 45
+вхід	                    вхід                                                                                           noun:m:v_zna  joy 40 sadness 30 anger 55 fear 40 amazement 75 disgust 45
+і	                     і                                                                                                conj:coord  joy 40 sadness 30 anger 55 fear 40 amazement 75 disgust 45
+ціни	                    ціна                                                                                           noun:p:v_zna  joy 40 sadness 45 anger 55 fear 40 amazement 60 disgust 45
+з	                    з                                                                                                prep:rv_oru joy 70 sadness 45 anger 70 fear 40 amazement 60 disgust 45
+ключиками	   ключик                                                                                        noun:p:v_oru  joy 70 sadness 30 anger 55 fear 25 amazement 45 disgust 30
+і	                    і                                                                                                  conj:coord  joy 70 sadness 30 anger 55 fear 25 amazement 45 disgust 30
+картками	                   картка                                                                                          noun:p:v_oru  joy 40 sadness 40 anger 55 fear 39 amazement 45 disgust 30
+Коли	                 коли                                                                                              adv joy 55 sadness 70 anger 70 fear 39 amazement 45 disgust 30
+той	                 той                                                                                               pron:dem                              (pron:dem:m:s:v_naz) joy 55 sadness 70 anger 70 fear 39 amazement 45 disgust 30
+дядько	                 дядько                                                                                         noun:m:v_naz:anim  joy 85 sadness 40 anger 55 fear 54 amazement 45 disgust 30
+в	                 в                                                                                                  prep:rv_mis:v-u  joy 70 sadness 40 anger 55 fear 54 amazement 45 disgust 30
+сінцях	                 сінці                                                                                             noun:p:v_mis  joy 70 sadness 55 anger 55 fear 54 amazement 60 disgust 30
+в	                 в                                                                                                  prep:rv_mis::v-u  joy 70 sadness 55 anger 55 fear 54 amazement 60 disgust 30
+капцях                      капець                                                                                         noun:p:v_mis  joy 85 sadness 55 anger 55 fear 54 amazement 60 disgust 30
+на	                 на                                                                                                prep:rv_zna:rv_mis  joy 85 sadness 55 anger 40 fear 69 amazement 60 disgust 30
+босу	                 босий                                                                                           adj:f:v_zna  joy 85 sadness 70 anger 40 fear 54 amazement 60 disgust 30
+ногу	                 нога                                                                                             noun:f:v_zna  joy 85 sadness 70 anger 40 fear 54 amazement 60 disgust 30
+на	                 на                                                                                                prep:rv_zna  joy 85 sadness 70 anger 40 fear 54 amazement 60 disgust 30
+запитання	запитання                                                                                    noun:n:v_zna  joy 25 sadness 70 anger 40 fear 54 amazement 60 disgust 30
+про	                про                                                                                                prep:rv_zna  joy 25 sadness 70 anger 40 fear 54 amazement 60 disgust 30
+попоїсти	                попоїсти                                                                                        verb:inf:perf  joy 100 sadness 70 anger 40 fear 54 amazement 60 disgust 30
+запропонував	запропонувати                                                                             verb:past:m:perf  joy 100 sadness 70 anger 40 fear 54 amazement 60 disgust 30
+нам	                 ми                                                                                                  pron:pers:p:1:v_dav:anim  joy 70 sadness 55 anger 25 fear 24 amazement 60 disgust 30
+позавчорашні	позавчорашній                                                                              adj:p:v_zna  joy 10 sadness 55 anger 25 fear 24 amazement 60 disgust 30
+голубці	                 голубець                                                                                     noun:p:v_zna  joy 100 sadness 55 anger 25 fear 24 amazement 60 disgust 30
+а	                      а                                                                                               conj:coord  joy 100 sadness 55 anger 25 fear 24 amazement 60 disgust 30
+зрештою	                    зрештою                                                                                     adv  joy 100 sadness 55 anger 25 fear 24 amazement 60 disgust 30
+впустив	                    впустити                                                                                    verb:past:m:perf:v-u  joy 100 sadness 70 anger 40 fear 24 amazement 45 disgust 30
+власне	                    власне                                                                                        insert  joy 85 sadness 40 anger 40 fear 24 amazement 45 disgust 30
+до	                     до                                                                                                prep:rv_rod  joy 85 sadness 70 anger 40 fear 39 amazement 45 disgust 45
+ресторації	     ресторація                                                                                  noun:f:v_rod  joy 100 sadness 85 anger 40 fear 39 amazement 45 disgust 45
+ми	                      ми                                                                                              pron:pers:p:1:v_naz:anim  joy 100 sadness 85 anger 40 fear 39 amazement 45 disgust 45
+ледь	                      ледь                                                                                           adv  joy 100 sadness 85 anger 40 fear 39 amazement 45 disgust 45
+зі	                       зі                                                                                               prep:rv_rod  joy 100 sadness 85 anger 40 fear 39 amazement 45 disgust 45
+сміху	                       сміх                                                                                            noun:m:v_rod  joy 100 sadness 0 anger 40 fear 39 amazement 45 disgust 45
+не	                        не                                                                                             part  joy 100 sadness 0 anger 40 fear 39 amazement 45 disgust 45
+Сміх	                         сміх                                                                                        noun:m:v_naz  joy 100 sadness 0 anger 40 fear 39 amazement 45 disgust 45
+пропав	                        пропасти                                                                                verb:past:m:perf  joy 55 sadness 45 anger 40 fear 39 amazement 45 disgust 45
+коли	                        коли                                                                                        adv  joy 55 sadness 45 anger 40 fear 39 amazement 45 disgust 45
+принесли 	        принести                                                                                verb:past:p:perf  joy 40 sadness 30 anger 40 fear 54 amazement 61 disgust 45
+меню	                        меню                                                                                       noun:nv  joy 40 sadness 30 anger 40 fear 54 amazement 61 disgust 45
+Всі	                         весь                                                                                          pron:dem                                          (pron:dem:p:v_naz) joy 70 sadness 60 anger 55 fear 54 amazement 76 disgust 45
+повставали	         повставати                                                                              verb:past:p:imperf  joy 70 sadness 45 anger 40 fear 54 amazement 46 disgust 45
+і	                         і                                                                                                 conj:coord  joy 70 sadness 45 anger 40 fear 54 amazement 46 disgust 45
+хотіли	                         хотіти                                                                                         verb:unknown                                      ( verb: past:p:imperf) joy 70 sadness 45 anger 40 fear 54 amazement 46 disgust 45
+йти	                         йти                                                                                             verb:inf:imperf  joy 70 sadness 45 anger 40 fear 54 amazement 46 disgust 45
+Про	                        про                                                                                               prep:rv_zna  joy 70 sadness 45 anger 40 fear 54 amazement 46 disgust 45
+якісь	                        якийсь                                                                                          pron:ind  joy 70 sadness 45 anger 40 fear 54 amazement 46 disgust 45
+картки	                        картка                                                                                          noun:p:v_zna  joy 40 sadness 45 anger 40 fear 54 amazement 46 disgust 45
+ми	                        ми                                                                                                 pron:pers:p:1:v_naz:anim joy 40 sadness 45 anger 40 fear 54 amazement 46 disgust 45
+нічого	                        ніщо                                                                                              pron:neg:v_rod  joy 40 sadness 45 anger 40 fear 54 amazement 46 disgust 45
+не	                       не                                                                                                  part  joy 40 sadness 45 anger 40 fear 54 amazement 46 disgust 45
+знали	                       знати                                                                                             verb:past:p:imperf  joy 40 sadness 45 anger 40 fear 54 amazement 46 disgust 45
+і	                      і                                                                                                       conj:coord  joy 40 sadness 45 anger 40 fear 54 amazement 46 disgust 45
+хотіли	                      хотіти                                                                                              verb:unknown                                  ( verb: past:p:imperf) joy 40 sadness 45 anger 55 fear 54 amazement 61 disgust 45
+вже	                      вже                                                                                                  adv:v-u  joy 40 sadness 45 anger 55 fear 54 amazement 61 disgust 45
+послати                        послати                                                                                           verb:inf:perf  joy 40 sadness 45 anger 55 fear 54 amazement 61 disgust 45
+на	                      на                                                                                                     prep:rv_mis  joy 70 sadness 30 anger 55 fear 54 amazement 61 disgust 45
+цих	                      цей                                                                                                   pron:dem                                          (pron:dem:p:v_rod)   joy 55 sadness 30 anger 40 fear 39 amazement 61 disgust 45
+придурків	     придурок                                                                                          noun:p:v_zna:anim  joy 55 sadness 30 anger 40 fear 39 amazement 61 disgust 45
+з	                     з                                                                                                        prep:rv_oru joy 55 sadness 30 anger 40 fear 39 amazement 61 disgust 45
+їхнім	                    їхній                                                                                                    pron:pos  joy 55 sadness 30 anger 55 fear 24 amazement 61 disgust 45
+ за	                     за                                                                                                       prep:rv_rod joy 25 sadness 30 anger 55 fear 24 amazement 61 disgust 45
+Але	                      але                                                                                                     conj:coord  joy 40 sadness 30 anger 55 fear 39 amazement 31 disgust 45
+наш	                      наш                                                                                                     pron:pos                                         (pron:pos:m:s:v_naz) joy 40 sadness 30 anger 55 fear 39 amazement 31 disgust 45
+                                                                                                                                                                                                         (noun:m:s:v_naz) joy 40 sadness 30 anger 55 fear 39 amazement 31 disgust 45
+зрештою	                      зрештою                                                                                              insert  joy 70 sadness 30 anger 55 fear 39 amazement 31 disgust 45
+що	                       що                                                                                                       conj:subord  joy 70 sadness 30 anger 55 fear 39 amazement 31 disgust 45
+це	                       цей                                                                                                      pron:dem                                       (pron:dem:n:s:v_naz)  joy 70 sadness 30 anger 55 fear 39 amazement 31 disgust 45
+жарт	                       жарт                                                                                                    noun:m:v_naz  joy 100 sadness 30 anger 55 fear 39 amazement 31 disgust 45
+і	                       і                                                                                                           conj:coord  joy 100 sadness 30 anger 55 fear 39 amazement 31 disgust 45
+запропонував	       запропонувати                                                                                 verb:past:m:perf  joy 100 sadness 45 anger 55 fear 69 amazement 31 disgust 45
+відкинути	       відкинути                                                                                           verb:inf:perf  joy 70 sadness 45 anger 55 fear 69 amazement 31 disgust 45
+по	                       по                                                                                                       prep:rv_mis joy 70 sadness 45 anger 55 fear 69 amazement 31 disgust 45
+останньому	       останній                                                                                             adj:m:v_mis  joy 70 sadness 45 anger 70 fear 69 amazement 31 disgust 45
+нулі	                        нуль                                                                                                   noun:m:v_mis  joy 70 sadness 45 anger 70 fear 69 amazement 31 disgust 45
+від	                        від                                                                                                       prep:rv_rod  joy 55 sadness 45 anger 70 fear 84 amazement 31 disgust 45
+ціни	                        ціна                                                                                                      joy 55 sadness 45 anger 70 fear 84 amazement 31 disgust 45
+то	                        то                                                                                                         conj:subord  joy 55 sadness 45 anger 70 fear 84 amazement 31 disgust 45
+і	                         і                                                                                                           conj:coord  joy 55 sadness 45 anger 70 fear 84 amazement 31 disgust 45
+буде	                        бути                                                                                                     verb:futr:s:3:imperf  joy 40 sadness 45 anger 70 fear 69 amazement 31 disgust 45
+дійсна	                        дійсний                                                                                                 adj:f:v_naz  joy 25 sadness 45 anger 70 fear 54 amazement 31 disgust 45
+ціна	                        ціна                                                                                                       noun:f:v_naz  joy 25 sadness 60 anger 70 fear 69 amazement 61 disgust 45
+Пили	                              пити                                                                                               verb:past:p:imperf  joy 25 sadness 60 anger 70 fear 69 amazement 61 disgust 45
+пиво	                              пиво                                                                                               noun:n:v_zna  joy 85 sadness 60 anger 70 fear 69 amazement 61 disgust 45
+наші	                             наша                                                                                                 pron:pos                                      ( pron:pos:p:v_naz) joy 70 sadness 60 anger 70 fear 69 amazement 61 disgust 45
+пацани	                            пацан                                                                                                noun:p:v_naz:anim  joy 55 sadness 60 anger 70 fear 39 amazement 61 disgust 45
+штук	                            штука                                                                                                noun:p:v_rod  joy 40 sadness 45 anger 70 fear 39 amazement 61 disgust 45
+по	                            по                                                                                                      prep:rv_zna  joy 40 sadness 45 anger 70 fear 39 amazement 61 disgust 45
+два	                            два                                                                                                    numr:m:v_zna  joy 40 sadness 45 anger 70 fear 39 amazement 61 disgust 45
+потім	                            потім                                                                                                  adv joy 40 sadness 45 anger 70 fear 39 amazement 61 disgust 45
+молочні	                            молочний                                                                                           adj:p:v_naz  joy 85 sadness 45 anger 70 fear 39 amazement 61 disgust 45
+коктейлі	                             коктейль                                                                                           noun:p:v_naz  joy 85 sadness 75 anger 70 fear 39 amazement 61 disgust 45
+А	                                 а                                                                                       part  joy 85 sadness 75 anger 70 fear 39 amazement 61 disgust 45
+ми	                                 ми                                                                                     pron:pers:p:1:v_naz:anim joy 85 sadness 60 anger 70 fear 24 amazement 61 disgust 45
+взяли	                                 взяти                                                                                verb:past:p:perf  joy 55 sadness 60 anger 70 fear 39 amazement 46 disgust 45
+до	                                 до                                                                                      prep:rv_rod  joy 55 sadness 30 anger 55 fear 39 amazement 61 disgust 60
+їжі	                                 їжа                                                                                      noun:f:v_rod  joy 55 sadness 30 anger 55 fear 39 amazement 61 disgust 60
+досить	                                 досить                                                                                adv  joy 55 sadness 30 anger 55 fear 39 amazement 61 disgust 60
+пристойну	                 пристойний                                                                        adj:f:v_zna  joy 100 sadness 30 anger 55 fear 39 amazement 61 disgust 60
+власну	                                 власний                                                                              adj:f:v_zna  joy 100 sadness 60 anger 55 fear 39 amazement 46 disgust 60
+Всі	                                весь                                                                                   pron:dem                                                     (pron:dem:p:v_naz) joy 100 sadness 60 anger 55 fear 39 amazement 46 disgust 60
+ їли	                                їсти                                                                                    verb:past:p:imperf  joy 100 sadness 60 anger 55 fear 39 amazement 46 disgust 60
+супи	                                суп                                                                                     noun:p:v_zna  joy 100 sadness 75 anger 55 fear 39 amazement 61 disgust 60
+3-4	                                 3-4                                                                                     number  joy 55 sadness 75 anger 55 fear 39 amazement 61 disgust 60
+види	                                 вид                                                                                    noun:p:v_naz  joy 55 sadness 75 anger 55 fear 39 amazement 61 disgust 60
+ і	                              і                                                                                conj:coord  joy 55 sadness 60 anger 55 fear 39 amazement 61 disgust 60
+багато	                              багато                                                                      numr:p:v_naz joy 55 sadness 60 anger 55 fear 39 amazement 61 disgust 60
+овочів	                               овоч                                                                          noun:p:v_zna joy 70 sadness 60 anger 55 fear 39 amazement 61 disgust 60
+гриль	                               гриль                                                                         noun:m:v_zna  joy 100 sadness 60 anger 55 fear 39 amazement 61 disgust 60
+незвичайний	                незвичайний                                                            adj:m:v_zna  joy 70 sadness 60 anger 55 fear 24 amazement 61 disgust 60
+житній	                                житній                                                                        adj:m:v_zna  joy 70 sadness 60 anger 55 fear 24 amazement 61 disgust 60
+хліб	                                хліб                                                                             noun:m:v_zna  joy 70 sadness 60 anger 70 fear 24 amazement 61 disgust 60
+Особливо	                  особливо                                                                  adv  joy 40 sadness 60 anger 40 fear 54 amazement 91 disgust 60
+пішли	                                  піти                                                                           verb:past:p:perf  joy 55 sadness 60 anger 40 fear 54 amazement 61 disgust 60
+біфштекси	                  біфштекс                                                                   noun:p:v_zna  joy 55 sadness 60 anger 40 fear 54 amazement 61 disgust 60
+з	                                  з                                                                               prep:rv_oru joy 55 sadness 60 anger 40 fear 54 amazement 61 disgust 60
+кров	                                 кров                                                                          noun:f:v_naz                                         кров - (noun:f:s:v_oru) joy 55 sadness 60 anger 40 fear 54 amazement 61 disgust 60
+                                                                                                                                   noun:f:v_zna joy 40 sadness 45 anger 40 fear 54 amazement 61 disgust 60
+Нас	                                     ми                                                                  pron:pers:p:1:v_zna:anim joy 40 sadness 45 anger 40 fear 54 amazement 61 disgust 60
+шестеро	                                     шість                                                              numr:p:v_zna  joy 40 sadness 45 anger 55 fear 54 amazement 61 disgust 60
+наїлися	                                    наїстися                                                         verb:rev:past:p:perf  joy 40 sadness 45 anger 55 fear 54 amazement 61 disgust 60
+з	                                    з                                                                     prep:rv_rod joy 55 sadness 45 anger 55 fear 39 amazement 61 disgust 60
+дороги	                                    дорога                                                            noun:f:v_rod  joy 55 sadness 45 anger 55 fear 69 amazement 61 disgust 60
+щільно	                                     щільно                                                             adv:compb  joy 55 sadness 45 anger 55 fear 69 amazement 61 disgust 60
+і	                                      і                                                                      conj:coord  joy 40 sadness 75 anger 40 fear 54 amazement 46 disgust 60
+смачно	                                   смачно                                                               adv:compb  joy 27 sadness 60 anger 40 fear 54 amazement 61 disgust 60
+Заплатили	                   заплатити                                                       verb:past:p:perf   joy 27 sadness 60 anger 40 fear 54 amazement 61 disgust 60
+за	                                   за                                                                     prep:rv_zna joy 27 sadness 60 anger 25 fear 54 amazement 61 disgust 45
+все	                                   весь                                                                 pron:dem  joy 57 sadness 60 anger 40 fear 39 amazement 61 disgust 45
+860	                                   860                                                                   number  joy 57 sadness 60 anger 40 fear 39 amazement 61 disgust 45
+гривень	                                   гривня                                                              noun:p:v_rod  joy 57 sadness 45 anger 55 fear 55 amazement 61 disgust 45
+Так	                                 так                                                                       adv joy 57 sadness 45 anger 55 fear 55 amazement 61 disgust 45
+що	                                 що                                                                       pron:int:rel:n:v_naz  joy 57 sadness 45 anger 55 fear 55 amazement 61 disgust 45
+хай	                                 хай                                                                      part  joy 57 sadness 45 anger 55 fear 55 amazement 61 disgust 45
+прикольна	               прикольний                                                         adj:f:v_naz                                                        joy 100 sadness 45 anger 55 fear 55 amazement 61 disgust 45
+найдорожча	               дорогий                                                               adj:f:v_naz:super                                              joy 70 sadness 30 anger 55 fear 55 amazement 61 disgust 75
+ресторація                            ресторація                                                          noun:f:v_naz                                                   joy 70 sadness 60 anger 55 fear 55 amazement 61 disgust 75
+Взагалі	                                 взагалі                                                                adv:v-u  joy 55 sadness 30 anger 55 fear 40 amazement 61 disgust 60
+я	                                 я                                                                           pron:pers:s:1:v_naz:anim joy 55 sadness 30 anger 55 fear 40 amazement 61 disgust 60
+ще	                                ще                                                                          adv  joy 55 sadness 30 anger 55 fear 40 amazement 61 disgust 60
+не	                                не                                                                           part  joy 55 sadness 30 anger 55 fear 40 amazement 61 disgust 60
+була	                                бути                                                                       verb:past:f:imperf  joy 55 sadness 30 anger 55 fear 40 amazement 61 disgust 60
+але	                                 але                                                                         conj:coord  joy 55 sadness 30 anger 55 fear 40 amazement 61 disgust 60
+сподіваюся	                сподіватися                                                            verb:rev:pres:s:1:imperf  joy 100 sadness 30 anger 55 fear 40 amazement 61 disgust 60
+ближчим	                                близький                                                                 adj:n:v_oru:compr                                           (adj:m:v_oru:compr) joy 100 sadness 30 anger 55 fear 40 amazement 61 disgust 60
+                                                                                                                                 adj:p:v_dav:compr  joy 100 sadness 30 anger 55 fear 40 amazement 61 disgust 60
+часом	                                 час                                                                           noun:m:v_oru  joy 100 sadness 30 anger 55 fear 40 amazement 61 disgust 60
+туди	                                 туди                                                                         adv joy 100 sadness 30 anger 55 fear 40 amazement 61 disgust 60
+потрапити	                 потрапити                                                               verb:inf:perf  joy 100 sadness 45 anger 70 fear 55 amazement 46 disgust 60
+Проте	                                 проте                                                                          insert  joy 55 sadness 45 anger 70 fear 55 amazement 46 disgust 60
+хочу	                                 хотіти                                                                          verb:unknown                                              (verb: pres:s:1:imperf) joy 55 sadness 45 anger 70 fear 55 amazement 46 disgust 60
+сказати	                                 сказати                                                                       verb:inf:perf  joy 55 sadness 45 anger 70 fear 55 amazement 46 disgust 60
+що	                                  що                                                                               conj:subord  joy 55 sadness 45 anger 70 fear 55 amazement 46 disgust 60
+для	                                  для                                                                              prep:rv_rod  joy 55 sadness 45 anger 70 fear 55 amazement 46 disgust 60
+масонів	                                 масон                                                                           noun:p:v_rod:anim  joy 55 sadness 45 anger 70 fear 55 amazement 46 disgust 60
+гроші	                                гроші                                                                              noun:p:v_naz  joy 100 sadness 45 anger 70 fear 55 amazement 46 disgust 60
+це	                                 цей                                                                                pron:dem                                             (pron:dem:n:s:v_naz) joy 100 sadness 45 anger 70 fear 55 amazement 46 disgust 60
+спосіб	                                 спосіб                                                                            noun:m:v_naz  joy 100 sadness 45 anger 70 fear 55 amazement 46 disgust 60
+а	                                  а                                                                                      conj:coord  joy 100 sadness 45 anger 70 fear 55 amazement 46 disgust 60
+не	                                  не                                                                                    part  joy 100 sadness 45 anger 70 fear 55 amazement 46 disgust 60
+мета                              	  мета                                                                                noun:f:v_naz  joy 70 sadness 60 anger 55 fear 55 amazement 46 disgust 60
+тому	                                тому                                                                                   conj:subord  joy 70 sadness 75 anger 55 fear 55 amazement 61 disgust 60
+той                                            той                                                                                     pron:dem  joy 70 sadness 75 anger 55 fear 55 amazement 61 disgust 60
+їм	                                  вони                                                                                   pron:pers:p:3:v_dav:anim joy 70 sadness 75 anger 55 fear 55 amazement 61 disgust 60
+усе	                                  усе                                                                                      adv:v-u                                                  (усе одно - adv)  joy 70 sadness 60 anger 55 fear 55 amazement 46 disgust 60
+                                                                                                                                              conj:coord:v-u  joy 70 sadness 60 anger 55 fear 55 amazement 46 disgust 60
+                                                                                                                                              part:v-u joy 70 sadness 60 anger 55 fear 55 amazement 46 disgust 60
+одно	                                  один                                                                                    numr:n:v_naz                                        (усе одно - adv ) joy 70 sadness 60 anger 55 fear 55 amazement 46 disgust 60
+чи	                                 чи                                                                                          conj:subord joy 70 sadness 60 anger 55 fear 55 amazement 46 disgust 60
+заплатять	                 заплатити                                                                             verb:futr:p:3:perf  joy 70 sadness 60 anger 55 fear 55 amazement 46 disgust 60
+вони	                                 вони                                                                                      pron:pers:p:3:v_naz:anim joy 70 sadness 60 anger 55 fear 55 amazement 46 disgust 60
+зараз	                                 зараз                                                                                    adv  joy 55 sadness 45 anger 40 fear 55 amazement 46 disgust 75
+1	                                  1                                                                                            number  joy 70 sadness 30 anger 25 fear 55 amazement 46 disgust 75
+чи	                                 чи                                                                                        conj:subord  joy 70 sadness 45 anger 25 fear 55 amazement 46 disgust 75
+півмільйона	                півмільйона                                                                           noun:m:v_zna:nv:np  joy 100 sadness 100 anger 25 fear 55 amazement 46 disgust 75
+Та	                               та                                                                                         conj:coord  joy 100 sadness 100 anger 25 fear 55 amazement 46 disgust 75
+навіть	                               навіть                                                                                    part  joy 100 sadness 100 anger 25 fear 55 amazement 46 disgust 75
+будь-яка	                               будь-який                                                                              pron:ind  joy 55 sadness 40 anger 25 fear 55 amazement 46 disgust 75
+людина	                               людина                                                                                  noun:f:v_naz:anim  joy 55 sadness 40 anger 55 fear 70 amazement 61 disgust 75
+залишившись	               залишитися                                                                            advp:rev:perf  joy 85 sadness 40 anger 55 fear 70 amazement 61 disgust 75
+на	                                на                                                                                           prep:rv_mis  joy 85 sadness 40 anger 55 fear 70 amazement 61 disgust 75
+безлюдному	                безлюдний                                                                             adj:m:v_mis  joy 100 sadness 40 anger 55 fear 70 amazement 61 disgust 75
+ острові	                                острів                                                                                      noun:m:v_mis  joy 100 sadness 55 anger 55 fear 70 amazement 61 disgust 75
+віддасть	                                 віддати                                                                                   verb:futr:s:3:perf  joy 100 sadness 55 anger 55 fear 70 amazement 61 disgust 75
+усі	                                  увесь                                                                                      pron:dem joy 70 sadness 55 anger 40 fear 70 amazement 46 disgust 75
+свої	                                   свій                                                                                        pron:pos  joy 70 sadness 55 anger 55 fear 70 amazement 46 disgust 75
+папірці	                                   папірець                                                                                 noun:p:v_zna  joy 40 sadness 40 anger 40 fear 40 amazement 46 disgust 75
+заради	                                   заради                                                                                   prep:rv_rod  joy 40 sadness 40 anger 40 fear 40 amazement 46 disgust 75
+ложки	                                   ложка                                                                                     noun:f:v_rod  joy 100 sadness 40 anger 40 fear 40 amazement 46 disgust 75
+супу	                                   суп                                                                                          noun:m:v_rod  joy 100 sadness 70 anger 70 fear 70 amazement 46 disgust 75
+чи	                                   чи                                                                                            conj:subord  joy 100 sadness 70 anger 70 fear 70 amazement 46 disgust 75
+простого	                                  простий                                                                                   adj:m:v_rod:compb  joy 85 sadness 70 anger 70 fear 70 amazement 46 disgust 75
+ножа	                                  ніж                                                                                           noun:m:v_rod  joy 70 sadness 85 anger 100 fear 70 amazement 46 disgust 75
+Ціни	                                ціна                                                                                         noun:p:v_naz  joy 40 sadness 55 anger 70 fear 55 amazement 46 disgust 75
+це	                                цей                                                                                          pron:dem                                       (pron:dem:n:s:v_naz) joy 40 sadness 55 anger 70 fear 55 amazement 46 disgust 75
+й	                                й                                                                                              part  joy 40 sadness 55 anger 70 fear 55 amazement 46 disgust 75
+підкреслюють	               підкреслювати                                                                        verb:pres:p:3:imperf  joy 85 sadness 55 anger 70 fear 55 amazement 46 disgust 75
+Гроші	                                гроші                                                                                      noun:p:v_naz  joy 100 sadness 55 anger 70 fear 55 amazement 46 disgust 75
+це	                                цей                                                                                          pron:dem                                          (pron:dem:n:s:v_naz) joy 100 sadness 55 anger 70 fear 55 amazement 46 disgust 75
+спосіб	                               спосіб                                                                                       noun:m:v_naz  joy 100 sadness 55 anger 70 fear 55 amazement 46 disgust 75
+Про	                                 про                                                                                        prep:rv_zna  joy 100 sadness 55 anger 70 fear 55 amazement 46 disgust 75
+символи	                                 символ                                                                                  noun:p:v_zna  joy 100 sadness 55 anger 70 fear 55 amazement 46 disgust 75
+і	                                 і                                                                                              conj:coord  joy 85 sadness 55 anger 70 fear 40 amazement 46 disgust 75
+таке	                                 такий                                                                                     adj:n:v_naz:&pron:def                         (pron:dem)                                joy 85 sadness 55 anger 70 fear 40 amazement 46 disgust 75
+                                                                                                                                                pron:def  joy 85 sadness 55 anger 70 fear 40 amazement 46 disgust 75
+інше	                                 інший                                                                                       joy 85 sadness 55 anger 70 fear 40 amazement 46 disgust 75
+так	                                так                                                                                           adv  joy 85 sadness 55 anger 70 fear 40 amazement 46 disgust 75
+як	                                 як                                                                                            adv joy 70 sadness 40 anger 55 fear 25 amazement 46 disgust 75
+і	                                  і                                                                                               part  joy 70 sadness 40 anger 70 fear 25 amazement 46 disgust 75
+в	                                 в                                                                                              prep:rv_mis: joy 70 sadness 40 anger 70 fear 25 amazement 46 disgust 75
+є	                                бути                                                                                         verb:pres:s:1:imperf  joy 70 sadness 40 anger 70 fear 25 amazement 46 disgust 75
+хрест	                               хрест                                                                                         noun:m:v_naz                                        (noun:m:s:v_naz)           joy 70 sadness 40 anger 70 fear 25 amazement 46 disgust 75
+біблія	                              біблія                                                                                           noun:f:v_naz                                        (noun:f:s:v_naz ) joy 70 sadness 40 anger 70 fear 25 amazement 46 disgust 75
+і	                               і                                                                                                   conj:coord  joy 70 sadness 40 anger 70 fear 25 amazement 46 disgust 75
+ікона	                              ікона                                                                                           noun:f:v_naz                                         (noun:f:s:v_naz ) joy 70 sadness 40 anger 70 fear 25 amazement 46 disgust 75
+до речі                               до речі                                                                                                 <insert>  joy 70 sadness 40 anger 70 fear 25 amazement 46 disgust 75
+якщо                                   якщо                                                                                                     conj:subord  joy 55 sadness 40 anger 70 fear 55 amazement 46 disgust 75
+вірити	                         вірити                                                                                                    verb:inf:imperf  joy 55 sadness 40 anger 70 fear 55 amazement 46 disgust 75
+то	                         то                                                                                                            conj:subord  joy 55 sadness 40 anger 40 fear 55 amazement 31 disgust 75
+головний	                         головний                                                                                                 adj:m:v_naz:compb  joy 40 sadness 55 anger 40 fear 55 amazement 46 disgust 75
+символ	                         символ                                                                                                    noun:m:v_naz  joy 40 sadness 40 anger 40 fear 55 amazement 16 disgust 75
+масонів	                         масон                                                                                                       noun:p:v_rod:anim  joy 40 sadness 40 anger 40 fear 55 amazement 31 disgust 75
+має	                         мати                                                                                                          verb:pres:s:3:imperf  joy 40 sadness 40 anger 40 fear 55 amazement 31 disgust 75
+схожість                	          схожість                                                                                                     noun:f:v_zna                               (noun:f:s:v_zna ) joy 40 sadness 40 anger 40 fear 55 amazement 31 disgust 75
+з	                          з                                                                                                                 prep:rv_oru joy 40 sadness 40 anger 40 fear 55 amazement 31 disgust 75
+християнськими	          християнський                                                                                            adj:p:v_oru  joy 70 sadness 40 anger 40 fear 55 amazement 31 disgust 75
+ символами	          символ                                                                                                         noun:p:v_oru  joy 70 sadness 55 anger 55 fear 40 amazement 16 disgust 75
+А	                             а                                                                                                                     part  joy 70 sadness 55 anger 55 fear 40 amazement 16 disgust 75
+головне	                             головний                                                                                                       adj:n:v_naz:compb  joy 70 sadness 55 anger 55 fear 40 amazement 16 disgust 75
+що	                             що                                                                                                                  conj:subord  joy 70 sadness 55 anger 55 fear 40 amazement 16 disgust 75
+масони	                            масон                                                                                                              noun:p:v_naz:anim  joy 70 sadness 70 anger 55 fear 40 amazement 31 disgust 75
+не	                            не                                                                                                                    part  joy 70 sadness 70 anger 55 fear 40 amazement 31 disgust 75
+забороняють	           забороняти                                                                                                     verb:pres:p:3:imperf  joy 70 sadness 70 anger 55 fear 40 amazement 31 disgust 75
+вірити	                           вірити                                                                                                              verb:inf:imperf  joy 100 sadness 70 anger 55 fear 40 amazement 31 disgust 75
+у	                           у                                                                                                                       prep:rv_zna  joy 100 sadness 70 anger 55 fear 40 amazement 31 disgust 75
+те	                           той                                                                                                                    pron:dem                                       (pron:dem:n:s) joy 100 sadness 70 anger 55 fear 40 amazement 31 disgust 75
+що	                          що                                                                                                                       pron:int:rel:n:v_naz  joy 100 sadness 70 anger 55 fear 40 amazement 31 disgust 75
+ти	                          ти                                                                                                                        pron:pers:s:2:v_naz:anim  joy 100 sadness 70 anger 55 fear 40 amazement 31 disgust 75
+віриш	                            вірити                                                                                                             verb:pres:s:2:imperf  joy 55 sadness 70 anger 55 fear 55 amazement 31 disgust 75
+Серед	                             серед                                                                                                        prep:rv_rod joy 55 sadness 70 anger 55 fear 55 amazement 31 disgust 75
+ них	                              вони                                                                                                         pron:pers:p:3:v_rod:anim joy 55 sadness 70 anger 55 fear 55 amazement 31 disgust 75
+є	                             бути                                                                                                           verb:pres:p:1:imperf  joy 55 sadness 70 anger 55 fear 55 amazement 31 disgust 75
+багато	                             багато                                                                                                        numr:p:v_naz joy 55 sadness 55 anger 40 fear 70 amazement 46 disgust 75
+і	                              і                                                                                                                 conj:coord  joy 55 sadness 55 anger 40 fear 70 amazement 46 disgust 75
+православних	              православний                                                                                          adj:p:v_zna  joy 85 sadness 55 anger 40 fear 70 amazement 46 disgust 75
+і	                                і                                                                                                               conj:coord  joy 85 sadness 55 anger 40 fear 70 amazement 46 disgust 75
+ні	                             ні                                                                                                                 part  joy 85 sadness 55 anger 40 fear 70 amazement 46 disgust 75
+навіть	                             навіть                                                                                                          part  joy 85 sadness 70 anger 40 fear 70 amazement 61 disgust 75
+і	                               і                                                                                                                  conj:coord  joy 85 sadness 70 anger 40 fear 70 amazement 61 disgust 75
+сатаністи 	               сатаніст                                                                                                    noun:p:v_naz:anim  joy 85 sadness 70 anger 40 fear 70 amazement 61 disgust 75
+можуть             	              могти                                                                                                          verb:unknown                               ( verb:pres:p:3:imperf) joy 85 sadness 70 anger 40 fear 70 amazement 61 disgust 75
+бути	                              бути                                                                                                            verb:inf:imperf  joy 85 sadness 70 anger 40 fear 70 amazement 61 disgust 75
+це	                               цей                                                                                                              pron:dem                                      ( pron:dem:n:s) joy 85 sadness 70 anger 40 fear 70 amazement 61 disgust 75
+окремий	                              окремий                                                                                                       adj:m:v_naz                                  ( adj:m:s:v_naz) joy 85 sadness 70 anger 40 fear 70 amazement 61 disgust 75
+вибір	                              вибір                                                                                                            noun:m:v_naz                                ( noun:m:s:v_naz)  joy 85 sadness 70 anger 40 fear 70 amazement 61 disgust 75
+людини	                               людина                                                                                                        noun:f:v_rod:anim                        (noun:f:s:v_rod:anim ) joy 85 sadness 70 anger 40 fear 70 amazement 61 disgust 75
+були	                               бути                                                                                                           verb:past:p:imperf                           joy 85 sadness 70 anger 40 fear 70 amazement 61 disgust 75
+в	                               в                                                                                                                 prep:rv_mis joy 85 sadness 70 anger 40 fear 70 amazement 61 disgust 75
+цьому	                               цей                                                                                                             pron:dem                                          ( pron:dem:m:s:v_mis) joy 85 sadness 70 anger 40 fear 70 amazement 61 disgust 75
+легендарному	               легендарний                                                                                             adj:m:v_mis                                      (adj:m:s:v_mis)  joy 85 sadness 70 anger 40 fear 70 amazement 61 disgust 75
+закладі	                              заклад                                                                                                        noun:m:v_mis                                   (noun:m:s:v_mis) joy 85 sadness 70 anger 40 fear 70 amazement 61 disgust 75
+якщо	                                  якщо                                                                                                     conj:subord  joy 55 sadness 40 anger 40 fear 70 amazement 61 disgust 75
+сказати	                                  сказати                                                                                                verb:inf:perf  joy 55 sadness 55 anger 40 fear 85 amazement 61 disgust 75
+по	                                  по                                                                                                         prep:rv_mis joy 55 sadness 55 anger 55 fear 85 amazement 61 disgust 75
+правді	                                  правда                                                                                                 noun:f:v_mis  joy 55 sadness 55 anger 55 fear 85 amazement 61 disgust 75
+спочатку	                                  спочатку                                                                                              adv  joy 55 sadness 55 anger 40 fear 70 amazement 31 disgust 75
+враження	                  враження                                                                                              noun:p:v_naz  joy 55 sadness 55 anger 40 fear 70 amazement 31 disgust 75
+позитивні	                   позитивний                                                                                         adj:p:v_naz:compb  joy 100 sadness 55 anger 40 fear 70 amazement 31 disgust 75
+аж	                                   аж                                                                                                         conj:subord  joy 100 sadness 55 anger 40 fear 70 amazement 31 disgust 75
+доки	                                   доки                                                                                                      conj:subord  joy 100 sadness 55 anger 40 fear 70 amazement 31 disgust 75
+не	                                   не                                                                                                          part  joy 100 sadness 55 anger 57 fear 55 amazement 46 disgust 60
+принесли	                                   принести                                                                                              verb:past:p:perf  joy 100 sadness 55 anger 57 fear 55 amazement 46 disgust 60
+перші	                                   перший                                                                                                 adj:p:v_zna  joy 70 sadness 25 anger 57 fear 55 amazement 31 disgust 60
+страви	                                   страва                                                                                                  noun:p:v_zna  joy 70 sadness 25 anger 57 fear 55 amazement 31 disgust 60
+на мою думку                          на мою думку                                                                                        </insert>  joy 100 sadness 25 anger 57 fear 55 amazement 31 disgust 60
+це	                                 цей                                                                                                         pron:dem                                    ( pron:dem:n:s:v_naz) joy 100 sadness 40 anger 57 fear 55 amazement 46 disgust 60
+один	                                 один                                                                                                        numr:m:v_naz  joy 100 sadness 40 anger 57 fear 55 amazement 46 disgust 60
+ з	                                з                                                                                                               prep:rv_rod joy 100 sadness 40 anger 57 fear 55 amazement 46 disgust 60
+найгірших	                поганий                                                                                                   adj:p:v_rod:super  joy 100 sadness 40 anger 57 fear 55 amazement 46 disgust 60
+закладів	                                заклад                                                                                                      noun:p:v_rod  joy 100 sadness 40 anger 57 fear 55 amazement 46 disgust 60
+ЛОКАЛЬ	                                локаль                                                                                                      noun:f:v_naz                             (noun:n:v_rod)  joy 100 sadness 40 anger 57 fear 55 amazement 46 disgust 60
+за	                                за                                                                                                         prep:rv_zna joy 100 sadness 40 anger 57 fear 55 amazement 46 disgust 60
+таку	                               такий                                                                                                     pron:def  joy 100 sadness 40 anger 57 fear 55 amazement 46 disgust 60
+таку	                               такий                                                                                                     pron:def  joy 70 sadness 25 anger 57 fear 40 amazement 46 disgust 60
+і	                               і                                                                                                              conj:coord  joy 70 sadness 25 anger 57 fear 40 amazement 46 disgust 60
+з	                              з                                                                                                             prep:rv_oru joy 40 sadness 40 anger 57 fear 40 amazement 61 disgust 60
+таким	                             такий                                                                                                       pron:def  joy 40 sadness 40 anger 57 fear 40 amazement 61 disgust 60
+ніяким	                             ніякий                                                                                                      pron:neg                                        (pron:neg:s:m:v_oru) joy 40 sadness 55 anger 57 fear 40 amazement 31 disgust 60
+смаком	                              смак                                                                                                        noun:m:v_oru                                 (noun:m:s:v_oru)  joy 40 sadness 55 anger 57 fear 40 amazement 31 disgust 60
+мені	                              я                                                                                                               pron:pers:s:1:v_dav:anim  joy 40 sadness 55 anger 57 fear 40 amazement 31 disgust 60
+ще	                             ще                                                                                                            part  joy 40 sadness 55 anger 57 fear 40 amazement 31 disgust 60
+ніхто	                             ніхто                                                                                                        pron:neg:v_naz:anim  joy 70 sadness 55 anger 72 fear 40 amazement 46 disgust 60
+не	                             не                                                                                                            part  joy 55 sadness 25 anger 12 fear 25 amazement 61 disgust 45
+подавав	                             подавати                                                                                                verb:past:m:imperf  joy 55 sadness 25 anger 12 fear 25 amazement 61 disgust 45
+ще	                               ще                                                                                                      part  joy 55 sadness 25 anger 12 fear 25 amazement 61 disgust 45
+й	                               й                                                                                                        part  joy 55 sadness 25 anger 12 fear 25 amazement 46 disgust 45
+за	                               за                                                                                                                                                             ( prep:v_zna) joy 55 sadness 25 anger 12 fear 25 amazement 46 disgust 45
+фірмову	                              фірмовий                                                                                            adj:f:v_zna                                    (adj:f:s:v_zna) joy 55 sadness 25 anger 12 fear 25 amazement 46 disgust 45
+страву	                              страва                                                                                                noun:f:v_zna                                 (noun:f:s:v_zna)  joy 55 sadness 25 anger 12 fear 25 amazement 46 disgust 45
+дня	                              день                                                                                                    noun:m:v_rod                               (noun:m:s:v_rod ) joy 55 sadness 55 anger 27 fear 25 amazement 46 disgust 45
+взяли	                              взяти                                                                                                  verb:past:p:perf  joy 55 sadness 55 anger 27 fear 25 amazement 46 disgust 45
+чомусь	                             чомусь                                                                                                 adv joy 55 sadness 55 anger 27 fear 25 amazement 46 disgust 45
+подвійну	                             подвійний                                                                                             adj:f:v_zna  joy 55 sadness 25 anger 27 fear 40 amazement 46 disgust 45
+ціну	                             ціна                                                                                                       noun:f:v_zna                                (noun:f:s:v_zna ) joy 55 sadness 25 anger 27 fear 40 amazement 46 disgust 45
+нікому	                                ніхто                                                                                                  pron:neg:v_dav:anim  joy 55 sadness 25 anger 27 fear 40 amazement 46 disgust 45
+не	                                не                                                                                                      part  joy 55 sadness 25 anger 42 fear 55 amazement 46 disgust 45
+раджу	                                радити                                                                                              verb:pres:s:1:imperf  joy 40 sadness 55 anger 57 fear 55 amazement 46 disgust 45
+приходити	                приходити                                                                                         verb:inf:imperf  joy 55 sadness 40 anger 42 fear 40 amazement 46 disgust 45
+в	                                в                                                                                                         prep:rv_zna  joy 40 sadness 25 anger 72 fear 55 amazement 76 disgust 45
+цей	                               цей                                                                                                       pron:dem                                         ( pron:dem:m:s:v_zna) joy 40 sadness 40 anger 57 fear 55 amazement 61 disgust 45
+заклад	                               заклад                                                                                                 noun:m:v_zna                                  ( noun:m: s:v_zna) joy 40 sadness 40 anger 57 fear 55 amazement 61 disgust 45
+хіба	                                хіба                                                                                                        conj:subord  joy 40 sadness 40 anger 27 fear 25 amazement 46 disgust 45
+що	                                що                                                                                                          conj:subord                            joy 40 sadness 55 anger 42 fear 40 amazement 46 disgust 45
+просто	                                просто                                                                                                   adv:compb  joy 40 sadness 55 anger 42 fear 40 amazement 46 disgust 45
+подивитись	                подивитися                                                                                           verb:rev:inf:perf  joy 85 sadness 40 anger 42 fear 55 amazement 46 disgust 45
+в	                                  в                                                                                                       prep:rv_mis joy 85 sadness 40 anger 42 fear 55 amazement 61 disgust 45
+принципі	                                  принцип                                                                                           noun:m:v_mis  joy 70 sadness 55 anger 57 fear 55 amazement 61 disgust 45
+інтер'єр                    	  інтер'єр                                                                                            noun:m:v_naz                                    (noun:m:s:v_naz) joy 55 sadness 40 anger 42 fear 40 amazement 61 disgust 45
+дійсно	                                 дійсно                                                                                                 adv  joy 40 sadness 40 anger 42 fear 55 amazement 61 disgust 45
+цікавий	                                 цікавий                                                                                               adj:m:v_naz:compb  joy 55 sadness 55 anger 57 fear 70 amazement 61 disgust 45
+але	                                 але                                                                                                     conj:coord  joy 40 sadness 40 anger 42 fear 66 amazement 61 disgust 45
+ не	                                 не                                                                                                       part  joy 40 sadness 55 anger 57 fear 51 amazement 46 disgust 45
+кухня	                                 кухня                                                                                                  noun:f:v_naz                                      ( noun:f:s:v_naz ) joy 55 sadness 55 anger 42 fear 51 amazement 46 disgust 45
+доброго	                                добрий                                                                                              adj:m:v_rod:compb  joy 55 sadness 70 anger 57 fear 51 amazement 61 disgust 45
+дня	                                день                                                                                                  noun:m:v_rod                                     ( noun:m:s:v_rod) joy 55 sadness 55 anger 57 fear 51 amazement 61 disgust 45
+побували	               побувати                                                                                           verb:past:p:perf  joy 55 sadness 55 anger 57 fear 51 amazement 61 disgust 45
+в	                               в                                                                                                         prep:rv_mis joy 55 sadness 55 anger 57 fear 51 amazement 61 disgust 45
+там	                               там                                                                                                     adv   joy 55 sadness 70 anger 42 fear 51 amazement 76 disgust 45
+як	                                 як                                                                                                      adv  joy 55 sadness 85 anger 42 fear 51 amazement 61 disgust 45
+на	                                 на                                                                                                     prep:rv_zna joy 40 sadness 70 anger 42 fear 66 amazement 76 disgust 45
+мене	                                 я                                                                                                       pron:pers:s:1:v_zna:anim  joy 55 sadness 70 anger 57 fear 51 amazement 76 disgust 45
+неймовірна	                 неймовірний                                                                                     adj:f:v_naz:compb  joy 40 sadness 85 anger 57 fear 36 amazement 76 disgust 45
+атмосфера	                 атмосфера                                                                                        noun:f:v_naz                                               (noun:f:s:v_naz) joy 40 sadness 70 anger 72 fear 36 amazement 61 disgust 45
+цього	                                 цей                                                                                                     pron:dem                                                    ( pron:dem:m:s:v_rod) joy 40 sadness 55 anger 57 fear 36 amazement 61 disgust 45
+закладу	                                 заклад                                                                                                noun:m:v_rod                                            ( noun:m:s:v_rod) joy 40 sadness 55 anger 57 fear 36 amazement 61 disgust 45
+дає	                                давати                                                                                                 verb:pres:s:3:imperf  joy 85 sadness 55 anger 57 fear 36 amazement 61 disgust 45
+поглибитись	                поглибитися                                                                                         verb:rev:inf:perf  joy 85 sadness 25 anger 27 fear 51 amazement 61 disgust 45
+в	                                в                                                                                                            prep:rv_zna:v-u  joy 85 sadness 40 anger 42 fear 36 amazement 61 disgust 45
+середньовіччя	                середньовіччя                                                                                      noun:n:v_zna  joy 100 sadness 70 anger 87 fear 36 amazement 61 disgust 45
+не	                               не                                                                                                          part  joy 70 sadness 70 anger 72 fear 51 amazement 61 disgust 45
+знаю	                               знати                                                                                                    verb:pres:s:1:imperf  joy 70 sadness 70 anger 72 fear 51 amazement 61 disgust 45
+як	                               як                                                                                                           adv joy 70 sadness 70 anger 72 fear 51 amazement 61 disgust 45
+кому	                               хто                                                                                                          pron:int:rel:m:v_dav:anim  joy 70 sadness 70 anger 72 fear 51 amazement 61 disgust 45
+щастить	                               щастити                                                                                                 verb:pres:s:3:imperf  joy 70 sadness 40 anger 42 fear 51 amazement 61 disgust 45
+але	                               але                                                                                                         conj:coord  joy 70 sadness 40 anger 42 fear 66 amazement 61 disgust 45
+обслуговування	               обслуговування                                                                                     noun:n:v_naz  joy 40 sadness 40 anger 57 fear 81 amazement 31 disgust 45
+було	                               бути                                                                                                      verb:past:n:imperf  joy 40 sadness 40 anger 53 fear 66 amazement 31 disgust 45
+на	                               на                                                                                                          prep:rv_mis  joy 70 sadness 40 anger 38 fear 51 amazement 31 disgust 45
+вищому	                               високий                                                                                                adj:n:v_mis:compr  joy 70 sadness 40 anger 53 fear 66 amazement 61 disgust 45
+рівні	                                рівень                                                                                                  noun:m:v_mis                                            ( noun:m:s:v_mis)  joy 40 sadness 40 anger 53 fear 51 amazement 46 disgust 45
+і	                                 і                                                                                                           conj:coord  joy 40 sadness 40 anger 53 fear 51 amazement 46 disgust 45
+взагалі	                                взагалі                                                                                                  adv:v-u  joy 100 sadness 40 anger 53 fear 51 amazement 46 disgust 45
+було	                                бути                                                                                                       verb:past:n:imperf  joy 70 sadness 40 anger 68 fear 51 amazement 46 disgust 45
+враження	                враження                                                                                               noun:n:v_naz  joy 55 sadness 55 anger 38 fear 51 amazement 46 disgust 45
+ що	                                що                                                                                                           pron:int:rel:n:v_naz  joy 55 sadness 55 anger 38 fear 51 amazement 46 disgust 45
+ ти	                                ти                                                                                                            pron:pers:s:2:v_naz:anim  joy 55 sadness 40 anger 38 fear 66 amazement 46 disgust 45
+ якась	                                 якийсь                                                                                                      pron:ind                                              ( pron:ind:f:s:v_naz) joy 55 sadness 40 anger 38 fear 51 amazement 46 disgust 45
+особа	                                 особа                                                                                                       noun:f:v_naz:anim                             ( noun:f: s:v_naz:anim)  joy 55 sadness 40 anger 38 fear 51 amazement 46 disgust 45
+такого	                                такий                                                                                                           pron:def  joy 70 sadness 55 anger 38 fear 51 amazement 46 disgust 45
+догляду	                               догляд                                                                                                           noun:m:v_rod  joy 70 sadness 55 anger 38 fear 51 amazement 46 disgust 45
+не	                               не                                                                                                                   part  joy 40 sadness 40 anger 38 fear 51 amazement 46 disgust 45
+бачила	                               бачити                                                                                                           verb:past:f:imperf  joy 40 sadness 55 anger 38 fear 66 amazement 46 disgust 45
+ніколи	                                ніколи                                                                                                           adv joy 40 sadness 55 anger 38 fear 51 amazement 46 disgust 45
+не	                                не                                                                                                                  part  joy 55 sadness 55 anger 53 fear 51 amazement 46 disgust 45
+встигнеш	                                встигнути                                                                                                     verb:futr:s:2:perf:v-u  joy 85 sadness 55 anger 53 fear 51 amazement 46 disgust 45
+покласти	                                покласти                                                                                                       verb:inf:perf  joy 85 sadness 55 anger 53 fear 21 amazement 31 disgust 45
+в	                                в                                                                                                                    prep:rv_zna  joy 85 sadness 55 anger 53 fear 21 amazement 31 disgust 45
+бік	                                бік                                                                                                                  noun:m:v_zna joy 55 sadness 55 anger 53 fear 36 amazement 31 disgust 45
+брудну	                                брудний                                                                                                        adj:f:v_zna:compb  joy 70 sadness 85 anger 68 fear 36 amazement 16 disgust 45
+серветку	                                серветка                                                                                                       noun:f:v_zna                                     (noun:f:s:v_zna)  joy 70 sadness 85 anger 68 fear 36 amazement 16 disgust 45
+як	                                як                                                                                                                     conj:subord  joy 40 sadness 70 anger 53 fear 51 amazement 31 disgust 45
+її	                                вона                                                                                                                pron:pers:f:3:v_zna:anim  joy 40 sadness 55 anger 53 fear 36 amazement 31 disgust 45
+тут	                                тут                                                                                                                   adv   joy 40 sadness 70 anger 53 fear 51 amazement 31 disgust 45
+же	                                же                                                                                                                     part  joy 55 sadness 70 anger 53 fear 36 amazement 31 disgust 45
+прибирають	                прибирати                                                                                                        verb:pres:p:3:imperf  joy 55 sadness 55 anger 53 fear 51 amazement 31 disgust 45
+все	                               весь                                                                                                                   adv:v-u  joy 55 sadness 55 anger 53 fear 36 amazement 46 disgust 45
+тонко	                              тонко                                                                                                                  adv:compb  joy 55 sadness 55 anger 53 fear 36 amazement 46 disgust 45
+лаконічно	              лаконічно                                                                                                             adv:compb  joy 100 sadness 55 anger 53 fear 36 amazement 46 disgust 45
+і	                               і                                                                                                                           conj:coord  joy 100 sadness 55 anger 68 fear 51 amazement 46 disgust 45
+приємні	                              приємний                                                                                                             adj:p:v_naz:compb  joy 100 sadness 70 anger 68 fear 51 amazement 46 disgust 45
+хлопці	                              хлопець                                                                                                                noun:p:v_naz:anim  joy 70 sadness 70 anger 68 fear 51 amazement 46 disgust 45
+там	                             там                                                                                                                         adv  joy 70 sadness 55 anger 38 fear 51 amazement 46 disgust 45
+працюють	            працювати                                                                                                             verb:pres:p:3:imperf  joy 55 sadness 40 anger 53 fear 66 amazement 61 disgust 45
+Дуже	                              дуже                                                                                                                      adv joy 23 sadness 25 anger 53 fear 51 amazement 31 disgust 45
+смачно	                             смачно                                                                                                                  adv:compb  joy 98 sadness 25 anger 53 fear 51 amazement 31 disgust 45
+і	                             і                                                                                                                             conj:coord  joy 98 sadness 70 anger 68 fear 51 amazement 31 disgust 45
+приємно	                            приємно                                                                                                                 adv:compb  joy 98 sadness 70 anger 68 fear 51 amazement 76 disgust 45
+було	                            бути                                                                                                                        verb:past:n:imperf  joy 98 sadness 55 anger 68 fear 36 amazement 76 disgust 45
+враження	           враження                                                                                                               noun:p:v_naz  joy 83 sadness 55 anger 68 fear 36 amazement 76 disgust 45
+найпозитивніші	           позитивний                                                                                                            adj:p:v_naz:super  joy 68 sadness 55 anger 38 fear 36 amazement 76 disgust 45
+ой	                          ой                                                                                                                           excl  joy 68 sadness 40 anger 53 fear 51 amazement 76 disgust 45
+як	                         як                                                                                                                             adv joy 68 sadness 25 anger 53 fear 51 amazement 76 disgust 45
+це	                        цей                                                                                                                            pron:dem                                       ( pron:dem:s:n:v_naz) joy 68 sadness 25 anger 53 fear 51 amazement 76 disgust 45
+все	                        весь                                                                                                                           adv:v-u  joy 53 sadness 55 anger 53 fear 51 amazement 31 disgust 45
+по-нашому	         по-нашому                                                                                                                adv  joy 53 sadness 55 anger 8 fear 66 amazement 31 disgust 45
+по-українськи	         по-українськи                                                                                                           adv  joy 38 sadness 55 anger 38 fear 66 amazement 31 disgust 45
+головне	                          головний                                                                                                                adj:n:v_naz:compb  joy 23 sadness 55 anger 23 fear 51 amazement 31 disgust 45
+покритикувати	          покритикувати                                                                                                       verb:inf:perf  joy 53 sadness 55 anger 38 fear 66 amazement 31 disgust 45
+полити	                           полити                                                                                                                   verb:inf:perf  joy 53 sadness 40 anger 38 fear 51 amazement 31 disgust 45
+брудом	                           бруд                                                                                                                       noun:m:v_oru  joy 68 sadness 40 anger 38 fear 51 amazement 46 disgust 45
+а	                            а                                                                                                                             conj:coord  joy 68 sadness 55 anger 38 fear 36 amazement 31 disgust 45
+от	                            от                                                                                                                            part  joy 68 sadness 25 anger 38 fear 36 amazement 31 disgust 45
+самому	                            самий                                                                                                                      pron:def                                     (pron:def :s:m:v_dav) joy 23 sadness 40 anger 53 fear 51 amazement 31 disgust 45
+щось	                            щось                                                                                                                         pron:ind:n:v_zna  joy 53 sadness 40 anger 38 fear 36 amazement 31 disgust 45
+придумати	            придумати                                                                                                               verb:inf:perf  joy 38 sadness 40 anger 53 fear 36 amazement 61 disgust 45
+зась	                            зась                                                                                                                          excl  joy 38 sadness 40 anger 53 fear 36 amazement 31 disgust 45
+не	                              не                                                                                                                             part  joy 38 sadness 40 anger 53 fear 51 amazement 31 disgust 45
+подобається	              подобатися                                                                                                              verb:rev:pres:s:3:imperf joy 83 sadness 40 anger 38 fear 51 amazement 16 disgust 45
+не	                               не                                                                                                                             part  joy 83 sadness 40 anger 38 fear 51 amazement 16 disgust 45
+ходіть	                               ходити                                                                                                                      verb:impr:p:2:imperf  joy 83 sadness 40 anger 38 fear 51 amazement 16 disgust 45
+туди	                               туди                                                                                                                         adv  joy 68 sadness 40 anger 53 fear 66 amazement 46 disgust 45
+але	                               але                                                                                                                         conj:coord  joy 68 sadness 55 anger 53 fear 51 amazement 46 disgust 45
+факт	                               факт                                                                                                                        noun:m:v_naz                             (noun:m:s:v_naz) joy 68 sadness 55 anger 53 fear 51 amazement 46 disgust 45
+залишається	               залишатися                                                                                                             verb:rev:pres:s:3:imperf joy 98 sadness 10 anger 53 fear 51 amazement 46 disgust 45
+фактом	                               факт                                                                                                                         noun:m:v_oru                            (noun:m:s:v_naz) joy 98 sadness 10 anger 53 fear 51 amazement 46 disgust 45
+усі	                                увесь                                                                                                                      pron:dem                                    (pron:dem:p:v_naz) joy 98 sadness 10 anger 53 fear 51 amazement 46 disgust 45
+заклади	                               заклад                                                                                                                 noun:p:v_naz  joy 83 sadness 25 anger 53 fear 51 amazement 91 disgust 45
+Фесту	                               фест                                                                                                                    noun:m:v_rod:bad  joy 100 sadness 25 anger 53 fear 51 amazement 91 disgust 45
+користуються	               користуватися                                                                                                    verb:rev:pres:p:3:imperf joy 85 sadness 25 anger 38 fear 51 amazement 76 disgust 45
+величезною	               величезний                                                                                                         adj:f:v_oru  joy 40 sadness 55 anger 53 fear 51 amazement 76 disgust 45
+популярністю	               популярність                                                                                                       noun:f:v_oru  joy 85 sadness 40 anger 53 fear 51 amazement 76 disgust 45
+вечорами	               вечір                                                                                                                    noun:p:v_oru                                 (adv:bad) joy 85 sadness 40 anger 53 fear 51 amazement 76 disgust 45
+і	                                і                                                                                                                           conj:coord  joy 85 sadness 25 anger 38 fear 51 amazement 76 disgust 45
+на	                               на                                                                                                                        prep:rv_zna  joy 85 sadness 40 anger 38 fear 51 amazement 76 disgust 45
+вихідні	                              вихідний                                                                                                               noun:p:v_zna  joy 85 sadness 55 anger 38 fear 66 amazement 61 disgust 45
+там	                              там                                                                                                                       adv joy 55 sadness 40 anger 38 fear 66 amazement 61 disgust 45
+нема	                               нема                                                                                                                   predic  joy 55 sadness 40 anger 53 fear 51 amazement 61 disgust 45
+де	                               де                                                                                                                       adv   joy 85 sadness 55 anger 53 fear 51 amazement 61 disgust 45
+яблуку	                              яблуко                                                                                                                noun:n:v_dav  joy 100 sadness 40 anger 53 fear 51 amazement 61 disgust 45
+впасти	                              впасти                                                                                                                verb:inf:perf:v-u  joy 70 sadness 40 anger 83 fear 51 amazement 61 disgust 45
+туристам	                              турист                                                                                                              noun:p:v_dav:anim  joy 70 sadness 40 anger 83 fear 51 amazement 61 disgust 45
+і	                               і                                                                                                                        conj:coord  joy 70 sadness 40 anger 68 fear 51 amazement 61 disgust 45
+подобається	              подобатися                                                                                                       verb:rev:pres:s:3:imperf joy 85 sadness 40 anger 68 fear 51 amazement 61 disgust 45
+тому	                              тому                                                                                                                    conj:subord  joy 85 sadness 55 anger 68 fear 51 amazement 61 disgust 45
+ ваші	                              ваш                                                                                                                      pron:pos                               (pron:pos:v_naz)                    joy 70 sadness 55 anger 68 fear 51 amazement 61 disgust 45
+ слова	                              слово                                                                                                                   noun:p:v_naz  joy 70 sadness 55 anger 68 fear 51 amazement 61 disgust 45
+ то	                                                                                         joy 70 sadness 70 anger 53 fear 51 amazement 61 disgust 45

@@ -1,0 +1,722 @@
+Voitsiv 20-30 female
+Як	                як                                  part  0
+погано	               погано                           adv:compb  -30
+коли	               коли                               adv 0
+відкривають	відкривати                    verb:pres:p:3:imperf  10
+ресторан 	ресторан                      noun:m:v_zna  20
+люди	                люди                             noun:p:v_naz:anim  10
+які	                який                               pron:int:rel:def 0
+зовсім	                зовсім                           adv  0
+нічого	                нічого                            adv  -20
+не	               не                                   part  0
+тямлять	               тямити                           verb:pres:p:3:imperf  0
+у	               у                                     prep:rv_zna:v-u                 0
+цій	               цей                                 pron:dem                                                     ( pron:dem:f:s:v_zna)                    0
+справі	               справа                           noun:f:v_mis  10
+на	               на                                  prep:rv_zna:  0
+вигляд	               вигляд                           noun:m:v_naz 10
+схоже	                схожий                           adj:n:v_naz  0
+на	                на                                  prep:rv_zna 0
+посередній	посередній                    adj:m:v_naz  -20
+паб	                паб                                 noun:m:v_naz  20
+першим	                перший                               adj:m:v_oru  11
+ часом	                часом                                  noun:m:v_oru  20
+там	               там                                       adv  0
+будуть	              бути                                       verb:futr:p:3:imperf  0
+клієнти	              клієнт                                    noun:p:v_naz:anim  9
+приходитимуть	приходити                             verb:futr:p:3:imperf  0
+заради	                заради                                  prep:rv_rod  0
+цікавості	                цікавість                                noun:f:v_rod  20
+але	                але                                          conj:coord  0
+я	                я                                              pron:pers:s:1:v_naz:anim  0
+думаю	               думати                                     verb:pres:s:1:imperf  0
+що	               що                                             conj:subord  0
+навряд	              навряд                                         adv                                                   навряд чи (part) -20
+чи	              чи                                                 conj:coord:subord                          навряд чи (part) 0
+хтось	              хтось                                            pron:ind:v_naz:anim  0
+з	              з                                                   prep:rv_rod 0
+клієнтів	              клієнт                                           noun:p:v_rod:anim 10
+повертатиметься	повертатися                              verb:rev:futr:s:3:imperf  10
+ще	                ще                                               part  0
+раз	                раз                                             noun:m:v_naz  0
+після	                після                                          adv  0
+свого	                свій                                           pron:pos                                               (pron:pos:m:s:v_rod)      0
+першого	               перший                                      adj:m:v_rod                                          (numr:m:s:v_oru) 20
+                                                                                 adj:m:v_zna 0
+візиту	                візит                                        noun:m:v_rod  20
+А	                  а                                              part  0
+гардероб	               гардероб                                   noun:m:v_naz  20
+ваш	               ваш                                            pron:pos                                                (pron:pos:m:s:v_rod) 0
+де	                де                                             adv 0
+що	               що                                              conj:subord  0
+куртки	               куртка                                       noun:f:p:v_naz  0
+на	                на                                             prep:rv_mis  0
+стільцях	                стілець                                     noun:p:v_mis  0
+висять	                висіти                                       verb:pres:p:3:imperf  -20
+Цінам	                 ціна                                            noun:p:v_dav  -10
+має	                 мати                                           verb:pres:s:3:imperf 0
+відповідати	відповідати                                 verb:inf:imperf  0
+сервіс	                сервіс                                           noun:m:v_naz  10
+страви	                страва                                          noun:p:v_na 21
+меню                                                                             noun:nv  10
+а	                 а                                                  part 0
+що	                 що                                              pron:int:rel:n:v_naz  0
+можна	                 можна                                        predic  0
+казати	                 казати                                       verb:inf:imperf  0
+коли	                 коли                                           adv 0
+ці	                 цей                                             pron:dem                                (pron:dem:p:v_naz) 0
+столи	                стіл                                              noun:p:v_naz 20
+і	                 і                                                 conj:coord  0
+крісла	                крісло                                        noun:p:v_naz  10
+напевно	                напевно                                    adv  0
+на	                на                                              prep:rv_mis  0
+звалищі	                звалище                                    noun:n:v_mis  -40
+знайшли	                знайти                                       verb:past:p:perf  30
+столи	                 стіл                                           noun:p:v_naz  20
+навіть	                 навіть                                        part  0
+не	                 не                                              part  0
+застелені	 застелений                               adjp:pasv:past:p:v_naz  20
+скатертинами	 скатертина                                noun:p:v_oru  10
+а	                  а                                                conj:coord  0
+меню	                 меню                                            noun:nv  30
+взагалі	                 взагалі                                          adv:v-u  0
+ніякої	                 ніякий                                            pron:neg  -30
+критики	                критика                                          noun:f:v_rod  -39
+не	                 не                                                  part  0
+витримує	 витримувати                                verb:pres:s:3:imperf  0
+ну	                  ну                                                part  0
+це	                  цей                                              pron:dem                           (pron:dem:n:s:v_naz) 0
+просто	                 просто                                         adv:compb  0
+смішно	                 смішно                                           adv  20
+З	                  з                                                    prep:rv_oru  0
+такими	                  такий                                            pron:def                                     (pron:def:p:v_oru) 0
+цінами	                 ціна                                                noun:p:v_oru  -10
+перш	                 перш                                               adv  0
+за	                 за                                                   prep:rv_rod:rv_zna:rv_oru         перш за все -( conj  ) 0
+все	                 весь                                                adv:v-u                                        перш за все -( conj  ) 0
+заклад	                 заклад                                           noun:m:v_naz  20
+має	                 мати                                               verb:pres:s:3:imperf  10
+мати	                мати                                                 verb:inf:imperf  10
+дуже	                 дуже                                                 adv  20
+високий	               високий                                               adj:m:v_naz:compb  30
+рівень	               рівень                                                  noun:m:v_naz  20
+гламуру	                гламур                                                 noun:m:v_rod:slang  30
+позиції	                позиція                                                noun:p:v_naz  20
+в	                 в                                                          prep:rv_mis:v-u  0
+меню	                меню                                                    noun:n:nv  30
+мають	                мати                                                     verb:pres:p:3:imperf  10
+відповідати	відповідати                                          verb:inf:imperf  10
+високому 	високий                                                adj:m:v_dav:compb  30
+рівню	                 рівень                                                   noun:m:v_dav  0
+цінам	                 ціна                                                      noun:p:v_dav  -10
+має	                 мати                                                     verb:pres:s:3:imperf  10
+відповідати	відповідати                                          verb:inf:imperf  10
+сервіс	                 сервіс                                                   noun:m:v_naz  10
+посуд	                 посуд                                                    noun:m:v_naz  0
+ і	                   і                                                            conj:coord  0
+ А	                а                                                                  part  0
+про	                про                                                              prep:rv_zna  0
+картку	                картка                                                         noun:f:v_zna  10
+знижки	                знижка                                                        noun:p:v_zna  10
+85%	                85%                                                              number  10
+просто	                просто                                                         adv:compb  0
+смішно	                смішно                                                           adv  20
+Ну	               ну                                                                     excl  0
+це	             цей                                                                      pron:dem                (pron:dem:n:s:v_naz) 0
+і	               і                                                                          conj:coord  0
+туриста	              турист                                                                 noun:m:v_zna:anim  30
+і	             і                                                                             conj:coord  0
+гостя	            гість                                                                       noun:m:v_zna:anim  20
+міста	            місто                                                                      noun:p:v_zna  20
+Лева	            Лев                                                                        noun:m:v_zna:anim:fname 20
+Розробники	розробник                                                        noun:p:v_naz:anim  0
+постаралися	постаратися                                                     verb:rev:past:p:perf  20
+концепт	                концепт                                                              noun:m:v_naz  20
+на	               на                                                                          prep:rv_mis  0
+висоті	               висота                                                                   noun:f:v_mis  20
+Тут	              тут                                                                           adv 0
+є	              бути                                                                         verb:pres:p:3:imperf  0
+те	              той                                                                           pron:dem                            ( pron:dem:n:s:v_naz) 0
+чого	                що                                                                          pron:int:rel:n:v_rod  0
+бракує	                бракувати                                                             verb:pres:s:3:imperf     -30
+80%	                80%                                                                         number  20
+Львова	                 Львів                                                                     noun:m:v_rod  30
+ЧУДОВА	                чудовий                                                                 adj:f:v_naz:compb  20
+АТМОСФЕРА	атмосфера                                                            noun:f:v_naz  20
+Кухня	                   кухня                                                                   noun:f:v_naz  10
+на	                  на                                                                         prep:rv_mis  0
+мій	                  мій                                                                        pron:pos                             (pron:pos:m:s:v_naz) 0
+вибагливий	вибагливий                                                           adj:m:v_naz:compb  20
+ смак	                 смак                                                                      noun:m:v_naz  30
+середня	                середній                                                                 adj:f:v_naz  -20
+але	                але                                                                          conj:coord  1
+зі	                зі                                                                            prep:rv_oru 1
+скидкою	               скидка                                                                     noun:f:v_oru:bad  20
+90%	               90%                                                                           number  29
+вона	               вона                                                                         pron:pers:f:3:v_naz:anim  0
+і	               і                                                                                conj:coord  0
+відносно	              відносно                                                                    adv  -10
+недорога               недорогий                                                                 adj:f:v_naz  10
+Тобто	                   тобто                                                                     conj:subord  0
+красиво	                   красиво                                                                   adv:compb  20
+поїсти	                   поїсти                                                                      verb:inf:perf  11
+з	                  з                                                                               prep:rv_oru 0
+хорошою	                  хороший                                                                   adj:f:v_oru:compb  30
+музикою	                 музика                                                                      noun:f:v_oru  20
+вином	                   вино                                                                         noun:n:v_oru  30
+це	                  цей                                                                           adj:n:v_naz:&pron:dem               (part)                                                                                                                   adj:n:v_zna:&pron:dem  0
+сюди	                 сюди                                                                          adv  0
+Сервіс	                 сервіс                                                                       noun:m:v_naz  10
+всі	                 весь                                                                          pron:dem                                        (pron:dem:p:v_naz) 0
+рази	                 раз                                                                            noun:p:v_naz  0
+що	                 що                                                                              pron:int:rel:n:v_naz  0
+я	                   я                                                                               pron:pers:s:1:v_naz:anim 0
+була	                  бути                                                                             verb:past:f:imperf  0
+або	                 або                                                                            conj:coord  0
+хороший	                хороший                                                                     adj:m:v_naz:compb  20
+або	                     або                                                                       conj:coord  0
+в	                     в                                                                           prep:rv_mis:v-u  0
+крайньому	     крайній                                                                 adj:m:v_mis  -20
+разі	                    раз                                                                         noun:m:v_mis  0
+Сюди	                      сюди                                                                      adv 0
+не	                      не                                                                          part  0
+соромно	                     соромно                                                                 adv  -20
+привести	                     привести                                                                verb:inf:perf  0
+людину	                     людина                                                                   noun:f:v_zna:anim  30
+яку	                     який                                                                   noun:m:v_dav:anim                              (pron: питальний займенник, від слова який) 0
+                                                                                                                noun:m:v_mis:anim  0
+                                                                                                                adj:f:v_zna:&pron:int 0
+любиш	                    любити                                                                verb:pres:s:2:imperf  30
+або	                    або                                                                       conj:coord  0
+поважаєш	    поважати                                                              verb:pres:s:2:imperf  30
+Клозет	                      клозет                                                                   noun:m:v_naz  0
+взагалі	                     взагалі                                                                    adv:v-u  0
+у	                     у                                                                              prep:rv_mis  0
+місті	                    місто                                                                        noun:n:v_mis  20
+Єдине	                  єдиний                                                                        adj:n:v_naz                                           1
+                                                                                                                      adj:n:v_naz 1
+що	                  що                                                                                conj:subord                                  1
+народу	                 народ                                                                           noun:m:v_rod  20
+переважно	 переважно                                                                   adv  0
+багато	                 багато                                                                          adv  20
+тому	                 тому                                                                               conj:subord  0
+погано	                 погано                                                                            adv:compb  -30
+що	                 що                                                                                   conj:subord  0
+він	                 він                                                                                   pron:pers:m:3:v_naz:anim 0
+один	                 один                                                                                numr:m:v_naz  0
+Молодці	                  молодець                                                                        noun:p:v_naz:anim  30
+бажаю	                   бажати                                                                            verb:pres:s:1:imperf  20
+Вам	                   ви                                                                                    pron:pers:p:2:v_dav:anim 0
+процвітання	   процвітання                                                                    noun:n:v_zna  30
+і	                      і                                                                                     conj:coord  0
+тримати	                   тримати                                                                           verb:inf:imperf  0
+марку	                   марка                                                                               noun:f:v_zna  30
+Ой	                     ой                                                                                     excl  0
+з	                     з                                                                                       prep:rv_rod 0
+попереднього	     попередній                                                                      adj:n:v_rod  -10
+повідомлення	      повідомлення                                                                 noun:n:v_naz  10
+в	                      в                                                                                       prep:rv_mis 0
+частині	                      частина                                                                            noun:f:v_mis  0
+ціни	                      ціна                         -10
+                                                                                                                                 noun:f:v_rod -10
+власне	                     власне                                                                                insert  0
+всі	                     весь                                                                                    pron:dem  0
+ціни	                     ціна                                                                                     noun:p:v_naz  -10
+там	                      там                                                                                     adv  0
+слід	                      слід                                                                                     predic  20
+ділити	                      ділити                                                                                 verb:inf:imperf  10
+на	                      на                                                                                        prep:rv_znа 0
+10	                      10                                                                                        number  0
+але	                     але                                                                                      conj:coord  0
+для	                     для                                                                                       prep:rv_rod  0
+цього	                     цей                                                                                       pron:dem                           (pron:dem:m:s:v_rod) 0
+перед	                     перед                                                                                   noun:m:v_naz                    ( prep:rv_oru) 0
+                                                                                                                                  noun:m:v_zna  0
+тим	                     той                                                                                       pron:dem                            (pron:dem:m:s:v_oru) 0
+слід	                     слід                                                                                      predic  0
+взяти	                     взяти                                                                                   verb:inf:perf  0
+знижку	                     знижка                                                                                 noun:f:v_zna  20
+сказавши	                      сказати                                                                               advp:perf  0
+кодові	                      кодовий                                                                               adj:p:v_zna  20
+слова	                       слово                                                                                 noun:p:v_zna  10
+і	                        і                                                                                         conj:coord 0
+не	                       не                                                                                       part  0
+у	                        у                                                                                        prep:rv_zna 0
+офіціантів	        офіціант                                                                            noun:p:v_zna:anim  10
+ресторану	        ресторан                                                                           noun:s:v_zna  10
+перед	                        перед                                                                                noun:m:v_naz                                ( prep:rv_oru) -2
+                                                                                                                                  noun:m:v_zna -2
+оплатою	                        оплата                                                                              noun:f:v_oru  -10
+а	                       а                                                                                         conj:coord  0
+значно	                     значно                                                                                 adv:compb  20
+раніше	                     раніше                                                                                  adv  10
+З	                       з                                                                                     prep:rv_rod 0
+нашої	                       наш                                                                                 pron:pos  0
+компанії	                       компанія                                                                         noun:f:v_rod  20
+в	                       в                                                                                     prep:rv_zna:rv_mis:rv_rod:v-u  0
+жодної	                       жодний                                                                           pron  -30
+людини	                      людина                                                                            noun:f:v_rod:anim  19
+не	                      не                                                                                    part  0
+переплутали	      переплутати                                                                   verb:past:p:perf  -20
+замовлення	      замовлення                                                                      noun:n:v_zna  20
+Кухня	                       кухня                                                                                noun:f:v_naz  10
+дуже	                       дуже                                                                                 adv  20
+смачна	                       смачний                                                                           adj:f:v_naz:compb  30
+Обслуговування	      обслуговування                                                              noun:n:v_naz  10
+на	                      на                                                                                     prep:rv_mis  0
+найвищому	      високий                                                                            adj:m:v_mis:super  30
+рівні	                      рівень                                                                               noun:m:v_mis  20
+Всім	                      весь                                                                                  pron:dem                                     (pron:dem:p:v_dav) 0
+рекомендую	    рекомендувати                                                                  verb:pres:s:1:imperf  30
+Випадково	     випадково                                                                          adv  -20
+попали	                     попасти                                                                              verb:past:p:perf  -20
+до	                     до                                                                                        prep:rv_rod  0
+масонів	                     масон                                                                                   noun:p:v_rod:anim  20
+перед	                     перед                                                                                  noun:m:v_naz  0
+                                                                                                                                 noun:m:v_zna                                                    ( prep:rv) 0
+футболом	    футбол                                                                                 noun:m:v_oru  10
+По-перше	    по-перше                                                                                adv  0
+нас	                     ми                                                                                           pron:pers:p:1:v_zna:anim 0
+ніхто	                     ніхто                                                                                        pron:neg:v_naz:anim  -20
+не	                     не                                                                                            part  0
+попереджав	    попереджати                                                                           verb:past:m:imperf                                 10
+про	                    про                                                                                           prep:rv_zna  0
+таємний	                    таємний                                                                                   adj:m:v_zna  20
+вхід	                    вхід                                                                                           noun:m:v_zna  0
+і	                     і                                                                                                conj:coord  0
+ціни	                    ціна                                                                                           noun:p:v_zna  -10
+з	                    з                                                                                                prep:rv_oru 0
+ключиками	   ключик                                                                                        noun:p:v_oru  10
+і	                    і                                                                                                  conj:coord  0
+картками	                   картка                                                                                          noun:p:v_oru  20
+Коли	                 коли                                                                                              adv 0
+той	                 той                                                                                               pron:dem                              (pron:dem:m:s:v_naz) 0
+дядько	                 дядько                                                                                         noun:m:v_naz:anim  20
+в	                 в                                                                                                  prep:rv_mis:v-u  0
+сінцях	                 сінці                                                                                             noun:p:v_mis  10
+в	                 в                                                                                                  prep:rv_mis::v-u  0
+капцях                      капець                                                                                         noun:p:v_mis  10
+на	                 на                                                                                                prep:rv_zna:rv_mis  0
+босу	                 босий                                                                                           adj:f:v_zna  20
+ногу	                 нога                                                                                             noun:f:v_zna  10
+на	                 на                                                                                                prep:rv_zna  0
+запитання	запитання                                                                                    noun:n:v_zna  0
+про	                про                                                                                                prep:rv_zna  0
+попоїсти	                попоїсти                                                                                        verb:inf:perf  10
+запропонував	запропонувати                                                                             verb:past:m:perf  10
+нам	                 ми                                                                                                  pron:pers:p:1:v_dav:anim  0
+позавчорашні	позавчорашній                                                                              adj:p:v_zna  -30
+голубці	                 голубець                                                                                     noun:p:v_zna  10
+а	                      а                                                                                               conj:coord  0
+зрештою	                    зрештою                                                                                     adv  0
+впустив	                    впустити                                                                                    verb:past:m:perf:v-u  10
+власне	                    власне                                                                                        insert  0
+до	                     до                                                                                                prep:rv_rod  0
+ресторації	     ресторація                                                                                  noun:f:v_rod  10
+ми	                      ми                                                                                              pron:pers:p:1:v_naz:anim  0
+ледь	                      ледь                                                                                           adv  0
+зі	                       зі                                                                                               prep:rv_rod  0
+сміху	                       сміх                                                                                            noun:m:v_rod  20
+не	                        не                                                                                             part  0
+Сміх	                         сміх                                                                                        noun:m:v_naz  20
+пропав	                        пропасти                                                                                verb:past:m:perf  -20
+коли	                        коли                                                                                        adv  0
+принесли 	        принести                                                                                verb:past:p:perf  10
+меню	                        меню                                                                                       noun:nv  10
+Всі	                         весь                                                                                          pron:dem                                          (pron:dem:p:v_naz) 0
+повставали	         повставати                                                                              verb:past:p:imperf  10
+і	                         і                                                                                                 conj:coord  0
+хотіли	                         хотіти                                                                                         verb:unknown                                      ( verb: past:p:imperf) 0
+йти	                         йти                                                                                             verb:inf:imperf  0
+Про	                        про                                                                                               prep:rv_zna  0
+якісь	                        якийсь                                                                                          pron:ind  0
+картки	                        картка                                                                                          noun:p:v_zna  10
+ми	                        ми                                                                                                 pron:pers:p:1:v_naz:anim 0
+нічого	                        ніщо                                                                                              pron:neg:v_rod  -20
+не	                       не                                                                                                  part  0
+знали	                       знати                                                                                             verb:past:p:imperf  -10
+і	                      і                                                                                                       conj:coord  0
+хотіли	                      хотіти                                                                                              verb:unknown                                  ( verb: past:p:imperf) 0
+вже	                      вже                                                                                                  adv:v-u  0
+послати                        послати                                                                                           verb:inf:perf  -10
+на	                      на                                                                                                     prep:rv_mis  0
+цих	                      цей                                                                                                   pron:dem                                          (pron:dem:p:v_rod)   0
+придурків	     придурок                                                                                          noun:p:v_zna:anim  -40
+з	                     з                                                                                                        prep:rv_oru 0
+їхнім	                    їхній                                                                                                    pron:pos  0
+ за	                     за                                                                                                       prep:rv_rod 0
+Але	                      але                                                                                                     conj:coord  0
+наш	                      наш                                                                                                     pron:pos                                         (pron:pos:m:s:v_naz) 0
+                                                                                                                                                                                                         (noun:m:s:v_naz) 0
+зрештою	                      зрештою                                                                                              insert  0
+що	                       що                                                                                                       conj:subord  0
+це	                       цей                                                                                                      pron:dem                                       (pron:dem:n:s:v_naz)  0
+жарт	                       жарт                                                                                                    noun:m:v_naz  30
+і	                       і                                                                                                           conj:coord  0
+запропонував	       запропонувати                                                                                 verb:past:m:perf  10
+відкинути	       відкинути                                                                                           verb:inf:perf  -20
+по	                       по                                                                                                       prep:rv_mis 0
+останньому	       останній                                                                                             adj:m:v_mis  -20
+нулі	                        нуль                                                                                                   noun:m:v_mis  -40
+від	                        від                                                                                                       prep:rv_rod  0
+ціни	                        ціна                                                                                                      -10
+то	                        то                                                                                                         conj:subord  0
+і	                         і                                                                                                           conj:coord  0
+буде	                        бути                                                                                                     verb:futr:s:3:imperf  0
+дійсна	                        дійсний                                                                                                 adj:f:v_naz  10
+ціна	                        ціна                                                                                                       noun:f:v_naz  -10
+Пили	                              пити                                                                                               verb:past:p:imperf  20
+пиво	                              пиво                                                                                               noun:n:v_zna  -30
+наші	                             наша                                                                                                 pron:pos                                      ( pron:pos:p:v_naz) 0
+пацани	                            пацан                                                                                                noun:p:v_naz:anim  -30
+штук	                            штука                                                                                                noun:p:v_rod  0
+по	                            по                                                                                                      prep:rv_zna  0
+два	                            два                                                                                                    numr:m:v_zna  0
+потім	                            потім                                                                                                  adv 0
+молочні	                            молочний                                                                                           adj:p:v_naz  20
+коктейлі	                             коктейль                                                                                           noun:p:v_naz  30
+А	                                 а                                                                                       part  0
+ми	                                 ми                                                                                     pron:pers:p:1:v_naz:anim 0
+взяли	                                 взяти                                                                                verb:past:p:perf  0
+до	                                 до                                                                                      prep:rv_rod  0
+їжі	                                 їжа                                                                                      noun:f:v_rod  30
+досить	                                 досить                                                                                adv  -11
+пристойну	                 пристойний                                                                        adj:f:v_zna  20
+власну	                                 власний                                                                              adj:f:v_zna  0
+Всі	                                весь                                                                                   pron:dem                                                     (pron:dem:p:v_naz) 0
+ їли	                                їсти                                                                                    verb:past:p:imperf  20
+супи	                                суп                                                                                     noun:p:v_zna  11
+3-4	                                 3-4                                                                                     number  0
+види	                                 вид                                                                                    noun:p:v_naz  0
+ і	                              і                                                                                conj:coord  0
+багато	                              багато                                                                      numr:p:v_naz 30
+овочів	                               овоч                                                                          noun:p:v_zna 40
+гриль	                               гриль                                                                         noun:m:v_zna  40
+незвичайний	                незвичайний                                                            adj:m:v_zna  40
+житній	                                житній                                                                        adj:m:v_zna  10
+хліб	                                хліб                                                                             noun:m:v_zna  10
+Особливо	                  особливо                                                                  adv  20
+пішли	                                  піти                                                                           verb:past:p:perf  0
+біфштекси	                  біфштекс                                                                   noun:p:v_zna  20
+з	                                  з                                                                               prep:rv_oru 0
+кров	                                 кров                                                                          noun:f:v_naz                                         кров - (noun:f:s:v_oru) -30
+                                                                                                                                   noun:f:v_zna 0
+Нас	                                     ми                                                                  pron:pers:p:1:v_zna:anim 0
+шестеро	                                     шість                                                              numr:p:v_zna  0
+наїлися	                                    наїстися                                                         verb:rev:past:p:perf  20
+з	                                    з                                                                     prep:rv_rod 0
+дороги	                                    дорога                                                            noun:f:v_rod  0
+щільно	                                     щільно                                                             adv:compb  20
+і	                                      і                                                                      conj:coord  0
+смачно	                                   смачно                                                               adv:compb  30
+Заплатили	                   заплатити                                                       verb:past:p:perf   -20
+за	                                   за                                                                     prep:rv_zna -1
+все	                                   весь                                                                 pron:dem  -1
+860	                                   860                                                                   number  25
+гривень	                                   гривня                                                              noun:p:v_rod  10
+Так	                                 так                                                                       adv 0
+що	                                 що                                                                       pron:int:rel:n:v_naz  0
+хай	                                 хай                                                                      part  0
+прикольна	               прикольний                                                         adj:f:v_naz                                                        30
+найдорожча	               дорогий                                                               adj:f:v_naz:super                                              30
+ресторація                            ресторація                                                          noun:f:v_naz                                                   30
+Взагалі	                                 взагалі                                                                adv:v-u  0
+я	                                 я                                                                           pron:pers:s:1:v_naz:anim 0
+ще	                                ще                                                                          adv  0
+не	                                не                                                                           part  0
+була	                                бути                                                                       verb:past:f:imperf  0
+але	                                 але                                                                         conj:coord  0
+сподіваюся	                сподіватися                                                            verb:rev:pres:s:1:imperf  20
+ближчим	                                близький                                                                 adj:n:v_oru:compr                                           (adj:m:v_oru:compr) 29
+                                                                                                                                 adj:p:v_dav:compr  0
+часом	                                 час                                                                           noun:m:v_oru  0
+туди	                                 туди                                                                         adv 0
+потрапити	                 потрапити                                                               verb:inf:perf  0
+Проте	                                 проте                                                                          insert  0
+хочу	                                 хотіти                                                                          verb:unknown                                              (verb: pres:s:1:imperf) 20
+сказати	                                 сказати                                                                       verb:inf:perf  0
+що	                                  що                                                                               conj:subord  0
+для	                                  для                                                                              prep:rv_rod  0
+масонів	                                 масон                                                                           noun:p:v_rod:anim  30
+гроші	                                гроші                                                                              noun:p:v_naz  10
+це	                                 цей                                                                                pron:dem                                             (pron:dem:n:s:v_naz) 0
+спосіб	                                 спосіб                                                                            noun:m:v_naz  0
+а	                                  а                                                                                      conj:coord  0
+не	                                  не                                                                                    part  0
+мета                              	  мета                                                                                noun:f:v_naz  20
+тому	                                тому                                                                                   conj:subord  0
+той                                            той                                                                                     pron:dem  0
+їм	                                  вони                                                                                   pron:pers:p:3:v_dav:anim 0
+усе	                                  усе                                                                                      adv:v-u                                                  (усе одно - adv)  0
+                                                                                                                                              conj:coord:v-u  0
+                                                                                                                                              part:v-u 0
+одно	                                  один                                                                                    numr:n:v_naz                                        (усе одно - adv ) 0
+чи	                                 чи                                                                                          conj:subord 0
+заплатять	                 заплатити                                                                             verb:futr:p:3:perf  20
+вони	                                 вони                                                                                      pron:pers:p:3:v_naz:anim 0
+зараз	                                 зараз                                                                                    adv  0
+1	                                  1                                                                                            number  0
+чи	                                 чи                                                                                        conj:subord  0
+півмільйона	                півмільйона                                                                           noun:m:v_zna:nv:np  30
+Та	                               та                                                                                         conj:coord  0
+навіть	                               навіть                                                                                    part  0
+будь-яка	                               будь-який                                                                              pron:ind  0
+людина	                               людина                                                                                  noun:f:v_naz:anim  30
+залишившись	               залишитися                                                                            advp:rev:perf  10
+на	                                на                                                                                           prep:rv_mis  0
+безлюдному	                безлюдний                                                                             adj:m:v_mis  -29
+ острові	                                острів                                                                                      noun:m:v_mis  30
+віддасть	                                 віддати                                                                                   verb:futr:s:3:perf  0
+усі	                                  увесь                                                                                      pron:dem 0
+свої	                                   свій                                                                                        pron:pos  0
+папірці	                                   папірець                                                                                 noun:p:v_zna  -40
+заради	                                   заради                                                                                   prep:rv_rod  10
+ложки	                                   ложка                                                                                     noun:f:v_rod  0
+супу	                                   суп                                                                                          noun:m:v_rod  20
+чи	                                   чи                                                                                            conj:subord  0
+простого	                                  простий                                                                                   adj:m:v_rod:compb  0
+ножа	                                  ніж                                                                                           noun:m:v_rod  0
+Ціни	                                ціна                                                                                         noun:p:v_naz  -10
+це	                                цей                                                                                          pron:dem                                       (pron:dem:n:s:v_naz) 0
+й	                                й                                                                                              part  0
+підкреслюють	               підкреслювати                                                                        verb:pres:p:3:imperf  20
+Гроші	                                гроші                                                                                      noun:p:v_naz  10
+це	                                цей                                                                                          pron:dem                                          (pron:dem:n:s:v_naz) 0
+спосіб	                               спосіб                                                                                       noun:m:v_naz  10
+Про	                                 про                                                                                        prep:rv_zna  0
+символи	                                 символ                                                                                  noun:p:v_zna  20
+і	                                 і                                                                                              conj:coord  0
+таке	                                 такий                                                                                     adj:n:v_naz:&pron:def                         (pron:dem)                                0
+                                                                                                                                                pron:def  0
+інше	                                 інший                                                                                       0
+так	                                так                                                                                           adv  0
+як	                                 як                                                                                            adv 0
+і	                                  і                                                                                               part  0
+в	                                 в                                                                                              prep:rv_mis: 0
+є	                                бути                                                                                         verb:pres:s:1:imperf  0
+хрест	                               хрест                                                                                         noun:m:v_naz                                        (noun:m:s:v_naz)           0
+біблія	                              біблія                                                                                           noun:f:v_naz                                        (noun:f:s:v_naz ) 0
+і	                               і                                                                                                   conj:coord  0
+ікона	                              ікона                                                                                           noun:f:v_naz                                         (noun:f:s:v_naz ) 0
+до речі                               до речі                                                                                                 <insert>  0
+якщо                                   якщо                                                                                                     conj:subord  0
+вірити	                         вірити                                                                                                    verb:inf:imperf  30
+то	                         то                                                                                                            conj:subord  0
+головний	                         головний                                                                                                 adj:m:v_naz:compb  20
+символ	                         символ                                                                                                    noun:m:v_naz  20
+масонів	                         масон                                                                                                       noun:p:v_rod:anim  20
+має	                         мати                                                                                                          verb:pres:s:3:imperf  10
+схожість                	          схожість                                                                                                     noun:f:v_zna                               (noun:f:s:v_zna ) 30
+з	                          з                                                                                                                 prep:rv_oru 0
+християнськими	          християнський                                                                                            adj:p:v_oru  41
+ символами	          символ                                                                                                         noun:p:v_oru  30
+А	                             а                                                                                                                     part  0
+головне	                             головний                                                                                                       adj:n:v_naz:compb  30
+що	                             що                                                                                                                  conj:subord  0
+масони	                            масон                                                                                                              noun:p:v_naz:anim  30
+не	                            не                                                                                                                    part  0
+забороняють	           забороняти                                                                                                     verb:pres:p:3:imperf  -29
+вірити	                           вірити                                                                                                              verb:inf:imperf  30
+у	                           у                                                                                                                       prep:rv_zna  0
+те	                           той                                                                                                                    pron:dem                                       (pron:dem:n:s) 0
+що	                          що                                                                                                                       pron:int:rel:n:v_naz  0
+ти	                          ти                                                                                                                        pron:pers:s:2:v_naz:anim  0
+віриш	                            вірити                                                                                                             verb:pres:s:2:imperf  20
+Серед	                             серед                                                                                                        prep:rv_rod 0
+ них	                              вони                                                                                                         pron:pers:p:3:v_rod:anim 0
+є	                             бути                                                                                                           verb:pres:p:1:imperf  0
+багато	                             багато                                                                                                        numr:p:v_naz 0
+і	                              і                                                                                                                 conj:coord  0
+православних	              православний                                                                                          adj:p:v_zna  30
+і	                                і                                                                                                               conj:coord  0
+ні	                             ні                                                                                                                 part  0
+навіть	                             навіть                                                                                                          part  0
+і	                               і                                                                                                                  conj:coord  0
+сатаністи 	               сатаніст                                                                                                    noun:p:v_naz:anim  -40
+можуть             	              могти                                                                                                          verb:unknown                               ( verb:pres:p:3:imperf) 0
+бути	                              бути                                                                                                            verb:inf:imperf  0
+це	                               цей                                                                                                              pron:dem                                      ( pron:dem:n:s) 0
+окремий	                              окремий                                                                                                       adj:m:v_naz                                  ( adj:m:s:v_naz) 0
+вибір	                              вибір                                                                                                            noun:m:v_naz                                ( noun:m:s:v_naz)  0
+людини	                               людина                                                                                                        noun:f:v_rod:anim                        (noun:f:s:v_rod:anim ) 0
+були	                               бути                                                                                                           verb:past:p:imperf                           0
+в	                               в                                                                                                                 prep:rv_mis 0
+цьому	                               цей                                                                                                             pron:dem                                          ( pron:dem:m:s:v_mis) 0
+легендарному	               легендарний                                                                                             adj:m:v_mis                                      (adj:m:s:v_mis)  0
+закладі	                              заклад                                                                                                        noun:m:v_mis                                   (noun:m:s:v_mis) 0
+якщо	                                  якщо                                                                                                     conj:subord  0
+сказати	                                  сказати                                                                                                verb:inf:perf  0
+по	                                  по                                                                                                         prep:rv_mis 0
+правді	                                  правда                                                                                                 noun:f:v_mis  30
+спочатку	                                  спочатку                                                                                              adv  11
+враження	                  враження                                                                                              noun:p:v_naz  30
+позитивні	                   позитивний                                                                                         adj:p:v_naz:compb  30
+аж	                                   аж                                                                                                         conj:subord  0
+доки	                                   доки                                                                                                      conj:subord  0
+не	                                   не                                                                                                          part  0
+принесли	                                   принести                                                                                              verb:past:p:perf  0
+перші	                                   перший                                                                                                 adj:p:v_zna  19
+страви	                                   страва                                                                                                  noun:p:v_zna  30
+на мою думку                          на мою думку                                                                                        </insert>  0
+це	                                 цей                                                                                                         pron:dem                                    ( pron:dem:n:s:v_naz) 0
+один	                                 один                                                                                                        numr:m:v_naz  0
+ з	                                з                                                                                                               prep:rv_rod 0
+найгірших	                поганий                                                                                                   adj:p:v_rod:super  -39
+закладів	                                заклад                                                                                                      noun:p:v_rod  21
+ЛОКАЛЬ	                                локаль                                                                                                      noun:f:v_naz                             (noun:n:v_rod)  10
+за	                                за                                                                                                         prep:rv_zna 0
+таку	                               такий                                                                                                     pron:def  0
+таку	                               такий                                                                                                     pron:def  0
+і	                               і                                                                                                              conj:coord  0
+з	                              з                                                                                                             prep:rv_oru 0
+таким	                             такий                                                                                                       pron:def  0
+ніяким	                             ніякий                                                                                                      pron:neg                                        (pron:neg:s:m:v_oru) -20
+смаком	                              смак                                                                                                        noun:m:v_oru                                 (noun:m:s:v_oru)  20
+мені	                              я                                                                                                               pron:pers:s:1:v_dav:anim  0
+ще	                             ще                                                                                                            part  0
+ніхто	                             ніхто                                                                                                        pron:neg:v_naz:anim  -20
+не	                             не                                                                                                            part  0
+подавав	                             подавати                                                                                                verb:past:m:imperf  0
+ще	                               ще                                                                                                      part  0
+й	                               й                                                                                                        part  0
+за	                               за                                                                                                                                                             ( prep:v_zna) 0
+фірмову	                              фірмовий                                                                                            adj:f:v_zna                                    (adj:f:s:v_zna) 30
+страву	                              страва                                                                                                noun:f:v_zna                                 (noun:f:s:v_zna)  30
+дня	                              день                                                                                                    noun:m:v_rod                               (noun:m:s:v_rod ) 10
+взяли	                              взяти                                                                                                  verb:past:p:perf  0
+чомусь	                             чомусь                                                                                                 adv 0
+подвійну	                             подвійний                                                                                             adj:f:v_zna  10
+ціну	                             ціна                                                                                                       noun:f:v_zna                                (noun:f:s:v_zna ) 0
+нікому	                                ніхто                                                                                                  pron:neg:v_dav:anim  -20
+не	                                не                                                                                                      part  0
+раджу	                                радити                                                                                              verb:pres:s:1:imperf  20
+приходити	                приходити                                                                                         verb:inf:imperf  0
+в	                                в                                                                                                         prep:rv_zna  0
+цей	                               цей                                                                                                       pron:dem                                         ( pron:dem:m:s:v_zna) 0
+заклад	                               заклад                                                                                                 noun:m:v_zna                                  ( noun:m: s:v_zna) 0
+хіба	                                хіба                                                                                                        conj:subord  0
+що	                                що                                                                                                          conj:subord                            0
+просто	                                просто                                                                                                   adv:compb  0
+подивитись	                подивитися                                                                                           verb:rev:inf:perf  20
+в	                                  в                                                                                                       prep:rv_mis 0
+принципі	                                  принцип                                                                                           noun:m:v_mis  0
+інтер'єр                    	  інтер'єр                                                                                            noun:m:v_naz                                    (noun:m:s:v_naz) 20
+дійсно	                                 дійсно                                                                                                 adv  10
+цікавий	                                 цікавий                                                                                               adj:m:v_naz:compb  30
+але	                                 але                                                                                                     conj:coord  0
+ не	                                 не                                                                                                       part  0
+кухня	                                 кухня                                                                                                  noun:f:v_naz                                      ( noun:f:s:v_naz ) 10
+доброго	                                добрий                                                                                              adj:m:v_rod:compb  30
+дня	                                день                                                                                                  noun:m:v_rod                                     ( noun:m:s:v_rod) 30
+побували	               побувати                                                                                           verb:past:p:perf  9
+в	                               в                                                                                                         prep:rv_mis 0
+там	                               там                                                                                                     adv   0
+як	                                 як                                                                                                      adv  0
+на	                                 на                                                                                                     prep:rv_zna 0
+мене	                                 я                                                                                                       pron:pers:s:1:v_zna:anim  0
+неймовірна	                 неймовірний                                                                                     adj:f:v_naz:compb  29
+атмосфера	                 атмосфера                                                                                        noun:f:v_naz                                               (noun:f:s:v_naz) 0
+цього	                                 цей                                                                                                     pron:dem                                                    ( pron:dem:m:s:v_rod) 0
+закладу	                                 заклад                                                                                                noun:m:v_rod                                            ( noun:m:s:v_rod) 0
+дає	                                давати                                                                                                 verb:pres:s:3:imperf  0
+поглибитись	                поглибитися                                                                                         verb:rev:inf:perf  20
+в	                                в                                                                                                            prep:rv_zna:v-u  0
+середньовіччя	                середньовіччя                                                                                      noun:n:v_zna  30
+не	                               не                                                                                                          part  0
+знаю	                               знати                                                                                                    verb:pres:s:1:imperf  0
+як	                               як                                                                                                           adv 0
+кому	                               хто                                                                                                          pron:int:rel:m:v_dav:anim  0
+щастить	                               щастити                                                                                                 verb:pres:s:3:imperf  40
+але	                               але                                                                                                         conj:coord  0
+обслуговування	               обслуговування                                                                                     noun:n:v_naz  20
+було	                               бути                                                                                                      verb:past:n:imperf  0
+на	                               на                                                                                                          prep:rv_mis  0
+вищому	                               високий                                                                                                adj:n:v_mis:compr  20
+рівні	                                рівень                                                                                                  noun:m:v_mis                                            ( noun:m:s:v_mis)  10
+і	                                 і                                                                                                           conj:coord  0
+взагалі	                                взагалі                                                                                                  adv:v-u  0
+було	                                бути                                                                                                       verb:past:n:imperf  0
+враження	                враження                                                                                               noun:n:v_naz  20
+ що	                                що                                                                                                           pron:int:rel:n:v_naz  0
+ ти	                                ти                                                                                                            pron:pers:s:2:v_naz:anim  0
+ якась	                                 якийсь                                                                                                      pron:ind                                              ( pron:ind:f:s:v_naz) 0
+особа	                                 особа                                                                                                       noun:f:v_naz:anim                             ( noun:f: s:v_naz:anim)  0
+такого	                                такий                                                                                                           pron:def  0
+догляду	                               догляд                                                                                                           noun:m:v_rod  30
+не	                               не                                                                                                                   part  0
+бачила	                               бачити                                                                                                           verb:past:f:imperf  0
+ніколи	                                ніколи                                                                                                           adv 0
+не	                                не                                                                                                                  part  0
+встигнеш	                                встигнути                                                                                                     verb:futr:s:2:perf:v-u  0
+покласти	                                покласти                                                                                                       verb:inf:perf  20
+в	                                в                                                                                                                    prep:rv_zna  0
+бік	                                бік                                                                                                                  noun:m:v_zna 0
+брудну	                                брудний                                                                                                        adj:f:v_zna:compb  -29
+серветку	                                серветка                                                                                                       noun:f:v_zna                                     (noun:f:s:v_zna)  0
+як	                                як                                                                                                                     conj:subord  0
+її	                                вона                                                                                                                pron:pers:f:3:v_zna:anim  0
+тут	                                тут                                                                                                                   adv   0
+же	                                же                                                                                                                     part  0
+прибирають	                прибирати                                                                                                        verb:pres:p:3:imperf  19
+все	                               весь                                                                                                                   adv:v-u  0
+тонко	                              тонко                                                                                                                  adv:compb  20
+лаконічно	              лаконічно                                                                                                             adv:compb  20
+і	                               і                                                                                                                           conj:coord  0
+приємні	                              приємний                                                                                                             adj:p:v_naz:compb  30
+хлопці	                              хлопець                                                                                                                noun:p:v_naz:anim  20
+там	                             там                                                                                                                         adv  0
+працюють	            працювати                                                                                                             verb:pres:p:3:imperf  20
+Дуже	                              дуже                                                                                                                      adv 20
+смачно	                             смачно                                                                                                                  adv:compb  29
+і	                             і                                                                                                                             conj:coord  0
+приємно	                            приємно                                                                                                                 adv:compb  39
+було	                            бути                                                                                                                        verb:past:n:imperf  0
+враження	           враження                                                                                                               noun:p:v_naz  30
+найпозитивніші	           позитивний                                                                                                            adj:p:v_naz:super  40
+ой	                          ой                                                                                                                           excl  0
+як	                         як                                                                                                                             adv 0
+це	                        цей                                                                                                                            pron:dem                                       ( pron:dem:s:n:v_naz) 0
+все	                        весь                                                                                                                           adv:v-u  0
+по-нашому	         по-нашому                                                                                                                adv  30
+по-українськи	         по-українськи                                                                                                           adv  30
+головне	                          головний                                                                                                                adj:n:v_naz:compb  10
+покритикувати	          покритикувати                                                                                                       verb:inf:perf  -41
+полити	                           полити                                                                                                                   verb:inf:perf  -41
+брудом	                           бруд                                                                                                                       noun:m:v_oru  -30
+а	                            а                                                                                                                             conj:coord  0
+от	                            от                                                                                                                            part  0
+самому	                            самий                                                                                                                      pron:def                                     (pron:def :s:m:v_dav) 0
+щось	                            щось                                                                                                                         pron:ind:n:v_zna  0
+придумати	            придумати                                                                                                               verb:inf:perf  20
+зась	                            зась                                                                                                                          excl  -31
+не	                              не                                                                                                                             part  0
+подобається	              подобатися                                                                                                              verb:rev:pres:s:3:imperf 31
+не	                               не                                                                                                                             part  0
+ходіть	                               ходити                                                                                                                      verb:impr:p:2:imperf  19
+туди	                               туди                                                                                                                         adv  0
+але	                               але                                                                                                                         conj:coord  0
+факт	                               факт                                                                                                                        noun:m:v_naz                             (noun:m:s:v_naz) 0
+залишається	               залишатися                                                                                                             verb:rev:pres:s:3:imperf 0
+фактом	                               факт                                                                                                                         noun:m:v_oru                            (noun:m:s:v_naz) 0
+усі	                                увесь                                                                                                                      pron:dem                                    (pron:dem:p:v_naz) 0
+заклади	                               заклад                                                                                                                 noun:p:v_naz  17
+Фесту	                               фест                                                                                                                    noun:m:v_rod:bad  31
+користуються	               користуватися                                                                                                    verb:rev:pres:p:3:imperf 19
+величезною	               величезний                                                                                                         adj:f:v_oru  31
+популярністю	               популярність                                                                                                       noun:f:v_oru  31
+вечорами	               вечір                                                                                                                    noun:p:v_oru                                 (adv:bad) 31
+і	                                і                                                                                                                           conj:coord  0
+на	                               на                                                                                                                        prep:rv_zna  0
+вихідні	                              вихідний                                                                                                               noun:p:v_zna  28
+там	                              там                                                                                                                       adv 0
+нема	                               нема                                                                                                                   predic  -30
+де	                               де                                                                                                                       adv   0
+яблуку	                              яблуко                                                                                                                noun:n:v_dav  30
+впасти	                              впасти                                                                                                                verb:inf:perf:v-u  -20
+туристам	                              турист                                                                                                              noun:p:v_dav:anim  20
+і	                               і                                                                                                                        conj:coord  0
+подобається	              подобатися                                                                                                       verb:rev:pres:s:3:imperf 20
+тому	                              тому                                                                                                                    conj:subord  0
+ ваші	                              ваш                                                                                                                      pron:pos                               (pron:pos:v_naz)                    0
+ слова	                              слово                                                                                                                   noun:p:v_naz  20
+ то	                                                                                         0
