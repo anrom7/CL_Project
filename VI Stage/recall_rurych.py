@@ -3,13 +3,13 @@ import codecs, re
 with codecs.open("C:/CL_Project/VI/Rurych_seedwords.txt", 'r', encoding='utf-8') as seed_file: 
 	 seed_list = seed_file.readlines()
 	 seed_list = [x.replace("\r\n", "") for x in seed_list]
-	 print("Seed_words count {count}".format(count=len(seed_list))) #вивід загальної кількості слів Seed_words 
+	 print("Seed_words count {count}".format(count=len(seed_list))) #ГўГЁГўВіГ¤ Г§Г ГЈГ Г«ГјГ­Г®Вї ГЄВіГ«ГјГЄГ®Г±ГІВі Г±Г«ВіГў Seed_words 
 
 
 with codecs.open("C:/CL_Project/VI/Rurych_dic.txt", 'r', encoding='utf-8') as dic_file:
 	dic_list = dic_file.readlines()
 	dic_list = [x.replace("\r\n", "") for x in dic_list]
-	print("Dic_words count {count}".format(count=len(dic_list)))#вивід загальної кількості слів dic_words
+	print("Dic_words count {count}".format(count=len(dic_list)))#ГўГЁГўВіГ¤ Г§Г ГЈГ Г«ГјГ­Г®Вї ГЄВіГ«ГјГЄГ®Г±ГІВі Г±Г«ВіГў dic_words
 tp=[]
 tp1=[]
 tp2=[]
@@ -32,17 +32,17 @@ with codecs.open("C:/CL_Project/VI/Rurych_seedwords.txt", 'r', encoding='utf-8')
     print("tp2 {count}".format(count=len(tp2)))
     print("tp3 {count}".format(count=len(tp3)))
 
-tp=len(tp1)+len(tp2)+len(tp3) #кількість TP
+tp=len(tp1)+len(tp2)+len(tp3) #ГЄВіГ«ГјГЄВіГ±ГІГј TP
 seed=''.join(seed_list)
 seed_len=len(seed)
 
-print("TD = {count}".format(count=tp))
+print("TP = {count}".format(count=tp))
 
 #Recall,  which  indicates  how  many  of  the  relevant  items  that  we  identified,  is TP/(TP+FN),
 #where TP+FN=count(len(seed_list))
 print ("Recall =  {count}".format(count=tp/seed_len))
 
-#підрахунок слів у згенерованому словнику, які неправильно промарковані
+#ГЇВіГ¤Г°Г ГµГіГ­Г®ГЄ Г±Г«ВіГў Гі Г§ГЈГҐГ­ГҐГ°Г®ГўГ Г­Г®Г¬Гі Г±Г«Г®ГўГ­ГЁГЄГі, ГїГЄВі Г­ГҐГЇГ°Г ГўГЁГ«ГјГ­Г® ГЇГ°Г®Г¬Г Г°ГЄГ®ГўГ Г­Ві
 incorrect_dic=[]
 with codecs.open("C:/CL_Project/VI/Rurych_dic.txt", 'r', encoding='utf-8') as dic_file:
     for j in dic_file.readlines():
