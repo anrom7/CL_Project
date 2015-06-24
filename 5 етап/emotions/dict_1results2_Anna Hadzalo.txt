@@ -1,0 +1,508 @@
+Anna Hadzalo 20-30 female
+В них дуже смачні шоколадні цукерки! joy 90 sadness 0 anger 0 fear 0 amazement 29 disgust 0
+В них joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже смачні joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шоколадні цукерки joy 89 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+смачні шоколадні цукерки joy 89 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+дуже смачні шоколадні цукерки joy 100 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+В них дуже смачні joy 100 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+Гарно про себе пишуть  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Гарно про себе  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+про себе joy 6 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+про себе пишуть  joy 6 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Заклад в принципі непоганий, але є декілька великих "АЛЕ" joy 6 sadness 60 anger 0 fear 0 amazement 0 disgust 0
+Заклад в принципі  joy 6 sadness 29 anger 0 fear 0 amazement 0 disgust 0
+Заклад в принципі непоганий,  joy 6 sadness 29 anger 0 fear 0 amazement 0 disgust 0
+Заклад в принципі непоганий, але  joy 6 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Заклад в принципі непоганий, але є декілька великих "АЛЕ" joy 6 sadness 60 anger 0 fear 0 amazement 0 disgust 0
+в принципі непоганий joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але є декілька великих "АЛЕ" joy 0 sadness 61 anger 0 fear 0 amazement 0 disgust 0
+Коли я прийшов не в костюмі, а просто в звичайному одязі зі своїми друзями з закордону, то змушений був чекати понад 15 хв .  joy 0 sadness 60 anger 16 fear 0 amazement 0 disgust 0
+Коли я прийшов  joy 0 sadness 16 anger 16 fear 0 amazement 0 disgust 0
+Коли я прийшов не в костюмі joy 0 sadness 16 anger 16 fear 0 amazement 0 disgust 0
+Коли я прийшов не в костюмі, а joy 0 sadness 16 anger 16 fear 0 amazement 0 disgust 0
+Коли я прийшов не в костюмі, а просто в звичайному одязі joy 0 sadness 16 anger 16 fear 0 amazement 0 disgust 0
+Коли я прийшов не в костюмі, а просто в звичайному одязі зі своїми друзями joy 0 sadness 16 anger 16 fear 0 amazement 0 disgust 0
+Коли я прийшов не в костюмі, а просто в звичайному одязі зі своїми друзями з закордону,  joy 0 sadness 16 anger 16 fear 0 amazement 0 disgust 0
+Коли я прийшов не в костюмі, а просто в звичайному одязі зі своїми друзями з закордону, то змушений був  joy 0 sadness 16 anger 16 fear 0 amazement 0 disgust 0
+Коли я прийшов не в костюмі, а просто в звичайному одязі зі своїми друзями з закордону, то змушений був чекати joy 0 sadness 16 anger 16 fear 0 amazement 0 disgust 0
+я прийшов  joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+я прийшов не в костюмі joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+я прийшов не в костюмі, а  joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+я прийшов не в костюмі, а просто в звичайному одязі  joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+я прийшов не в костюмі, а просто в звичайному одязі зі своїми друзями  joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+я прийшов не в костюмі, а просто в звичайному одязі зі своїми друзями з закордону,  joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+я прийшов не в костюмі, а просто в звичайному одязі зі своїми друзями з закордону, то змушений був  joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+я прийшов не в костюмі, а просто в звичайному одязі зі своїми друзями з закордону, то змушений був чекати  joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+я прийшов не в костюмі, а просто в звичайному одязі зі своїми друзями з закордону, то змушений був чекати понад 15 хв .  joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+не в костюмі joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+не в костюмі, а joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+не в костюмі, а просто в звичайному одязі joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+не в костюмі, а просто в звичайному одязі зі своїми друзями  joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+не в костюмі, а просто в звичайному одязі зі своїми друзями з закордону joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+не в костюмі, а просто в звичайному одязі зі своїми друзями з закордону, то змушений був  joy 0 sadness 45 anger 16 fear 0 amazement 0 disgust 0
+не в костюмі, а просто в звичайному одязі зі своїми друзями з закордону, то змушений був чекати joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+не в костюмі, а просто в звичайному одязі зі своїми друзями з закордону, то змушений був чекати понад 15 хв . joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+а просто в звичайному одязі joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+а просто в звичайному одязі зі своїми друзями joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+а просто в звичайному одязі зі своїми друзями з закордону, joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+а просто в звичайному одязі зі своїми друзями з закордону, то змушений був joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+а просто в звичайному одязі зі своїми друзями з закордону, то змушений був чекати joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+а просто в звичайному одязі зі своїми друзями з закордону, то змушений був чекати понад 15 хв .  joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+в звичайному одязі зі своїми друзями  joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+в звичайному одязі зі своїми друзями з закордону, joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+в звичайному одязі зі своїми друзями з закордону, то змушений був joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+в звичайному одязі зі своїми друзями з закордону, то змушений був чекати понад 15 хв . joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+зі своїми друзями  joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+зі своїми друзями з закордону, joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+зі своїми друзями з закордону, то змушений був joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+зі своїми друзями з закордону, то змушений був чекати  joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+зі своїми друзями з закордону, то змушений був чекати понад 15 хв .  joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+то змушений був joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+то змушений був чекати joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+то змушений був чекати понад 15 хв . joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+чекати  joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+чекати понад 15 хв . joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+понад joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+понад 15 хв. joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+15 хв. joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+Щоб в мене прийняли замовлення і приблизно ж стільки чикали на нього(і це не були вихідні).  joy 0 sadness 45 anger 29 fear 0 amazement 0 disgust 0
+Щоб в мене прийняли замовлення joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+Щоб в мене прийняли замовлення і приблизно ж стільки чикали на нього joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+в мене прийняли замовлення joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+в мене прийняли замовлення і приблизно ж стільки чикали на нього joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+в мене прийняли замовлення і приблизно ж стільки чикали на нього (і це не були вихідні).  joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+і приблизно ж стільки чикали на нього joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+і приблизно ж стільки чикали на нього(і це не були вихідні).  joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+Таке було не тільки зі мною, але ще з декількома моїми знайомими. joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+Таке було не тільки  joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+Таке було не тільки зі мною joy 0 sadness 45 anger 45 fear 0 amazement 0 disgust 0
+Одним словом до чого це я ведо - заклад "ЗАЖРАВСЯ" і прерибирає клієнтами - якщо ви не вдягнуті представницько то ви на надто поважна особа щоб вами дорожити joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+Одним словом до чого це я ведо joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+Одним словом до чого це я ведо - заклад  joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+Одним словом до чого це я ведо - заклад "ЗАЖРАВСЯ" joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+Одним словом до чого це я ведо - заклад "ЗАЖРАВСЯ" і прерибирає клієнтами  joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+Одним словом до чого це я ведо - заклад "ЗАЖРАВСЯ" і прерибирає клієнтами - якщо ви не вдягнуті представницько joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+Одним словом до чого це я ведо - заклад "ЗАЖРАВСЯ" і прерибирає клієнтами - якщо ви не вдягнуті представницько то ви на надто поважна особа  joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+заклад "ЗАЖРАВСЯ" joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+заклад "ЗАЖРАВСЯ" і прерибирає клієнтами  joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+заклад "ЗАЖРАВСЯ" і прерибирає клієнтами - якщо ви не вдягнуті представницько joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+заклад "ЗАЖРАВСЯ" і прерибирає клієнтами - якщо ви не вдягнуті представницько то ви на надто поважна особа  joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+заклад "ЗАЖРАВСЯ" і прерибирає клієнтами - якщо ви не вдягнуті представницько то ви на надто поважна особа щоб вами дорожити joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+прерибирає клієнтами  joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+прерибирає клієнтами - якщо ви не вдягнуті представницько то joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+прерибирає клієнтами - якщо ви не вдягнуті представницько то ви на надто поважна особа  joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+прерибирає клієнтами - якщо ви не вдягнуті представницько то ви на надто поважна особа щоб вами дорожити joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+якщо ви не вдягнуті  joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+якщо ви не вдягнуті представницько joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+якщо ви не вдягнуті представницько то ви на надто поважна особа joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+якщо ви не вдягнуті представницько то ви на надто поважна особа щоб вами дорожити joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+ви на надто поважна особа joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+ви на надто поважна особа щоб вами дорожити joy 0 sadness 75 anger 100 fear 0 amazement 0 disgust 0
+На рахунок посту я б посперечався. joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+На рахунок посту я joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+я б посперечався  joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+Цукерня ненадто гірша - якщо некраща!  joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+Цукерня ненадто  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Цукерня ненадто гірша joy 0 sadness 29 anger 0 fear 0 amazement 0 disgust 0
+ненадто гірша joy 0 sadness 29 anger 0 fear 0 amazement 0 disgust 0
+ненадто гірша - якщо некраща! joy 0 sadness 46 anger 29 fear 0 amazement 0 disgust 0
+Так коментарі для того і створенні, щоб обмінюватись враженнями;) joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Так коментарі joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Так коментарі для того joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Так коментарі для того і створенні,  joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для того і створенні joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для того і створенні, щоб обмінюватись враженнями;) joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+створенні joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+створенні, щоб обмінюватись враженнями;) joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щоб обмінюватись враженнями;) joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обмінюватись враженнями;) joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В цукерні не смакувало пару разів та й вибір був закуций. joy 1 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+В цукерні  joy 1 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+В цукерні не смакувало joy 1 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+В цукерні не смакувало пару разів  joy 1 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+В цукерні не смакувало пару разів та й вибір  joy 1 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+не смакувало  joy 1 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+не смакувало пару разів joy 1 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+не смакувало пару разів та й вибір був joy 1 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+не смакувало пару разів та й вибір був закуций. joy 1 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+вибір був закуций. joy 1 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Вероніка підкупає своїм експериментаторством - то шато з лососем, то власні пряники, то цукорки. joy 76 sadness 0 anger 0 fear 0 amazement 88 disgust 0
+Вероніка підкупає  joy 36 sadness 0 anger 0 fear 0 amazement 88 disgust 0
+Вероніка підкупає своїм експериментаторством  joy 36 sadness 0 anger 0 fear 0 amazement 88 disgust 0
+Вероніка підкупає своїм експериментаторством - то шато з лососем joy 36 sadness 0 anger 0 fear 0 amazement 88 disgust 0
+Вероніка підкупає своїм експериментаторством - то шато з лососем, то власні пряники joy 36 sadness 0 anger 0 fear 0 amazement 88 disgust 0
+підкупає своїм експериментаторством joy 36 sadness 0 anger 0 fear 0 amazement 88 disgust 0
+підкупає своїм експериментаторством - то шато з лососем joy 36 sadness 0 anger 0 fear 0 amazement 88 disgust 0
+підкупає своїм експериментаторством - то шато з лососем, то шато з лососем joy 36 sadness 0 anger 0 fear 0 amazement 88 disgust 0
+підкупає своїм експериментаторством - то шато з лососем, то власні пряники, то цукорки. joy 36 sadness 0 anger 0 fear 0 amazement 88 disgust 0
+шато з лососем joy 36 sadness 0 anger 0 fear 0 amazement 48 disgust 0
+власні пряники joy 60 sadness 0 anger 0 fear 0 amazement 48 disgust 0
+цукорки joy 60 sadness 0 anger 0 fear 0 amazement 48 disgust 0
+Але і в них буває - кошик з малиною одного разу був зі псутими ягодами.. joy 3 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+в них буває joy 3 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+в них буває - кошик joy 3 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+в них буває - кошик з малиною  joy 3 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+в них буває - кошик з малиною одного разу був  joy 3 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+в них буває - кошик з малиною одного разу був зі псутими ягодами.. joy 3 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+кошик з малиною joy 30 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+кошик з малиною одного разу був  joy 30 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+кошик з малиною одного разу був зі псутими  joy 30 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+кошик з малиною одного разу був зі псутими ягодами.. joy 2 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+одного разу був  joy 2 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+одного разу був зі псутими ягодами.. joy 2 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зі псутими ягодами.. joy 2 sadness 74 anger 0 fear 0 amazement 0 disgust 0
+Дуже дорого, не сподобалося, що ціни вказані за 100 грамм, а ти дивишся на великий шматок рядом і думаєш що це за шматок ціна.  joy 2 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+Дуже дорого joy 2 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+Дуже дорого, не сподобалося joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+Дуже дорого, не сподобалося, що ціни вказані за 100 грамм, joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+Дуже дорого, не сподобалося, що ціни вказані за 100 грамм, а ти дивишся на великий шматок  joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+Дуже дорого, не сподобалося, що ціни вказані за 100 грамм, а ти дивишся на великий шматок рядом joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+Дуже дорого, не сподобалося, що ціни вказані за 100 грамм, а ти дивишся на великий шматок рядом і думаєш що це за шматок joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+не сподобалося joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+не сподобалося, що ціни вказані за 100 грамм, joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+не сподобалося, що ціни вказані за 100 грамм, а ти дивишся на великий шматок  joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+не сподобалося, що ціни вказані за 100 грамм, а ти дивишся на великий шматок рядом joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+не сподобалося, що ціни вказані за 100 грамм, а ти дивишся на великий шматок рядом і думаєш що це за шматок joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+не сподобалося, що ціни вказані за 100 грамм, а ти дивишся на великий шматок рядом і думаєш що це за шматок ціна.  joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+ціни вказані joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+ціни вказані за 100 грамм joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+ціни вказані за 100 грамм, а ти дивишся на великий шматок joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+ціни вказані за 100 грамм, а ти дивишся на великий шматок рядом joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+ціни вказані за 100 грамм, а ти дивишся на великий шматок рядом і думаєш що це за шматок joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+ціни вказані за 100 грамм, а ти дивишся на великий шматок рядом і думаєш що це за шматок ціна.  joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+ти дивишся на великий шматок joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+ти дивишся на великий шматок рядом joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+ти дивишся на великий шматок рядом і думаєш що це за шматок joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+ти дивишся на великий шматок рядом і думаєш що це за шматок ціна.  joy 0 sadness 77 anger 29 fear 0 amazement 0 disgust 0
+Обслуговування дуже непривітне,офіціанткам треба вчитися посміхатися і спілкуватися з людьми. joy 0 sadness 77 anger 44 fear 0 amazement 0 disgust 0
+Обслуговування дуже непривітне joy 0 sadness 77 anger 44 fear 0 amazement 0 disgust 0
+Обслуговування дуже непривітне,офіціанткам треба вчитися joy 0 sadness 77 anger 44 fear 0 amazement 0 disgust 0
+Обслуговування дуже непривітне,офіціанткам треба вчитися посміхатися joy 0 sadness 77 anger 44 fear 0 amazement 0 disgust 0
+Обслуговування дуже непривітне,офіціанткам треба вчитися посміхатися і спілкуватися з людьми. joy 0 sadness 77 anger 44 fear 0 amazement 0 disgust 0
+офіціанткам треба вчитися joy 0 sadness 77 anger 44 fear 0 amazement 0 disgust 0
+офіціанткам треба вчитися посміхатися joy 0 sadness 77 anger 44 fear 0 amazement 0 disgust 0
+офіціанткам треба вчитися посміхатися і спілкуватися з людьми. joy 0 sadness 77 anger 44 fear 0 amazement 0 disgust 0
+треба вчитися joy 0 sadness 77 anger 44 fear 0 amazement 0 disgust 0
+треба вчитися посміхатися joy 0 sadness 77 anger 44 fear 0 amazement 0 disgust 0
+треба вчитися посміхатися і спілкуватися з людьми. joy 0 sadness 77 anger 44 fear 0 amazement 0 disgust 0
+спілкуватися з людьми joy 0 sadness 77 anger 44 fear 0 amazement 0 disgust 0
+У цьому ресторані просто приголомшлива обстановка і дуже смачні страв. joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+У цьому ресторані просто приголомшлива joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+У цьому ресторані просто приголомшлива обстановка joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+приголомшлива обстановка joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+приголомшлива обстановка і дуже смачні страв. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже смачні страв. joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+І це дійсно,тут все настільки смачне і всього так багато, що є привід приїжджати до Львова ще раз. joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+І це дійсно joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+І це дійсно,тут все настільки joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+І це дійсно,тут все настільки смачне  joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+І це дійсно,тут все настільки смачне і всього так багато joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+І це дійсно,тут все настільки смачне і всього так багато, що є привід  joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+І це дійсно,тут все настільки смачне і всього так багато, що є привід приїжджати до Львова joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+все настільки смачне  joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+все настільки смачне і всього так багато, що є привід joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все настільки смачне і всього так багато, що є привід приїжджати до Львова joy 75 sadness 0 anger 0 fear 0 amazement 25 disgust 0
+все настільки смачне і всього так багато, що є привід приїжджати до Львова ще раз. joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+всього так багато joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+всього так багато, що є привід joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+всього так багато, що є привід приїжджати до Львова joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+всього так багато, що є привід приїжджати до Львова ще раз. joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+є привід joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+є привід приїжджати до Львова joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+є привід приїжджати до Львова ще раз. joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+Адже цей ресторан найкращий серед найкращий закладів Львова. joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+ресторан joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+ресторан найкращий  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+ресторан найкращий серед joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+ресторан найкращий серед найкращий  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+ресторан найкращий серед найкращий закладів joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+ресторан найкращий серед найкращий закладів Львова.  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+найкращий joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+найкращий серед joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+найкращий серед найкращий закладів  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+найкращий серед найкращий закладів Львова.  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Приємне обслуговування. joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Приємне joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+обслуговування joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Дотепер згадую з приємністю. joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Дотепер згадую joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+згадую з приємністю. joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+з приємністю. joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Дякуємо!!! joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Замовляли торт на наше весілля - диво! joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Замовляли торт joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Замовляли торт на наше весілля  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+торт на наше весілля joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+торт на наше весілля - диво! joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+наше весілля - диво! joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+диво! joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Такого ще не бачили, хіба що в кіно.  joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+Такого ще не бачили joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Такого ще не бачили, хіба що joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+не бачили joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+не бачили, хіба що   joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+не бачили, хіба що в кіно.  joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+хіба що  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+хіба що в кіно. joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Кондитери - золоті ручки!!!  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Кондитери joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Кондитери - золоті  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+золоті joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+золоті ручки!!!  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Дякуємо!!! joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Чи не єдине місце, де відчуваєш, що і в нас можна по-людськи відпочити. joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Чи не єдине місце joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Чи не єдине місце, де відчуваєш,  joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Чи не єдине місце, де відчуваєш, що і в нас можна joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Чи не єдине місце, де відчуваєш, що і в нас можна по-людськи joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+єдине місце joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+єдине місце, де відчуваєш,  joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+єдине місце, де відчуваєш, що і в нас можна joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+єдине місце, де відчуваєш, що і в нас можна по-людськи joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+єдине місце, де відчуваєш, що і в нас можна по-людськи відпочити. joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+відчуваєш, що і в нас можна joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+відчуваєш, що і в нас можна по-людськи joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+відчуваєш, що і в нас можна по-людськи відпочити. joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+в нас можна joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+в нас можна по-людськи  joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+в нас можна по-людськи відпочити. joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+можна joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+можна по-людськи  joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+можна по-людськи відпочити. joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+по-людськи  joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+по-людськи відпочити. joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+відпочити. joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Так!І  joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+НЕ КУРЯТЬ! joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+УРА! joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+І персонал ввічливий - ніхто не буде криво дивитися, навіть якщо ви займете столик тільки задля того, щоб попити чаю! joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+І персонал ввічливий  joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+І персонал ввічливий - ніхто не буде  joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+І персонал ввічливий - ніхто не буде криво дивитися joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+І персонал ввічливий - ніхто не буде криво дивитися, навіть якщо ви joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+І персонал ввічливий - ніхто не буде криво дивитися, навіть якщо ви займете столик тільки joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+ніхто не буде joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+ніхто не буде криво дивитися joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+ніхто не буде криво дивитися, навіть якщо ви joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+ніхто не буде криво дивитися, навіть якщо ви займете столик тільки joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+ніхто не буде криво дивитися, навіть якщо ви займете столик тільки задля того, щоб попити чаю! joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+криво дивитися joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+криво дивитися, навіть якщо ви joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+криво дивитися, навіть якщо ви займете столик тільки  joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+криво дивитися, навіть якщо ви займете столик тільки задля того, щоб попити чаю! joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+якщо ви  joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+якщо ви займете столик тільки  joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+якщо ви займете столик тільки задля того, щоб попити чаю! joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+займете столик  joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+займете столик тільки joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+займете столик тільки задля того, joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+займете столик тільки задля того, щоб попити чаю! joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+задля того, щоб попити чаю! joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+щоб попити чаю! joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+попити чаю! joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+І дійсно, іноземців не встидно туди запрошувати. joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+І дійсно, joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+І дійсно, іноземців  joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+іноземців не встидно joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+іноземців не встидно туди запрошувати. joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+не встидно  joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+не встидно туди запрошувати. joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+туди запрошувати. joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+запрошувати. joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+Обслуговування жах! joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+Обслуговування  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+жах! joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+Офіціанти, таке враження, що працюють в дешевому фаст-фуді. joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+Офіціанти joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+Офіціанти, таке враження joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+Офіціанти, таке враження, що працюють joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+Офіціанти, таке враження, що працюють в дешевому фаст-фуді. joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+таке враження, joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+таке враження, що працюють joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+таке враження, що працюють в дешевому фаст-фуді. joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+враження joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+враження, що працюють joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+враження, що працюють в дешевому фаст-фуді. joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+працюють joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+працюють в дешевому фаст-фуді. joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+в дешевому фаст-фуді. joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+В стравах не розбираються, що не замовиш, то половини з того немає, і про це тебе повідомлять через пів години!!! joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+В стравах  joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+В стравах не розбираються joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+В стравах не розбираються, що не замовиш joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+В стравах не розбираються, що не замовиш, то половини з того немає joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+В стравах не розбираються, що не замовиш, то половини з того немає, і про це тебе повідомлять joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+не розбираються joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+не розбираються, що не замовиш joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+не розбираються, що не замовиш, то половини з того немає joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+не розбираються, що не замовиш, то половини з того немає, і про це тебе повідомлять joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+не розбираються, що не замовиш, то половини з того немає, і про це тебе повідомлять через пів години!!! joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+що не замовиш joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+що не замовиш, то половини з того немає joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+що не замовиш, то половини з того немає, і про це тебе повідомлять joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+що не замовиш, то половини з того немає, і про це тебе повідомлять через пів години!!! joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+половини з того немає joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+половини з того немає, і про це тебе повідомлять joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+половини з того немає, і про це тебе повідомлять через пів години!!! joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+про це тебе повідомлять  joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+про це тебе повідомлять через пів години!!! joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+повідомлять  joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+повідомлять через пів години!!! joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+через пів години!!! joy 0 sadness 75 anger 75 fear 0 amazement 0 disgust 0
+Був декілька разів подорожуючи... joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Був декілька разів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+декілька разів  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+декілька разів подорожуючи... joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подорожуючи... joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+практично всі заклади Львова знаю ... joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+практично всі joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+практично всі заклади joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+практично всі заклади Львова ... joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всі заклади joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всі заклади Львова joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всі заклади Львова знаю ... joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклади joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклади Львова  joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклади Львова знаю ... joy 29 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Крута кондитерська Вероніка!!!  joy 90 sadness 0 anger 0 fear 0 amazement 61 disgust 0
+Крута joy 90 sadness 0 anger 0 fear 0 amazement 61 disgust 0
+Крута кондитерська joy 90 sadness 0 anger 0 fear 0 amazement 61 disgust 0
+кондитерська  joy 90 sadness 0 anger 0 fear 0 amazement 61 disgust 0
+кондитерська Вероніка!!! joy 90 sadness 0 anger 0 fear 0 amazement 61 disgust 0
+Вероніка!!!   joy 90 sadness 0 anger 0 fear 0 amazement 61 disgust 0
+сама - сама...  joy 90 sadness 0 anger 0 fear 0 amazement 61 disgust 0
+сама joy 90 sadness 0 anger 0 fear 0 amazement 61 disgust 0
+Навіть такі легендарні заклади-кондитерки Відня як Хавелка та Моцарт стоять на рівні Вероніки.  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Навіть такі легендарні  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Навіть такі легендарні заклади joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Навіть такі легендарні заклади-кондитерки joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Навіть такі легендарні заклади-кондитерки Відня joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Навіть такі легендарні заклади-кондитерки Відня як Хавелка  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Навіть такі легендарні заклади-кондитерки Відня як Хавелка та Моцарт joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Навіть такі легендарні заклади-кондитерки Відня як Хавелка та Моцарт стоять joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Навіть такі легендарні заклади-кондитерки Відня як Хавелка та Моцарт стоять на рівні  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+легендарні заклади joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+легендарні заклади-кондитерки joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+легендарні заклади-кондитерки Відня joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+легендарні заклади-кондитерки Відня як Хавелка joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+легендарні заклади-кондитерки Відня як Хавелка та Моцарт joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+легендарні заклади-кондитерки Відня як Хавелка та Моцарт стоять joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+легендарні заклади-кондитерки Відня як Хавелка та Моцарт стоять на рівні  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+легендарні заклади-кондитерки Відня як Хавелка та Моцарт стоять на рівні Вероніки.  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+заклади joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+заклади-кондитерки  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+заклади-кондитерки Відня joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+заклади-кондитерки Відня як Хавелка joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+заклади-кондитерки Відня як Хавелка та Моцарт joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+заклади-кондитерки Відня як Хавелка та Моцарт стоять joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+заклади-кондитерки Відня як Хавелка та Моцарт стоять на рівні joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+заклади-кондитерки Відня як Хавелка та Моцарт стоять на рівні Вероніки.  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+стоять на рівні  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+стоять на рівні Вероніки.  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+на рівні  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+на рівні Вероніки.  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Інші заклади Львова на мій погляд просто - любителі. joy 31 sadness 11 anger 0 fear 0 amazement 0 disgust 0
+Інші заклади joy 31 sadness 11 anger 0 fear 0 amazement 0 disgust 0
+Інші заклади Львова joy 31 sadness 11 anger 0 fear 0 amazement 0 disgust 0
+Інші заклади Львова на мій погляд joy 31 sadness 11 anger 0 fear 0 amazement 0 disgust 0
+на мій погляд  joy 31 sadness 11 anger 0 fear 0 amazement 0 disgust 0
+на мій погляд просто - любителі. joy 31 sadness 11 anger 0 fear 0 amazement 0 disgust 0
+просто - любителі. joy 31 sadness 11 anger 0 fear 0 amazement 0 disgust 0
+просто joy 31 sadness 11 anger 0 fear 0 amazement 0 disgust 0
+любителі joy 31 sadness 11 anger 0 fear 0 amazement 0 disgust 0
+Вуроніка forever. joy 31 sadness 11 anger 0 fear 0 amazement 0 disgust 0
+Вуроніка joy 88 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+forever joy 100 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+Обожнюю Вероніку.  joy 100 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+Обожнюю joy 100 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+Вероніку joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ще ніколи не відчувала чогось недоброго.  joy 100 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+Ще ніколи joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ще ніколи не відчувала joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніколи  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+ніколи не відчувала joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+ніколи не відчувала чогось недоброго joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не відчувала joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+не відчувала чогось недоброго joy 90 sadness 0 anger 0 fear 0 amazement 20 disgust 0
+чогось недоброго joy 90 sadness 0 anger 0 fear 0 amazement 20 disgust 0
+Там затишно, солодко-смачненько. joy 90 sadness 0 anger 0 fear 0 amazement 20 disgust 0
+затишно joy 90 sadness 0 anger 0 fear 0 amazement 20 disgust 0
+солодко-смачненько. joy 90 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+Їхні вироби не можна описати словами.  joy 100 sadness 0 anger 0 fear 0 amazement 40 disgust 0
+вироби не можна описати словами.  joy 100 sadness 0 anger 0 fear 0 amazement 40 disgust 0
+вироби не можна описати joy 100 sadness 0 anger 0 fear 0 amazement 40 disgust 0
+вироби joy 100 sadness 0 anger 0 fear 0 amazement 40 disgust 0
+не можна описати joy 100 sadness 0 anger 0 fear 0 amazement 40 disgust 0
+не можна описати словами.  joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+описати joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+описати словами.  joy 100 sadness 0 anger 0 fear 0 amazement 40 disgust 0
+Я дурію, коли їм щось з Вероніки!!! joy 100 sadness 0 anger 0 fear 0 amazement 40 disgust 0
+Я дурію joy 100 sadness 0 anger 0 fear 0 amazement 40 disgust 0
+Я дурію, коли їм  joy 100 sadness 0 anger 0 fear 0 amazement 40 disgust 0
+коли їм  joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+коли їм щось з Вероніки!!! joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+щось joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+щось з Вероніки!!! joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+Були на вихідні у Львові і завітали у місцеву кондитерську на пр. Шевченка. joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+Були на вихідні  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були на вихідні у Львові joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були на вихідні у Львові і завітали joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були на вихідні у Львові і завітали у місцеву кондитерську joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були на вихідні у Львові і завітали у місцеву кондитерську на пр. Шевченка. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на вихідні  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на вихідні у Львові joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на вихідні у Львові і завітали joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на вихідні у Львові і завітали у місцеву кондитерську joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на вихідні у Львові і завітали у місцеву кондитерську на пр. Шевченка. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у Львові joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+завітали у місцеву кондитерську joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+завітали у місцеву кондитерську на пр. Шевченка. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у місцеву кондитерську  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у місцеву кондитерську на пр. Шевченка. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на пр. Шевченка. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Затишно, розкішно, казкова випічка-вперше таку смакував, атмосфера аристократичної Англії.  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Затишно joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Затишно, розкішно joy 30 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+Затишно, розкішно, казкова випічка joy 30 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+Затишно, розкішно, казкова випічка-вперше таку смакував joy 30 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+Затишно, розкішно, казкова випічка-вперше таку смакував, атмосфера  joy 30 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+розкішно joy 30 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+розкішно, казкова випічка joy 30 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+розкішно, казкова випічка-вперше таку смакував joy 30 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+розкішно, казкова випічка-вперше таку смакував, атмосфера  joy 30 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+розкішно, казкова випічка-вперше таку смакував, атмосфера аристократичної Англії joy 30 sadness 0 anger 0 fear 0 amazement 70 disgust 0
+казкова випічка joy 30 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+казкова випічка-вперше таку смакував joy 30 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+казкова випічка-вперше таку смакував, атмосфера аристократичної Англії joy 30 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+вперше joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+вперше таку смакував joy 77 sadness 0 anger 0 fear 0 amazement 20 disgust 0
+вперше таку смакував, атмосфера  joy 77 sadness 0 anger 0 fear 0 amazement 20 disgust 0
+вперше таку смакував, атмосфера аристократичної Англії joy 77 sadness 0 anger 0 fear 0 amazement 20 disgust 0
+Зацікавив портрет на вході, мені пояснили що всі твори є ексклюзивної роботи і тут до всього таке відношення.  joy 77 sadness 0 anger 0 fear 0 amazement 20 disgust 0
+Зацікавив портрет joy 77 sadness 0 anger 0 fear 0 amazement 25 disgust 0
+Зацікавив портрет на вході joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+Зацікавив портрет на вході, мені пояснили  joy 77 sadness 0 anger 0 fear 0 amazement 25 disgust 0
+Зацікавив портрет на вході, мені пояснили що всі твори joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+Зацікавив портрет на вході, мені пояснили що всі твори є ексклюзивної роботи joy 77 sadness 0 anger 0 fear 0 amazement 25 disgust 0
+Зацікавив портрет на вході, мені пояснили що всі твори є ексклюзивної роботи і тут до всього таке відношення.  joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+портрет на вході joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+портрет на вході, мені пояснили joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+портрет на вході, мені пояснили що всі твори joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+портрет на вході, мені пояснили що всі твори є ексклюзивної роботи joy 77 sadness 0 anger 0 fear 0 amazement 25 disgust 0
+портрет на вході, мені пояснили що всі твори є ексклюзивної роботи і тут до всього таке відношення. joy 77 sadness 0 anger 0 fear 0 amazement 25 disgust 0
+на вході joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+на вході, мені пояснили joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+на вході, мені пояснили що всі твори joy 77 sadness 0 anger 0 fear 0 amazement 25 disgust 0
+на вході, мені пояснили що всі твори є ексклюзивної роботи joy 77 sadness 0 anger 0 fear 0 amazement 25 disgust 0
+на вході, мені пояснили що всі твори є ексклюзивної роботи і тут до всього таке відношення. joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+мені пояснили joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+мені пояснили що всі твори joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+мені пояснили що всі твори є ексклюзивної роботи joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+мені пояснили що всі твори є ексклюзивної роботи і тут до всього таке відношення. joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+всі твори joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+всі твори є ексклюзивної роботи joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+всі твори є ексклюзивної роботи і тут до всього таке відношення. joy 77 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ексклюзивної роботи joy 77 sadness 0 anger 0 fear 0 amazement 71 disgust 0
+тут до всього таке відношення joy 77 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Молодці, просто молодці! joy 77 sadness 0 anger 0 fear 0 amazement 0 disgust 0

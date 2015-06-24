@@ -1,0 +1,527 @@
+Anna Hadzalo 20-30 female
+Молодці joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+просто молодці! joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ходжу до цієї кондитерської вже 10 років поспіль, щоразу, як буваю у Львові.  joy 45 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+Ходжу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ходжу до цієї кондитерської joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ходжу до цієї кондитерської вже 10 років поспіль joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ходжу до цієї кондитерської вже 10 років поспіль, щоразу joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ходжу до цієї кондитерської вже 10 років поспіль, щоразу, як буваю joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до цієї кондитерської joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до цієї кондитерської вже 10 років поспіль joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до цієї кондитерської вже 10 років поспіль, щоразу, joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до цієї кондитерської вже 10 років поспіль, щоразу, як буваю у Львові.  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вже 10 років поспіль joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+вже 10 років поспіль, щоразу, як буваю joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+вже 10 років поспіль, щоразу, як буваю у Львові joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+щоразу joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+щоразу, як буваю у Львові joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+як буваю у Львові joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+у Львові joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Обслуговування завжди і без винятків на височенному рівні, жодних зауважень ніколи в мене не було.  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Обслуговування joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Обслуговування завжди і без винятків joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Обслуговування завжди і без винятків на височенному рівні joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Обслуговування завжди і без винятків на височенному рівні, жодних зауважень  joy 96 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+завжди і без винятків joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+завжди і без винятків на височенному рівні joy 89 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+завжди і без винятків на височенному рівні, жодних зауважень joy 100 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+завжди і без винятків на височенному рівні, жодних зауважень ніколи в мене не було joy 100 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+без винятків joy 100 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+без винятків на височенному рівні joy 100 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+без винятків на височенному рівні, жодних зауважень  joy 100 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+без винятків на височенному рівні, жодних зауважень ніколи в мене не було joy 100 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+на височенному рівні joy 100 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+на височенному рівні, жодних зауважень joy 100 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+на височенному рівні, жодних зауважень ніколи в мене не було joy 100 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+жодних зауважень joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+жодних зауважень ніколи в мене не було joy 91 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+ніколи в мене не було joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Офіціантки стримані і чемні, знають продукцію і асортимент, відчувається вишкіл.  joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+Офіціантки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Офіціантки стримані joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Офіціантки стримані і чемні joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Офіціантки стримані і чемні, знають joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Офіціантки стримані і чемні, знають продукцію joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Офіціантки стримані і чемні, знають продукцію і асортимент joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стримані joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стримані і чемні joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стримані і чемні, знають продукцію joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стримані і чемні, знають продукцію і асортимент joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стримані і чемні, знають продукцію і асортимент, відчувається вишкіл. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чемні joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чемні, знають продукцію joy 59 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чемні, знають продукцію і асортимент joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чемні, знають продукцію і асортимент, відчувається вишкіл joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знають продукцію joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знають продукцію і асортимент joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+знають продукцію і асортимент, відчувається вишкіл joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+асортимент joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+асортимент, відчувається вишкіл joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відчувається вишкіл joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вишкіл joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Не уявляю, як треба було поводиться, щоб персонал такого класу довести до негарного поводження. joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Не уявляю joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Не уявляю, як треба було поводиться joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Не уявляю, як треба було поводиться, щоб персонал joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Не уявляю, як треба було поводиться, щоб персонал такого класу joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Не уявляю, як треба було поводиться, щоб персонал такого класу довести joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Не уявляю, як треба було поводиться, щоб персонал такого класу довести до негарного поводження. joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+як треба було поводиться joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+як треба було поводиться, щоб персонал joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+як треба було поводиться, щоб персонал такого класу joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+як треба було поводиться, щоб персонал такого класу довести  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+як треба було поводиться, щоб персонал такого класу довести до негарного поводження. joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+персонал joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+персонал такого класу joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+персонал такого класу довести  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+персонал такого класу довести до негарного поводження joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+такого класу joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+такого класу joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+довести до негарного поводження joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+негарного поводження joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Рівень виробів і рівень обслуговування в них дуже високий, — маю можливість порівняти, оскільки регулярно відвідую європейські кондитерські, той же «Демель» у Відні.  joy 90 sadness 0 anger 0 fear 0 amazement 89 disgust 0
+Рівень виробів joy 15 sadness 0 anger 0 fear 0 amazement 14 disgust 0
+Рівень виробів і рівень обслуговування joy 15 sadness 0 anger 0 fear 0 amazement 14 disgust 0
+Рівень виробів і рівень обслуговування в них  joy 15 sadness 0 anger 0 fear 0 amazement 14 disgust 0
+Рівень виробів і рівень обслуговування в них дуже високий joy 90 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+Рівень виробів і рівень обслуговування в них дуже високий, — маю можливість порівняти joy 95 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+Рівень виробів і рівень обслуговування в них дуже високий, — маю можливість порівняти, оскільки регулярно відвідую joy 95 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+Рівень виробів і рівень обслуговування в них дуже високий, — маю можливість порівняти, оскільки регулярно відвідую європейські кондитерські joy 95 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+Рівень виробів і рівень обслуговування в них дуже високий, — маю можливість порівняти, оскільки регулярно відвідую європейські кондитерські, той же «Демель» joy 95 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+рівень обслуговування joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рівень обслуговування в них joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рівень обслуговування в них дуже високий joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рівень обслуговування в них дуже високий, — маю можливість порівняти joy 90 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+рівень обслуговування в них дуже високий, — маю можливість порівняти, оскільки регулярно відвідую joy 95 sadness 0 anger 0 fear 0 amazement 96 disgust 0
+рівень обслуговування в них дуже високий, — маю можливість порівняти, оскільки регулярно відвідую європейські кондитерські joy 95 sadness 0 anger 0 fear 0 amazement 96 disgust 0
+рівень обслуговування в них дуже високий, — маю можливість порівняти, оскільки регулярно відвідую європейські кондитерські, той же «Демель» joy 95 sadness 0 anger 0 fear 0 amazement 96 disgust 0
+рівень обслуговування в них дуже високий, — маю можливість порівняти, оскільки регулярно відвідую європейські кондитерські, той же «Демель»у Відні. joy 95 sadness 0 anger 0 fear 0 amazement 96 disgust 0
+маю можливість порівняти joy 95 sadness 0 anger 0 fear 0 amazement 96 disgust 0
+маю можливість порівняти, оскільки регулярно відвідую joy 46 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+маю можливість порівняти, оскільки регулярно відвідую європейські кондитерські joy 46 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+маю можливість порівняти, оскільки регулярно відвідую європейські кондитерські, той же «Демель» joy 46 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+маю можливість порівняти, оскільки регулярно відвідую європейські кондитерські, той же «Демель» у Відні. joy 46 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+регулярно відвідую  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+регулярно відвідую європейські кондитерські joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+регулярно відвідую європейські кондитерські, той же «Демель»  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+регулярно відвідую європейські кондитерські, той же «Демель» у Відні. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+європейські кондитерські joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+європейські кондитерські, той же «Демель» joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+європейські кондитерські, той же «Демель» у Відні. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+той же «Демель» joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+той же «Демель» у Відні joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у Відні joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На українському ринку «Вероніка» вирізняється, я не дивуюсь, що знайшлись замовники на чорний піар.  joy 90 sadness 0 anger 14 fear 0 amazement 0 disgust 0
+На українському ринку  joy 14 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На українському ринку «Вероніка» joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На українському ринку «Вероніка» вирізняється joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На українському ринку «Вероніка» вирізняється, я не дивуюсь joy 45 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+На українському ринку «Вероніка» вирізняється, я не дивуюсь, що знайшлись замовники joy 45 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+«Вероніка» joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+«Вероніка» вирізняється joy 91 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+«Вероніка» вирізняється, я не дивуюсь joy 91 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+«Вероніка» вирізняється, я не дивуюсь, що знайшлись замовники joy 91 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+«Вероніка» вирізняється, я не дивуюсь, що знайшлись замовники на чорний піар joy 91 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+я не дивуюсь joy 91 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+я не дивуюсь, що знайшлись замовники  joy 91 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+я не дивуюсь, що знайшлись замовники на чорний піар joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+знайшлись замовники joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+знайшлись замовники на чорний піар joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+чорний піар joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+«Ревізор» — дуже стрьомна передачка, я б не довіряла їхнім рейтингам.  joy 0 sadness 46 anger 30 fear 0 amazement 0 disgust 15
+«Ревізор» — дуже стрьомна передачка joy 0 sadness 46 anger 30 fear 0 amazement 0 disgust 15
+«Ревізор» — дуже стрьомна передачка, я б не довіряла joy 0 sadness 60 anger 30 fear 0 amazement 0 disgust 15
+дуже стрьомна передачка joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 15
+дуже стрьомна передачка, я б не довіряла  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 15
+дуже стрьомна передачка, я б не довіряла їхнім рейтингам joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 15
+стрьомна передачка joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 15
+стрьомна передачка, я б не довіряла joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 15
+стрьомна передачка, я б не довіряла їхнім рейтингам joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 15
+я б не довіряла  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 15
+я б не довіряла їхнім рейтингам joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 15
+їхнім рейтингам joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 15
+Мій особистий досвід рідко збігається з фреймутівськими таврами. joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Мій особистий досвід joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Мій особистий досвід рідко збігається  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+особистий досвід joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+особистий досвід рідко збігається joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+особистий досвід рідко збігається з фреймутівськими таврами joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+рідко збігається joy 0 sadness 31 anger 0 fear 0 amazement 0 disgust 0
+рідко збігається з фреймутівськими таврами joy 0 sadness 31 anger 0 fear 0 amazement 0 disgust 0
+з фреймутівськими таврами joy 0 sadness 31 anger 0 fear 0 amazement 0 disgust 0
+Цукерня joy 46 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На рахунок "Цукерні" на Староєврейській-це супер! joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+На рахунок  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На рахунок "Цукерні" joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На рахунок "Цукерні" на Староєврейській joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це супер joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Враження незмінні,починаючи з миттєвого обслуговування,підбору персоналу,стилістики закладу та смаку всіх солодощів та напоїв. joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Враження незмінні joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Враження незмінні,починаючи з  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Враження незмінні,починаючи з миттєвого обслуговування joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Враження незмінні,починаючи з миттєвого обслуговування,підбору персоналу joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Враження незмінні,починаючи з миттєвого обслуговування,підбору персоналу,стилістики закладу joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Враження незмінні,починаючи з миттєвого обслуговування,підбору персоналу,стилістики закладу та смаку  joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Враження незмінні,починаючи з миттєвого обслуговування,підбору персоналу,стилістики закладу та смаку всіх солодощів joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+починаючи з joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+починаючи з миттєвого обслуговування joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+починаючи з миттєвого обслуговування,підбору персоналу joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+починаючи з миттєвого обслуговування,підбору персоналу,стилістики закладу joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+починаючи з миттєвого обслуговування,підбору персоналу,стилістики закладу та смаку всіх солодощів joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+починаючи з миттєвого обслуговування,підбору персоналу,стилістики закладу та смаку всіх солодощів та напоїв joy 100 sadness 0 anger 0 fear 0 amazement 100 disgust 0
+Після відкриття ще нового залу та тераси -це місце притягує як магніт. joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Після відкриття  joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Після відкриття ще нового залу  joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Після відкриття ще нового залу та тераси -це місце притягує як магніт. joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Після відкриття  joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Після відкриття ще нового залу та тераси -це місце притягує joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+це місце притягує joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+це місце притягує як магніт joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+притягує joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+притягує як магніт joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+як магніт joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+магніт joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Молодці,дякуємо за вашу працю та хорошу енергетику вашого закладу. joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Молодці, joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Молодці,дякуємо joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Молодці,дякуємо за вашу працю joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+Молодці,дякуємо за вашу працю та хорошу енергетику  joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+дякуємо joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+дякуємо за вашу працю joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+дякуємо за вашу працю та хорошу енергетику joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+дякуємо за вашу працю та хорошу енергетику вашого закладу joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+хорошу енергетику joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+хорошу енергетику вашого закладу joy 90 sadness 0 anger 0 fear 0 amazement 91 disgust 0
+"КОСМІЧНІ ЦІНИ" joy 0 sadness 60 anger 60 fear 0 amazement 0 disgust 0
+Криза вплинула на деякі наші ресторани просто "космос"! joy 0 sadness 60 anger 60 fear 0 amazement 0 disgust 0
+Криза вплинула joy 0 sadness 60 anger 60 fear 0 amazement 0 disgust 0
+Криза вплинула на деякі наші ресторани joy 0 sadness 60 anger 60 fear 0 amazement 0 disgust 0
+вплинула на деякі наші ресторани  joy 0 sadness 60 anger 60 fear 0 amazement 0 disgust 0
+вплинула на деякі наші ресторани просто "космос"! joy 0 sadness 60 anger 60 fear 0 amazement 0 disgust 0
+на деякі наші ресторани joy 0 sadness 31 anger 30 fear 0 amazement 0 disgust 0
+на деякі наші ресторани просто "космос"! joy 0 sadness 46 anger 30 fear 0 amazement 0 disgust 0
+просто "космос"! joy 0 sadness 46 anger 30 fear 0 amazement 0 disgust 0
+"космос" joy 0 sadness 46 anger 30 fear 0 amazement 0 disgust 0
+Ми живемо поки що не в Європі, joy 0 sadness 76 anger 46 fear 0 amazement 0 disgust 0
+Ми живемо joy 0 sadness 76 anger 46 fear 0 amazement 0 disgust 0
+поки що joy 0 sadness 76 anger 46 fear 0 amazement 0 disgust 0
+не в Європі joy 0 sadness 76 anger 46 fear 0 amazement 0 disgust 0
+"Вероніка" -лідер у ресторанному бізнесі та високих цінах. joy 61 sadness 61 anger 15 fear 0 amazement 0 disgust 0
+"Вероніка" -лідер joy 61 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"Вероніка" -лідер у ресторанному бізнесі joy 75 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+лідер у ресторанному бізнесі joy 75 sadness 0 anger 0 fear 0 amazement 45 disgust 0
+лідер у ресторанному бізнесі та високих цінах. joy 75 sadness 61 anger 31 fear 0 amazement 0 disgust 0
+у ресторанному бізнесі joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у ресторанному бізнесі та високих цінах. joy 60 sadness 60 anger 0 fear 0 amazement 0 disgust 0
+Салатики від 60 грн і вище,про другі страви взагалі промовчу, порція хліба_16 грн(при собівартості 1 грн),повноцінна вечеря з троьох страв-250 грн на особу. joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+Салатики від 60 грн і вище, joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+Салатики від 60 грн і вище,про другі страви взагалі промовчу, joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+Салатики від 60 грн і вище,про другі страви взагалі промовчу, порція хліба_16 грн joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+Салатики від 60 грн і вище,про другі страви взагалі промовчу, порція хліба_16 грн(при собівартості 1 грн) joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+про другі страви взагалі промовчу, joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+про другі страви взагалі промовчу, порція хліба_16 грн joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+про другі страви взагалі промовчу, порція хліба_16 грн(при собівартості 1 грн) joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+про другі страви взагалі промовчу, порція хліба_16 грн(при собівартості 1 грн),повноцінна вечеря з троьох страв-250 грн на особу. joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+порція хліба_16 грн joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+порція хліба_16 грн(при собівартості 1 грн) joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+порція хліба_16 грн(при собівартості 1 грн),повноцінна вечеря з троьох страв-250 грн на особу. joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+повноцінна вечеря з троьох страв-250 грн на особу. joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+Кава - жахлива.  joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+кава joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+жахлива joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+Цукерки - не дуже. joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+цукерки joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+не дуже joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+Використовують ненатуральні ароматизатори - не для гурманів.  joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+Використовують ненатуральні ароматизатори joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+ненатуральні ароматизатори joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+ненатуральні ароматизатори - не для гурманів joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+ароматизатори joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 0
+ароматизатори - не для гурманів joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 45
+не для гурманів joy 0 sadness 90 anger 90 fear 0 amazement 0 disgust 45
+Круасани, хліб - смачно. joy 60 sadness 0 anger 0 fear 0 amazement 60 disgust 0
+Круасани joy 60 sadness 0 anger 0 fear 0 amazement 60 disgust 0
+Круасани, хліб joy 60 sadness 0 anger 0 fear 0 amazement 60 disgust 0
+хліб joy 60 sadness 0 anger 0 fear 0 amazement 60 disgust 0
+смачно joy 60 sadness 0 anger 0 fear 0 amazement 60 disgust 0
+Смачнюча випічка, добрий чай, марципани - куточок для солодких клієнтів.  joy 75 sadness 0 anger 0 fear 0 amazement 75 disgust 0
+Смачнюча випічка, joy 90 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+Смачнюча випічка, добрий чай joy 90 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+Смачнюча випічка, добрий чай, марципани  joy 90 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+випічка joy 90 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+випічка, добрий чай joy 90 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+випічка, добрий чай, марципани  joy 90 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+добрий чай, марципани - куточок для солодких клієнтів joy 90 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+добрий чай joy 90 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+добрий чай, марципани joy 90 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+добрий чай, марципани - куточок для солодких клієнтів.  joy 90 sadness 0 anger 0 fear 0 amazement 90 disgust 0
+Трохи міщанський персонал, останні 2 рази зіпсули враження їх маскальські клієнткі-я атхаділа ат очіріді, вас нєбило, нє відєла і ващще... joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Трохи міщанський персонал joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Трохи міщанський персонал, останні 2 рази зіпсули враження joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Трохи міщанський персонал, останні 2 рази зіпсули враження їх маскальські клієнткі- joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Трохи міщанський персонал, останні 2 рази зіпсули враження їх маскальські клієнткі-я атхаділа ат очіріді joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Трохи міщанський персонал, останні 2 рази зіпсули враження їх маскальські клієнткі-я атхаділа ат очіріді, вас нєбило, joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+Трохи міщанський персонал, останні 2 рази зіпсули враження їх маскальські клієнткі-я атхаділа ат очіріді, вас нєбило, нє відєла  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+міщанський персонал joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+останні 2 рази зіпсули враження  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+останні 2 рази зіпсули враження їх маскальські клієнткі joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+останні 2 рази зіпсули враження їх маскальські клієнткі-я атхаділа ат очіріді joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+останні 2 рази зіпсули враження їх маскальські клієнткі-я атхаділа ат очіріді, вас нєбило, joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+останні 2 рази зіпсули враження їх маскальські клієнткі-я атхаділа ат очіріді, вас нєбило, нє відєла  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+останні 2 рази зіпсули враження їх маскальські клієнткі-я атхаділа ат очіріді, вас нєбило, нє відєла і ващще... joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+останні 2 рази joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+зіпсули враження joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+зіпсули враження їх маскальські клієнткі joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+зіпсули враження їх маскальські клієнткі-я атхаділа ат очіріді, joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+зіпсули враження їх маскальські клієнткі-я атхаділа ат очіріді, вас нєбило joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+зіпсули враження їх маскальські клієнткі-я атхаділа ат очіріді, вас нєбило, нє відєла joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+зіпсули враження їх маскальські клієнткі-я атхаділа ат очіріді, вас нєбило, нє відєла і ващще... joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+маскальські клієнткі joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+маскальські клієнткі-я атхаділа ат очіріді joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+маскальські клієнткі-я атхаділа ат очіріді, вас нєбило joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+маскальські клієнткі-я атхаділа ат очіріді, вас нєбило, нє відєла joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+маскальські клієнткі-я атхаділа ат очіріді, вас нєбило, нє відєла і ващще... joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+я атхаділа ат очіріді joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+я атхаділа ат очіріді, вас нєбило joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+я атхаділа ат очіріді, вас нєбило, нє відєла joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+я атхаділа ат очіріді, вас нєбило, нє відєла і ващще... joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+вас нєбило joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+вас нєбило, нє відєла joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+вас нєбило, нє відєла і ващще... joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+нє відєла joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+нє відєла і ващще.. joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+і ващще.. joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 0
+А загалом люблю там посидіти за кавалком теплого настрою. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А загалом люблю  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А загалом люблю там посидіти joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+люблю там посидіти joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+люблю там посидіти за кавалком теплого настрою joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за кавалком теплого настрою joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цікаво, що це таке - "кавалок теплого настрою" ???  joy 15 sadness 0 anger 0 fear 0 amazement 16 disgust 0
+цікаво joy 15 sadness 0 anger 0 fear 0 amazement 16 disgust 0
+цікаво, що це таке  joy 15 sadness 0 anger 0 fear 0 amazement 16 disgust 0
+На большее не хватает?  joy 15 sadness 0 anger 0 fear 0 amazement 16 disgust 0
+не хватает joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Куточок для "солодких" клієнтів... joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для "солодких" клієнтів joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А хта в нас рахується солодким клієнтом, в кого гаманці тріскають?  joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+А хта в нас рахується солодким клієнтом joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+рахується солодким клієнтом joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+рахується солодким клієнтом, в кого гаманці тріскають?  joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+в кого гаманці тріскають?  joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+гаманці тріскають joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Чи багато таких??? joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Одна з найкращих  кондитерських в Західному регіоні, свіжі солодощі завжди можна придбати за відносно помірну ціну, інтер'єр заставляє нас переміститись у часи кінця Австро-Угорської імперії joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одна з найкращих joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одна з найкращих  кондитерських joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одна з найкращих  кондитерських в Західному регіоні joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одна з найкращих  кондитерських в Західному регіоні, свіжі солодощі  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одна з найкращих  кондитерських в Західному регіоні, свіжі солодощі завжди можна придбати  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одна з найкращих  кондитерських в Західному регіоні, свіжі солодощі завжди можна придбати за відносно помірну ціну joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в Західному регіоні joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+свіжі солодощі joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+свіжі солодощі завжди можна придбати joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+свіжі солодощі завжди можна придбати за відносно помірну ціну joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+свіжі солодощі завжди можна придбати за відносно помірну ціну, інтер'єр заставляє нас переміститись у часи кінця Австро-Угорської імперії joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна придбати joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна придбати за відносно помірну ціну joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна придбати за відносно помірну ціну, інтер'єр заставляє нас переміститись у часи кінця Австро-Угорської імперії joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за відносно помірну ціну joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+інтер'єр заставляє нас переміститись у часи кінця Австро-Угорської імперії joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В ресторані у підвалі дуже варто замовити рибу!  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В ресторані у підвалі joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+В ресторані у підвалі дуже варто замовити joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у підвалі  joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у підвалі дуже варто замовити joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у підвалі дуже варто замовити рибу joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варто замовити joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варто замовити рибу joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовити рибу joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сподобалась осетрина на грилі. joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сподобалась осетрина joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+осетрина на грилі joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на грилі joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На додачу до неї подали різотто зі шпинатом.  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На додачу до неї joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На додачу до неї подали різотто joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подали різотто  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+неї подали різотто зі шпинатом.  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+різотто зі шпинатом joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ще в меню бачив з десяток суто рибних "наворотів", зокрема "короп по єврейськи". joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ще в меню бачив joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ще в меню бачив з десяток суто рибних "наворотів" joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з десяток суто рибних "наворотів" joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з десяток суто рибних "наворотів", зокрема "короп по єврейськи". joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"короп по єврейськи". joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Наступного разу обов'язково замовлю.  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Наступного разу joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обов'язково замовлю joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже, дуже достойно.  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже достойно joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львів може пишатися таким місцем, як "Вероніка" - готують чудово. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львів може пишатися  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львів може пишатися таким місцем joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львів може пишатися таким місцем, як "Вероніка" joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пишатися joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пишатися таким місцем, як "Вероніка" joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пишатися таким місцем, як "Вероніка" - готують чудово joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+готують чудово joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ааа!!! joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+краса! joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+море задоволення від відвідування вероніки. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+море задоволення joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+від відвідування вероніки joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а черги,та то один мінус) joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+черги, joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+один мінус joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+"Вероніка" - це завжди свято! joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+завжди свято joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Поки що достойної конкуренції у Львові їй не бачу :) joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Поки що достойної конкуренції joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+достойної конкуренції у Львові їй не бачу  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+конкуренції у Львові їй не бачу  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+неймовірно! joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вельми вдячна за гарну обслугу,смачнющу кухню,приємну атмосферу,чаруючу музику і спів!!!  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вельми вдячна  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вельми вдячна за гарну обслугу joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вельми вдячна за гарну обслугу,смачнющу кухню, joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вельми вдячна за гарну обслугу,смачнющу кухню,приємну атмосферу joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вельми вдячна за гарну обслугу,смачнющу кухню,приємну атмосферу,чаруючу музику joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Залишились самі позитивні враження,обов"язково всім раджу сюди завітати! joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Залишились самі позитивні враження joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обов"язково всім раджу сюди завітати joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всім раджу joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всім раджу сюди завітати joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мій день народження закарбується в пам"яті моїй і гостя з Німеччини тільки Великим Позитивом! joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мій день народження закарбується joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мій день народження закарбується в пам"яті joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мій день народження закарбується в пам"яті моїй і гостя з Німеччини joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закарбується в пам"яті joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закарбується в пам"яті моїй і гостя з Німеччини  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закарбується в пам"яті моїй і гостя з Німеччини тільки Великим Позитивом! joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в пам"яті joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в пам"яті моїй і гостя з Німеччини  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в пам"яті моїй і гостя з Німеччини тільки Великим Позитивом! joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гостя з Німеччини  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тільки Великим Позитивом! joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+За це ще раз Дякую! joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Процвітання Вам і щедрих клієнтів!!!) joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щедрих клієнтів joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Затишно, часто багато іноземців.  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+часто багато іноземців joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато іноземців joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Як на мене то ВЕЛИКИМ плюсом є те що в приміщенні не можна курити... joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Як на мене то joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Як на мене то ВЕЛИКИМ плюсом є те що joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в приміщенні не можна курити. joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не можна курити joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потрібно насолоджуватись приємною музикою і смачними десертами.  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потрібно насолоджуватись  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потрібно насолоджуватись приємною музикою  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+насолоджуватись приємною музикою joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+насолоджуватись приємною музикою і смачними десертами joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Які там в біса калорії!!! joy 75 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Вероніка-the best joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+the best joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вероніка joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Справді хороший заклад в Львові, де можна попити чаю та поїсти щось солоденького, послухати приємну музику.  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Справді хороший заклад  joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Справді хороший заклад в Львові joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Справді хороший заклад в Львові, де можна попити чаю joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Справді хороший заклад в Львові, де можна попити чаю та поїсти щось солоденького joy 100 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна попити чаю joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна попити чаю та поїсти щось солоденького joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна попити чаю та поїсти щось солоденького, послухати приємну музику.  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+попити чаю joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+попити чаю та поїсти щось солоденького joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+попити чаю та поїсти щось солоденького, послухати приємну музику. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+поїсти щось солоденького joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+поїсти щось солоденького, послухати приємну музику. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+послухати приємну музику. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одним словом заходьте не пошкодуєте! joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одним словом joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Одним словом заходьте joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заходьте не пошкодуєте! joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не пошкодуєте joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шикарне затишне місце, з хорошим персоналом, смачними десертами та випічкою.. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шикарне затишне місце joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шикарне затишне місце, з хорошим персоналом joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шикарне затишне місце, з хорошим персоналом, смачними десертами joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+затишне місце joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+затишне місце, з хорошим персоналом joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+затишне місце, з хорошим персоналом, смачними десертами joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+затишне місце, з хорошим персоналом, смачними десертами та випічкою.. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце, з хорошим персоналом joy 60 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце, з хорошим персоналом, смачними десертами joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце, з хорошим персоналом, смачними десертами та випічкою.. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з хорошим персоналом joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з хорошим персоналом, смачними десертами joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з хорошим персоналом, смачними десертами та випічкою.. joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+особливо приємно проводити тут час влітку на літній терасі))  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+особливо приємно  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+особливо приємно проводити тут час  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+особливо приємно проводити тут час влітку  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+особливо приємно проводити тут час влітку на літній терасі joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+проводити тут час joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приємно проводити тут час влітку joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+проводити тут час влітку на літній терасі joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+влітку joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+влітку на літній терасі joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на літній терасі joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+недешево, але чудово!  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+недешево joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+але чудово joy 74 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Попробуйте круасан з кокосовою начинкою - смакота. joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Попробуйте круасан joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Попробуйте круасан з кокосовою начинкою joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+круасан з кокосовою начинкою joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+круасан з кокосовою начинкою - смакота joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смакота joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прекрасне місце щоб добре провести час у не забутній атмосфері  ресторану.  joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прекрасне місце joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прекрасне місце щоб добре провести час joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прекрасне місце щоб добре провести час у не забутній атмосфері joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце щоб добре провести час joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце щоб добре провести час у не забутній атмосфері joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місце щоб добре провести час у не забутній атмосфері  ресторану.  joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+провести час joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+провести час у не забутній атмосфері joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+провести час у не забутній атмосфері  ресторану. joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у не забутній атмосфері joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у не забутній атмосфері  ресторану. joy 74 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я часто подорожую  по Європі і ще не зустрічала ресторана-кондитерської як "вероніка" і я думаю що Європейські ресторатори  повинні брати приклад з Української а в даному випадку Львівської гостинності і професіоналізму.  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я часто подорожую  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я часто подорожую  по Європі joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я часто подорожую  по Європі і ще не зустрічала ресторана-кондитерської як "вероніка" joy 90 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Я часто подорожую  по Європі і ще не зустрічала ресторана-кондитерської як "вероніка" і я думаю що Європейські ресторатори  повинні брати приклад  joy 90 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Я часто подорожую  по Європі і ще не зустрічала ресторана-кондитерської як "вероніка" і я думаю що Європейські ресторатори  повинні брати приклад з Української а в даному випадку Львівської гостинності joy 90 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+не зустрічала ресторана-кондитерської як "вероніка"  joy 100 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+не зустрічала ресторана-кондитерської як "вероніка" і я думаю що Європейські ресторатори  повинні брати приклад  joy 100 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+не зустрічала ресторана-кондитерської як "вероніка" і я думаю що Європейські ресторатори  повинні брати приклад з Української а в даному випадку Львівської гостинності joy 100 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+повинні брати приклад joy 100 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+повинні брати приклад з Української а в даному випадку Львівської гостинності joy 100 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже приємно було мені коли я зустріла у Франції в одному із ресторанів Парижа одного знайомого який живе у Парижі,він сказав що з задоволенням відвідає Україну  і хоче взнати власно смак виробів що подаються у Вероніці.  joy 100 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже приємно було мені joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже приємно було мені коли я зустріла у Франції в одному із ресторанів Парижа одного знайомого який живе у Парижі joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже приємно було мені коли я зустріла у Франції в одному із ресторанів Парижа одного знайомого який живе у Парижі,він сказав  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже приємно було мені коли я зустріла у Франції в одному із ресторанів Парижа одного знайомого який живе у Парижі,він сказав що з задоволенням відвідає Україну  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже приємно було мені коли я зустріла у Франції в одному із ресторанів Парижа одного знайомого який живе у Парижі,він сказав що з задоволенням відвідає Україну  і хоче взнати власно смак виробів joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Дуже приємно було мені коли я зустріла у Франції в одному із ресторанів Парижа одного знайомого який живе у Парижі,він сказав що з задоволенням відвідає Україну  і хоче взнати власно смак виробів що подаються joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+мені коли я зустріла у Франції в одному із ресторанів Парижа joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+я зустріла у Франції в одному із ресторанів Парижа одного знайомого joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+який живе у Парижі joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+ін сказав що з задоволенням відвідає Україну  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+хоче взнати власно смак виробів  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+смак виробів що подаються у Вероніці.  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Я горжусь тим що Україні є ті місця які відомі своїм професіоналізмом. joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Я горжусь joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+Я горжусь тим що Україні є ті місця joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я горжусь тим що Україні є ті місця які відомі  joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+є ті місця які відомі joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+є ті місця які відомі своїм професіоналізмом joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відомі своїм професіоналізмом joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ joy 90 sadness 0 anger 0 fear 0 amazement 0 disgust 0
