@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 words,polarity,negativeCounter,neutralCounter,positiveCounter,iteration
+=======
+﻿words,polarity,negativeCounter,neutralCounter,positiveCounter,iteration
+>>>>>>> origin/olenap
 абат,U,0,0,0,-1
 ігумен,U,0,0,0,-1
 абатиса,U,0,0,0,-1

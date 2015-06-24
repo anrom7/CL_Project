@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Аліна_13_08_2013
+=======
+﻿Аліна_13_08_2013
+>>>>>>> origin/olenap
 
 
 
@@ -6,8 +10,13 @@ Token	         Lemma	          Part-of-speech	Chunk
                      -            SENT_START 
 Смішно	        смішно            adv 
 читати	        читати            verb:inf:imperf 
+<<<<<<< HEAD
 про	               про            prep:rv_zna 
 дорогі	       дорогий            adj:p:v_zna:compb 
+=======
+про	        про               prep:rv_zna 
+дорогі	        дорогий           adj:p:v_zna:compb 
+>>>>>>> origin/olenap
 ціни	        цінити            verb:impr:s:2:imperf
                 ціна              noun:p:v_naz                                  
  
@@ -15,6 +24,7 @@ Token	         Lemma	          Part-of-speech	Chunk
 Disambiguator log: (no disambiguations)
 Token	         Lemma	          Part-of-speech	Chunk
                      -            SENT_START 
+<<<<<<< HEAD
 Ходимо	        ходити         verb:pres:p:1:imperf 
 з	             з            prep:rv_rod:rv_zna:rv_oru 
 мамою	          мама        noun:f:v_oru:anim 
@@ -24,6 +34,17 @@ Token	         Lemma	          Part-of-speech	Chunk
 мінімум	       мінімум        noun:m:v_zna
 2	            2             number 
 роки	          рік         noun:p:v_zna 
+=======
+Ходимо	        ходити            verb:pres:p:1:imperf 
+з	             з            prep:rv_rod:rv_zna:rv_oru 
+мамою	          мама            noun:f:v_oru:anim 
+туди	          туди            adv:&pron:dem 
+вже	           вже            adv:v-u 
+як	            як            part 
+мінімум	       мінімум            noun:m:v_zna
+2	            2             number 
+роки	          рік             noun:p:v_zna 
+>>>>>>> origin/olenap
 і	            і             conj:coord
 абсолютно    абсолютно            adv 
 задоволені задоволений            adj:p:v_naz:compb:&adjp:pasv:past
@@ -1958,12 +1979,21 @@ Token	                   Lemma	Part-of-speech	Chunk
 стало	                   стало        adv 
                            стати        verb:past:n:perf 
 шкода	                   шкода        noun:f:v_naz 
+<<<<<<< HEAD
 тих	                         той        adj:p:v_rod:&pron:dem
 дівчать	                       -        - 
 що	                          що        conj:subord 
 працють	                       -        - 
 там	                         там        adv:&pron:dem
 лиш	                         лиш        part 
+=======
+тих	                     той        adj:p:v_rod:&pron:dem
+дівчать	                       -        - 
+що	                      що        conj:subord 
+працють	                       -        - 
+там	                     там        adv:&pron:dem
+лиш	                     лиш        part 
+>>>>>>> origin/olenap
 місяць	                  місяць        noun:m:v_zna 
 ,	                      -         - 
 тому	                    тому        adv 
