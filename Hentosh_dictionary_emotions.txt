@@ -1,0 +1,1109 @@
+Зарано вони відкрились . joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+вони вікдкрились  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Брудно  , запах лаку .   joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 17
+Пиво дороге  , але смачне .   joy 7 sadness 2 anger 0 fear 0 amazement 0 disgust 0
+Вибір закусок малий . joy 0 sadness 12 anger 0 fear 0 amazement 0 disgust 0
+вибір закусок   joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Виглядає все дуже грандіозно  , але трохи розчаровує . joy 7 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+все виглядає joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+трохи розчаровує joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+все вигядає грандіозно   joy 12 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+Думаю  , після завершення всіх робіт тут буде круто joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+після завершення joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+після завершення всіх робіт joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде круто joy 3 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+тут буде круто joy 13 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+Чудовий інтер'єр і хороша жива музика .   joy 13 sadness 0 anger 0 fear 0 amazement 18 disgust 0
+А пиво і правда гіркувате joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+Нічого цікавого тут не чекайте . joy 0 sadness 16 anger 0 fear 0 amazement 0 disgust 0
+нічого цікавого   joy 0 sadness 18 anger 0 fear 0 amazement 0 disgust 0
+Пиво на шаленого гурмана  , для переважної більшості гірка і дорога рідина.   joy 0 sadness 11 anger 13 fear 0 amazement 0 disgust 8
+Їсти нема чого  , дизайн як такий мінімальний .  joy 0 sadness 25 anger 0 fear 0 amazement 0 disgust 2
+їсти нема joy 0 sadness 21 anger 0 fear 0 amazement 0 disgust 2
+дизайн мінімальний  joy 0 sadness 21 anger 0 fear 0 amazement 0 disgust 2
+Духовий оркестр - оригінальна штука .  joy 14 sadness 0 anger 0 fear 0 amazement 8 disgust 0
+Жахливо гірке пиво з мильним присмаком  , копчена нога - преморожена шинка  , а замість соусу з хроном - звичайна сметана .   joy 0 sadness 27 anger 18 fear 0 amazement 0 disgust 34
+	гірке пиво joy 0 sadness 3 anger 0 fear 0 amazement 0 disgust 12
+	мильний присмак joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 17
+	копчена нога - преморожена шинка joy 0 sadness 12 anger 0 fear 0 amazement 0 disgust 25
+	копчена нога joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 25
+	переморожена шинка joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 25
+	а замість соусу з хроном - звичайна сметана joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 40
+	соус з хроном joy 3 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+	звичайна сметана joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+Тішить лише вигляд з вікна та музика .  joy 9 sadness 0 anger 0 fear 0 amazement 11 disgust 0
+тішить вигляд joy 12 sadness 0 anger 0 fear 0 amazement 11 disgust 0
+вигляд з вікна joy 12 sadness 0 anger 0 fear 0 amazement 11 disgust 0
+Буду чекати офіційного відкриття  , бо якось після 30 хвилини серед запаху лаків та розчинників вже важко позслаблятись .   joy 5 sadness 11 anger 0 fear 0 amazement 0 disgust 32
+буду чекати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буду чекати відкриття joy 5 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+важко розслабитись joy 0 sadness 9 anger 0 fear 0 amazement 0 disgust 0
+Зате передбачаю  , що буде все тут гуд  , особливо із видом на площу Ринок !  joy 12 sadness 0 anger 0 fear 0 amazement 18 disgust 0
+Пиво їхнього виробництва жахливе - страшно гірке  !   joy 0 sadness 12 anger 0 fear 0 amazement 0 disgust 32
+пиво жахливе joy 0 sadness 12 anger 0 fear 0 amazement 0 disgust 25
+старшно гірке joy 0 sadness 12 anger 0 fear 0 amazement 0 disgust 25
+Картопляні чіпси пересмажені  , багато солі .   joy 0 sadness 12 anger 0 fear 0 amazement 0 disgust 25
+картопляні чіпси joy 0 sadness 12 anger 0 fear 0 amazement 0 disgust 25
+чіпси пересмажені joy 0 sadness 12 anger 0 fear 0 amazement 0 disgust 25
+багато солі joy 0 sadness 12 anger 0 fear 0 amazement 0 disgust 25
+Оркестр грає дуже гучно .   joy 0 sadness 12 anger 0 fear 0 amazement 0 disgust 0
+оркестр грає joy 0 sadness 12 anger 0 fear 0 amazement 0 disgust 0
+грає дуже гучно joy 0 sadness 12 anger 0 fear 0 amazement 0 disgust 0
+Єдиний плюс - вид на площу Ринок .   joy 12 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Але столиків біля вікна небагато  .  .   joy 0 sadness 13 anger 0 fear 0 amazement 0 disgust 0
+столиків не багато joy 0 sadness 13 anger 0 fear 0 amazement 0 disgust 0
+Не раджу joy 0 sadness 13 anger 0 fear 0 amazement 0 disgust 0
+кістковий мозок  , салати  , чіпси - фігня повна .  joy 0 sadness 13 anger 0 fear 0 amazement 0 disgust 20
+кістковий мозок joy 0 sadness 13 anger 0 fear 0 amazement 0 disgust 20
+салати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чіпси joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фігня joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 14
+фігня повна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 14
+пиво як сеча .   joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 20
+кава як лайно .   joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 20
+атмосфера класна  , дизайн теж  , але з напоїв та страв тут можна брати тільки воду або сік .  joy 16 sadness 8 anger 0 fear 0 amazement 5 disgust 0
+атмосфера joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмофера класна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дизайн joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дизайн теж joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна брати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тільки воду joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сік joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тільки воду або сік joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пиво жахливе .   joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 25
+Їжі нема як такої joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 7
+їжі нема joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 7
+Відбувся анонсований вище перший публічний захід закладу: зустріч з Ніно Баселлем - засновником , власником і пивоваром "Де Ранке" .   joy 16 sadness 0 anger 0 fear 0 amazement 26 disgust 0
+відбувся joy 0 sadness 0 anger 0 fear 0 amazement 26 disgust 0
+анонсований joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відбувся анонсований вище joy 8 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+захід joy 8 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+захід закладу joy 8 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+публічний захід закладу joy 8 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+відбувся анонсований вище перший публічний захід закладу joy 8 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+зустріч joy 8 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+засновником joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зустріч з засновником joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+власником joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пивоваром joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+власником і пивоваром joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зустріч з Ніно Баселлем - засновником , власником і пивоваром "Де Ранке" joy 9 sadness 0 anger 0 fear 0 amazement 23 disgust 0
+Це пройшло у форматі короткої лекції  , з дегустацією деранківського "XX bitter" та маленьким фуршетом .   joy 9 sadness 0 anger 0 fear 0 amazement 23 disgust 0
+це пройшло joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пройшло у форматі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пройшло у форматі короткої лекції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з дегустацією joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+маленьким фуршетом joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з дегустацією деранківського "XX bitter" та маленьким фуршетом  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Про що говорив Ніно? joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+про що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+про що говорив joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+говорив Ніно  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Історія пивоварні  , його власна пивна історія . joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+історія joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пивоварні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+історія пивоварні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пивна історія joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+його joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+власна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+його власна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+його власна історія joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+його власна пивна історія   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ситуація у бельгії і в світі з промисловим і "справжнім" пивом .   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Відкриття не було: для нього справжнє - це з натуральним хмелем , не фільтр .  , не пастер .  Ну і - гіркувате , по-справжньому .  Констатація: споживач повертається саме до такого .  Він експортує у 30 країн , охочі є ще .   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відкриття joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вікдриття не було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для нього справжнє joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з натуральним хмелем joy 11 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не фільтр joy 18 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це з натуральним хмелем , не фільтр  joy 18 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для нього справжнє - це з натуральним хмелем , не фільтр joy 18 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+І дуже багатьох по світу навчає такого підходу і  , власне , свого персонального вміння .   joy 18 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багатьох joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+світу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навчає joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підходу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+власне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+свого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+персонального joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вміння joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже багатьох joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+по світу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навчає такого підходу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже багатьох по світу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже багатьох по світу навчає joy 4 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+дуже багатьох по світу навчає такого joy 4 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+дуже багатьох по світу навчає такого підходу joy 4 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+свого персонального joy 4 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+персонального вміння joy 4 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+свого персонального вміння joy 4 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Тепер про заклад . joy 4 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+тепер joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+про joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+про заклад   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нам показали і розповіли незрівнянно більше  , ніж бачила решта .  joy 4 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+нам показали joy 4 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+показали і розповіли joy 4 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+незрівнянно joy 4 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+більш joy 4 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+незрівнянно більше joy 4 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+нам показали і розповіли незрівнянно більше joy 4 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+бачила joy 4 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+решта joy 4 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+бачила решта joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніж бачила решта joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вони ще не відкриті . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вони joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відкриті joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не відкриті joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще не відкриті   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перша варка буде в кінці цієї декади .   joy 11 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перша joy 11 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в кінці joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+декади joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перша варка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде в кінці joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цієї декади joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перша варка буде joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+перша варка буде в кінці joy 10 sadness 0 anger 0 fear 0 amazement 4 disgust 0
+Роботи ще маса , як будівельної , так і відчищання виробництва , щоб закрити в "стерильній" зоні .  joy 0 sadness 9 anger 5 fear 0 amazement 0 disgust 11
+роботи joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+маса joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будвельної joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відчищання joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виробництва joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закрити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стерильній joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зоні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще маса joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+роботи ще маса joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+як будівельної joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 0
+відчищання виробницта joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 11
+так і видчищання виробницта joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 11
+закрити в стерильній joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 11
+в стерильній зоні joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 11
+закрити в стерильній зоні joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 11
+щоб закрити в стерильній зоні  joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 11
+Варниця на 2 т .  23 ЦКТ ( ! ) по 2 т і 8 (?) форфасів по 1 т . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Чому виділяю? joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чому joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виділяю  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Якась невідповідність . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якась joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+невідповідність   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Варитимуть 4 постійних типи і передбачається маса варок спец .  сортів , гостеві варки світових фахівців , варки до особливих подій і т .  ін .   joy 25 sadness 0 anger 0 fear 0 amazement 25 disgust 0
+варитимууть joy 25 sadness 0 anger 0 fear 0 amazement 25 disgust 0
+4 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+постійних joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+типи joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+передбачається joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+маса joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варок joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спец. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сортів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гостеві joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+світових joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фахівців joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+до joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+особливих joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подій joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+іванович joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+т.д. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виритимуть 4 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+постійних пити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+передабачається маса joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+маса варок joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спец.сортів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варитимуть 4 постійних joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варитимуть 4 постійних типи joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варитимуть 4 постійних типи і joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варитимуть 4 постійних типи і передабчається joy 5 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+варитимуть 4 постійних типи і передабчається маса joy 5 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+варитимуть 4 постійних типи і передабчається маса варок joy 5 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+варитимуть 4 постійних типи і передабчається маса варок спец.сортів joy 5 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+варитимуть 4 постійних типи і передабчається маса варок спец.сортів, гостеві варки joy 5 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+варитимуть 4 постійних типи і передабчається маса варок спец.сортів, гостеві варки світових фахівців joy 5 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+варитимуть 4 постійних типи і передбачається маса варок спец .  сортів , гостеві варки світових фахівців , варки до особливих подій  joy 5 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+Чому лише 8 малих форфасів , де зберігатимуть решту?  joy 0 sadness 0 anger 0 fear 12 amazement 0 disgust 0
+чому joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лише joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+8 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+малих joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+форфасів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+де joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зберігатимуть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+решту joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чому лише joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лише 8 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+8 малих joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+малих форфасів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чому лише 8 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чому лише 8 малих joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чому лише 8 малих форфасів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чому лише 8 малих форфасів, де зберігатимуть joy 0 sadness 0 anger 0 fear 8 amazement 0 disgust 0
+Відповіді поки що нема . joy 0 sadness 14 anger 0 fear 8 amazement 0 disgust 0
+відповіді joy 0 sadness 14 anger 0 fear 8 amazement 0 disgust 0
+поки joy 0 sadness 14 anger 0 fear 8 amazement 0 disgust 0
+що joy 0 sadness 14 anger 0 fear 8 amazement 0 disgust 0
+нема joy 0 sadness 14 anger 0 fear 8 amazement 0 disgust 0
+відповіді поки що joy 0 sadness 14 anger 0 fear 8 amazement 0 disgust 0
+поки що нема   joy 0 sadness 14 anger 0 fear 8 amazement 0 disgust 0
+Обладнання в осн .  чеське , виготовлене в Болгарії . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обладнання joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чеське joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виготовлене joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Болгарії joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обладнання в осн. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в осн. чеське joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обладнання в основному чеське joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виготовлене в Болгарії   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дещо , загальнохарчове - німецьке .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дещо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+загальнохарчове joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+німецьке joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+загальнохарчове-німецьке  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підходи в цілому серйозні .   joy 10 sadness 0 anger 0 fear 0 amazement 16 disgust 0
+Чудове місце з смачнючим пивом на будь-який смак і цілим джазовим оркестром !  joy 31 sadness 0 anger 0 fear 0 amazement 31 disgust 0
+чудове joy 31 sadness 0 anger 0 fear 0 amazement 31 disgust 0
+місце joy 31 sadness 0 anger 0 fear 0 amazement 31 disgust 0
+смачнючим joy 31 sadness 0 anger 0 fear 0 amazement 31 disgust 0
+пивом joy 26 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будь-який joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смак joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цілим joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+джазовим joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+оркестром joy 9 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудове місце joy 9 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+з смачнючим пивом joy 9 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+будь-який смак joy 9 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+пивом на будь-який смак  joy 9 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+джазовим оркестром joy 9 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+цілим джазовим оркестром joy 9 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+чудове місце з смачнючим пивом joy 9 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+і цілим джазовим оркестром joy 9 sadness 0 anger 0 fear 0 amazement 7 disgust 0
+Можна побачити сам процес приготування пива . joy 20 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+можна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+побачити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сам joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+процес joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приготування joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пива joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+можна побачити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сам процес joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+процес приготування joy 6 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+приготування пива joy 6 sadness 0 anger 0 fear 0 amazement 27 disgust 0
+можна побачити сам процес joy 6 sadness 0 anger 0 fear 0 amazement 32 disgust 0
+можна побачити сам процес приготування   joy 6 sadness 0 anger 0 fear 0 amazement 32 disgust 0
+Позитивний персонал , сувеніри , музика , ПИВО .  .  .  joy 6 sadness 0 anger 0 fear 0 amazement 12 disgust 0
+позитивний joy 6 sadness 0 anger 0 fear 0 amazement 12 disgust 0
+персонал joy 6 sadness 0 anger 0 fear 0 amazement 12 disgust 0
+сувеніри joy 6 sadness 0 anger 0 fear 0 amazement 12 disgust 0
+музика joy 6 sadness 0 anger 0 fear 0 amazement 12 disgust 0
+ПИВО... joy 6 sadness 0 anger 0 fear 0 amazement 12 disgust 0
+позитивний персонал  joy 6 sadness 0 anger 0 fear 0 amazement 12 disgust 0
+А шо ще треба для щастя !   !   ! joy 6 sadness 0 anger 0 fear 0 amazement 12 disgust 0
+що joy 6 sadness 0 anger 0 fear 0 amazement 12 disgust 0
+ще joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+треба joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щастя!!! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що ще треба joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+треба для щастя   joy 12 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нереально крутий заклад ! joy 12 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+нереально joy 12 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+крутий joy 12 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+заклад joy 12 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+нереально крутий joy 12 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+крутий заклад  joy 12 sadness 0 anger 0 fear 0 amazement 9 disgust 0
+Дуже подобається тут , і навіть запах фарби та лаку не заважає насолоджуватись надзвичайною атмосферою та смачним пивом) joy 12 sadness 5 anger 0 fear 0 amazement 9 disgust 3
+дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подобається joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже подобається joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+запах joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фарби joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+та joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лаку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заважає joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+насолоджуватись joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+надзвичайною joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосферою joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачним joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пивом joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть запах joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+запах фарби joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 9
+фарби та лаку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 9
+не заважає joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть запах фарби joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не заважає насолоджуватись joy 15 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+навіть запах фарби та лаку joy 15 sadness 0 anger 0 fear 0 amazement 5 disgust 0
+навіть запах фарби та лаку не заважає joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 13
+насолоджуватись надзвичайною атмосферою joy 6 sadness 0 anger 0 fear 0 amazement 13 disgust 0
+навіть запах фарби та лаку не заважає насолоджуватись joy 11 sadness 5 anger 0 fear 0 amazement 13 disgust 5
+насолоджуватись надзвичайною атмосферою та смачним пивом joy 18 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+навіть запах фарби та лаку не заважає насолоджуватись надзвичайною joy 18 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+навіть запах фарби та лаку не заважає насолоджуватись надзвичайною атмосферою joy 18 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+навіть запах фарби та лаку не заважає насолоджуватись надзвичайною атмосферою та смачним пивом joy 18 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+Рекомендую !   !   !   joy 18 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+Плюси: пиво смачне , меню цікаве , багато офіціантів , наша була профі- усе чітко розповіла по кожній позиції .   joy 18 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+плсюси joy 18 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+пиво joy 18 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+смачне joy 18 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+меню joy 18 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+цікаве joy 18 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+багато joy 18 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+офіціантів joy 18 sadness 0 anger 0 fear 0 amazement 17 disgust 0
+наша joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+профі  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усе joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чітко joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розповіла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+по joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кожній joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+позиції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво смачне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+меню цікаве joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато офіціантів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наша була joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була профі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наша була профі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усе чітко joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усе чітко розповіла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+по кожній позиції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усе чітко розповіла по кожній позиції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мінуси: брудно усюди- не вистачає прибиральників? joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мінуси joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+брудно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+усюди- joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вистачає joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+прибиральників joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+брудно усюди joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не вистачає joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вистачає прибиральників joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не вистачає прибиральників  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Туалет лише один на -1 поверсі . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туалет joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лише joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+один joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+1 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+поверсі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туалет лише joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+лише один joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на 1 поверсі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туалет лише один  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дуже сподобалась ідея з включенням устаткування з приготування пива в інтер'єр , сам інтер'єр - прекрасний , файна музика , але пиво реально підкачало joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Смачне пиво ! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Меню скудне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+скудне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Імбирне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Прекрасне місце , дуже смачне пиво і закуски , дуже симпатичні офіціантки .   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+добре приходити компанією , ціни більш ніж адекватні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+добре joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приходити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+компанією joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціни joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+більше joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніж joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+адекватні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+добри приходити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+приходити компанією joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+добри приходити компанією joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціни більш joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+більш ніж адекватні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціни більш ніж joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ціни більш ніж адекватні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тут шикарноо,але меню слабеньке) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шикарноо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут шикарноо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+слабеньке joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+меню слабеньке joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але меню слабеньке joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+І пиво гірке сподобалось , і їжа смачна . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гірке joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сподобалось joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їжа  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їжа смачна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво гірке joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво гірку сподобалось   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дивно що стільки негативних відгуків . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стільки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+негативних joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відгуків joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивно що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивно що стільки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+негативних відгуків joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стільки негативних відгуків joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Обережно , вегетаріанці ! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обережно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вегетаріанці!   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Цибулева зупа містить яловичий бульон joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цибулева joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зупа joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+містить joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+яловичий  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бульйон joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цибулева зупа joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зупа містить joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+яловичий бульйон joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+містить яловичий бульйон joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цибулева зупа містить joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а кажуть , що правда у вині .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кажуть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а кажуть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+правда joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вині joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що правда joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у вині joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+првда у вині joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що првда у вині  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виявляється не тільки . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виявляється joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не тільки   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Чи буде крафтова революція по кишені львів'янам - побачимо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чи joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+крафтова joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+революція joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+по joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кишені joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+львів'янам joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+побачимо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чи буде joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+крафтова революція joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+революція по кишені joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+по кишені львів'янам joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чи буде крафтова революція joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чи буде крафтова революція по кишені львів'янам joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Чудовий вигляд на площу Ринок . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудовий joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вигляд joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+площу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ринок joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудовий вигляд joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вигляд на площу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+площу Ринок joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чудовий вигляда на площу   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Наразі ще ремонт , але тут буде круто . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наразі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ремонт joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+круто joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наразі ще joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ще ремонт joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут буде joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде круто joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут буде круто joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+наразі ще ремонт   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Потрапили на історичний момент: запуск обладнання для пивоваріння .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потрапила joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+історичний joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+момент joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+запуск joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обладнання joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пивоваріння joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потрапила на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+історичний момент joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+запуск обладнання joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+обладнання для пивоваріння joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потрапила на історичний момент: joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пиво смачне ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачне  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Персонал привітний) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+персонал joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привітний  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовили ростбіф  , а там шматки солі((  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовила joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ростбіф joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+або joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шматки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+солі(( joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+замовила ростбіф joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там шматки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+шматки солі(( joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+там шматки солі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не смачно  .  .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачно... joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Працюйте над вашим меню  , бо не має вибору joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працюйте joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+над joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вашим joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+немає joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вибору joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працюйте над joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+над вашим меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працюйте над вашим меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не має joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не має вибору joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо не має вибору joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже дуже смачне пиво ! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачне пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже дуже смачне   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Цибулева зупа теж . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цибулева joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зупа joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+теж joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цибулева зупа joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зупа теж   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зробіть більш різноманітне меню , тоді буде ідеально ! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зробіть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+більш joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+різноманітне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тоді joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ідеально joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зробіть більш різноманітне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+більше різноманітне меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зробіть більш різноманітне меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тоді буде joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+буде ідеально joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тоді буде ідеально  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як для дніпропетровця - не дорого . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дніпропетровця joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дорого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як для joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як для дніпропетровця joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не дорого  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На другому та третьому поверсі є столики прямо над бочками пивоварні .   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Коли відкривають їх то вас обгорне п'янкою та ароматною парою від пива що народжується !   !   !   !  !  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їжа тут не те що несмачна , вона бридка ! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їжа joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+несмачна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вона joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бридка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їжа тут joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тут не те що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не те що несмачна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їжа тут не те що несмачна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вона бридка!   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво власного виробництва- дуже гірке . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+власного joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+виробницта joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гірке joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+власного виробництва joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво власного виробництва joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже гірке   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привозне - смачне , але дуже дороге . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привозне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+смачне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дороге joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+привозне-смачне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже дороге joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але дуже дороге   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не рекомендую . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рекомендую  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Фігня рідкісна . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фігня joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рідкісна  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пиво ужасне . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ужасне   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вода з гіркотою і без алкоголю . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вода joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гіркотою joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+без joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+алкоголю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вода з гіркотою joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+без алкоголю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і без алкоголю  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+І вері ікспенсів . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вері joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ікспенсів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вері ікспенсів  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Заклад для одноразових туристів з хорошим видом на площу Ринок . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+одноразових joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туристів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хорошим joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+видом joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+площу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ринок joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад для joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для одноразових joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+одноразових туристів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад для одноразових туристів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з хорошим joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з хорошим видом joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з хорошим видом на площу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+площу Ринок joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+з хороший видом на площу Ринок joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад для одноразових туристів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад для одноразових туристів з хорошим видом joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад для одноразових туристів з хорошим видом на площу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пампушки ніякі . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пампушки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніякі   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво гірке . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гірке   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фу .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Напевно , найкраща броварня Львова joy 10 sadness 0 anger 0 fear 0 amazement 10 disgust 0
+напевно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найкраща joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+броварня joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львова joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+напевно, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найкраща броварня joy  sadness 0 anger 0 fear 0 amazement 0 disgust 0
+броварня Львова joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найкраща броварня Львова joy 10 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+о , андрій іванович потратив такііі великі гроші на передвиборчу кампанію , що пора відкривати новий "концептуальний" кабак і компенсувати втрати . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+о, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+андрій joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+іванович joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+потратив joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такііі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+великі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гроші joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+передвиборчу joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кампанію joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пора joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відкривати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+новий joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"концептуальний" joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кабак joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+конпенсувати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+витрати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+андрій іванович joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такіі великі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+великі гроші joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+передвиборчу кампанію joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такіі великі гроші joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на передвиборчу кампанію joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+андрій іванович потратив joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такіі великі гроші на передвиборчу кампанію joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+андрій іванович потративі такіі великі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+андрій іванович потративі такіі великі гроші joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+андрій іванович потративі такіі великі гроші на передвибарчу кампанію, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що пора joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пора відкривати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+новий "концептуальний" joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+"концептуальний" кабак joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і компенсувати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+компенсувати витрати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що пора відкривати новий "концептуальний" joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що пора відкривати новий "концептуальний" кабак joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що пора відкривати новий "концептуальний" кабак і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що пора відкривати новий "концептуальний" кабак і компенсувати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що пора відкривати новий "концептуальний" кабак і компенсувати витрати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Те , що Фест займає всі найкращі місця у Львові ні для кого не є підозрілим? ! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Фест joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+займає joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найкращі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+місця joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львові joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+для joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+є joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+підозрілим?! joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те що фест joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фест займає joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+всі найкращі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+найкращі місця joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у Львові joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+міця у Львові joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ні для кого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не є підозрілим joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+є підозрілим joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те що Фест займає joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Те що Фест займає всі найкращі   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Те що Фест займає всі найкращі місця joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Те що Фест займає всі найкращі місця у Львові joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Те що Фест займає всі найкращі місця у Львові ні для кого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Навіть мережа Дзиґи , яка існує багато років скромно стоїть в кутку , а Кабінет так і зовсім закрили .  .  .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мережа joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дзиґи joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+яка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+існує joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+років joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+скромно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стоїть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+важко joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кутку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Кабінет joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+зовсім joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закрили joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть мережа joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мережа Дзиґи joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть мережа Дзиґи, яка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+яка існує joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+існує багато joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+багато років joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+існує багато років joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+яка існує багато років joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+скромно стоїть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стоїть важко joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стоїть важко у кутку, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а Кабінет joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+так і зовсім joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+закрили joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а Кабінет так і зовсім joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а Кабінет так і зовсім закрили joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть мережа Дзиґи, яка існує joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть мережа Дзиґи, яка існує багато років joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть мережа Дзиґи, яка яка існує багато років скромно стоїть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть мережа Дзиґи, яка яка існує багато років скромно стоїть важко joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть мережа Дзиґи, яка яка існує багато років скромно стоїть важко у кутку,а Кабінет joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть мережа Дзиґи, яка яка існує багато років скромно стоїть важко у кутку,а Кабінет так і зовсім joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+навіть мережа Дзиґи, яка яка існує багато років скромно стоїть важко у кутку,а Кабінет так і зовсім закрили... joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+фест це як ракова пухлина , яка розростається містом .   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Скоро все місто працюватиме в цьому картонному обмані , в цьому дешевому збіговиську , яке не по праву називає себе "холдингом емоцій" .  В мене до фесту тільки одна емоція , хоча , мабуть її краще було б назвати рефлексом .  .  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тут нічого робити , крім як дивитися у вікно . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тут joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нічого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+робити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+крім joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивитися joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вікно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тут нічого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нічого робити joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+крім як joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як дивитися joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+у вікно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дивитися у вікно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тут нічого робити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тут нічого робити крім як joy 0 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+Тут нічого робити крім як дивитися   joy 0 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+Пиво надто гірке , кава ніяка , поїсти нема чого , з семи страв , які пробували , тільки цибулева зупа засмакувала .  joy 17 sadness 14 anger 0 fear 0 amazement 0 disgust 16
+ joy 17 sadness 14 anger 0 fear 0 amazement 0 disgust 16
+Дорого .  joy 0 sadness 14 anger 0 fear 0 amazement 0 disgust 16
+дуже печально , нема ні Zinnebir Xmas , ні Saison de Dottignies , ні XXX Bitter розливних .  .  joy 0 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+дуже печально joy 0 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+нема joy 0 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+ні joy 0 sadness 14 anger 0 fear 0 amazement 0 disgust 0
+XXX joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Zinnebir Xmas joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Saison de Dottignies  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+XXX Bitter розливних joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нема ні joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нема ні Zinnebir Xmas, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ні Saison de Dottignies joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ні XXX Bitter joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ні XXX Bitter розливних.. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже печально, нема ні ні Zinnebir Xmas, joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже печально, нема ні ні Zinnebir Xmas,ні Saison de Dottignies joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже печально, нема ні ні Zinnebir Xmas,ні Saison de Dottignies, ні XXX Bitter joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якраз все те , що хотіла спробувати :( joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якраз joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотіла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+спробувати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якраз все joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все те joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+те, що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що хотіла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хотіла спробувати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якраз все те joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якраз все те, що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якраз все те, що хотіла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Усі страви що ми пробували були жахливі . joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 9
+усі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+страви joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ми joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пробували joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+жахливі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 7
+усі страви joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+страви,що ми пробували joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+були жахливі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 11
+усі страви, що ми пробували були    joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 11
+Пиво темне було нормальне світле не добре .  joy 16 sadness 6 anger 0 fear 0 amazement 0 disgust 8
+пиво joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+темне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нормальне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+світле joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+небагато joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+добре joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво темне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+було нормальне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+світле не добре joy 0 sadness 9 anger 0 fear 0 amazement 0 disgust 0
+не добре joy 0 sadness 9 anger 0 fear 0 amazement 0 disgust 0
+пиво темне було  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво темне було нормальне joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво темне було нормальне світле joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво темне було нормальне світле не добре joy 7 sadness 0 anger 0 fear 0 amazement 0 disgust 10
+Навіть кава ніяка . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 10
+навіть joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніяка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 10
+навіть кава joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кава ніяка  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 7
+Жаль офіціантів бо вони працюють дуже добре але не мають нічого доброго щоб подати гостям joy 0 sadness 14 anger 2 fear 0 amazement 0 disgust 3
+жаль joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціантів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вони joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працюють joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+добре joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мають joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нічого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+доброго joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щоб joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гостям joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+жаль офіціантів joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бо вони joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вони працюють joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+працюють дуже добре joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже добре joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але не мають joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не мають нічого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нічого доброго joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щоб подати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+подати гостям joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вони працюють дуже добре joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але не мають нічого joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але не мають нічого доброго joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+щоб подати гостям joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але не мають нічого доброго щоб подати гостям joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+жаль офіціантів, бо вони joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+жаль офіціантів, бо вони працюють joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+жаль офіціантів, бо вони працюють дуже добре joy 6 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+жаль офіціантів, бо вони працюють дуже добре але не мають joy 6 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+жаль офіціантів, бо вони працюють дуже добре але не мають нічого доброго joy 6 sadness 7 anger 0 fear 0 amazement 0 disgust 6
+жаль офіціантів, бо вони працюють дуже добре але не мають нічого доброго щоб подати joy 6 sadness 7 anger 0 fear 0 amazement 0 disgust 6
+жаль офіціантів, бо вони працюють дуже добре але не мають нічого доброго щоб подати гостям joy 6 sadness 7 anger 0 fear 0 amazement 0 disgust 6
+Локалівській заклад . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+локалівській joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Атмосфера-круто . joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+атмосфера joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+круто   joy 8 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Стосовно пиво різне . joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стосовно joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+різне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+стосовно пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво різне   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мінус не порції по 0,25 joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+мінус joy 0 sadness 8 anger 0 fear 0 amazement 0 disgust 0
+не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+по joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+0,25 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+мінус не joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+не порції joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+порції по 0,25 joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Меню бідне , крім пива немає що вибрати , і то пиво дуже гірке і дороге суцільне розчарування joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 9
+меню joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+бідне joy 0 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+крім joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пива joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+немає joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вибрати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+то joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+гірке joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дороге joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+суцільне joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+розчарування joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+меню бідне joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+крім пива joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+немає що joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+що вибрати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+немає що вибрати joy 0 sadness 5 anger 0 fear 0 amazement 0 disgust 0
+і то joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+і то пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво дуже гірке joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 7
+гірке і дороге joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 7
+пиво дуже гірке і дороге joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 7
+суцільне розчарування joy 0 sadness 28 anger 0 fear 0 amazement 0 disgust 0
+крім пива немає що вибрати , і то пиво joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+крім пива немає що вибрати , і то пиво дуже гірке joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+крім пива немає що вибрати , і то пиво дуже гірке і дороге joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+крім пива немає що вибрати , і то пиво дуже гірке і дороге суцільне розчарування joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+Меню бідне , крім пива немає що вибрати , і то пиво joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+Меню бідне , крім пива немає що вибрати , і то пиво дуже гірке joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+Меню бідне , крім пива немає що вибрати , і то пиво дуже гірке і дороге joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+Вид на площу гарний , а особливо ввечері на каток ! joy 23 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    пласмаса joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чіпси зі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+свинячої шкіри joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 11
+ніби посипана joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+посипана сіллю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ніби посипана сіллю пластмаса joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 35
+чіпси зі свинячої joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+чіпси зі свинячої шкіри  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 19
+Чіпси зі свинячої шкіри - ніби посипана  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 19
+Чіпси зі свинячої шкіри - ніби посипана сіллю  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 19
+Пиво - як суміш сечі з настойкою Бітнер . joy 0 sadness 0 anger 5 fear 0 amazement 0 disgust 21
+пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+суміш joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+сечі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 24
+з joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+настойкою joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Бітнер joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+суміш сечі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 10
+з настойкою joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+настойкою Бітнер joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+пиво - як joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пиво - як суміш joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пиво - як суміш сечі joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 24
+Пиво - як суміш сечі з настойкою  joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 24
+Ціни як в ресторані , хоча за якістю це вокзальна забігайлівка . joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 24
+ціни joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ресторані joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хоча joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+якістю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вокзальна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+забігайлівка joy 0 sadness 10 anger 0 fear 0 amazement 0 disgust 0
+ціни як joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як в ресторані joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хоча за якістю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+за якістю це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+це вокзальна  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+вокзальна забігайлівка joy 0 sadness 14 anger 0 fear 0 amazement 0 disgust 8
+це вокзальна забігайлівка joy 0 sadness 14 anger 0 fear 0 amazement 0 disgust 8
+хоча за якістю це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хоча за якістю це вокзальна joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+хоча за якістю це вокзальна забігайлівка joy 0 sadness 19 anger 0 fear 0 amazement 0 disgust 12
+Ціни як в ресторані , хоча за якістю це joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни як в ресторані , хоча за якістю це вокзальна joy 0 sadness 23 anger 0 fear 0 amazement 0 disgust 15
+дуже класна офіціантка Іринка) ) ) joy 18 sadness 0 anger 0 fear 0 amazement 11 disgust 0
+дуже joy 18 sadness 0 anger 0 fear 0 amazement 11 disgust 0
+класна joy 18 sadness 0 anger 0 fear 0 amazement 11 disgust 0
+офіціантка joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Іринка ) ) ) joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже класна joy 11 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+класна офіціантка joy 11 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+офіціантка  Іринка ) ) ) joy 11 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже класна joy 11 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дуже класна офіціантка joy 11 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+все дуже смачно,гарна подача і хороше пиво) ) ) joy 22 sadness 0 anger 0 fear 0 amazement 14 disgust 0
+Мале меню . joy 0 sadness 10 anger 0 fear 0 amazement 1 disgust 0
+мале joy 0 sadness 10 anger 0 fear 0 amazement 1 disgust 0
+меню   joy 0 sadness 0 anger 0 fear 0 amazement 1 disgust 0
+Чай тільки без лимону .   joy 0 sadness 0 anger 0 fear 0 amazement 1 disgust 0
+чай joy 0 sadness 0 anger 0 fear 0 amazement 1 disgust 0
+тільки joy 0 sadness 0 anger 0 fear 0 amazement 1 disgust 0
+без joy 0 sadness 0 anger 0 fear 0 amazement 1 disgust 0
+лимону joy 0 sadness 0 anger 0 fear 0 amazement 1 disgust 0
+чай тільки joy 0 sadness 0 anger 0 fear 0 amazement 1 disgust 0
+тільки без joy 0 sadness 0 anger 0 fear 0 amazement 1 disgust 0
+без лимону joy 0 sadness 0 anger 0 fear 0 amazement 1 disgust 0
+чай тільки без joy 0 sadness 0 anger 0 fear 0 amazement 1 disgust 0
+Брудно всюди .   joy 0 sadness 0 anger 0 fear 0 amazement 1 disgust 32
+брудно joy 0 sadness 0 anger 0 fear 0 amazement 1 disgust 32
+всюди joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На весь заклад тільки три кабінки в туалеті . joy 0 sadness 26 anger 21 fear 0 amazement 0 disgust 11
+на joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+весь joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+заклад joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тільки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+три joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кабінки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+туалеті joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на весь joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+весь заклад joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+тільки три joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+три кабінки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+в туалеті joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+три кабінки в туалеті joy 0 sadness 12 anger 0 fear 0 amazement 0 disgust 0
+тільки три кабінки в туалеті joy 0 sadness 27 anger 10 fear 0 amazement 0 disgust 0
+на весь заклад joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+на весь заклад три кабінки в туалеті joy 0 sadness 22 anger 6 fear 0 amazement 0 disgust 0
+на весь заклад тільки три кабінки в туалеті joy 0 sadness 22 anger 6 fear 0 amazement 0 disgust 0
+Пиво жахливе . joy 0 sadness 22 anger 6 fear 0 amazement 0 disgust 21
+пиво joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+жахливе   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 24
+Їжі нема як такої joy 0 sadness 34 anger 0 fear 0 amazement 0 disgust 0
+їжі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+нема joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+такої joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+їжі нема joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+як тако joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
