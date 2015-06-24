@@ -1,0 +1,474 @@
+олена 20-30 female
+1  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+10  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+100  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+13.00  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+14.00  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+15 joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+17 joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+2  joy 15 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+20  joy 15 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+200  joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+200 грамів  joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+200 грамів горілки joy 45 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+250 joy 15 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+270  joy 15 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+270 грамів joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+3  joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+30-40  joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+300 joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+300 грамів joy 15 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+300 грамів води  joy 15 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+300 грамів горілки  joy 15 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+40  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+5  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+70-річні  joy 15 sadness 15 anger 0 fear 15 amazement 0 disgust 0
+70-річні батьки joy 15 sadness 15 anger 0 fear 15 amazement 0 disgust 0
+«зрадити» ПХ joy 0 sadness 15 anger 0 fear 15 amazement 0 disgust 0
+Ємність  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ємність склянки  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ємність такої склянки  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ємність такої склянки — 250, максимум 270 грамів.  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Ємність — 250 joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+І  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+І знову joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+І знову налили joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+І знову нам налили joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+І знову нам налили у склянку joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 15
+І знову нам налили у таку склянку joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 15
+І знову нам налили у таку склянку.  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 15
+І ще joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 15
+І ще — придбайте достатньо графінів) joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+І я не буду  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+І я ніколи не буду  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 15
+І я ніколи не буду рекомендувати  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 15
+І я ніколи не буду рекомендувати його  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 15
+І я ніколи нікому не буду рекомендувати його  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 15
+І я ніколи нікому не буду рекомендувати його.  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 15
+Їли  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Їли на в.Січ.Стрільців  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Їли тільки на в.Січ.Стрільців  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Їли тільки у ПХ на в.Січ.Стрільців  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Їли тільки у ПХ на в.Січ.Стрільців.  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Їли у ПХ на в.Січ.Стрільців  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Їх  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Їх не виявилося   joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Їх також не виявилося.  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+А  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А людини  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А людини, що мала б розливати соки та гарячі напої, взагалі не було, прочекали хвилин 5, взяли компот.  joy 0 sadness 0 anger 45 fear 0 amazement 15 disgust 0
+А це можна забрати  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А ще повеселило те  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+А ще повеселило те ,що ПХ називають фаст-фудом.  joy 45 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+А якщо тебе злапали joy 0 sadness 0 anger 0 fear 15 amazement 15 disgust 0
+А якщо тебе злапали, поводься по-людськи, а не роби вигляд, що все так і мало бути.  joy 0 sadness 0 anger 45 fear 0 amazement 15 disgust 0
+Але  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Але в котрий раз були вражені робітниками цього закладу joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Але в котрий раз були приємно вражені робітниками закладу joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Але в котрий раз були приємно вражені робітниками цього закладу  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Але в котрий раз були приємно вражені робітниками цього закладу.  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Але в котрий раз були приємно робітниками закладу  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Але ж не так joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Але ж не так!!! joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Але заробити можна на чайових joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Але заробити можна на чайових, а не на обмані.  joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 30
+Але знаєте joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 0
+Але знаєте, що ми помітили цього разу?  joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 0
+Але так навіть у макдаку не роблять  joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 0
+Але так навіть у макдаку не роблять, обурило... joy 0 sadness 15 anger 30 fear 0 amazement 15 disgust 30
+Але я знаю  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Але я знаю точно joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Але я знаю точно — ні я, ні мої рідні і друзі в цей заклад більше не прийдемо  joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 0
+Але я знаю точно — ні я, ні мої рідні і друзі в цей заклад більше не прийдемо.  joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 0
+Асортимент  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Асортимент, якість, ціна все тут влаштовує.  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+БІЛЬШЕ  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+БІЛЬШЕ НЕ БУДЕ joy 0 sadness 0 anger 30 fear 0 amazement 15 disgust 0
+БУДЕ joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Була  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Була з сином  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Була з сином у минулому серпні joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Була з сином у минулому серпні.  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Була з сином у серпні  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Була у минулому серпні joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були на днях у закладі  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були на днях у закладі на Шевченка joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Були на днях у закладі на Шевченка.  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Біля  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Біля страв  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Біля страв може бути відсутня людина (в час пік!!!!!!), самому брати неможна. але і обслужити нема кому.  joy 0 sadness 0 anger 45 fear 0 amazement 15 disgust 0
+Вибір  joy 0 sadness 0 anger 45 fear 0 amazement 15 disgust 0
+Вибір великий  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Вибір страв великий  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Вибір страв великий.  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Висновок  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Висновок: така собі пристойна столовка... якщо надто голодні, щоб кудись іти, то можна зайти...  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Виявляється joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Виявляється, у ту склянку НЕ ПОМІЩАЄТЬСЯ 300 грамів!  joy 0 sadness 0 anger 30 fear 0 amazement 15 disgust 0
+Вона  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вона сама накинула без згоди joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Вона сама накинула без моєї згоди joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Вона сама її накинула без згоди joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Вона сама її накинула без моєї згоди  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+Вона сама її накинула без моєї згоди.  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+Вона її накинула без згоди joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+Вона її накинула без моєї згоди joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+Всяке  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Всяке буває  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Всяке буває.  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Всі  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Всі страви  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Всі страви дуже подобались  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Всі страви дуже подобались.  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Всі страви подобались joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вчора joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вчора 20 січня  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Вчора, 20 січня, приблизно о 17 годині вечора, ми зайшли до «Пузатої хати» на проспекті Шевченка, 10, у Львові.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 15
+Від  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Від  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Від робітників joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Від робітників бачили тільки чемність joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Від робітників бачили тільки чемність, увагу.  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Від співробітників чула joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Від співробітників чула, що траплялися зіпсуті страви з м"яса і риби. joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 30
+До  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 30
+До власників.  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 30
+До власників.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Довго  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Довго обслуговують joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Довго обслуговують коли в клієнта є бажання розрахуватися карткою  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Довго обслуговують коли в клієнта є бажання розрахуватися карткою, поганий зв"язок з банком (але це очевидно проблеми банку, який обслуговує термінали). joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+Довелось  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Довелось просити менеджера  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Довелось самому просити менеджера joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 0
+Довелось самому просити менеджера, щоб забезпечили посудою дівчат, які видають перші страви. joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 0
+Досить joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Досить часто з 13.00 по 14.00 працють не всі каси  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Досить часто з 13.00 по 14.00 працють не всі каси і створюються великі черги людей з підносами повними їжі ( не пройти , не пролізти). joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+Дякую  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую за взаєморозуміння joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дякую за взаєморозуміння! =) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дівчина  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дівчина за барною стойкою joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дівчина за барною стойкою сказала joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Дівчина за барною стойкою сказала, що графінів нема, і вона наллє нам у склянку для глінтвейну.  joy 0 sadness 15 anger 30 fear 0 amazement 15 disgust 0
+Дівчина сказала joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+З  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+З чоловіком joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+З чоловіком вирішили «зрадити» ПХ joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+З чоловіком вирішили «зрадити» ПХ-і пошкодували joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 15
+З чоловіком у травні вирішили «зрадити» ПХ joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 15
+З чоловіком у травні вирішили «зрадити» ПХ-і пошкодували joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 15
+З чоловіком у травні вирішили «зрадити» ПХ-і пошкодували.  joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 15
+Зверніть  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Зверніть увагу  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Звісно  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Звісно, майже усюди не доливають і не докладають.  joy 0 sadness 15 anger 30 fear 0 amazement 15 disgust 0
+Києві joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Києві  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Коли  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Коли  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Коли не вдалося joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Коли це не вдалося joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Коли я запитала про цибулю joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Коли я запитала про цибулю, вона відповіла: «Треба говорити, що ви хочете ще з цибулею!»  joy 0 sadness 15 anger 30 fear 0 amazement 15 disgust 0
+Коли їй це не вдалося  joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Коли їй це не вдалося, вона навіть не перепросила, не запропонувала повернути гроші чи, скажімо, долити те, що не помістилося...  joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 0
+Куряча  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Куряча ковбаска joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Куряча ковбаска (така закручена на шпишці) коли була розрізана — неймовірно смерділа, вона мабуть не одну ніч пролежала не в холодильнику!  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 45
+Куряча ковбаска була розрізана  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Куряча ковбаска коли була розрізана — неймовірно смерділа joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 60
+Куряча ковбаска неймовірно смерділа joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 60
+Львова  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львові joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Львів  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+МОЄЇ  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+МакДак  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+МакДак і аж ніяк не домашня їжа joy 0 sadness 0 anger 0 fear 15 amazement 0 disgust 15
+Менеджер  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Менеджер навідь не вибачилась joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+Менеджер навідь не вибачилась, коли понюхала, дуже почервоніла і погодилась що продукт не свіжий — запропонувала взяти щось взамін... joy 0 sadness 15 anger 30 fear 0 amazement 15 disgust 30
+Менеджер не вибачилась   joy 0 sadness 15 anger 30 fear 0 amazement 15 disgust 0
+Менеджери  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Менеджери ПХ joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Менеджери ПХ Львів  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Менеджери ПХ Львів (тільки Львів) Зверніть увагу!  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Менеджери ПХ зверніть увагу на вигляд продукції joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Менеджери ПХ зверніть увагу на зовнішній вигляд продукції joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Менеджери ПХ зверніть увагу на зовнішній вигляд продукції і манери обслуговування персоналу joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Менеджери ПХ зверніть увагу на зовнішній вигляд продукції і манери обслуговування персоналу.  joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 0
+Менеджери ПХ зверніть увагу на манери обслуговування  joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 0
+Менеджери ПХ зверніть увагу на манери обслуговування персоналу joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 0
+Менеджери ПХ зверніть увагу на обслуговування  joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 0
+Менеджери ПХ зверніть увагу на обслуговування персоналу joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 0
+Мені  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Мені стало шкода joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Мені стало шкода дівчать joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Мені стало шкода тих дівчать joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Мені стало шкода тих дівчать що працють  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Мені стало шкода тих дівчать що працють там  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Мені стало шкода тих дівчать що працють там лиш місяць joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Мені стало шкода тих дівчать що працють там лиш місяць, тому я вирішив не скандалити, але НОГИ МОЄЇ ТАМ БІЛЬШЕ НЕ БУДЕ! joy 0 sadness 30 anger 45 fear 0 amazement 0 disgust 0
+Мені стало шкода тих дівчать що працють там місяць   joy 0 sadness 30 anger 45 fear 0 amazement 0 disgust 0
+Мені шкода joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Мені шкода дівчать joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Мені шкода тих дівчать joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Мені шкода тих дівчать що працють  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Мені шкода тих дівчать що працють там  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Мені шкода тих дівчать що працють там лиш місяць joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Мені шкода тих дівчать що працють там місяць   joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Ми  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Ми — це я та мої 70-річні батьки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ми — це я та мої 70-річні батьки. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Моє  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Моє обурення сягнуло апогею joy 0 sadness 0 anger 75 fear 0 amazement 15 disgust 0
+Моє обурення сягнуло апогею, коли один з представників «клінінгу» з почав протирати наш столик, поки ми ще дожовували.  joy 0 sadness 0 anger 75 fear 0 amazement 15 disgust 0
+Між  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Між іншим  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Між іншим, вільною була десь третина столиків у закладі, тому аргументувати таку поведінку великою кількістю відвідувачів важко...  joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Мінуси  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Мінуси:  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Мінуси: ціни, як на заклад швидкого харчування, дещо завищені... наприклад, в аналогічному кафе-бістро у франківську («Сита ложка») можна пообідати майже вдвічі дешевше.   joy 0 sadness 30 anger 15 fear 0 amazement 15 disgust 0
+НЕ  joy 0 sadness 30 anger 15 fear 0 amazement 15 disgust 0
+НЕ ПОМІЩАЄТЬСЯ joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+НЕ ПОМІЩАЄТЬСЯ 300 грамів joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+НОГИ  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+НОГИ МОЄЇ ТАМ БІЛЬШЕ НЕ БУДЕ  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+На  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+На 30-40 грн.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На 30-40 грн. можна пообідати, але не всі собі це можуть дозволити. joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+На прохання дати малу порцію першої страви мені відповіли joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+На прохання дати малу порцію першої страви мені відповіли, що немає посуди, беріть велику.  joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 0
+Навчіть  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Навчіть персонал joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Навчіть персонал шанувати клієнтів  joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 0
+Навчіть свій персонал joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Навчіть свій персонал шанувати клієнтів  joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 0
+Навчіть свій персонал шанувати клієнтів.  joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 0
+Нагорі  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нагорі взяли три порції запеченої картоплі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нагорі взяли три порції запеченої у глечиках картоплі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нагорі взяли три салати  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нагорі взяли три салати і три порції запеченої у глечиках картоплі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Нагорі взяли три салати і три порції запеченої у глечиках картоплі (як виявилося пізніше, дуже несмачної), а внизу, у барі, замовили 300 грамів горілки.  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 15
+Наприкінці  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Наприкінці перебування пережили пригоду joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Наприкінці перебування у Львові пережили пригоду joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Наприкінці перебування у Львові пережили пригоду- по необачності залишили гаманець у ПХ joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Наприкінці перебування у Львові пережили пригоду- по необачності залишили гаманець у ПХ.  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Наскільки  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Наскільки я знаю joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Наскільки я знаю, і працюю у нашій хаті пропонувати сметану і цибулю треба!   joy 0 sadness 0 anger 15 fear 0 amazement 30 disgust 0
+Натомість  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Натомість, купа прибиральників, що снують між столиками і перепитують стосовно кожної спорожнілої посудини на твоєму підносі — «А це можна забрати?».   joy 0 sadness 0 anger 45 fear 0 amazement 30 disgust 0
+Не  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Не лишалося нічого іншого  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Не лишалося нічого іншого, як погодитися на склянку для глінтвейну (та, що на ніжці та з ручкою).  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Не маю звички  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Не маю звички жалітися joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Не маю звички жалітися, але те, що побачила в одному з ваших закладів, не може не шокувати. joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+Не хотілося  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Не хотілося скандалити joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Не хотілося скандалити при батьках joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Не хотілося скандалити при старих батьках joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Не хотілося скандалити при старих батьках, які дуже рідко можуть кудись вийти.  joy 0 sadness 30 anger 0 fear 0 amazement 15 disgust 0
+Незавжди  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Незавжди нормальне обслуговування  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Незавжди нормальне обслуговування.  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Обов"язково  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Обов"язково прийдемо ще joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Обов"язково прийдемо ще! joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Охоронець  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Охоронець без довгих розмов повернув гаманець  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Охоронець без довгих розмов повернув гаманець.  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Охоронець повернув гаманець  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ПОМІЩАЄТЬСЯ  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ПОМІЩАЄТЬСЯ 300 грамів  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ПХ  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ПХ називають  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ПХ називають фаст-фудом  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+ПХ-і  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Персоналу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Персоналу не вистачає joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Персоналу не вистачає, це дуже відчутно, бо одна й та сама дівчина накладала і перші страви і гарячі закуски — між іншим, це була субота, близько 15 години.  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 0
+Плюси  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Плюси закладу joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Плюси закладу: великий вибір страв, все тепленьке-свіженьке, порції нормального розміру, зручні столики, привітні і акуратні офіціантки... joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Подбати  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Подбати про швидке обслуговування joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Подбати про швидке і якісне обслуговування joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Подбати про швидке і якісне обслуговування як на роздачі страв так і на касі. joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Подбати про якісне обслуговування joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пожерли joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 15
+Пожерли?  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 15
+Працівниця  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Працівниця не запитала joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Працівниця, яка мене обслуговувала  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Працівниця, яка мене обслуговувала не запитала , чи бажаю я сметану.  joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 0
+Прийшли  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Прийшли десь за годину-йшли і думали, що це вороття зайве.  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Прийшли десь за годину-йшли і думали, що це вороття зайве.  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Прохання  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Прохання пильнувати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Прохання пильнувати за зберіганням продуктів joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Прохання пильнувати за якістю продуктів joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Прохання пильнувати за якістю та зберіганням продуктів joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Прохання пильнувати за якістю та зберіганням продуктів, з яких готують страви. joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 15
+Пузатої  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пузатій  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пізніше  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пізніше ми зробили замовлення joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пізніше ми зробили одне замовлення joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пізніше ми зробили ще замовлення  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пізніше ми зробили ще одне замовлення joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Пізніше ми зробили ще одне замовлення — ще 200 грамів горілки.   joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Річ  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Річ не у грамах joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Річ не у грамах.  joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Річ у відношенні joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Річ у відношенні до клієнта.  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Сита  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сита ложка  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Смачна  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Смачна домашня їжа joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Смачна домашня їжа,свіжі салатики.смачні котлети(особливо котлети з сиром і шинкою) і картопля ! .  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Смачно.  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Смішно joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Смішно читати  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Смішно читати про дорогі ціни joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Смішно читати про дорогі ціни... joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Смішно читати про ціни joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спочатку  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спочатку я хотіла joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спочатку я хотіла купити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спочатку я хотіла їх купити joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Спочатку я хотіла їх купити, та передумала.  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Стрільців  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Стрільців.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сьогодні  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сьогодні мав необережність joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+Сьогодні мав необережність зайти joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+Сьогодні мав необережність зайти в ПХ joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+Сьогодні мав необережність зайти в ПХ на пр.Шевченка joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+Сьогодні мав необережність зайти в ПХ на пр.Шевченка, яка досить недавно відкрилась.  joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 0
+Сьогодні я приїжджала joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Сьогодні я приїжджала додому, до Львова. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Січ. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Січових  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ТАМ  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+ТАМ БІЛЬШЕ НЕ БУДЕ joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+Та  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+Та Якось гуляла по центрі joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Та Якось гуляла по центрі і вирішила зайти в ПХ і порівняти як у них, а як у нас: з того всього, я побачила,що у Львові персонал набагато не привітний, ніж у Києві, та й млинці з яблуками і з сиром набагато менші і тонші.  joy 0 sadness 15 anger 30 fear 0 amazement 15 disgust 0
+Таке  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Таке  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Таке нахабство  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Таке нахабство просто бісить.  joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+Таке собі ненавязливе  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+Таке собі ненавязливе «Пожерли? То пшли звідси!»...  joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+Тепер  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тепер живу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тепер живу у Києві.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+То  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+То пшли звідси  joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 0
+Тобто  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тобто, перший раз продавщиця нас нахабно обманула.  joy 0 sadness 0 anger 30 fear 0 amazement 30 disgust 0
+Треба  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Треба говорити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тільки  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Тільки приготуйтесь тікати відразу ж після того joy 15 sadness 0 anger 30 fear 0 amazement 15 disgust 0
+Тільки приготуйтесь тікати відразу ж після того, як проковтнете останній шматочок... joy 15 sadness 0 anger 30 fear 0 amazement 15 disgust 0
+У  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У вас там що  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+У вас там що, тарілки чітко під розрахунок, не можете дочекатись, поки люди доїдять???  joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+Фаст-фуд  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Фаст-фуд це гамбургери  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Фаст-фуд це хот-доги  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Фаст-фуд це хот-доги, гамбургери , МакДак і аж ніяк не домашня їжа. joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 0
+Ходимо  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ходимо з мамою joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ходимо з мамою туди вже як мінімум 2 роки  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ходимо з мамою туди вже як мінімум 2 роки і абсолютно задоволені! joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Хоча  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Хоча один раз купила печінковий торт несвіжий joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 0
+Хоча один раз купила печінковий торт несвіжий (зіпсутий майонез).   joy 0 sadness 30 anger 0 fear 0 amazement 15 disgust 15
+Це  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Це був мій 3 раз joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Це був мій 3 раз (ходив на пиво і до пива) у цьому «ресторані» і останній! joy 0 sadness 0 anger 60 fear 0 amazement 0 disgust 0
+Це було моє єдине відвідування пузатої хати joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 0
+Це було моє єдине відвідування пузатої хати, порівнювати з іншими закладами цієї мережі не можу, все подальше стосується тільки кафешки у Львові на Шевченка. joy 0 sadness 0 anger 15 fear 0 amazement 15 disgust 0
+Ціни joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни загалом на сьогоднішній день нормальні joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни загалом на сьогоднішній день нормальні в порівнянні з іншими закладами.  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни загалом нормальні joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Ціни нормальні joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Часто  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Часто буваю в Пузатій хаті у Львові joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Часто буваю в Пузатій хаті у Львові на вул.Січових Стрільців joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Часто буваю в Пузатій хаті у Львові на вул.Січових Стрільців в обідній час.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Шевченка  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Шевченка  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Шевченка  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Шевченка. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Щодо  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Щодо  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Щодо  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Щодо закладу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Щодо закладу на Січових стрільців  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Щодо закладу на Січових стрільців — кажуть там буває ще гірше... joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Щодо кухні.  joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Щодо кухні.  joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Щодо цін joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Щодо цін.   joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Я  joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Я вирішила  joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Я вирішила взяти вареники.  joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Я попросила joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Я попросила налити joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Я попросила налити по 100 грамів joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Я попросила налити у келішки по 100  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я попросила налити у келішки по 100 грамів.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я попросила продавщицю  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я попросила продавщицю при мені спробувати joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я попросила продавщицю при мені спробувати налити joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я попросила продавщицю при мені спробувати налити у склянку joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я попросила продавщицю при мені спробувати налити у склянку 300 грамів води joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Я попросила продавщицю при мені спробувати налити у склянку 300 грамів води.  joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Я попросила продавщицю при мені спробувати налити у склянку води joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Я попросила продавщицю спробувати joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Я працюю joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Я працюю в ПХ  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я працюю в ПХ і кожного дня харчуюся там joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Я працюю в ПХ і кожного дня харчуюся там, ніколи не мала скарг, тому, що знаю, як це погано, але... joy 0 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Який  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Який на смак виявився дещо підкислим joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Який на смак виявився дещо підкислим.  joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Якось  joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Якось  joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Якось гуляла по центрі joy 0 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+Якось спробуєте самі налити повну таку склянку  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Якось спробуєте самі налити повну таку склянку та спробувати розлити у рюмки — подивитеся, скільки виливається.  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 0
+а  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а внизу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а не на обмані joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а не роби вигляд joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а роби вигляд joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а тут цілий обід :і картопельку,і гарнір і салатик joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а як у нас joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+або  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+абсолютно  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+абсолютно задоволені joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+аж  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+акуратні   joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+але НОГИ МОЄЇ ТАМ БІЛЬШЕ НЕ БУДЕ joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+але НОГИ МОЄЇ ТАМ БІЛЬШЕ НЕ БУДЕ joy 0 sadness 0 anger 45 fear 0 amazement 0 disgust 0
+але не всі можуть дозволити joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+але не всі собі це можуть дозволити joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 0
+але те не може не шокувати joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+але це очевидно проблеми банку  joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+але і обслужити нема кому joy 0 sadness 15 anger 30 fear 0 amazement 0 disgust 0
+аналогічному  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+аналогічному кафе-бістро joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 0
