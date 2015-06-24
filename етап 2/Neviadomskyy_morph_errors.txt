@@ -1,0 +1,36 @@
+Розливне	розливний 
+adj:n:v_naz 
+adj:n:v_zna
+
+
+найсвіжіше	свіжий 
+свіжо 
+adj:n:v_naz:super 
+adj:n:v_zna:super 
+adv:super 
+
+
+рекомендую	рекомендувати 
+verb:futr:s:1:perf 
+verb:pres:s:1:imperf 
+
+
+Старий	старий 
+adj:m:v_naz:compb 
+adj:m:v_zna:compb 
+
+
+футбольні	футбольний 
+adj:p:v_naz 
+adj:p:v_zna
+
+класне	класний 
+adj:n:v_naz 
+adj:n:v_zna 
+
+
+Добре	добре 
+добрий 
+adv 
+adj:n:v_naz:compb 
+adj:n:v_zna:compb 
