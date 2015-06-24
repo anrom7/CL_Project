@@ -1,0 +1,16 @@
+﻿Михайло_07_05_2015_01.txt http://egoisty.com/restaurant-location/celentano/lviv-galicka-1-uk
+Оля_06_04_2015_01.txt http://egoisty.com/restaurant-location/celentano/lviv-galicka-1-uk?page=1
+EllenRazi_30_03_2015_01.txt http://egoisty.com/restaurant-location/celentano/lviv-galicka-1-uk?page=2
+Мар'яна_15_03_2015_01.txt http://egoisty.com/restaurant-location/celentano/lviv-galicka-1-uk?page=3
+Tetyana_Lesyuk_24_11_2015_01.txt http://egoisty.com/restaurant-location/celentano/lviv-galicka-1-uk?page=4
+Галина_13_11_2014_01.txt http://egoisty.com/restaurant-location/celentano/lviv-galicka-1-uk?page=5
+Ірина_30_10_2014_01.txt http://egoisty.com/restaurant-location/celentano/lviv-galicka-1-uk?page=5
+Олена_05_10_2014_01.txt http://egoisty.com/restaurant-location/celentano/lviv-galicka-1-uk?page=6
+Віола_31_03_2014_01.txt http://egoisty.com/restaurant-location/celentano/lviv-galicka-1-uk?page=7
+Відвідувач_18_05_2014_01.txt http://list.lviv.ua/%D0%9F%D1%96%D1%86%D0%B5%D1%80%D1%96%D1%97/36104/%D0%A7%D0%B5%D0%BB%D0%B5%D0%BD%D1%82%D0%B0%D0%BD%D0%BE-%D0%9B%D1%8C%D0%B2%D1%96%D0%B2
+Львівська_10_05_2014_01.txt http://list.lviv.ua/%D0%9F%D1%96%D1%86%D0%B5%D1%80%D1%96%D1%97/36104/%D0%A7%D0%B5%D0%BB%D0%B5%D0%BD%D1%82%D0%B0%D0%BD%D0%BE-%D0%9B%D1%8C%D0%B2%D1%96%D0%B2
+Дмитро_12_11_2012_01.txt http://v.lviv.ua/catalog/food/pizza/chelentano-na-knyazya-romana.html
+Фацет_з_гальорки_27_04_2013_01.txt http://visitlviv.net/restaurant/ua/pica-chelentano-vul-knyazya-romana/
+Оксана_08_02_2014_01.txt http://visitlviv.net/restaurant/ua/pica-chelentano-vul-volodymyra-velykoho/
+Олександр_20_06_2011_01.txt http://lasoon.com.ua/ukr/rivne/restaurant/pitstsa-chelentano?tab=otzyvy
+Гість_18_07_2014_01.txt http://lviv.travel/ua/index/wheretoeat/~52/pica-chelentano-vul-kopernika-9
