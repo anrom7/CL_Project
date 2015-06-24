@@ -1,0 +1,2194 @@
+Gerych 20-30 female
+є одне золоте правило, яке дуже часто забувають працівники закладів (практично будь-яких): «Не я для кафе, а кафе для мене».  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+є joy 0 sadness 0 anger 1 fear 0 amazement 0 disgust 0
+одне joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+золоте joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+правило, joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+яке  joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+дуже joy 0 sadness 1 anger 0 fear 0 amazement 2 disgust 0
+часто  joy 0 sadness 1 anger 0 fear 0 amazement 2 disgust 0
+забувають  joy 0 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+працівники  joy 0 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+закладів  joy 0 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+(практично  joy 0 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+будь-яких):  joy 0 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+«Не  joy 0 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+я  joy 0 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+для  joy 0 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+кафе,  joy 0 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+а  joy 0 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+кафе  joy 0 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+для  joy 0 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+мене».  joy 0 sadness 4 anger 0 fear 0 amazement 0 disgust 0
+є одне правило, joy 1 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+одне правило, joy 1 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+золоте правило, joy 1 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+одне золоте правило,  joy 1 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+є одне золоте правило joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 0
+дуже часто  joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 0
+часто забувають joy 0 sadness 6 anger 3 fear 0 amazement 0 disgust 0
+забувають працівники joy 0 sadness 6 anger 3 fear 0 amazement 0 disgust 0
+працівники закладів joy 0 sadness 6 anger 3 fear 0 amazement 0 disgust 0
+я для кафе, joy 0 sadness 6 anger 3 fear 0 amazement 0 disgust 0
+для кафе,  joy 0 sadness 3 anger 3 fear 0 amazement 0 disgust 0
+кафе для мене».  joy 0 sadness 3 anger 3 fear 0 amazement 0 disgust 0
+правило, яке дуже часто забувають працівники закладів joy 0 sadness 3 anger 3 fear 0 amazement 0 disgust 0
+працівники (практично будь-яких) закладів  joy 0 sadness 3 anger 3 fear 0 amazement 0 disgust 0
+Дуже часто можна зустрітись з офіціантами, які вважають, що вони мені послугу роблять (коли обслуговують мене), а не працюють. joy 0 sadness 3 anger 3 fear 0 amazement 0 disgust 0
+Дуже  joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+часто  joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+можна  joy 0 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+зустрітись  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+з  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+офіціантами,  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+які  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+вважають,  joy 0 sadness 6 anger 5 fear 0 amazement 0 disgust 0
+що  joy 0 sadness 6 anger 5 fear 0 amazement 0 disgust 0
+вони  joy 0 sadness 6 anger 5 fear 0 amazement 0 disgust 0
+мені  joy 0 sadness 6 anger 5 fear 0 amazement 0 disgust 0
+послугу  joy 0 sadness 6 anger 5 fear 0 amazement 0 disgust 0
+роблять  joy 0 sadness 6 anger 5 fear 0 amazement 0 disgust 0
+(коли  joy 0 sadness 6 anger 5 fear 0 amazement 0 disgust 0
+обслуговують  joy 0 sadness 6 anger 11 fear 0 amazement 0 disgust 0
+мене),  joy 0 sadness 6 anger 11 fear 0 amazement 0 disgust 0
+а  joy 0 sadness 6 anger 11 fear 0 amazement 0 disgust 0
+не  joy 0 sadness 6 anger 11 fear 0 amazement 0 disgust 0
+працюють.  joy 0 sadness 6 anger 11 fear 0 amazement 0 disgust 0
+Дуже часто  joy 0 sadness 6 anger 11 fear 0 amazement 0 disgust 0
+можна зустрітись joy 0 sadness 6 anger 11 fear 0 amazement 0 disgust 0
+часто можна зустрітись  joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 0
+зустрітись з офіціантами,  joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 0
+зустрітись з офіціантами, які вважають, що послугу роблять  joy 0 sadness 6 anger 0 fear 0 amazement 0 disgust 0
+можна зустрітись з офіціантами, які вважають, що вони мені послугу роблять joy 0 sadness 6 anger 7 fear 0 amazement 0 disgust 0
+вони мені послугу роблять  joy 0 sadness 6 anger 7 fear 0 amazement 0 disgust 0
+вони послугу роблять  joy 0 sadness 6 anger 7 fear 0 amazement 0 disgust 0
+мені послугу роблять  joy 0 sadness 6 anger 7 fear 0 amazement 0 disgust 0
+обслуговують мене  joy 0 sadness 6 anger 7 fear 0 amazement 0 disgust 0
+не працюють. joy 0 sadness 6 anger 7 fear 0 amazement 0 disgust 0
+вони не працюють. joy 0 sadness 6 anger 7 fear 0 amazement 0 disgust 0
+обслуговують мене, а не працюють. joy 0 sadness 6 anger 7 fear 0 amazement 0 disgust 0
+За працю платяться гроші і, крім того, варто пам'ятати про чайові, адже більшість людей не поскупиться дати високі чйові, якщо їх будуть відповідно обслуговувати.  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+За  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+працю  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+платяться  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+гроші  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+і,  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+крім  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+того,  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+варто  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+пам'ятати  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+про  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+чайові,  joy 0 sadness 1 anger 0 fear 0 amazement 6 disgust 0
+адже  joy 0 sadness 4 anger 0 fear 0 amazement 6 disgust 0
+більшість  joy 0 sadness 4 anger 0 fear 0 amazement 6 disgust 0
+людей  joy 0 sadness 4 anger 0 fear 0 amazement 6 disgust 0
+не  joy 0 sadness 4 anger 0 fear 0 amazement 6 disgust 0
+поскупиться  joy 0 sadness 4 anger 0 fear 0 amazement 6 disgust 0
+дати  joy 0 sadness 4 anger 4 fear 0 amazement 6 disgust 0
+високі  joy 0 sadness 4 anger 4 fear 0 amazement 6 disgust 0
+чайові,  joy 0 sadness 4 anger 4 fear 0 amazement 6 disgust 0
+якщо  joy 0 sadness 4 anger 4 fear 0 amazement 6 disgust 0
+їх  joy 0 sadness 4 anger 4 fear 0 amazement 6 disgust 0
+будуть  joy 0 sadness 4 anger 4 fear 0 amazement 6 disgust 0
+відповідно  joy 0 sadness 4 anger 4 fear 0 amazement 6 disgust 0
+обслуговувати.  joy 0 sadness 4 anger 4 fear 0 amazement 6 disgust 0
+За працю платяться гроші  joy 9 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+платяться гроші joy 9 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+За працю joy 9 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+крім того  joy 9 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+варто пам'ятати  joy 9 sadness 1 anger 0 fear 0 amazement 0 disgust 0
+пам'ятати про чайові, joy 9 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+варто пам'ятати про чайові, joy 9 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+більшість людей  joy 9 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+більшість людей не поскупиться joy 9 sadness 3 anger 0 fear 0 amazement 0 disgust 0
+не поскупиться дати високі чайові, joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+високі чайові, joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дати чайові, joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дати високі чайові, joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+дати чайові, якщо їх будуть відповідно обслуговувати. joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+відповідно обслуговувати. joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+будуть обслуговувати. joy 16 sadness 0 anger 0 fear 0 amazement 16 disgust 0
+їх будуть обслуговувати.  joy 16 sadness 0 anger 0 fear 0 amazement 16 disgust 0
+їх будуть відповідно обслуговувати.  joy 16 sadness 0 anger 0 fear 0 amazement 16 disgust 0
+А скаржитись на те, що робота офіціанта складна — це як мінімум немудро (є маса професій, значно складніших і нервовіших, аніж офіціант). + не можеш справлятись з роботю — іди працюй де-інде joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+А  joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+скаржитись  joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+на  joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+те,  joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+що  joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+робота  joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+офіціанта  joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+складна —  joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+це  joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+як  joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+мінімум  joy 0 sadness 0 anger 7 fear 0 amazement 0 disgust 0
+немудро  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 0
+(є  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 0
+маса  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 0
+професій,  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 0
+значно  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 0
+складніших  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 0
+і  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 0
+нервовіших,  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 0
+аніж  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 10
+офіціант). +  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 10
+не  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 10
+можеш  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 10
+справлятись  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 10
+з  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 10
+роботою —  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 10
+іди  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 10
+працюй  joy 0 sadness 5 anger 7 fear 0 amazement 0 disgust 10
+де-інде. joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+робота офіціанта  joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+робота складна joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+робота офіціанта складна -  joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+скаржитись на те, що робота складна -  joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+скаржитись на те, що робота офіціанта складна -  joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+скаржитись немудро joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+скаржитись як мінімум немудро joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+маса професій, joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+є маса професій, joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+маса професій, значно складніших і нервовіших,  joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+маса професій, значно складніших і нервовіших, аніж офіціант). joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+можеш справлятись  joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+не можеш справлятись  joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+справлятись з роботою -  joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+не можеш справлятись з роботою -  joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+можеш справлятись з роботою -  joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+іди працюй  joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+працюй де-інде joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+іди працюй де-інде joy 0 sadness 5 anger 14 fear 0 amazement 0 disgust 10
+Чудова цукернича каварня)) солодощі, а особливо рогалики - однозначно вартують уваги! joy 19 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+Чудова  joy 19 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+цукернича  joy 19 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+каварня))  joy 19 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+солодощі,  joy 19 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+а  joy 19 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+особливо  joy 19 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+рогалики -  joy 19 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+однозначно  joy 19 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+вартують  joy 19 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+уваги!  joy 19 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Чудова кавярня)) joy 19 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+цукернича кавярня)) joy 19 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Чудова цукернича кавярня)) joy 19 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+солодощі вартують уваги! joy 19 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+вартують уваги! joy 34 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+рогалики вартують уваги! joy 34 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+однозначно вартують уваги! joy 34 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+солодощі, а особливо рогалики - однозначно вартують уваги! joy 34 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+І навіть після зауваження про 'розбавленість' пива, без жодних запитань поміняли на інше за рахунок закладу) joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+І  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+навіть  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+після  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+зауваження  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+про  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+'розбавленість'  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+пива,  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+без  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+жодних  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+запитань  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+поміняли  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+на  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+інше  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+за  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+рахунок  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+закладу) joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+після зауваження  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+навіть після зауваження  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 15
+зауваження про 'розбавленість'  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+навіть після зауваження про 'розбавленість'  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+зауваження про 'розбавленість' пива, joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+'розбавленість' пива, joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+навіть після зауваження про 'розбавленість' пива,  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+без жодних запитань  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+поміняли на інше  joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+за рахунок закладу) joy 16 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+поміняли за рахунок закладу) joy 16 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+після зауваження поміняли  joy 16 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+після зауваження поміняли на інше joy 16 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+після зауваження поміняли на інше за рахунок закладу) joy 16 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+"Фреска" була моєю улюбленою кав'ярнею. joy 16 sadness 0 anger 0 fear 0 amazement 30 disgust 0
+"Фреска"  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+моєю  joy 16 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+улюбленою  joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+кав'ярнею. joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+улюбленою кав'ярнею. joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була улюбленою кав'ярнею. joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+моєю улюбленою кав'ярнею. joy 31 sadness 0 anger 0 fear 0 amazement 0 disgust 0
+була моєю улюбленою кав'ярнею. joy 31 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+"Фреска" була улюбленою кав'ярнею. joy 31 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Подобалось там абсолютно все:надзвичайно смачний гарячий шоколад,коктейлі,солодощі. joy 31 sadness 0 anger 0 fear 0 amazement 15 disgust 0
+Подобалось  joy 31 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+там  joy 31 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+абсолютно  joy 31 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+все: joy 31 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+надзвичайно  joy 31 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+смачний  joy 31 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+гарячий  joy 31 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+шоколад, joy 31 sadness 15 anger 0 fear 0 amazement 15 disgust 0
+коктейлі, joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+солодощі. joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+Подобалось все: joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+Подобалось там все: joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+абсолютно все: joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+Подобалось там абсолютно все: joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+надзвичайно смачний joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+гарячий шоколад, joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+смачний шоколад, joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+надзвичайно смачний гарячий шоколад, joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+Розчарувала літня тераса. joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+Розчарувала  joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+літня  joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+тераса. joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+літня тераса. joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+Розчарувала тераса. joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+Але фірмовий комплімент від закладу вразив. joy 31 sadness 15 anger 0 fear 0 amazement 30 disgust 0
+Але  joy 31 sadness 15 anger 0 fear 0 amazement 19 disgust 0
+фірмовий  joy 31 sadness 15 anger 0 fear 0 amazement 19 disgust 0
+комплімент  joy 31 sadness 15 anger 0 fear 0 amazement 19 disgust 0
+від  joy 31 sadness 15 anger 0 fear 0 amazement 19 disgust 0
+закладу  joy 31 sadness 15 anger 0 fear 0 amazement 19 disgust 0
+вразив. joy 31 sadness 15 anger 0 fear 0 amazement 19 disgust 0
+фірмовий комплімент joy 31 sadness 15 anger 0 fear 0 amazement 19 disgust 0
+комплімент від закладу joy 31 sadness 15 anger 0 fear 0 amazement 19 disgust 0
+комплімент від закладу вразив. joy 31 sadness 15 anger 0 fear 0 amazement 19 disgust 0
+комплімент вразив. joy 31 sadness 0 anger 0 fear 0 amazement 19 disgust 0
+фірмовий комплімент вразив. joy 31 sadness 0 anger 0 fear 0 amazement 19 disgust 0
+Рекомендую joy 31 sadness 0 anger 0 fear 0 amazement 4 disgust 0
+офіціанти мабуть все ж не сплять, А просто не встигають у випадку великої кількості відвідувачів...проте у Фресція в 90% випадків я не можу позитивно відгукнутись щодо обслуговування, привітання і прощання joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+офіціанти  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+мабуть  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+все  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+ж  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+не  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+сплять,  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+А  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+просто  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+не  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+встигають  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+у  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 0
+випадку  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+великої  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+кількості  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+відвідувачів... joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+проте  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+у  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+Фресція  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+в  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+90%  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+випадків  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+я  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+не  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+можу  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+позитивно  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+відгукнутись  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+щодо  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+обслуговування,  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+привітання  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+і  joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+прощання joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+офіціанти сплять, joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+офіціанти не сплять, joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+офіціанти все ж не сплять, joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+офіціанти мабуть все ж не сплять, joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+офіціанти не встигають joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+офіціанти мабуть все ж не сплять, А просто не встигають joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+у випадку великої кількості відвідувачів... joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+не встигають у випадку великої кількості відвідувачів... joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+офіціанти просто не встигають у випадку великої кількості відвідувачів... joy 0 sadness 7 anger 0 fear 0 amazement 0 disgust 16
+в 90% випадків joy 0 sadness 7 anger 0 fear 15 amazement 0 disgust 16
+я не можу позитивно відгукнутись joy 0 sadness 7 anger 0 fear 15 amazement 0 disgust 16
+відгукнутись щодо обслуговування, привітання і прощання joy 0 sadness 7 anger 0 fear 15 amazement 0 disgust 16
+позитивно відгукнутись joy 0 sadness 7 anger 0 fear 15 amazement 0 disgust 16
+позитивно відгукнутись щодо обслуговування, привітання і прощання joy 0 sadness 7 anger 0 fear 15 amazement 0 disgust 16
+я не можу відгукнутись щодо обслуговування, привітання і прощання joy 0 sadness 7 anger 0 fear 15 amazement 0 disgust 16
+я не можу позитивно відгукнутись щодо обслуговування, привітання і прощання joy 0 sadness 7 anger 0 fear 15 amazement 0 disgust 16
+МАНДАРИНКА: «Офіціянти ставляться до клієнтів так само,як клієнти до них»...))))  joy 0 sadness 7 anger 0 fear 15 amazement 0 disgust 16
+МАНДАРИНКА:  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+«Офіціянти  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+ставляться  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+до  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+клієнтів  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+так  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+само, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+як  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+клієнти  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+до  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+них»...))))  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+Офіціянти ставляться joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+ставляться до клієнтів joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+Офіціянти ставляться до клієнтів joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+ставляться до клієнтів так само, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+«Офіціянти ставляться до клієнтів так само,як клієнти до них» joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+ну, дівчино, існують основні закони ГОСТИННОСТІ, і пам"ятати що офіціант в першу чергу на роботі-а гість-відпочиває joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+ну,  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+дівчино,  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+існують  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+основні  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+закони  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+ГОСТИННОСТІ,  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+і  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+пам"ятати  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+що  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+офіціант  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+в  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+першу  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+чергу  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+на  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+роботі-а  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+гість- joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+відпочиває joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+існують закони joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+основні закони joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+закони ГОСТИННОСТІ, joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+існують основні закони joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+основні закони ГОСТИННОСТІ, joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+існують основні закони ГОСТИННОСТІ, joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+в першу чергу joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+пам"ятати що офіціант на роботі joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+офіціант в першу чергу на роботі joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+офіціант на роботі joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+гість-відпочиває joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+(Гості бувають різними...але офіціанти ЗАВЖДИ ДОТРИМУЮТЬСЯ ПРАВИЛ ! ) joy 30 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+(Гості  joy 30 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+бувають  joy 30 sadness 0 anger 30 fear 15 amazement 0 disgust 1
+різними... joy 30 sadness 0 anger 30 fear 15 amazement 0 disgust 16
+але  joy 30 sadness 0 anger 30 fear 15 amazement 0 disgust 16
+офіціанти  joy 30 sadness 0 anger 30 fear 15 amazement 0 disgust 16
+ЗАВЖДИ  joy 30 sadness 0 anger 30 fear 15 amazement 0 disgust 16
+ДОТРИМУЮТЬСЯ  joy 30 sadness 0 anger 30 fear 15 amazement 0 disgust 16
+ПРАВИЛ ! ) joy 30 sadness 0 anger 30 fear 0 amazement 15 disgust 16
+Гості бувають різними... joy 30 sadness 0 anger 30 fear 0 amazement 15 disgust 16
+офіціанти ДОТРИМУЮТЬСЯ ПРАВИЛ joy 30 sadness 0 anger 30 fear 0 amazement 15 disgust 16
+офіціанти ЗАВЖДИ ДОТРИМУЮТЬСЯ ПРАВИЛ ! joy 30 sadness 0 anger 30 fear 0 amazement 15 disgust 16
+а принцип «зуб за зуб і око за око»- БЕЗГЛУЗДЯ! joy 30 sadness 0 anger 30 fear 0 amazement 15 disgust 16
+а  joy 30 sadness 0 anger 30 fear 0 amazement 15 disgust 16
+принцип  joy 30 sadness 0 anger 30 fear 0 amazement 15 disgust 16
+«зуб  joy 30 sadness 0 anger 30 fear 0 amazement 15 disgust 16
+за  joy 30 sadness 0 anger 30 fear 0 amazement 15 disgust 16
+зуб  joy 30 sadness 0 anger 30 fear 0 amazement 15 disgust 16
+і  joy 30 sadness 0 anger 30 fear 0 amazement 15 disgust 16
+око  joy 30 sadness 0 anger 30 fear 0 amazement 15 disgust 16
+за  joy 15 sadness 0 anger 15 fear 0 amazement 15 disgust 16
+око»-  joy 15 sadness 0 anger 15 fear 0 amazement 15 disgust 16
+БЕЗГЛУЗДЯ! joy 15 sadness 0 anger 15 fear 0 amazement 15 disgust 16
+«зуб за зуб joy 15 sadness 0 anger 15 fear 0 amazement 15 disgust 16
+око за око» joy 15 sadness 0 anger 15 fear 0 amazement 15 disgust 16
+«зуб за зуб і око за око» joy 15 sadness 0 anger 15 fear 0 amazement 15 disgust 16
+принцип - БЕЗГЛУЗДЯ! joy 15 sadness 0 anger 15 fear 0 amazement 15 disgust 16
+принцип «зуб за зуб і око за око»  joy 0 sadness 30 anger 15 fear 0 amazement 15 disgust 16
+в випадку роздратування чи поганого настрою клієнта офіціант просто спокійно і ЯКНАЙКРАЩЕ виконує свою роботу-в його руках не допустити ескалації конфлікту  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+в  joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+випадку  joy 15 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+роздратування  joy 15 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+чи  joy 15 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+поганого  joy 15 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+настрою  joy 15 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+клієнта  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+офіціант  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+просто  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+спокійно  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+і  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+ЯКНАЙКРАЩЕ  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+виконує  joy 15 sadness 15 anger 30 fear 0 amazement 0 disgust 1
+свою  joy 15 sadness 30 anger 15 fear 0 amazement 0 disgust 1
+роботу- joy 15 sadness 30 anger 15 fear 0 amazement 0 disgust 1
+в  joy 15 sadness 30 anger 15 fear 0 amazement 0 disgust 1
+його  joy 15 sadness 30 anger 15 fear 0 amazement 0 disgust 1
+руках  joy 15 sadness 30 anger 15 fear 0 amazement 0 disgust 1
+не  joy 15 sadness 30 anger 15 fear 0 amazement 0 disgust 1
+допустити  joy 15 sadness 30 anger 15 fear 0 amazement 0 disgust 1
+ескалації  joy 15 sadness 30 anger 15 fear 0 amazement 0 disgust 1
+конфлікту  joy 15 sadness 30 anger 15 fear 0 amazement 0 disgust 1
+в випадку роздратування joy 15 sadness 30 anger 15 fear 0 amazement 0 disgust 1
+в випадку роздратування чи поганого настрою joy 15 sadness 30 anger 15 fear 0 amazement 0 disgust 1
+в випадку поганого настрою joy 15 sadness 30 anger 15 fear 0 amazement 0 disgust 1
+поганого настрою joy 15 sadness 30 anger 15 fear 0 amazement 0 disgust 1
+настрою клієнта joy 15 sadness 30 anger 15 fear 0 amazement 0 disgust 1
+офіціант просто спокійно і ЯКНАЙКРАЩЕ виконує свою роботу joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+офіціант спокійно і ЯКНАЙКРАЩЕ виконує свою роботу joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+офіціант виконує свою роботу joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+офіціант просто виконує свою роботу joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+в випадку роздратування чи поганого настрою клієнта офіціант просто виконує свою роботу joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+в випадку поганого настрою клієнта офіціант просто спокійно і ЯКНАЙКРАЩЕ виконує свою роботу joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+в випадку роздратування клієнта офіціант просто спокійно і ЯКНАЙКРАЩЕ виконує свою роботу joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+(а на випадок грубості клієнта-є адміністратор... joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+(а joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+на  joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+випадок  joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+грубості  joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+клієнта- joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+є  joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+адміністратор... joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+на випадок грубості joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+на випадок грубості клієнта joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+на випадок грубості клієнта-є адміністратор... joy 15 sadness 0 anger 15 fear 0 amazement 0 disgust 1
+у якого ТАКОЖ Є ПРАВИЛА ПОВЕДІНКИ) joy 15 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+у  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+якого  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+ТАКОЖ  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+Є  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+ПРАВИЛА  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+ПОВЕДІНКИ) joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+ПРАВИЛА ПОВЕДІНКИ) joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+Смачне пиво — чеське звичайне, смачна кухня, зручно, можна курити трубку — гарні витяжки — можна посидіти на бочці!!! joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+Смачне  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+пиво —  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+чеське  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+звичайне,  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+смачна  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+кухня,  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+зручно,  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+можна  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+курити  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+трубку —  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+гарні  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+витяжки —  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+можна  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+посидіти  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+на  joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+бочці!!! joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+Смачне пиво joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+пиво чеське joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+пиво звичайне, joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+смачна кухня, joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+курити трубку joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+можна курити трубку — joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+гарні витяжки joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+посидіти на бочці!!! joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+можна посидіти на бочці!!! joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+Але чомусь запам’ятався джин Фінсберрі — з тоніком літом …. обслуговування, трошки повільне, але непогане. joy 60 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+Але  joy 60 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+чомусь  joy 60 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+запам’ятався  joy 60 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+джин  joy 60 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+Фінсберрі —  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+з  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+тоніком  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+літом ….  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+обслуговування,  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+трошки  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+повільне,  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+але  joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+непогане. joy 30 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+джин Фінсберрі joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+запам’ятався джин Фінсберрі  joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+чомусь запам’ятався джин Фінсберрі —  joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+джин Фінсберрі — з тоніком joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+запам’ятався джин Фінсберрі — з тоніком  joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+чомусь запам’ятався джин Фінсберрі — з тоніком joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+обслуговування повільне, joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+обслуговування, трошки повільне, joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+обслуговування, трошки повільне, але непогане. joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+обслуговування непогане. joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+Для мене Прага дуже комфортний заклад, ресторан, паб, кавярня — куди душа бажає і є настрій туди і йдеш.  joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+Для  joy 30 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+мене  joy 30 sadness 30 anger 0 fear 0 amazement 15 disgust 1
+Прага  joy 30 sadness 30 anger 0 fear 0 amazement 15 disgust 1
+дуже  joy 30 sadness 30 anger 0 fear 0 amazement 15 disgust 1
+комфортний  joy 30 sadness 30 anger 0 fear 0 amazement 15 disgust 1
+заклад,  joy 30 sadness 30 anger 0 fear 0 amazement 15 disgust 1
+ресторан,  joy 30 sadness 30 anger 0 fear 0 amazement 15 disgust 1
+паб,  joy 30 sadness 30 anger 0 fear 0 amazement 15 disgust 1
+кавярня —  joy 30 sadness 30 anger 0 fear 0 amazement 15 disgust 1
+куди  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+душа  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+бажає  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+і  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+є  joy 15 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+настрій  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+туди  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+і  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+йдеш. joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+Для мене joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+комфортний заклад, joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+душа бажає joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+туди йдеш. joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+Для мене Прага комфортний заклад, joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+дуже комфортний заклад, joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Прага дуже комфортний заклад, joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Для мене Прага дуже комфортний заклад, joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Персонал за кілька відвідин став добрим приятелем. joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Персонал  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+за  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+кілька  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+відвідин  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+став  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 1
+добрим  joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+приятелем.  joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+за кілька відвідин joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Персонал став приятелем. joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+став добрим приятелем. joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Персонал став добрим приятелем. joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+за кілька відвідин став приятелем. joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+за кілька відвідин став добрим приятелем. joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Знають що ти хочеш, в які кількості і послідовності.  joy 0 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Знають  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+що  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+ти  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+хочеш,  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+в  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+які  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+кількості  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+і  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+послідовності.  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+ти хочеш,  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+Знають що ти хочеш, joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+Знають в які кількості і послідовності.  joy 30 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+Смачно, затишно, весело.  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Смачно,  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+затишно,  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+весело.  joy 90 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Обідні перерви на ланч нагадують збори людей, які всі між собою знайомі… бомбезно!  joy 90 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Обідні  joy 90 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+перерви  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+на  joy 75 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+ланч  joy 75 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+нагадують  joy 75 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+збори  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+людей,  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+які  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+всі  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+між  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+собою  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+знайомі…  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+бомбезно!  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Обідні перерви joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+перерви на ланч  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+перерви на ланч нагадують joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+перерви нагадують joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Обідні перерви на ланч joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Обідні перерви на ланч нагадують joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Обідні перерви на ланч нагадують збори людей, joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+перерви на ланч нагадують збори людей, joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+перерви нагадують збори  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+нагадують збори людей, joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Обідні перерви нагадують збори людей, joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+збори людей, joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+перерви на ланч нагадують збори joy 75 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+всі знайомі… joy 75 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+всі між собою знайомі… joy 75 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+Так тримати.  joy 100 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+Так  joy 100 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+тримати. joy 100 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+P.S. Адміністрація закладу — The BEST!  joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 1
+P.S.  joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 1
+Адміністрація  joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 1
+закладу —  joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 1
+The  joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 1
+BEST! joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 1
+Адміністрація закладу joy 100 sadness 0 anger 0 fear 0 amazement 90 disgust 1
+Знайшли в інтернеті ПАБ ПРАГА серед десятки найкращих ресторанів львова з великим асортиментом пива та гарного меню. joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+Знайшли  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+в  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+інтернеті  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+ПАБ  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+ПРАГА  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+серед  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+десятки  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+найкращих  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+ресторанів  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+львова  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+з  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+великим  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+асортиментом  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+пива  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+та  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+гарного  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+меню. joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+Знайшли в інтернеті joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+Знайшли ПАБ ПРАГА  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+Знайшли в інтернеті ПАБ ПРАГА  joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+десятки найкращих ресторанів львова з великим асортиментом пива та гарного меню. joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+десятки найкращих ресторанів львова joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+десятки ресторанів львова з великим асортиментом пива та гарного меню. joy 25 sadness 0 anger 0 fear 0 amazement 23 disgust 1
+десятки найкращих ресторанів з великим асортиментом пива та гарного меню. joy 25 sadness 0 anger 0 fear 0 amazement 38 disgust 1
+десятки ресторанів з великим асортиментом пива та гарного меню. joy 25 sadness 0 anger 0 fear 0 amazement 38 disgust 1
+Але ми дуже розчарувались тому, що в наявності було тільки два види пива які нам несподобались.  joy 25 sadness 0 anger 0 fear 0 amazement 38 disgust 1
+Але  joy 25 sadness 0 anger 0 fear 0 amazement 38 disgust 1
+ми  joy 25 sadness 0 anger 0 fear 0 amazement 38 disgust 1
+дуже  joy 25 sadness 0 anger 0 fear 0 amazement 38 disgust 1
+розчарувались  joy 10 sadness 31 anger 0 fear 0 amazement 0 disgust 1
+тому,  joy 10 sadness 31 anger 0 fear 0 amazement 0 disgust 1
+що  joy 10 sadness 31 anger 0 fear 0 amazement 0 disgust 1
+в  joy 10 sadness 31 anger 0 fear 0 amazement 0 disgust 1
+наявності  joy 10 sadness 31 anger 0 fear 0 amazement 0 disgust 1
+було  joy 10 sadness 31 anger 0 fear 0 amazement 0 disgust 1
+тільки  joy 10 sadness 31 anger 0 fear 0 amazement 0 disgust 1
+два  joy 10 sadness 31 anger 0 fear 0 amazement 0 disgust 1
+види  joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+пива  joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+які  joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+нам  joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+несподобались.  joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+ми дуже розчарувались joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+ми розчарувались joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+в наявності joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+в наявності було тільки два види пива які нам несподобались.  joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+два види пива joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+види пива  joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+види пива які нам несподобались.  joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+нам несподобались.  joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+в наявності було тільки два види пива які нам несподобались.  joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+Обслуговування повільне, ціни великі. joy 10 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+Обслуговування  joy 0 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+повільне,  joy 0 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+ціни  joy 0 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+великі. joy 0 sadness 31 anger 15 fear 0 amazement 0 disgust 1
+Обслуговування повільне, joy 0 sadness 46 anger 15 fear 0 amazement 0 disgust 1
+ціни великі. joy 0 sadness 46 anger 15 fear 0 amazement 0 disgust 1
+ЗНАХІДКА! joy 0 sadness 46 anger 15 fear 0 amazement 0 disgust 1
+вчора забрели туди випадково - мій настрій було ВРЯТОВАНО! joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+вчора  joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+забрели  joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+туди  joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+випадково -  joy 67 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+мій  joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+настрій  joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+було  joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+ВРЯТОВАНО! joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+вчора забрели туди випадково - joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+вчора забрели туди  joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+забрели туди випадково - joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+забрели випадково - joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+мій настрій joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+настрій було ВРЯТОВАНО! joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+мій настрій було ВРЯТОВАНО! joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+чим? - а біс його знає! можливо дивовижною "Львівською нахабністю" )) ЖИТИ так, як ПОДОБАЄТЬСЯ! joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+чим? -  joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+а  joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+біс  joy 67 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+його  joy 52 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+знає!  joy 52 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+можливо  joy 52 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+дивовижною  joy 52 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+"Львівською  joy 52 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+нахабністю" ))  joy 52 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+ЖИТИ  joy 52 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+так,  joy 52 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+як  joy 52 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+ПОДОБАЄТЬСЯ! joy 52 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+біс його знає!  joy 52 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+біс знає!  joy 52 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+дивовижною "Львівською нахабністю" )) joy 52 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+ "Львівською нахабністю" )) joy 52 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+ можливо "Львівською нахабністю" ))  joy 52 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+ЖИТИ так, як ПОДОБАЄТЬСЯ! joy 37 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Будьте обережні, якщо дивитесь ціни на сайті ресторану!  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+ЩЕ  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+зайду! joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+Будьте  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+обережні,  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+якщо  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+дивитесь  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+ціни  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+на  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+сайті  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+ресторану!  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+Будьте обережні, joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+Будьте обережні, якщо дивитесь joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+Будьте обережні, якщо дивитесь ціни joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+дивитесь ціни joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 16
+ціни на сайті joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 16
+на сайті ресторану!  joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 16
+ціни на сайті ресторану! joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 16
+дивитесь ціни на сайті ресторану!  joy 0 sadness 15 anger 15 fear 0 amazement 0 disgust 16
+В реальності вони майже вдвічі вище, ніж вказано на сайті!!!   joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+В  joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+реальності  joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+вони  joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+майже  joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+вдвічі  joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+вище,  joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+ніж  joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+вказано  joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+на  joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+сайті!!! joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+В реальності joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+вони вдвічі вище, joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+вдвічі вище, joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+В реальності вони майже вдвічі вище, joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+вказано на сайті!!! joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+вдвічі вище, ніж вказано на сайті!!!   joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+Для нашої компанії це стало неприємним сюрпризом, бо для подорожі бронювали ресторани заздалегідь, інформацію брали з сайтів (в наш час це нормально, чи не так?    joy 0 sadness 45 anger 60 fear 0 amazement 0 disgust 16
+Для  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+нашої  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+компанії  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+це  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+стало  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+неприємним  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+сюрпризом,  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+бо  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+для  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 16
+подорожі  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 16
+бронювали  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 16
+ресторани  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+заздалегідь,  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+інформацію  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+брали  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+з  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+сайтів  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+(в  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+наш  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+час  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+це  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+нормально,  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+чи  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+не  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+так? joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+Для нашої компанії  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+Для компанії це стало неприємним сюрпризом, joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+Для нашої компанії це стало сюрпризом, joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+стало сюрпризом, joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+це стало неприємним сюрпризом, joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+стало неприємним сюрпризом, joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+бронювали ресторани joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+для подорожі бронювали ресторани  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+для подорожі бронювали ресторани заздалегідь,  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+інформацію брали з сайтів  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+(в наш час  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+(в наш час це нормально,  joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+це нормально, joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+Бо для чого там розділ "Меню" з цінами?).   joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 31
+Бо joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 31
+для  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 31
+чого  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 31
+там  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 31
+розділ  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 31
+"Меню"  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 31
+з  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 31
+цінами?).  joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 31
+розділ "Меню" з цінами?). joy 0 sadness 45 anger 30 fear 0 amazement 0 disgust 31
+"Меню" з цінами?). joy 0 sadness 45 anger 15 fear 0 amazement 0 disgust 31
+розділ з цінами?). joy 0 sadness 45 anger 15 fear 0 amazement 0 disgust 31
+для чого  joy 0 sadness 45 anger 15 fear 0 amazement 0 disgust 31
+для чого там розділ  joy 0 sadness 45 anger 15 fear 0 amazement 0 disgust 31
+для чого розділ   joy 0 sadness 45 anger 15 fear 0 amazement 0 disgust 31
+для чого там розділ з цінами?).   joy 0 sadness 45 anger 15 fear 0 amazement 0 disgust 31
+Лише в ресторані "Прага" виявилося, що ціни на сайті значно занижені!!  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+Лише  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+в  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+ресторані  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+"Прага"  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+виявилося,  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+що  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+ціни  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+на  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+сайті  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+значно  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+занижені!!  joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+в ресторані joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+в ресторані "Прага" joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+в ресторані "Прага" виявилося, joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+Лише в ресторані виявилося, joy 0 sadness 0 anger 15 fear 0 amazement 0 disgust 31
+Лише в ресторані "Прага" виявилося, joy 0 sadness 0 anger 15 fear 15 amazement 0 disgust 31
+ціни на сайті значно занижені!!  joy 0 sadness 0 anger 15 fear 15 amazement 0 disgust 31
+ціни на сайті  joy 0 sadness 0 anger 15 fear 15 amazement 0 disgust 31
+ціни на сайті занижені!! joy 0 sadness 0 anger 15 fear 15 amazement 0 disgust 31
+ціни значно занижені!!  joy 0 sadness 0 anger 15 fear 15 amazement 0 disgust 31
+ціни занижені!!  joy 0 sadness 0 anger 15 fear 15 amazement 0 disgust 31
+виявилося, що ціни на сайті значно занижені!!  joy 0 sadness 0 anger 15 fear 15 amazement 0 disgust 31
+виявилося, що ціни на сайті занижені!!  joy 0 sadness 0 anger 15 fear 15 amazement 0 disgust 31
+виявилося, що ціни значно занижені!!  joy 0 sadness 0 anger 15 fear 15 amazement 0 disgust 31
+виявилося, що ціни занижені!!  joy 0 sadness 0 anger 15 fear 15 amazement 0 disgust 31
+Будьте готові на значно більші витрати!  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+Будьте  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+готові  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+на  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+значно  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+більші  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+витрати!  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+Будьте готові joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+значно більші витрати!  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+більші витрати!  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+готові на витрати!  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+Будьте готові на витрати!  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+готові на більші витрати!  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+готові на значно більші витрати!  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+Будьте готові на  витрати!  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+Будьте готові на більші витрати!  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+Наприклад, стейки коштують  приблизно 120 грн. (+/-, а не 70 як на сайті).  joy 0 sadness 30 anger 15 fear 0 amazement 0 disgust 31
+Наприклад,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+стейки  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+коштують  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+приблизно  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+120  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+грн.  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+(+/-,  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+а  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+не  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+70  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+як  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+на  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+сайті).  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+стейки коштують  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+приблизно 120 грн. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+стейки коштують 120 грн. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+на сайті).  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+Гарнір до складу не входить. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+Гарнір  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+до  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+складу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+не  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+входить. joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+до складу  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 46
+Гарнір не входить. joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 16
+Так, це не найвища ціна, яку ми бачили в своєму житті в ресторанах  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 16
+Так,  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 16
+це  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 16
+не  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 16
+найвища  joy 0 sadness 45 anger 0 fear 0 amazement 0 disgust 16
+ціна,  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+яку  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+ми  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+бачили  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+в  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+своєму  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+житті  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+в  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+ресторанах  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+найвища ціна, joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+не найвища ціна, joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+це не найвища ціна,  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+ми бачили joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+в своєму житті joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+ми бачили в житті joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+бачили в своєму житті joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+в ресторанах  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+ми бачили в ресторанах  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+Але навіщо ж обманювати?  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+Але  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+навіщо  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+ж  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+обманювати?  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+навіщо ж обманювати?  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+навіщо обманювати?  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+Якщо вже це ресторан такого цінового рівня.  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+Якщо  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+вже  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+це  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+ресторан  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+такого  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+цінового  joy 30 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+рівня.  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+ресторан такого цінового рівня.  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+ресторан такого рівня.  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+це ресторан такого рівня.  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+це ресторан такого цінового рівня.  joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+То й якість має бути відповідною. joy 15 sadness 15 anger 0 fear 0 amazement 0 disgust 16
+То  joy 15 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+й  joy 15 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+якість  joy 15 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+має  joy 15 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+бути  joy 15 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+відповідною. joy 15 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+якість має бути відповідною. joy 15 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+Їжа була непоганою (але не преміум), обслуговування ввічливе.  joy 15 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+Їжа  joy 15 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+була  joy 15 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+непоганою  joy 15 sadness 45 anger 30 fear 0 amazement 0 disgust 16
+(але  joy 15 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+не  joy 15 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+преміум),  joy 15 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+обслуговування  joy 15 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+ввічливе.  joy 15 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+обслуговування ввічливе.  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Їжа була непоганою joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Їжа була непоганою (але не преміум), joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Але співвідношення ціна/якість - під великим сумнівом.  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Але  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+співвідношення  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+ціна/ joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+якість -  joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+під  joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+великим  joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+сумнівом.  joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+співвідношення ціна/якість joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+під великим сумнівом. joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+співвідношення ціна/якість - під великим сумнівом.  joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+співвідношення під великим сумнівом.  joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+співвідношення під сумнівом.  joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+під сумнівом.  joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+Що це - недбальство адміністрації чи "продуманий хід"?  joy 15 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+Що  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+це  -  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+недбальство  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+адміністрації  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+чи  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+"продуманий  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+хід"?  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+недбальство адміністрації joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+"продуманий хід" joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+Як-то кажуть, повечеряти - повечеряли, але "осад" залишився. joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+Як-то  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+кажуть,  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+повечеряти -  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 1
+повечеряли,  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 31
+але  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 31
+"осад"  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 31
+залишився. joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 31
+Як-то кажуть, joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 31
+"осад" залишився. joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 31
+Будьте пильними!  joy 0 sadness 0 anger 30 fear 0 amazement 0 disgust 31
+Будьте  joy 0 sadness 0 anger 0 fear 30 amazement 0 disgust 1
+пильними!  joy 0 sadness 0 anger 0 fear 30 amazement 0 disgust 1
+До цін на сайті сміливо додавайте десь так 40-50%, якщо хочете зорієнтуватися. joy 0 sadness 0 anger 0 fear 30 amazement 0 disgust 1
+До  joy 0 sadness 0 anger 0 fear 30 amazement 0 disgust 1
+цін  joy 0 sadness 0 anger 0 fear 30 amazement 0 disgust 1
+на  joy 0 sadness 0 anger 0 fear 30 amazement 0 disgust 1
+сайті  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+сміливо  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+додавайте  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+десь  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+так  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+40-50%,  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+якщо  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+хочете  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+зорієнтуватися. joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+До цін на сайті  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+До цін на сайті додавайте joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+До цін на сайті сміливо додавайте  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+сміливо додавайте joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+сміливо додавайте десь так 40-50%, joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+сміливо додавайте 40-50%, joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+додавайте десь так 40-50%,  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+хочете зорієнтуватися. joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+Погожуюсь з коментарем "Світлани".  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+Погожуюсь  joy 0 sadness 30 anger 0 fear 0 amazement 0 disgust 1
+з  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+коментарем  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+"Світлани".  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Погожуюсь з коментарем joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+з коментарем "Світлани".  joy 30 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+А на рахунок визказаної думки "Олі" "27/11/2008, 11:36"  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 31
+А  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 31
+на  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 31
+рахунок  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 31
+визказаної  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 31
+думки  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 31
+"Олі" "27/11/2008, 11:36"  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 31
+на рахунок joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 31
+на рахунок думки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 31
+на рахунок визказаної думки joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 31
+на рахунок визказаної думки "Олі"  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 31
+Я це як кажуть в народі "зачипило за живе місце"...!!!  joy 0 sadness 0 anger 0 fear 0 amazement 0 disgust 31
+Я  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 31
+це  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 31
+як  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 31
+кажуть  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 31
+в  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 31
+народі  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 31
+"зачипило  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 31
+за  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 31
+живе  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 31
+місце"...!!!  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 31
+як кажуть  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 31
+в народі joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 31
+як кажуть в народі joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 31
+кажуть в народі joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 31
+"зачипило за місце"...!!!  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 31
+живе місце"...!!!  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 31
+за живе місце"...!!!  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 31
+"зачипило за живе місце"...!!!  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 31
+"На десерт взяли заварне з фруктами - було з ЦВІЛЛЮ".... від написаних слів,то я мало з дивану не впав від сміху, ну вже таку дурницю написати,що просто нема слів!  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 31
+"На  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 31
+десерт  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 31
+взяли  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 31
+заварне  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 31
+з  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 31
+фруктами -  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+було  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+з  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+ЦВІЛЛЮ"....  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+від  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+написаних  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+слів, joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+то  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+я  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+мало  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+з  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+дивану  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+не  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+впав  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+від  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+сміху,  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+ну  joy 0 sadness 15 anger 0 fear 0 amazement 0 disgust 46
+вже  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+таку  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+дурницю  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+написати, joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+що  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+просто  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+нема  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+слів!  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+"На десерт joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+було з ЦВІЛЛЮ".... joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+взяли заварне  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+заварне з фруктами  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+взяли заварне з фруктами  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+"На десерт взяли заварне  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+"На десерт взяли заварне з фруктами  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+заварне з фруктами - було з ЦВІЛЛЮ".... joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+з дивану  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+від сміху,  joy 0 sadness 15 anger 60 fear 0 amazement 0 disgust 16
+з дивану не впав  joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 46
+не впав від сміху,  joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 46
+мало з дивану не впав від сміху,  joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 46
+з дивану не впав від сміху,  joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 46
+від написаних слів, joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 46
+вже таку дурницю написати, joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 46
+дурницю написати, joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 16
+таку дурницю написати, joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 16
+просто нема слів!  joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 16
+нема слів!  joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 16
+я не впав від сміху, joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 16
+я мало з дивану не впав joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 16
+Взарашні часи коли в "забитому кабаку" де штукатука на голову може в пасти в любий момент, і то думаю не знайдеш в продуктах ЦВІЛЛь....  joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 16
+Взарашні  joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 16
+часи  joy 0 sadness 15 anger 45 fear 0 amazement 0 disgust 16
+коли  joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+в  joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+"забитому  joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+кабаку"  joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+де  joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+штукатука  joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+на  joy 0 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+голову  joy 30 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+може  joy 30 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+в  joy 30 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+пасти  joy 30 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+в  joy 30 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+любий  joy 30 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+момент,  joy 30 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+і  joy 30 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+то  joy 30 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+думаю  joy 30 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+не  joy 30 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+знайдеш  joy 30 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+в  joy 30 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+продуктах  joy 30 sadness 15 anger 15 fear 0 amazement 15 disgust 16
+ЦВІЛЛь....  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 16
+Взарашні часи  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 16
+в "забитому кабаку" joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 16
+на голову  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 16
+не знайдеш ЦВІЛЛь....  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 16
+в продуктах ЦВІЛЛь....  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 16
+штукатука на голову може в пасти joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 16
+штукатука на голову може в пасти в любий момент,  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 16
+в любий момент,  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 16
+А в такому закладі як "Фреска" і в продуктах ЦВІЛЛь...вірити смішно!  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 16
+А  joy 15 sadness 15 anger 45 fear 0 amazement 15 disgust 16
+в  joy 15 sadness 15 anger 45 fear 0 amazement 15 disgust 16
+такому  joy 15 sadness 15 anger 45 fear 0 amazement 15 disgust 16
+закладі  joy 15 sadness 15 anger 45 fear 0 amazement 15 disgust 16
+як  joy 15 sadness 15 anger 45 fear 0 amazement 15 disgust 16
+"Фреска"  joy 15 sadness 15 anger 45 fear 0 amazement 15 disgust 16
+і  joy 15 sadness 15 anger 45 fear 0 amazement 15 disgust 16
+в  joy 15 sadness 15 anger 45 fear 0 amazement 15 disgust 16
+продуктах  joy 15 sadness 15 anger 45 fear 0 amazement 15 disgust 16
+ЦВІЛЛь... joy 15 sadness 15 anger 45 fear 0 amazement 15 disgust 16
+вірити  joy 15 sadness 15 anger 45 fear 0 amazement 15 disgust 16
+смішно!  joy 15 sadness 15 anger 45 fear 0 amazement 15 disgust 16
+вірити смішно! joy 15 sadness 15 anger 45 fear 0 amazement 15 disgust 16
+в такому закладі joy 15 sadness 15 anger 45 fear 0 amazement 15 disgust 16
+в такому закладі як "Фреска"  joy 15 sadness 15 anger 60 fear 0 amazement 15 disgust 16
+в закладі як "Фреска"  joy 15 sadness 15 anger 60 fear 0 amazement 15 disgust 16
+в продуктах ЦВІЛЛь... joy 15 sadness 15 anger 60 fear 0 amazement 15 disgust 16
+в продуктах  joy 15 sadness 15 anger 60 fear 0 amazement 15 disgust 16
+Так названа "Оля" ви ще і гроші заплати...це не хочу сказати грубо але це-БРЕХНЯ!  joy 15 sadness 15 anger 60 fear 0 amazement 15 disgust 16
+Так  joy 15 sadness 15 anger 60 fear 0 amazement 15 disgust 16
+названа  joy 15 sadness 15 anger 60 fear 0 amazement 15 disgust 16
+"Оля"  joy 15 sadness 15 anger 60 fear 0 amazement 15 disgust 16
+ви  joy 15 sadness 15 anger 60 fear 0 amazement 15 disgust 16
+ще  joy 15 sadness 15 anger 60 fear 0 amazement 15 disgust 16
+і  joy 15 sadness 15 anger 60 fear 0 amazement 15 disgust 16
+гроші  joy 15 sadness 15 anger 60 fear 0 amazement 15 disgust 16
+заплати... joy 15 sadness 15 anger 60 fear 0 amazement 15 disgust 16
+це  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+не  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+хочу  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+сказати  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+грубо  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+але  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+це- joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+БРЕХНЯ!  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+Так названа joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+названа "Оля" joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+Так названа "Оля"  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+гроші заплати... joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+не хочу сказати грубо але це-БРЕХНЯ!  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+сказати грубо  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+хочу сказати  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+не хочу сказати  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+не хочу сказати грубо  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+хочу сказати грубо  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+Як що ви знаєте навід кафе-барах чи то у ресторанах, навідь коли клієнт помітить, що у своїй тарілці волосинку, то зразу кличе адміністратора що зробити скандал і при тому понизити рейтинг закладу.  joy 15 sadness 15 anger 30 fear 0 amazement 15 disgust 46
+Як  joy 15 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+що  joy 15 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+ви  joy 15 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+знаєте  joy 15 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+навід  joy 15 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+кафе-барах  joy 15 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+чи  joy 15 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+то  joy 15 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+у  joy 15 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+ресторанах,  joy 15 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+навідь  joy 15 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+коли  joy 15 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+клієнт  joy 15 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+помітить,  joy 15 sadness 45 anger 0 fear 0 amazement 15 disgust 16
+що  joy 15 sadness 45 anger 0 fear 0 amazement 15 disgust 16
+у  joy 15 sadness 45 anger 0 fear 0 amazement 15 disgust 16
+своїй  joy 15 sadness 45 anger 0 fear 0 amazement 15 disgust 16
+тарілці  joy 0 sadness 45 anger 0 fear 0 amazement 15 disgust 46
+волосинку,  joy 0 sadness 45 anger 0 fear 0 amazement 15 disgust 46
+то  joy 0 sadness 45 anger 0 fear 0 amazement 15 disgust 46
+зразу  joy 0 sadness 45 anger 0 fear 0 amazement 15 disgust 46
+кличе  joy 0 sadness 45 anger 0 fear 0 amazement 15 disgust 46
+адміністратора  joy 0 sadness 45 anger 0 fear 0 amazement 15 disgust 46
+що  joy 0 sadness 45 anger 0 fear 0 amazement 15 disgust 46
+зробити  joy 0 sadness 45 anger 0 fear 0 amazement 15 disgust 46
+скандал  joy 0 sadness 45 anger 0 fear 0 amazement 15 disgust 46
+і  joy 0 sadness 45 anger 0 fear 0 amazement 15 disgust 46
+при  joy 0 sadness 45 anger 0 fear 0 amazement 15 disgust 46
+тому  joy 0 sadness 45 anger 0 fear 0 amazement 15 disgust 46
+понизити  joy 0 sadness 45 anger 0 fear 0 amazement 15 disgust 46
+рейтинг  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+закладу.  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+ви знаєте joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+у ресторанах, joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+клієнт помітить, joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+у тарілці joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+у своїй тарілці  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+у своїй тарілці волосинку,  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+клієнт помітить, у своїй тарілці волосинку,  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+клієнт помітить, у тарілці волосинку,  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+клієнт кличе адміністратора що зробити скандал і при тому понизити рейтинг закладу.  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+понизити рейтинг закладу.  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+рейтинг закладу.  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+кличе адміністратора  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+зробити скандал  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+при тому joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+То як правило персонал намагаєтся зробити все, щоб залатати свою провину!!!  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+То  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+як  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+правило  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+персонал  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+намагаєтся  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+зробити  joy 0 sadness 45 anger 30 fear 0 amazement 15 disgust 46
+все,  joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+щоб  joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+залатати  joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+свою  joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+провину!!!  joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+як правило joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+персонал намагаєтся joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+персонал намагаєтся зробити все, joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+як правило персонал намагаєтся зробити все, joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+персонал намагаєтся зробити  joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+залатати свою провину!!!  joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+залатати провину!!!  joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+зробити все, щоб залатати свою провину!!!  joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+зробити все, щоб залатати провину!!!  joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+персонал намагаєтся зробити все, щоб залатати свою провину!!!  joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+як правило персонал намагаєтся зробити все, щоб залатати свою провину!!!  joy 45 sadness 0 anger 30 fear 0 amazement 0 disgust 16
+А "Оля" оплатила рахунок і в це не вірю!! Частенько прихошу з друзями іменно в "Фреску" і ще ні разу внас не будо притензій.  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 16
+А  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 16
+"Оля"  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 16
+оплатила  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+рахунок  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+і  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+в  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+це  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+не  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+вірю!!  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+Частенько  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+прихошу  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+з  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+друзями  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+іменно  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+в  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+"Фреску"  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+і  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+ще  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+ні  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+разу  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+внас  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+не  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+будо  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+притензій.  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+оплатила рахунок joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+"Оля" оплатила рахунок  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+не вірю!!  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+в це не вірю!! joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+з друзями  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+Частенько прихошу з друзями joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+прихошу з друзями joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+не будо притензій.  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+ні разу  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+ні разу не будо притензій.  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+прихошу з друзями в "Фреску"  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+Частенько прихошу з друзями в "Фреску"  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+І прємно проводим час!!!  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+І  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+прємно  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+проводим  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+час!!!  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+проводим час!!!  joy 60 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+прємно проводим час!!! joy 90 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+А на оборот одні позитивні відгуки.  joy 90 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+А  joy 90 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+на  joy 90 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+оборот  joy 90 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+одні  joy 90 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+позитивні  joy 90 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+відгуки.  joy 90 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+позитивні відгуки.  joy 90 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+одні позитивні відгуки.  joy 90 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+на оборот позитивні відгуки.  joy 90 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+на оборот  joy 90 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+І ви не подумайте що я вихваляю цей заклад а тим більше роблю рейтинг!.  joy 90 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+І  joy 45 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+ви  joy 45 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+не  joy 45 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+подумайте  joy 45 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+що  joy 45 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+я  joy 45 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+вихваляю  joy 45 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+цей  joy 45 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+заклад  joy 45 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+а  joy 45 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+тим  joy 45 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+більше  joy 45 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+роблю  joy 45 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+рейтинг!.  joy 45 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+ви не подумайте joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+не подумайте joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+я вихваляю цей заклад  joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+роблю рейтинг!.   joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+тим більше роблю рейтинг!.  joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+тим більше  joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+я вихваляю заклад  joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+я вихваляю цей заклад  joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+не подумайте що я вихваляю цей заклад joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+ви не подумайте що я вихваляю цей заклад а тим більше роблю рейтинг!.  joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+Лишу ще на додаток відгук про персонал, дуже приємні і привітливі молоді люди  joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+Лишу  joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+ще  joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+на  joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+додаток  joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+відгук  joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+про  joy 45 sadness 15 anger 15 fear 0 amazement 30 disgust 1
+персонал,  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+дуже  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+приємні  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+і  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+привітливі  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+молоді  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+люди  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+на додаток joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+ще на додаток joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Лишу ще на додаток відгук  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Лишу ще відгук  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Лишу відгук  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+відгук про персонал, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Лишу ще на додаток відгук про персонал,  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Лишу ще відгук про персонал, joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Лишу відгук про персонал,   joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+дуже приємні і привітливі молоді люди  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+молоді люди joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+привітливі молоді люди   joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+привітливі люди  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+дуже приємні люди  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+приємні люди  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+приємні і привітливі люди  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+дуже приємні і привітливі люди  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+дуже приємні молоді люди  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+приємні і привітливі молоді люди  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Там зараз працює мій тьоска його так само звати як і мене Роман, знаю він недавно прийшов бучу рухливий молодий чоловік зразу видно старається!  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Там  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+зараз  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+працює  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+мій  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+тьоска  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+його  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+так  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+само  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+звати  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+як  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+і  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+мене  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Роман,  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+знаю  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+він  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+недавно  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+прийшов  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+бучу  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 16
+рухливий  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 16
+молодий  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 16
+чоловік  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 16
+зразу  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 16
+видно  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 16
+старається!  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 16
+Там зараз працює мій тьоска  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 16
+Там працює мій тьоска  joy 45 sadness 0 anger 0 fear 0 amazement 0 disgust 16
+працює мій тьоска  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+його так само звати як і мене Роман, joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+його звати  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+його так само звати joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+рухливий молодий чоловік  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+молодий чоловік  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+недавно прийшов  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+він недавно прийшов  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+І дівчата щоб не попутати з іменами, здається Катя і Галя (якщо помилився нехай пробачуть!) тоже страються на всі 120 процетів! дякуємо Юрію Андрійовичу за цей неймовірну каварню !!!  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+І  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+дівчата  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+щоб  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+не  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+попутати  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+з  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+іменами,  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+здається  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+Катя  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+і  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+Галя  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 16
+(якщо  joy 45 sadness 0 anger 0 fear 30 amazement 30 disgust 16
+помилився  joy 45 sadness 0 anger 0 fear 30 amazement 30 disgust 16
+нехай  joy 45 sadness 0 anger 0 fear 30 amazement 30 disgust 16
+пробачуть!)  joy 45 sadness 0 anger 0 fear 30 amazement 30 disgust 16
+тоже  joy 45 sadness 0 anger 0 fear 30 amazement 30 disgust 16
+страються  joy 45 sadness 0 anger 0 fear 30 amazement 30 disgust 16
+на  joy 45 sadness 0 anger 0 fear 30 amazement 30 disgust 16
+всі  joy 45 sadness 0 anger 0 fear 30 amazement 30 disgust 16
+120  joy 45 sadness 0 anger 0 fear 30 amazement 30 disgust 16
+процетів!  joy 45 sadness 0 anger 0 fear 30 amazement 45 disgust 16
+дякуємо  joy 45 sadness 0 anger 0 fear 30 amazement 45 disgust 16
+Юрію  joy 45 sadness 0 anger 0 fear 30 amazement 45 disgust 16
+Андрійовичу  joy 45 sadness 0 anger 0 fear 30 amazement 45 disgust 16
+за  joy 45 sadness 0 anger 0 fear 30 amazement 45 disgust 16
+цей  joy 45 sadness 0 anger 0 fear 30 amazement 45 disgust 16
+неймовірну  joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+каварню !!!  joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+не попутати з іменами, joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+з іменами, joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+попутати з іменами, joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+нехай пробачуть! joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+І дівчата тоже страються joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+тоже страються на всі 120 процетів! joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+страються на всі 120 процетів! joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+на всі 120 процетів! joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+на 120 процетів! joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+дякуємо за неймовірну каварню !!!  joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+дякуємо Юрію Андрійовичу  joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+дякуємо за каварню !!!  joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+З найкрашими по бажанями Роман. joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+З  joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+найкрашими  joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+по  joy 45 sadness 0 anger 0 fear 30 amazement 90 disgust 1
+бажанями  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Роман. joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+З найкрашими по бажанями joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Офіціанти дійсно на роботі не сплять... joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Офіціанти  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+дійсно  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+на  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+роботі  joy 45 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+не  joy 15 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+сплять... joy 15 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Офіціанти не сплять... joy 15 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Офіціанти на роботі не сплять... joy 15 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+на роботі не сплять... joy 15 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+На рахунок великої кількості відвідувачів і про не встиганням із замовленнями:  joy 15 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+На  joy 15 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+рахунок  joy 15 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+великої  joy 15 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+кількості  joy 15 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+відвідувачів  joy 15 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+і  joy 15 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+про  joy 15 sadness 0 anger 15 fear 0 amazement 30 disgust 1
+не  joy 15 sadness 0 anger 15 fear 15 amazement 30 disgust 1
+встиганням  joy 15 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+із  joy 15 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+замовленнями:  joy 15 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+На рахунок joy 45 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+На рахунок великої кількості відвідувачів joy 45 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+На рахунок великої кількості  joy 45 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+Вибач мені Олічка,але Фреска не Mcdonalds, не заклад швидкого приготування,є речі на які потрібно чекати... joy 45 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+Вибач  joy 45 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+мені  joy 45 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+Олічка, joy 45 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+але  joy 45 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+Фреска  joy 45 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+не  joy 45 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+Mcdonalds,  joy 45 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+не  joy 45 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+заклад  joy 45 sadness 30 anger 15 fear 15 amazement 30 disgust 1
+швидкого  joy 0 sadness 30 anger 45 fear 15 amazement 30 disgust 1
+приготування, joy 0 sadness 30 anger 45 fear 15 amazement 30 disgust 1
+є  joy 0 sadness 30 anger 45 fear 15 amazement 30 disgust 1
+речі  joy 0 sadness 30 anger 45 fear 15 amazement 30 disgust 1
+на  joy 0 sadness 30 anger 45 fear 15 amazement 30 disgust 1
+які  joy 0 sadness 30 anger 45 fear 15 amazement 30 disgust 1
+потрібно  joy 0 sadness 30 anger 45 fear 15 amazement 30 disgust 1
+чекати... joy 0 sadness 30 anger 45 fear 15 amazement 30 disgust 1
+Вибач мені joy 0 sadness 30 anger 45 fear 15 amazement 30 disgust 31
+Фреска не Mcdonalds, joy 0 sadness 30 anger 45 fear 15 amazement 30 disgust 31
+Вибач мені Олічка,але Фреска не Mcdonalds, joy 0 sadness 30 anger 45 fear 15 amazement 30 disgust 31
+Фреска не Mcdonalds, не заклад швидкого приготування, joy 0 sadness 30 anger 45 fear 15 amazement 30 disgust 31
+заклад швидкого приготування, joy 0 sadness 30 anger 45 fear 15 amazement 15 disgust 31
+Фреска не заклад швидкого приготування, joy 15 sadness 30 anger 45 fear 15 amazement 15 disgust 31
+потрібно чекати... joy 15 sadness 30 anger 45 fear 15 amazement 15 disgust 31
+є речі на які потрібно чекати... joy 15 sadness 30 anger 45 fear 15 amazement 15 disgust 31
+З тобою я згідна, що гості бувають різними,а офіціант — повинен памятати що він на роботі, але офіціанти не ЗАВЖДИ дотримуються правил., і офіціанти також ЛЮДИ!!!! joy 15 sadness 30 anger 45 fear 15 amazement 15 disgust 31
+З  joy 15 sadness 30 anger 45 fear 15 amazement 15 disgust 31
+тобою  joy 15 sadness 30 anger 45 fear 15 amazement 15 disgust 31
+я  joy 15 sadness 30 anger 45 fear 15 amazement 15 disgust 31
+згідна,  joy 15 sadness 30 anger 45 fear 15 amazement 15 disgust 31
+що  joy 15 sadness 30 anger 45 fear 15 amazement 15 disgust 31
+гості  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+бувають  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+різними, joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+а  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+офіціант —  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+повинен  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+памятати  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+що  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+він  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+на  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+роботі,  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+але  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+офіціанти  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+не  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+ЗАВЖДИ  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+дотримуються  joy 27 sadness 40 anger 0 fear 15 amazement 15 disgust 31
+правил.,  joy 27 sadness 40 anger 15 fear 15 amazement 15 disgust 31
+і  joy 27 sadness 40 anger 15 fear 15 amazement 15 disgust 31
+офіціанти  joy 27 sadness 40 anger 15 fear 15 amazement 15 disgust 31
+також  joy 27 sadness 40 anger 15 fear 15 amazement 15 disgust 31
+ЛЮДИ!!!! joy 27 sadness 40 anger 15 fear 15 amazement 15 disgust 31
+З тобою я згідна, joy 27 sadness 40 anger 15 fear 15 amazement 15 disgust 31
+я згідна, joy 27 sadness 40 anger 15 fear 15 amazement 15 disgust 31
+гості бувають різними, joy 27 sadness 25 anger 15 fear 30 amazement 15 disgust 31
+я згідна, що гості бувають різними, joy 27 sadness 25 anger 15 fear 30 amazement 15 disgust 31
+З тобою я згідна, що гості бувають різними, joy 27 sadness 25 anger 15 fear 30 amazement 15 disgust 31
+офіціант — повинен памятати  joy 27 sadness 25 anger 15 fear 30 amazement 15 disgust 31
+а офіціант — повинен памятати що він на роботі,  joy 27 sadness 25 anger 15 fear 30 amazement 15 disgust 31
+дотримуються правил., joy 27 sadness 25 anger 15 fear 30 amazement 15 disgust 31
+офіціанти також ЛЮДИ!!!! joy 27 sadness 25 anger 15 fear 30 amazement 15 disgust 31
+офіціанти не ЗАВЖДИ дотримуються правил., joy 27 sadness 25 anger 15 fear 30 amazement 15 disgust 31
+Їх також потрібно розуміти... joy 27 sadness 25 anger 15 fear 30 amazement 15 disgust 31
+Їх  joy 27 sadness 25 anger 15 fear 30 amazement 15 disgust 31
+також  joy 27 sadness 25 anger 15 fear 30 amazement 15 disgust 31
+потрібно  joy 27 sadness 25 anger 0 fear 30 amazement 15 disgust 16
+розуміти... joy 27 sadness 25 anger 0 fear 30 amazement 15 disgust 16
+Їх потрібно розуміти... joy 27 sadness 25 anger 0 fear 30 amazement 15 disgust 16
+потрібно розуміти... joy 27 sadness 25 anger 0 fear 30 amazement 15 disgust 16
+У випадку поганого настрою клієнта: ти написала один із варіантів вирішення цієї ситуації «ЯКНАЙКРАЩЕ»,,, joy 27 sadness 25 anger 0 fear 30 amazement 15 disgust 16
+У  joy 27 sadness 25 anger 0 fear 30 amazement 15 disgust 16
+випадку  joy 27 sadness 25 anger 0 fear 30 amazement 15 disgust 16
+поганого  joy 27 sadness 25 anger 0 fear 30 amazement 15 disgust 16
+настрою  joy 27 sadness 25 anger 0 fear 30 amazement 15 disgust 16
+клієнта:  joy 27 sadness 25 anger 0 fear 30 amazement 15 disgust 16
+ти  joy 27 sadness 25 anger 15 fear 30 amazement 0 disgust 16
+написала  joy 27 sadness 25 anger 15 fear 30 amazement 0 disgust 16
+один  joy 27 sadness 25 anger 15 fear 30 amazement 0 disgust 16
+із  joy 27 sadness 25 anger 15 fear 30 amazement 0 disgust 16
+варіантів  joy 27 sadness 40 anger 15 fear 30 amazement 0 disgust 16
+вирішення  joy 27 sadness 40 anger 15 fear 30 amazement 0 disgust 16
+цієї  joy 27 sadness 40 anger 15 fear 30 amazement 0 disgust 16
+ситуації  joy 27 sadness 40 anger 15 fear 30 amazement 0 disgust 16
+«ЯКНАЙКРАЩЕ»,,, joy 27 sadness 40 anger 15 fear 30 amazement 0 disgust 16
+У випадку поганого настрою клієнта: joy 27 sadness 40 anger 15 fear 30 amazement 0 disgust 16
+У випадку поганого настрою  joy 27 sadness 40 anger 15 fear 30 amazement 0 disgust 16
+У випадку  joy 27 sadness 40 anger 15 fear 30 amazement 0 disgust 16
+ти написала joy 27 sadness 40 anger 15 fear 30 amazement 0 disgust 16
+один із варіантів вирішення цієї ситуації «ЯКНАЙКРАЩЕ»,,, joy 27 sadness 40 anger 15 fear 30 amazement 0 disgust 16
+один із варіантів joy 27 sadness 40 anger 15 fear 30 amazement 0 disgust 16
+вирішення цієї ситуації joy 42 sadness 0 anger 15 fear 30 amazement 0 disgust 16
+вирішення ситуації  joy 42 sadness 0 anger 15 fear 30 amazement 0 disgust 16
+один із варіантів вирішення цієї ситуації  joy 42 sadness 0 anger 15 fear 30 amazement 0 disgust 16
+Буває все по іншому... joy 42 sadness 0 anger 15 fear 30 amazement 0 disgust 16
+Буває  joy 42 sadness 0 anger 15 fear 30 amazement 0 disgust 16
+все  joy 42 sadness 0 anger 15 fear 30 amazement 0 disgust 16
+по  joy 42 sadness 0 anger 15 fear 30 amazement 0 disgust 16
+іншому... joy 42 sadness 0 anger 15 fear 30 amazement 0 disgust 16
+Буває по іншому... joy 42 sadness 0 anger 15 fear 30 amazement 0 disgust 16
+все по іншому... joy 42 sadness 0 anger 0 fear 0 amazement 0 disgust 31
+Оля, а який твій улюблений заклад у Львові,де все відповідає твоїм вимогам, і ще одне як часто ти відвідуєш Фреску,коли останній раз там була????? joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+Оля,  joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+а  joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+який  joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+твій  joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+улюблений  joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+заклад  joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+у  joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+Львові, joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+де  joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+все  joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+відповідає  joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+твоїм  joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+вимогам,  joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+і  joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+ще  joy 12 sadness 15 anger 45 fear 0 amazement 0 disgust 31
+одне  joy 12 sadness 15 anger 30 fear 0 amazement 0 disgust 31
+як  joy 12 sadness 15 anger 30 fear 0 amazement 0 disgust 31
+часто  joy 12 sadness 15 anger 30 fear 0 amazement 0 disgust 31
+ти  joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 31
+відвідуєш  joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 31
+Фреску, joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 31
+коли  joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 46
+останній  joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 46
+раз  joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 46
+там  joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 46
+була????? joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 46
+твій улюблений заклад у Львові, joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 46
+улюблений заклад у Львові, joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 46
+улюблений заклад  joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 46
+заклад у Львові, joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 46
+все відповідає твоїм вимогам, joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 46
+все відповідає вимогам, joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 46
+твій улюблений заклад у Львові,де все відповідає твоїм вимогам, joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 16
+заклад у Львові,де все відповідає твоїм вимогам, joy 12 sadness 30 anger 30 fear 0 amazement 0 disgust 16
+ти відвідуєш  joy 12 sadness 30 anger 45 fear 0 amazement 0 disgust 16
+ти відвідуєш Фреску, joy 12 sadness 30 anger 45 fear 0 amazement 0 disgust 16
+останній раз joy 12 sadness 30 anger 45 fear 0 amazement 0 disgust 16
+коли останній раз там була????? joy 12 sadness 30 anger 45 fear 0 amazement 0 disgust 16
+«Фреска» дуже приємна кавярня.  joy 12 sadness 30 anger 45 fear 0 amazement 0 disgust 16
+«Фреска»  joy 12 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+дуже  joy 12 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+приємна  joy 12 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+кавярня.  joy 12 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+приємна кавярня.  joy 12 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+дуже приємна кавярня. joy 12 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Там авторські смаколики, правда я тільки кавово-цукерну сторінку більш-менш знаю, але якось не виникало бажання чогось іншого скуштувати, оскільки там дуже романтично. joy 12 sadness 0 anger 0 fear 0 amazement 30 disgust 1
+Там  joy 27 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+авторські  joy 27 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+смаколики,  joy 27 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+правда  joy 27 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+я  joy 27 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+тільки  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+кавово-цукерну  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+сторінку  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+більш-менш  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+знаю,  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+але  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+якось  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+не  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+виникало  joy 72 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+бажання  joy 72 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+чогось  joy 72 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+іншого  joy 72 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+скуштувати,  joy 72 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+оскільки  joy 72 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+там  joy 72 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+дуже  joy 87 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+романтично. joy 87 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+авторські смаколики, joy 87 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+я тільки кавово-цукерну сторінку більш-менш знаю, joy 87 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+я кавово-цукерну сторінку знаю, joy 57 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+якось не виникало бажання joy 57 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+не виникало бажання joy 57 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+якось не виникало бажання чогось іншого скуштувати, joy 57 sadness 0 anger 0 fear 0 amazement 75 disgust 1
+бажання чогось іншого скуштувати, joy 57 sadness 0 anger 0 fear 0 amazement 75 disgust 1
+не виникало бажання чогось іншого скуштувати, joy 57 sadness 0 anger 0 fear 0 amazement 75 disgust 1
+там дуже романтично. joy 57 sadness 0 anger 0 fear 0 amazement 75 disgust 1
+дуже романтично. joy 57 sadness 0 anger 0 fear 0 amazement 75 disgust 1
+там романтично. joy 42 sadness 0 anger 0 fear 0 amazement 75 disgust 1
+Там були мої побачення, і ніхто на нас косо не дивився.  joy 42 sadness 0 anger 0 fear 0 amazement 75 disgust 1
+Там  joy 42 sadness 0 anger 0 fear 0 amazement 75 disgust 1
+були  joy 42 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+мої  joy 42 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+побачення,  joy 42 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+і  joy 42 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+ніхто  joy 42 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+на  joy 42 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+нас  joy 42 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+косо  joy 42 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+не  joy 42 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+дивився.  joy 42 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+мої побачення, joy 57 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+ніхто на нас косо не дивився.  joy 57 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+ніхто косо не дивився.  joy 57 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+Якщо пощастить, можна натрапити на живу музику.  joy 57 sadness 0 anger 0 fear 15 amazement 15 disgust 1
+Якщо  joy 57 sadness 30 anger 0 fear 0 amazement 90 disgust 1
+пощастить,  joy 57 sadness 30 anger 0 fear 0 amazement 90 disgust 1
+можна  joy 57 sadness 30 anger 0 fear 0 amazement 90 disgust 1
+натрапити  joy 57 sadness 30 anger 0 fear 0 amazement 90 disgust 1
+на  joy 57 sadness 30 anger 0 fear 0 amazement 90 disgust 1
+живу  joy 57 sadness 30 anger 0 fear 0 amazement 90 disgust 1
+музику.  joy 57 sadness 15 anger 0 fear 0 amazement 90 disgust 1
+натрапити на живу музику. joy 57 sadness 15 anger 0 fear 0 amazement 90 disgust 1
+можна натрапити на живу музику.   joy 42 sadness 15 anger 0 fear 0 amazement 90 disgust 1
+Якщо пощастить, joy 42 sadness 15 anger 0 fear 0 amazement 90 disgust 1
+можна натрапити на музику.  joy 42 sadness 15 anger 0 fear 0 amazement 75 disgust 1
+натрапити на музику.  joy 42 sadness 15 anger 0 fear 0 amazement 75 disgust 1
+На цій вулиці ще чути дух старого міста.  joy 42 sadness 15 anger 0 fear 0 amazement 75 disgust 1
+На  joy 42 sadness 15 anger 0 fear 0 amazement 75 disgust 1
+цій  joy 42 sadness 15 anger 0 fear 0 amazement 75 disgust 1
+вулиці  joy 42 sadness 15 anger 0 fear 0 amazement 75 disgust 1
+ще  joy 42 sadness 15 anger 0 fear 0 amazement 75 disgust 1
+чути  joy 42 sadness 15 anger 0 fear 0 amazement 75 disgust 1
+дух  joy 42 sadness 15 anger 0 fear 0 amazement 75 disgust 1
+старого  joy 87 sadness 15 anger 0 fear 0 amazement 75 disgust 1
+міста.  joy 87 sadness 15 anger 0 fear 0 amazement 75 disgust 1
+На цій вулиці joy 87 sadness 15 anger 0 fear 0 amazement 75 disgust 1
+чути дух joy 87 sadness 15 anger 0 fear 0 amazement 75 disgust 1
+чути дух старого міста.  joy 27 sadness 0 anger 0 fear 0 amazement 60 disgust 1
+На цій вулиці ще чути дух joy 27 sadness 0 anger 0 fear 0 amazement 60 disgust 1
+На цій вулиці чути дух joy 27 sadness 0 anger 0 fear 0 amazement 60 disgust 1
+На вулиці ще чути дух joy 27 sadness 0 anger 0 fear 0 amazement 60 disgust 1
+дух старого міста.  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+дух міста.  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+Ну, я сюди вертаюсь час від часу, завжди приємні враження ... joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 16
+Ну,  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 16
+я  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 16
+сюди  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 16
+вертаюсь  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 16
+час  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 16
+від  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 16
+часу,  joy 27 sadness 15 anger 0 fear 0 amazement 45 disgust 1
+завжди  joy 27 sadness 15 anger 0 fear 0 amazement 45 disgust 1
+приємні  joy 27 sadness 15 anger 0 fear 0 amazement 45 disgust 1
+враження ... joy 42 sadness 15 anger 0 fear 0 amazement 45 disgust 1
+завжди приємні враження ... joy 42 sadness 15 anger 0 fear 0 amazement 45 disgust 1
+приємні враження ... joy 42 sadness 15 anger 0 fear 0 amazement 45 disgust 1
+час від часу, joy 42 sadness 15 anger 0 fear 0 amazement 45 disgust 1
+я сюди вертаюсь час від часу, joy 42 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+я вертаюсь час від часу, joy 42 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+вертаюсь час від часу, joy 42 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+я сюди вертаюсь  joy 42 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+Дякую всьому закладу і, зокрема тим, хто там працює, за чудову каву, затишну атмосферу і хороший настрій! joy 42 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+Дякую  joy 87 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+всьому  joy 87 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+закладу  joy 87 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+і,  joy 87 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+зокрема  joy 72 sadness 15 anger 0 fear 0 amazement 45 disgust 1
+тим,  joy 72 sadness 15 anger 0 fear 0 amazement 45 disgust 1
+хто  joy 72 sadness 15 anger 0 fear 0 amazement 45 disgust 1
+там  joy 72 sadness 15 anger 0 fear 0 amazement 45 disgust 1
+працює,  joy 72 sadness 15 anger 0 fear 0 amazement 45 disgust 1
+за  joy 72 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+чудову  joy 72 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+каву,  joy 72 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+затишну  joy 72 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+атмосферу  joy 72 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+і  joy 72 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+хороший  joy 72 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+настрій! joy 72 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+Дякую всьому закладу joy 72 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+Дякую закладу joy 72 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+Дякую тим, хто там працює, joy 57 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+Дякую всьому закладу і, зокрема тим, хто там працює, joy 57 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+Дякую за чудову каву, joy 57 sadness 15 anger 0 fear 0 amazement 60 disgust 1
+Дякую за чудову каву, затишну атмосферу і хороший настрій! joy 57 sadness 15 anger 0 fear 0 amazement 90 disgust 1
+Дякую всьому закладу за чудову каву, затишну атмосферу і хороший настрій! joy 57 sadness 15 anger 0 fear 0 amazement 90 disgust 1
+Тут найкраща кава і гарячий шоколад!:) joy 57 sadness 15 anger 0 fear 0 amazement 90 disgust 1
+Тут  joy 57 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+найкраща  joy 57 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+кава  joy 57 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+і  joy 57 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+гарячий  joy 72 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+шоколад!:) joy 72 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+найкраща кава joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+гарячий шоколад joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+Були у цій кав'ярні.  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+Були  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+у  joy 27 sadness 0 anger 0 fear 0 amazement 45 disgust 1
+цій  joy 27 sadness 0 anger 0 fear 0 amazement 60 disgust 1
+кав'ярні.  joy 27 sadness 0 anger 0 fear 0 amazement 60 disgust 1
+у цій кав'ярні.  joy 27 sadness 0 anger 0 fear 0 amazement 60 disgust 1
+Були у кав'ярні.  joy 27 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Там гарно, проте дуже мало місця.  joy 27 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+Там  joy 27 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+гарно,  joy 42 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+проте  joy 42 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+дуже  joy 42 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+мало  joy 42 sadness 0 anger 0 fear 0 amazement 0 disgust 1
+місця.  joy 42 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+дуже мало місця.  joy 42 sadness 0 anger 0 fear 0 amazement 15 disgust 1
+мало місця.  joy 27 sadness 45 anger 0 fear 0 amazement 15 disgust 1
+Там гарно,  joy 27 sadness 45 anger 0 fear 0 amazement 15 disgust 1
+Щодо обслуговування можу сказати , що офіціанти хороші.  joy 27 sadness 45 anger 0 fear 0 amazement 15 disgust 1
+Щодо  joy 27 sadness 45 anger 0 fear 0 amazement 15 disgust 1
+обслуговування  joy 27 sadness 45 anger 0 fear 0 amazement 15 disgust 1
+можу  joy 27 sadness 45 anger 0 fear 0 amazement 15 disgust 1
+сказати ,  joy 27 sadness 45 anger 0 fear 0 amazement 15 disgust 1
+що  joy 27 sadness 45 anger 0 fear 0 amazement 15 disgust 1
+офіціанти  joy 27 sadness 30 anger 0 fear 0 amazement 15 disgust 1
+хороші.  joy 27 sadness 30 anger 0 fear 0 amazement 15 disgust 1
+офіціанти хороші. joy 27 sadness 30 anger 0 fear 0 amazement 15 disgust 1
+Щодо обслуговування можу сказати  joy 27 sadness 30 anger 0 fear 0 amazement 15 disgust 1
+Щодо обслуговування joy 27 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+можу сказати , що офіціанти хороші.  joy 27 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+Дуже смачні є у них налисники з фруктами - просто смакота. joy 27 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+Дуже  joy 27 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+смачні  joy 72 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+є  joy 72 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+у  joy 72 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+них  joy 72 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+налисники  joy 72 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+з  joy 72 sadness 15 anger 0 fear 0 amazement 15 disgust 1
+фруктами -  joy 72 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+просто  joy 72 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+смакота. joy 72 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+Дуже смачні joy 72 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+Дуже смачні налисники з фруктами  joy 72 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+налисники з фруктами  joy 72 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+Дуже смачні налисники  joy 72 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+налисники з фруктами - просто смакота. joy 72 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+просто смакота. joy 72 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+налисники - просто смакота. joy 72 sadness 15 anger 0 fear 0 amazement 30 disgust 1
+Мало місця, половина місць то "біля кута", то "скраю" то ще якось.  joy 27 sadness 45 anger 0 fear 0 amazement 0 disgust 16
+Мало  joy 27 sadness 45 anger 0 fear 0 amazement 0 disgust 16
+місця,  joy 27 sadness 45 anger 0 fear 0 amazement 0 disgust 16
+половина  joy 27 sadness 45 anger 0 fear 0 amazement 0 disgust 16
+місць  joy 27 sadness 45 anger 0 fear 0 amazement 0 disgust 16
+то  joy 27 sadness 45 anger 15 fear 0 amazement 0 disgust 16
+"біля кута",  joy 27 sadness 45 anger 15 fear 0 amazement 0 disgust 16
+то  joy 27 sadness 45 anger 15 fear 0 amazement 0 disgust 16
+"скраю"  joy 27 sadness 45 anger 15 fear 0 amazement 0 disgust 16
+то  joy 27 sadness 45 anger 15 fear 0 amazement 0 disgust 16
+ще  joy 57 sadness 45 anger 15 fear 0 amazement 0 disgust 16
+якось. joy 57 sadness 45 anger 15 fear 0 amazement 0 disgust 16
+Мало місця,  joy 57 sadness 45 anger 15 fear 0 amazement 0 disgust 16
+половина місць joy 57 sadness 45 anger 15 fear 0 amazement 0 disgust 16
+"біля кута" joy 12 sadness 45 anger 15 fear 0 amazement 0 disgust 16
+половина місць "біля кута",  joy 12 sadness 45 anger 15 fear 0 amazement 0 disgust 16
+половина місць "скраю"   joy 12 sadness 45 anger 15 fear 0 amazement 0 disgust 16
+Коли ми, сидівши на одному з таких, спробували пересісти на краще місце, звідки щойно встала пара, офіціантка стрімголов прибігла і вказала, що стіл замовлено (!). joy 12 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+Коли  joy 12 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+ми,  joy 12 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+сидівши  joy 12 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+на  joy 12 sadness 45 anger 15 fear 0 amazement 15 disgust 16
+одному  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 16
+з  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 16
+таких,  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 16
+спробували  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 16
+пересісти  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 16
+на  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 16
+краще  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 16
+місце,  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 16
+звідки  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 16
+щойно  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+встала  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+пара,  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+офіціантка  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+стрімголов  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+прибігла  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+і  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+вказала,  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+що  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+стіл  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+замовлено (!). joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+спробували пересісти на краще місце,  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+пересісти на краще місце,  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+краще місце,  joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+спробували пересісти joy 12 sadness 45 anger 45 fear 0 amazement 0 disgust 46
+ми спробували пересісти на краще місце, joy 12 sadness 60 anger 45 fear 0 amazement 0 disgust 46
+щойно встала пара,  joy 12 sadness 60 anger 45 fear 0 amazement 0 disgust 46
+встала пара,  joy 12 sadness 60 anger 45 fear 0 amazement 0 disgust 46
+офіціантка стрімголов прибігла і вказала, що стіл замовлено joy 12 sadness 60 anger 45 fear 0 amazement 0 disgust 46
+офіціантка прибігла joy 12 sadness 60 anger 15 fear 0 amazement 0 disgust 46
+офіціантка вказала, що стіл замовлено joy 12 sadness 60 anger 15 fear 0 amazement 0 disgust 46
+стіл замовлено joy 12 sadness 60 anger 15 fear 0 amazement 0 disgust 46
+офіціантка стрімголов прибігла joy 12 sadness 60 anger 15 fear 0 amazement 0 disgust 46
+Латте принесли за ОДРАЗУ, в ту ж хвилю після замовлення (як це можливо? чи приготували заздалегідь?), а чай я чекала хвилин 15 і замість чайничка, як було вказано в меню (300 мл мало бути) отримала дивну суміш в чашці... joy 12 sadness 60 anger 15 fear 0 amazement 0 disgust 46
+Латте  joy 12 sadness 60 anger 15 fear 0 amazement 0 disgust 46
+принесли  joy 12 sadness 60 anger 15 fear 0 amazement 0 disgust 46
+за  joy 12 sadness 60 anger 15 fear 0 amazement 0 disgust 46
+ОДРАЗУ,  joy 12 sadness 60 anger 15 fear 0 amazement 0 disgust 46
+в  joy 12 sadness 60 anger 15 fear 0 amazement 0 disgust 46
+ту  joy 12 sadness 60 anger 15 fear 0 amazement 0 disgust 46
+ж  joy 12 sadness 60 anger 15 fear 0 amazement 0 disgust 46
+хвилю  joy 12 sadness 30 anger 15 fear 0 amazement 0 disgust 46
+після  joy 12 sadness 30 anger 15 fear 0 amazement 0 disgust 46
+замовлення  joy 12 sadness 30 anger 15 fear 0 amazement 0 disgust 46
+(як  joy 12 sadness 30 anger 60 fear 0 amazement 0 disgust 46
+це  joy 12 sadness 30 anger 60 fear 0 amazement 0 disgust 46
+можливо?  joy 12 sadness 30 anger 60 fear 0 amazement 0 disgust 46
+чи  joy 12 sadness 30 anger 60 fear 0 amazement 0 disgust 46
+приготували  joy 12 sadness 30 anger 60 fear 0 amazement 0 disgust 46
+заздалегідь?),  joy 12 sadness 30 anger 60 fear 0 amazement 0 disgust 46
+а  joy 12 sadness 30 anger 60 fear 0 amazement 0 disgust 46
+чай  joy 12 sadness 30 anger 0 fear 45 amazement 0 disgust 79
+я  joy 12 sadness 30 anger 0 fear 45 amazement 0 disgust 79
+чекала  joy 12 sadness 30 anger 0 fear 45 amazement 0 disgust 79
+хвилин  joy 12 sadness 30 anger 0 fear 60 amazement 0 disgust 79
+15  joy 12 sadness 30 anger 0 fear 60 amazement 0 disgust 79
+і  joy 12 sadness 30 anger 0 fear 60 amazement 0 disgust 49
+замість  joy 12 sadness 30 anger 0 fear 60 amazement 0 disgust 49
+чайничка,  joy 12 sadness 30 anger 0 fear 60 amazement 0 disgust 49
+як  joy 12 sadness 30 anger 0 fear 60 amazement 0 disgust 49
+було  joy 12 sadness 30 anger 0 fear 0 amazement 0 disgust 49
+вказано  joy 12 sadness 30 anger 0 fear 0 amazement 0 disgust 49
+в  joy 12 sadness 30 anger 0 fear 0 amazement 0 disgust 49
+меню  joy 12 sadness 30 anger 0 fear 0 amazement 0 disgust 49
+(300  joy 12 sadness 30 anger 0 fear 0 amazement 0 disgust 49
+мл  joy 12 sadness 30 anger 0 fear 0 amazement 0 disgust 49
+мало  joy 12 sadness 30 anger 0 fear 0 amazement 0 disgust 49
+бути)  joy 12 sadness 75 anger 0 fear 0 amazement 0 disgust 49
+отримала  joy 12 sadness 75 anger 0 fear 0 amazement 0 disgust 49
+дивну  joy 12 sadness 75 anger 0 fear 0 amazement 0 disgust 49
+суміш  joy 12 sadness 75 anger 0 fear 0 amazement 0 disgust 49
+в  joy 12 sadness 75 anger 0 fear 0 amazement 0 disgust 49
+чашці... joy 12 sadness 75 anger 0 fear 0 amazement 0 disgust 49
+Латте принесли joy 12 sadness 75 anger 0 fear 0 amazement 0 disgust 49
+Латте принесли за ОДРАЗУ, joy 12 sadness 75 anger 0 fear 0 amazement 0 disgust 49
+в ту ж хвилю joy 12 sadness 75 anger 0 fear 0 amazement 0 disgust 49
+після замовлення  joy 12 sadness 75 anger 0 fear 0 amazement 0 disgust 49
+в ту ж хвилю після замовлення joy 12 sadness 75 anger 0 fear 0 amazement 0 disgust 49
+це можливо? joy 12 sadness 75 anger 0 fear 0 amazement 0 disgust 49
+приготували заздалегідь?),  joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 49
+чай я чекала  joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 49
+хвилин 15 joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 34
+я чекала хвилин 15  joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 34
+я чекала  joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 34
+замість чайничка,  joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 34
+було вказано  joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 34
+було вказано в меню  joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 34
+вказано в меню joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 34
+отримала дивну суміш в чашці... joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 34
+отримала суміш в чашці... joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 34
+суміш в чашці... joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 64
+Не всім офіціантки пропонували картки і не всіх питали, а якось вибірково, що незрозуміло. joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 64
+Не  joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 64
+всім  joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 64
+офіціантки  joy 12 sadness 45 anger 0 fear 0 amazement 0 disgust 64
+пропонували  joy 12 sadness 45 anger 30 fear 0 amazement 0 disgust 19
+картки  joy 12 sadness 45 anger 30 fear 0 amazement 0 disgust 19
+і  joy 12 sadness 45 anger 30 fear 0 amazement 0 disgust 19
+не  joy 12 sadness 45 anger 30 fear 0 amazement 0 disgust 19
+всіх  joy 12 sadness 45 anger 30 fear 15 amazement 0 disgust 19
+питали,  joy 12 sadness 45 anger 30 fear 15 amazement 0 disgust 19
+а  joy 12 sadness 45 anger 30 fear 15 amazement 0 disgust 19
+якось  joy 12 sadness 45 anger 30 fear 15 amazement 0 disgust 19
+вибірково,  joy 12 sadness 45 anger 30 fear 15 amazement 0 disgust 19
+що  joy 12 sadness 45 anger 30 fear 15 amazement 0 disgust 19
+незрозуміло. joy 12 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+пропонували картки joy 12 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+офіціантки пропонували картки joy 12 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+якось вибірково joy 12 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+Не всім офіціантки пропонували картки і не всіх питали, joy 12 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+не всіх питали, joy 12 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+Не всім офіціантки пропонували картки joy 12 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+Дуже смачний шоколад і цукерки, дуже гарні фігури з шоколаду, приємні продавці. joy 12 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+Дуже  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+смачний  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+шоколад  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+і  joy 0 sadness 60 anger 30 fear 0 amazement 0 disgust 19
+цукерки,  joy 0 sadness 60 anger 30 fear 0 amazement 0 disgust 19
+дуже  joy 0 sadness 60 anger 30 fear 0 amazement 0 disgust 19
+гарні  joy 0 sadness 60 anger 30 fear 0 amazement 0 disgust 19
+фігури  joy 0 sadness 60 anger 30 fear 0 amazement 0 disgust 19
+з  joy 0 sadness 60 anger 30 fear 0 amazement 0 disgust 34
+шоколаду,  joy 0 sadness 60 anger 30 fear 0 amazement 0 disgust 34
+приємні  joy 0 sadness 60 anger 30 fear 0 amazement 0 disgust 34
+продавці. joy 0 sadness 60 anger 30 fear 0 amazement 0 disgust 34
+Дуже смачний шоколад joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 34
+смачний шоколад joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 34
+Дуже смачний шоколад і цукерки, joy 0 sadness 75 anger 30 fear 0 amazement 0 disgust 34
+приємні продавці. joy 15 sadness 0 anger 15 fear 0 amazement 45 disgust 4
+дуже гарні фігури з шоколаду, joy 15 sadness 0 anger 15 fear 0 amazement 45 disgust 4
+гарні фігури з шоколаду, joy 15 sadness 0 anger 15 fear 0 amazement 45 disgust 4
+фігури з шоколаду, joy 15 sadness 0 anger 0 fear 0 amazement 45 disgust 4
+Мало, дуже мало місця, щоб присісти випити кави..і ціни на шоколадні цукерки 5-6 грн. за 1 штучку трохи забагато. joy 15 sadness 0 anger 0 fear 0 amazement 45 disgust 4
+Мало,  joy 15 sadness 0 anger 0 fear 0 amazement 45 disgust 4
+дуже  joy 15 sadness 0 anger 0 fear 0 amazement 45 disgust 4
+мало  joy 15 sadness 0 anger 0 fear 0 amazement 45 disgust 4
+місця,  joy 15 sadness 30 anger 0 fear 0 amazement 45 disgust 4
+щоб  joy 15 sadness 30 anger 0 fear 0 amazement 45 disgust 4
+присісти  joy 15 sadness 30 anger 0 fear 0 amazement 45 disgust 4
+випити  joy 15 sadness 30 anger 0 fear 0 amazement 45 disgust 4
+кави.. joy 15 sadness 30 anger 0 fear 0 amazement 45 disgust 4
+і  joy 15 sadness 30 anger 0 fear 0 amazement 15 disgust 4
+ціни  joy 15 sadness 30 anger 0 fear 0 amazement 15 disgust 4
+на  joy 15 sadness 30 anger 0 fear 0 amazement 15 disgust 4
+шоколадні  joy 15 sadness 30 anger 0 fear 0 amazement 15 disgust 4
+цукерки  joy 15 sadness 30 anger 0 fear 0 amazement 15 disgust 4
+5-6  joy 15 sadness 30 anger 0 fear 0 amazement 15 disgust 4
+грн.  joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 4
+за  joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 4
+1  joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 4
+штучку  joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 4
+трохи  joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 4
+забагато. joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 4
+дуже мало місця, joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 4
+мало місця, joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 4
+присісти випити кави.. joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 34
+випити кави.. joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 34
+дуже мало місця, щоб присісти випити кави.. joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 34
+мало місця, щоб присісти випити кави.. joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 34
+ціни на шоколадні цукерки  joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 34
+за 1 штучку трохи забагато. joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 34
+5-6 грн. за 1 штучку забагато. joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 34
+Смачна кава, добрі солодощі, приємна атмосфера, на офіціанток нема чого скаржитись — вони видають дзвіночки, щоб їх кликати, коли потрібно. joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 34
+Смачна  joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 34
+кава,  joy 15 sadness 60 anger 0 fear 0 amazement 0 disgust 34
+добрі  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 4
+солодощі,  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 4
+приємна  joy 75 sadness 0 anger 0 fear 0 amazement 0 disgust 4
+атмосфера,  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 4
+на  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 4
+офіціанток  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 4
+нема  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 4
+чого  joy 75 sadness 0 anger 0 fear 0 amazement 30 disgust 4
+скаржитись —  joy 75 sadness 0 anger 0 fear 0 amazement 60 disgust 4
+вони  joy 75 sadness 0 anger 0 fear 0 amazement 60 disgust 4
+видають  joy 75 sadness 0 anger 0 fear 0 amazement 60 disgust 4
+дзвіночки,  joy 75 sadness 0 anger 0 fear 0 amazement 60 disgust 4
+щоб  joy 100 sadness 0 anger 0 fear 0 amazement 60 disgust 4
+їх  joy 100 sadness 0 anger 0 fear 0 amazement 60 disgust 4
+кликати,  joy 100 sadness 0 anger 0 fear 0 amazement 60 disgust 4
+коли  joy 100 sadness 0 anger 0 fear 0 amazement 60 disgust 4
+потрібно. joy 100 sadness 0 anger 0 fear 0 amazement 60 disgust 4
+Смачна кава, joy 100 sadness 0 anger 0 fear 0 amazement 60 disgust 4
+добрі солодощі, joy 85 sadness 0 anger 0 fear 0 amazement 60 disgust 4
+приємна атмосфера, joy 85 sadness 0 anger 0 fear 0 amazement 60 disgust 4
+на офіціанток нема чого скаржитись joy 85 sadness 0 anger 0 fear 0 amazement 60 disgust 4
+нема чого скаржитись joy 85 sadness 0 anger 0 fear 0 amazement 45 disgust 4
+видають дзвіночки, joy 85 sadness 0 anger 0 fear 0 amazement 45 disgust 4
+їх кликати, joy 70 sadness 0 anger 0 fear 0 amazement 45 disgust 4
+їх кликати, коли потрібно. joy 70 sadness 0 anger 0 fear 0 amazement 45 disgust 4
+вони видають дзвіночки, щоб їх кликати, коли потрібно. joy 70 sadness 0 anger 0 fear 0 amazement 45 disgust 4
+Не то… joy 55 sadness 30 anger 0 fear 0 amazement 45 disgust 4
+Не  joy 55 sadness 30 anger 0 fear 0 amazement 45 disgust 4
+то… joy 55 sadness 30 anger 0 fear 0 amazement 45 disgust 4
+Паб «Прага» записав у чорний список.  joy 10 sadness 30 anger 30 fear 0 amazement 0 disgust 4
+Паб  joy 10 sadness 30 anger 30 fear 0 amazement 0 disgust 4
+«Прага»  joy 10 sadness 30 anger 30 fear 0 amazement 0 disgust 4
+записав  joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 4
+у  joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 4
+чорний  joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 4
+список. joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 4
+чорний список. joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 19
+записав у чорний список. joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 19
+Паб «Прага» joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 19
+Паб «Прага» записав у список. joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 19
+Більше іти туди бажання немає. joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 19
+Більше  joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 19
+іти  joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 49
+туди  joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 49
+бажання  joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 49
+немає. joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 49
+іти туди joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 49
+бажання немає. joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 49
+Більше бажання немає. joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 49
+Якісь пива здивувала — що чорне Крушовіце, що світле не принесло справжньої чеської насолоди…  joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 49
+Якісь  joy 10 sadness 30 anger 45 fear 0 amazement 0 disgust 49
+пива  joy 10 sadness 75 anger 30 fear 0 amazement 0 disgust 49
+здивувала —  joy 10 sadness 75 anger 30 fear 0 amazement 0 disgust 49
+що  joy 10 sadness 75 anger 30 fear 0 amazement 0 disgust 49
+чорне  joy 10 sadness 75 anger 30 fear 0 amazement 0 disgust 49
+Крушовіце,  joy 10 sadness 75 anger 30 fear 0 amazement 0 disgust 49
+що  joy 10 sadness 75 anger 30 fear 0 amazement 0 disgust 49
+світле  joy 10 sadness 75 anger 30 fear 0 amazement 0 disgust 49
+не  joy 10 sadness 75 anger 30 fear 0 amazement 0 disgust 49
+принесло  joy 10 sadness 75 anger 30 fear 0 amazement 0 disgust 34
+справжньої  joy 10 sadness 75 anger 30 fear 0 amazement 0 disgust 34
+чеської  joy 10 sadness 75 anger 30 fear 0 amazement 0 disgust 34
+насолоди…  joy 10 sadness 75 anger 30 fear 0 amazement 0 disgust 34
+Якісь пива joy 10 sadness 75 anger 30 fear 15 amazement 0 disgust 34
+Якісь здивувала joy 10 sadness 75 anger 60 fear 15 amazement 0 disgust 34
+Якісь пива здивувала joy 10 sadness 75 anger 60 fear 15 amazement 0 disgust 34
+чорне Крушовіце, joy 10 sadness 75 anger 60 fear 15 amazement 0 disgust 34
+не принесло справжньої чеської насолоди…  joy 10 sadness 75 anger 60 fear 15 amazement 0 disgust 34
+що чорне Крушовіце, що світле не принесло справжньої чеської насолоди…  joy 10 sadness 75 anger 60 fear 15 amazement 0 disgust 34
+не принесло насолоди…  joy 10 sadness 75 anger 60 fear 15 amazement 0 disgust 34
+не принесло справжньої насолоди…  joy 10 sadness 75 anger 60 fear 15 amazement 0 disgust 34
+не принесло чеської насолоди…  joy 0 sadness 75 anger 60 fear 15 amazement 0 disgust 34
+Це дійсно було Крушовіце??? joy 0 sadness 75 anger 60 fear 15 amazement 0 disgust 34
+Це  joy 0 sadness 75 anger 60 fear 15 amazement 0 disgust 34
+дійсно  joy 0 sadness 75 anger 60 fear 15 amazement 0 disgust 34
+було  joy 0 sadness 75 anger 60 fear 15 amazement 0 disgust 34
+Крушовіце???  joy 0 sadness 75 anger 60 fear 15 amazement 0 disgust 34
+Це було Крушовіце??? joy 0 sadness 60 anger 60 fear 15 amazement 0 disgust 34
+Заплатив 100 грн за пиво, а радості ноль… joy 0 sadness 60 anger 60 fear 15 amazement 0 disgust 34
+Заплатив  joy 0 sadness 60 anger 60 fear 15 amazement 0 disgust 34
+100  joy 0 sadness 60 anger 60 fear 15 amazement 0 disgust 34
+грн  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 34
+за  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 34
+пиво,  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 34
+а  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 34
+радості  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 34
+ноль… joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 34
+Заплатив 100 грн за пиво, joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 34
+Заплатив за пиво, joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 64
+100 грн за пиво, joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 64
+По їжі. joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 64
+По  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 64
+їжі. joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 64
+Що це за трикутники рясно посипані сухими травами???  joy 0 sadness 60 anger 60 fear 15 amazement 0 disgust 64
+Що  joy 0 sadness 60 anger 60 fear 15 amazement 0 disgust 64
+це  joy 0 sadness 60 anger 60 fear 15 amazement 0 disgust 64
+за  joy 0 sadness 60 anger 60 fear 15 amazement 0 disgust 64
+трикутники  joy 0 sadness 60 anger 60 fear 15 amazement 0 disgust 64
+рясно  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 64
+посипані  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 64
+сухими  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 64
+травами???  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 64
+трикутники рясно посипані сухими травами???  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 64
+трикутники посипані сухими травами???  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 64
+трикутники посипані травами???  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 64
+посипані сухими травами???  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 64
+трикутники рясно посипані травами???  joy 0 sadness 75 anger 30 fear 15 amazement 0 disgust 64
+посипані травами???  joy 0 sadness 75 anger 30 fear 15 amazement 0 disgust 64
+У них забагато припав і не мають куди дівати??? joy 0 sadness 75 anger 30 fear 15 amazement 0 disgust 64
+У  joy 0 sadness 75 anger 30 fear 15 amazement 0 disgust 64
+них  joy 0 sadness 75 anger 30 fear 15 amazement 0 disgust 64
+забагато  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 64
+припав  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 64
+і  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 64
+не  joy 0 sadness 45 anger 30 fear 15 amazement 0 disgust 79
+мають  joy 0 sadness 45 anger 30 fear 15 amazement 0 disgust 79
+куди  joy 0 sadness 45 anger 30 fear 15 amazement 0 disgust 79
+дівати??? joy 0 sadness 15 anger 30 fear 15 amazement 0 disgust 79
+куди дівати??? joy 0 sadness 15 anger 30 fear 15 amazement 0 disgust 79
+не мають куди дівати??? joy 0 sadness 15 anger 30 fear 15 amazement 0 disgust 79
+забагато припав joy 0 sadness 15 anger 30 fear 15 amazement 0 disgust 79
+У них забагато припав joy 0 sadness 15 anger 30 fear 15 amazement 0 disgust 79
+Свині ребра і курячі крильця.  joy 0 sadness 15 anger 30 fear 15 amazement 0 disgust 79
+Свині  joy 0 sadness 15 anger 45 fear 15 amazement 0 disgust 79
+ребра  joy 0 sadness 15 anger 45 fear 15 amazement 0 disgust 79
+і  joy 0 sadness 15 anger 45 fear 15 amazement 0 disgust 79
+курячі  joy 0 sadness 15 anger 45 fear 15 amazement 0 disgust 79
+крильця.  joy 0 sadness 15 anger 45 fear 15 amazement 0 disgust 79
+Свині ребра  joy 0 sadness 15 anger 45 fear 15 amazement 0 disgust 79
+курячі крильця.  joy 0 sadness 15 anger 45 fear 15 amazement 0 disgust 79
+ребра і крильця.  joy 0 sadness 15 anger 45 fear 15 amazement 0 disgust 79
+Це повний провал.  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 79
+Це  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 79
+повний  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 79
+провал.  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 79
+повний провал.  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 79
+Це провал.  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 79
+Фантазія повара здивувала.  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 79
+Фантазія  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 34
+повара  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 34
+здивувала.  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 34
+Фантазія повара  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 34
+Фантазія здивувала.  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 34
+В одному соусі з кетчупу, рясно посипані кунжупом (ще один надлишок у кухні?) і з одинаковим смаком.  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 34
+В  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 34
+одному  joy 0 sadness 15 anger 75 fear 15 amazement 0 disgust 34
+соусі  joy 0 sadness 45 anger 75 fear 15 amazement 0 disgust 34
+з  joy 0 sadness 45 anger 75 fear 15 amazement 0 disgust 34
+кетчупу,  joy 0 sadness 45 anger 75 fear 15 amazement 0 disgust 34
+рясно  joy 0 sadness 45 anger 75 fear 15 amazement 0 disgust 34
+посипані  joy 0 sadness 45 anger 75 fear 15 amazement 0 disgust 34
+кунжупом  joy 0 sadness 60 anger 75 fear 15 amazement 0 disgust 34
+(ще  joy 0 sadness 60 anger 75 fear 15 amazement 0 disgust 34
+один  joy 0 sadness 60 anger 75 fear 15 amazement 0 disgust 34
+надлишок  joy 0 sadness 60 anger 75 fear 15 amazement 0 disgust 34
+у  joy 0 sadness 60 anger 75 fear 15 amazement 0 disgust 34
+кухні?)  joy 0 sadness 60 anger 75 fear 15 amazement 0 disgust 49
+і  joy 0 sadness 60 anger 75 fear 15 amazement 0 disgust 49
+з  joy 0 sadness 60 anger 75 fear 15 amazement 0 disgust 49
+одинаковим  joy 0 sadness 60 anger 75 fear 15 amazement 0 disgust 49
+смаком.  joy 0 sadness 60 anger 75 fear 15 amazement 0 disgust 49
+В одному соусі joy 0 sadness 60 anger 75 fear 15 amazement 0 disgust 49
+В одному соусі з кетчупу, joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+В соусі з кетчупу, joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+рясно посипані кунжупом joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+надлишок у кухні?  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+з одинаковим смаком.  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+Що свиня, що курка. 100 грн знову і знову без радості. joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+Що  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+свиня,  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+що  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+курка.  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+100  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+грн  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+знову  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+і  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+знову  joy 0 sadness 60 anger 45 fear 15 amazement 0 disgust 49
+без  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 49
+радості. joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 49
+знову без радості. joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 49
+без радості. joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 49
+Підсумок- Пиво сумнівне.  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 49
+Підсумок-  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 49
+Пиво  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 49
+сумнівне.  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 49
+Пиво сумнівне. joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 49
+Кухня не зрозуміла.  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 49
+Кухня  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 79
+не  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 79
+зрозуміла.  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 79
+200 грн за харчі, які зовсім цього не вартують.  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 79
+200  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 79
+грн  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 79
+за  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 79
+харчі,  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 79
+які  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 79
+зовсім  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 79
+цього  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 79
+не  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 79
+вартують.  joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 79
+за харчі, joy 0 sadness 90 anger 45 fear 15 amazement 0 disgust 79
+200 грн за харчі, joy 0 sadness 90 anger 30 fear 15 amazement 0 disgust 79
+зовсім не вартують.  joy 0 sadness 90 anger 30 fear 15 amazement 0 disgust 79
+цього не вартують.  joy 0 sadness 90 anger 30 fear 15 amazement 0 disgust 79
+не вартують.  joy 0 sadness 90 anger 30 fear 15 amazement 0 disgust 79
+Повірте, що спокійно у Львові можна знайти заклад, де із задоволенням можна смачно поїсти. joy 0 sadness 90 anger 30 fear 15 amazement 0 disgust 79
+Повірте,  joy 0 sadness 90 anger 30 fear 15 amazement 0 disgust 79
+що  joy 0 sadness 90 anger 30 fear 15 amazement 0 disgust 79
+спокійно  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 79
+у  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 79
+Львові  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 79
+можна  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 79
+знайти  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 79
+заклад,  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 79
+де  joy 0 sadness 60 anger 30 fear 15 amazement 0 disgust 79
+із  joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 79
+задоволенням  joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 79
+можна  joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 79
+смачно  joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 79
+поїсти. joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 79
+можна смачно поїсти. joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 79
+смачно поїсти. joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 79
+із задоволенням можна смачно поїсти. joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+із задоволенням  joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+спокійно у Львові можна знайти заклад, joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+у Львові можна знайти заклад, joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+можна знайти заклад, joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+заклад, де із задоволенням можна смачно поїсти. joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+Пс. Завтра ж розкажу усім своїм друзям про свої негативні враження.  joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+Пс.  joy 15 sadness 60 anger 30 fear 15 amazement 0 disgust 19
+Завтра  joy 15 sadness 60 anger 75 fear 15 amazement 0 disgust 19
+ж  joy 15 sadness 60 anger 75 fear 15 amazement 0 disgust 19
+розкажу  joy 15 sadness 60 anger 75 fear 15 amazement 0 disgust 19
+усім  joy 15 sadness 60 anger 75 fear 15 amazement 0 disgust 19
+своїм  joy 15 sadness 60 anger 75 fear 15 amazement 0 disgust 19
+друзям  joy 15 sadness 60 anger 75 fear 15 amazement 0 disgust 19
+про  joy 15 sadness 60 anger 75 fear 15 amazement 0 disgust 19
+свої  joy 15 sadness 60 anger 75 fear 15 amazement 0 disgust 19
+негативні  joy 15 sadness 60 anger 75 fear 15 amazement 0 disgust 19
+враження.  joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 19
+Завтра ж розкажу joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 19
+розкажу усім своїм друзям про свої негативні враження.  joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 19
+розкажу своїм друзям про свої негативні враження.  joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 19
+розкажу друзям про свої негативні враження.  joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 19
+розкажу друзям про негативні враження.  joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 19
+розкажу друзям про враження.  joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 19
+розкажу усім своїм друзям про враження.  joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 19
+розкажу усім своїм друзям про свої враження.  joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 19
+розкажу усім своїм друзям про негативні враження.  joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 49
+розкажу усім про свої негативні враження.  joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 49
+негативні враження.  joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 49
+А шкода.  joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 49
+А  joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 49
+шкода.  joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 49
+Колись тут було добре… joy 15 sadness 90 anger 75 fear 15 amazement 0 disgust 49
+Колись  joy 15 sadness 90 anger 15 fear 0 amazement 0 disgust 49
+тут  joy 15 sadness 90 anger 15 fear 0 amazement 0 disgust 49
+було  joy 15 sadness 90 anger 15 fear 0 amazement 0 disgust 49
+добре… joy 15 sadness 90 anger 15 fear 0 amazement 0 disgust 49
+було добре… joy 15 sadness 90 anger 15 fear 0 amazement 0 disgust 49
+тут було добре… joy 15 sadness 90 anger 15 fear 0 amazement 0 disgust 49
+Колись було добре… joy 15 sadness 90 anger 15 fear 0 amazement 0 disgust 49
+Не рекомендую! joy 15 sadness 90 anger 15 fear 0 amazement 0 disgust 49
+Не  joy 15 sadness 90 anger 15 fear 0 amazement 0 disgust 49
+рекомендую joy 15 sadness 90 anger 15 fear 0 amazement 0 disgust 49
