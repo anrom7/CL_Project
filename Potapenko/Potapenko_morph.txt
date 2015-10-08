@@ -1,353 +1,353 @@
 					SENT_START 
 
-Не	        не              part 
-надійний	надійний 		adj:m:v_naz:compb 
-ресторан	ресторан 		noun:m:v_naz 
+РќРµ	        РЅРµ              part 
+РЅР°РґС–Р№РЅРёР№	РЅР°РґС–Р№РЅРёР№ 		adj:m:v_naz:compb 
+СЂРµСЃС‚РѕСЂР°РЅ	СЂРµСЃС‚РѕСЂР°РЅ 		noun:m:v_naz 
 !	       					 - 
 					SENT_END 
 
 					SENT_START 
-скарг	    скарга 			noun:p:v_rod 
+СЃРєР°СЂРі	    СЃРєР°СЂРіР° 			noun:p:v_rod 
 ,	        - 					- 
-берутся		- 					- 
-уваги		увага 			noun:f:v_rod 
-ВЗАГАЛІ		взагалі 		adv:v-u 
+Р±РµСЂСѓС‚СЃСЏ		- 					- 
+СѓРІР°РіРё		СѓРІР°РіР° 			noun:f:v_rod 
+Р’Р—РђР“РђР›Р†		РІР·Р°РіР°Р»С– 		adv:v-u 
 !				- 
 					SENT_END 
 
 					SENT_START 
-Домовленостей	домовленість noun:p:v_rod 
-дотримуються	дотримуватися verb:rev:pres:p:3:imperf
-адміністрацією	адміністрація noun:f:v_oru 
-ресторану	    ресторан      noun:m:v_dav 
+Р”РѕРјРѕРІР»РµРЅРѕСЃС‚РµР№	РґРѕРјРѕРІР»РµРЅС–СЃС‚СЊ noun:p:v_rod 
+РґРѕС‚СЂРёРјСѓСЋС‚СЊСЃСЏ	РґРѕС‚СЂРёРјСѓРІР°С‚РёСЃСЏ verb:rev:pres:p:3:imperf
+Р°РґРјС–РЅС–СЃС‚СЂР°С†С–С”СЋ	Р°РґРјС–РЅС–СЃС‚СЂР°С†С–СЏ noun:f:v_oru 
+СЂРµСЃС‚РѕСЂР°РЅСѓ	    СЂРµСЃС‚РѕСЂР°РЅ      noun:m:v_dav 
 !	- 
 					SENT_END 
 					SENT_START 
-обману	обманути обман 	verb:futr:s:1:perf noun:m:v_dav noun:m:v_mis noun:m:v_rod 
-брехні	брехня 			noun:f:v_dav noun:f:v_mis noun:f:v_rod 
-замилювання	замилювання noun:n:v_naz noun:n:v_rod noun:n:v_zna 
-очей	око 			noun:p:v_rod 
-складається	складатися   verb:rev:pres:s:3:imperf
-дуже	дуже дужий      adv adj:n:v_naz:compb adj:n:v_zna:compb 
-хороша	хороший        adj:f:v_naz:compb 
-картина	картина			 noun:f:v_naz 
-ресторації	ресторація noun:f:v_dav noun:f:v_mis noun:f:v_rod noun:p:v_naz noun:p:v_zna 
+РѕР±РјР°РЅСѓ	РѕР±РјР°РЅСѓС‚Рё РѕР±РјР°РЅ 	verb:futr:s:1:perf noun:m:v_dav noun:m:v_mis noun:m:v_rod 
+Р±СЂРµС…РЅС–	Р±СЂРµС…РЅСЏ 			noun:f:v_dav noun:f:v_mis noun:f:v_rod 
+Р·Р°РјРёР»СЋРІР°РЅРЅСЏ	Р·Р°РјРёР»СЋРІР°РЅРЅСЏ noun:n:v_naz noun:n:v_rod noun:n:v_zna 
+РѕС‡РµР№	РѕРєРѕ 			noun:p:v_rod 
+СЃРєР»Р°РґР°С”С‚СЊСЃСЏ	СЃРєР»Р°РґР°С‚РёСЃСЏ   verb:rev:pres:s:3:imperf
+РґСѓР¶Рµ	РґСѓР¶Рµ РґСѓР¶РёР№      adv adj:n:v_naz:compb adj:n:v_zna:compb 
+С…РѕСЂРѕС€Р°	С…РѕСЂРѕС€РёР№        adj:f:v_naz:compb 
+РєР°СЂС‚РёРЅР°	РєР°СЂС‚РёРЅР°			 noun:f:v_naz 
+СЂРµСЃС‚РѕСЂР°С†С–С—	СЂРµСЃС‚РѕСЂР°С†С–СЏ noun:f:v_dav noun:f:v_mis noun:f:v_rod noun:p:v_naz noun:p:v_zna 
 ,	- - 
 "	- - 
-ресторація	ресторація noun:f:v_naz 
+СЂРµСЃС‚РѕСЂР°С†С–СЏ	СЂРµСЃС‚РѕСЂР°С†С–СЏ noun:f:v_naz 
 "	- - 
-гучно	гучно 			adv:compb 
-сказано	сказати        verb:impers:perf 
+РіСѓС‡РЅРѕ	РіСѓС‡РЅРѕ 			adv:compb 
+СЃРєР°Р·Р°РЅРѕ	СЃРєР°Р·Р°С‚Рё        verb:impers:perf 
 !	- 
 						SENT_END 
 						SENT_START 
-кінцевому	кінцевий 		adj:m:v_dav adj:m:v_mis adj:n:v_dav adj:n:v_mis 
+РєС–РЅС†РµРІРѕРјСѓ	РєС–РЅС†РµРІРёР№ 		adj:m:v_dav adj:m:v_mis adj:n:v_dav adj:n:v_mis 
 ,	- - 
-власники	власник 	noun:p:v_kly:anim noun:p:v_naz:anim 
-ресторану	ресторан 	noun:m:v_dav noun:m:v_mis noun:m:v_rod 
-приймають	приймати 	verb:pres:p:3:imperf 
-рішення	рішення 		noun:n:v_naz noun:n:v_rod 
-домовленості	домовленість noun:f:v_dav noun:f:v_mis 
-підписанні	підписання 		noun:n:v_mis 
-ДОГОВОРУ	договір 	noun:m:v_dav noun:m:v_rod 
-двох	двоє  два 		numr:p:v_mis numr:p:v_rod numr:p:v_zna 
-сторін	сторона 		noun:p:v_rod 
+РІР»Р°СЃРЅРёРєРё	РІР»Р°СЃРЅРёРє 	noun:p:v_kly:anim noun:p:v_naz:anim 
+СЂРµСЃС‚РѕСЂР°РЅСѓ	СЂРµСЃС‚РѕСЂР°РЅ 	noun:m:v_dav noun:m:v_mis noun:m:v_rod 
+РїСЂРёР№РјР°СЋС‚СЊ	РїСЂРёР№РјР°С‚Рё 	verb:pres:p:3:imperf 
+СЂС–С€РµРЅРЅСЏ	СЂС–С€РµРЅРЅСЏ 		noun:n:v_naz noun:n:v_rod 
+РґРѕРјРѕРІР»РµРЅРѕСЃС‚С–	РґРѕРјРѕРІР»РµРЅС–СЃС‚СЊ noun:f:v_dav noun:f:v_mis 
+РїС–РґРїРёСЃР°РЅРЅС–	РїС–РґРїРёСЃР°РЅРЅСЏ 		noun:n:v_mis 
+Р”РћР“РћР’РћР РЈ	РґРѕРіРѕРІС–СЂ 	noun:m:v_dav noun:m:v_rod 
+РґРІРѕС…	РґРІРѕС”  РґРІР° 		numr:p:v_mis numr:p:v_rod numr:p:v_zna 
+СЃС‚РѕСЂС–РЅ	СЃС‚РѕСЂРѕРЅР° 		noun:p:v_rod 
 ,	- - 
-роблять	робити 			verb:pres:p:3:imperf 
-вважають	вважати 	verb:pres:p:3:imperf 
-потрібне	потрібний 	adj:n:v_naz:compb adj:n:v_zna:compb 
+СЂРѕР±Р»СЏС‚СЊ	СЂРѕР±РёС‚Рё 			verb:pres:p:3:imperf 
+РІРІР°Р¶Р°СЋС‚СЊ	РІРІР°Р¶Р°С‚Рё 	verb:pres:p:3:imperf 
+РїРѕС‚СЂС–Р±РЅРµ	РїРѕС‚СЂС–Р±РЅРёР№ 	adj:n:v_naz:compb adj:n:v_zna:compb 
 .	- 
 							SENT_END 
 							SENT_START 
-Збільшують	збільшувати 	verb:pres:p:3:imperf 
-мін	міна 					noun:p:v_rod 
-суму	сум сума 			noun:m:v_dav noun:m:v_mis noun:m:v_rod 
-замовлення	замовлення noun:n:v_naz noun:n:v_rod noun:n:v_zna 
-особу	особа 				noun:f:v_zna:anim 
+Р—Р±С–Р»СЊС€СѓСЋС‚СЊ	Р·Р±С–Р»СЊС€СѓРІР°С‚Рё 	verb:pres:p:3:imperf 
+РјС–РЅ	РјС–РЅР° 					noun:p:v_rod 
+СЃСѓРјСѓ	СЃСѓРј СЃСѓРјР° 			noun:m:v_dav noun:m:v_mis noun:m:v_rod 
+Р·Р°РјРѕРІР»РµРЅРЅСЏ	Р·Р°РјРѕРІР»РµРЅРЅСЏ noun:n:v_naz noun:n:v_rod noun:n:v_zna 
+РѕСЃРѕР±Сѓ	РѕСЃРѕР±Р° 				noun:f:v_zna:anim 
 ,	- 	- 
-обманюють	обманювати 		verb:pres:p:3:imperf 
-рахунок	рахунок 			noun:m:v_naz noun:m:v_zna 
-кількості	кількість 		noun:f:v_dav noun:f:v_mis 
-місць	місце 				noun:p:v_rod 
+РѕР±РјР°РЅСЋСЋС‚СЊ	РѕР±РјР°РЅСЋРІР°С‚Рё 		verb:pres:p:3:imperf 
+СЂР°С…СѓРЅРѕРє	СЂР°С…СѓРЅРѕРє 			noun:m:v_naz noun:m:v_zna 
+РєС–Р»СЊРєРѕСЃС‚С–	РєС–Р»СЊРєС–СЃС‚СЊ 		noun:f:v_dav noun:f:v_mis 
+РјС–СЃС†СЊ	РјС–СЃС†Рµ 				noun:p:v_rod 
 "	- - 
-йдеться	йтися 				verb:rev:pres:s:3:imperf
-весілля	весілля 		noun:n:v_naz noun:n:v_rod noun:n:v_zna 
+Р№РґРµС‚СЊСЃСЏ	Р№С‚РёСЃСЏ 				verb:rev:pres:s:3:imperf
+РІРµСЃС–Р»Р»СЏ	РІРµСЃС–Р»Р»СЏ 		noun:n:v_naz noun:n:v_rod noun:n:v_zna 
 "	- - 
 .	- 
 							SENT_END
 							SENT_START 
-раджу	раджа радити 		noun:f:v_zna:anim verb:pres:s:1:imperf 
-відвідувати	відвідувати 	verb:inf:imperf 
+СЂР°РґР¶Сѓ	СЂР°РґР¶Р° СЂР°РґРёС‚Рё 		noun:f:v_zna:anim verb:pres:s:1:imperf 
+РІС–РґРІС–РґСѓРІР°С‚Рё	РІС–РґРІС–РґСѓРІР°С‚Рё 	verb:inf:imperf 
 "	- - 
-ГЕНДЕЛИК-РЕСТОРАН	- - 
+Р“Р•РќР”Р•Р›РРљ-Р Р•РЎРўРћР РђРќ	- - 
 "	- - 
 .	- 
 							SENT_END 
 							SENT_START 
-місті	місто 			noun:n:v_mis 
-Івано-Франківськ	Івано-Франківськ noun:m:v_naz noun:m:v_zna 
-ліч	- - 
-на	на 				prep:rv_zna:rv_mis 
-затишніших	затишний 	adj:p:v_mis:compr adj:p:v_rod:compr 
-фінансово	фінансово 	adv 
-вигідніших	вигідний 	adj:p:v_mis:compr adj:p:v_rod:compr 
+РјС–СЃС‚С–	РјС–СЃС‚Рѕ 			noun:n:v_mis 
+Р†РІР°РЅРѕ-Р¤СЂР°РЅРєС–РІСЃСЊРє	Р†РІР°РЅРѕ-Р¤СЂР°РЅРєС–РІСЃСЊРє noun:m:v_naz noun:m:v_zna 
+Р»С–С‡	- - 
+РЅР°	РЅР° 				prep:rv_zna:rv_mis 
+Р·Р°С‚РёС€РЅС–С€РёС…	Р·Р°С‚РёС€РЅРёР№ 	adj:p:v_mis:compr adj:p:v_rod:compr 
+С„С–РЅР°РЅСЃРѕРІРѕ	С„С–РЅР°РЅСЃРѕРІРѕ 	adv 
+РІРёРіС–РґРЅС–С€РёС…	РІРёРіС–РґРЅРёР№ 	adj:p:v_mis:compr adj:p:v_rod:compr 
 ,	- - 
-справжніх	справжній 	adj:p:v_mis adj:p:v_rod  
-ресторанів	ресторан 	noun:p:v_rod 
+СЃРїСЂР°РІР¶РЅС–С…	СЃРїСЂР°РІР¶РЅС–Р№ 	adj:p:v_mis adj:p:v_rod  
+СЂРµСЃС‚РѕСЂР°РЅС–РІ	СЂРµСЃС‚РѕСЂР°РЅ 	noun:p:v_rod 
 !	- 
 							SENT_END 
 							SENT_START 
-Єдине	єдиний 		adj:n:v_naz adj:n:v_zna 
+Р„РґРёРЅРµ	С”РґРёРЅРёР№ 		adj:n:v_naz adj:n:v_zna 
 ,	- - 
-ресторан	ресторан 	noun:m:v_naz noun:m:v_zna 
+СЂРµСЃС‚РѕСЂР°РЅ	СЂРµСЃС‚РѕСЂР°РЅ 	noun:m:v_naz noun:m:v_zna 
 "	- - 
-Рів'єра	- - 
+Р С–РІ'С”СЂР°	- - 
 "	- - 
-пригостити	пригостити 	verb:inf:perf 
-ХОРОШОЮ	хороший 	adj:f:v_oru:compb 
-ФІРМОВОЮ	фірмовий adj:f:v_oru 
+РїСЂРёРіРѕСЃС‚РёС‚Рё	РїСЂРёРіРѕСЃС‚РёС‚Рё 	verb:inf:perf 
+РҐРћР РћРЁРћР®	С…РѕСЂРѕС€РёР№ 	adj:f:v_oru:compb 
+Р¤Р†Р РњРћР’РћР®	С„С–СЂРјРѕРІРёР№ adj:f:v_oru 
 "	- - 
-ЛАПШОЮ	- - 
+Р›РђРџРЁРћР®	- - 
 "	- - 
 ,	- - 
-яку	як який noun:m:v_dav:anim noun:m:v_mis:anim dj:f:v_zna:&pron:int:rel:def
-адміністратор	адміністратор noun:m:v_naz:anim 
-самотужки	самотужки adv 
-повісить	повісити verb:futr:s:3:perf 
-вуха	вухо noun:n:v_rod noun:p:v_naz noun:p:v_zna 
+СЏРєСѓ	СЏРє СЏРєРёР№ noun:m:v_dav:anim noun:m:v_mis:anim dj:f:v_zna:&pron:int:rel:def
+Р°РґРјС–РЅС–СЃС‚СЂР°С‚РѕСЂ	Р°РґРјС–РЅС–СЃС‚СЂР°С‚РѕСЂ noun:m:v_naz:anim 
+СЃР°РјРѕС‚СѓР¶РєРё	СЃР°РјРѕС‚СѓР¶РєРё adv 
+РїРѕРІС–СЃРёС‚СЊ	РїРѕРІС–СЃРёС‚Рё verb:futr:s:3:perf 
+РІСѓС…Р°	РІСѓС…Рѕ noun:n:v_rod noun:p:v_naz noun:p:v_zna 
 !	- 
 							SENT_END 
 
 							SENT_START 
-оцінка	оцінка noun:f:v_naz 
+РѕС†С–РЅРєР°	РѕС†С–РЅРєР° noun:f:v_naz 
 2+	- - 
 							SENT_START 
-з	з 		prep:rv_rod:rv_zna:rv_oru
-найкращих	хороший 	adj:p:v_mis:super adj:p:v_rod:super adj:p:v_zna:super 
-ресторанів	ресторан 	noun:p:v_rod 
-міста	місто 			noun:n:v_rod noun:p:v_naz noun:p:v_zna 
+Р·	Р· 		prep:rv_rod:rv_zna:rv_oru
+РЅР°Р№РєСЂР°С‰РёС…	С…РѕСЂРѕС€РёР№ 	adj:p:v_mis:super adj:p:v_rod:super adj:p:v_zna:super 
+СЂРµСЃС‚РѕСЂР°РЅС–РІ	СЂРµСЃС‚РѕСЂР°РЅ 	noun:p:v_rod 
+РјС–СЃС‚Р°	РјС–СЃС‚Рѕ 			noun:n:v_rod noun:p:v_naz noun:p:v_zna 
 !	- 
 							SENT_END 
 							SENT_START 
-Атмосфера	атмосфера 		noun:f:v_naz 
-приємна	приємний 		adj:f:v_naz:compb 
+РђС‚РјРѕСЃС„РµСЂР°	Р°С‚РјРѕСЃС„РµСЂР° 		noun:f:v_naz 
+РїСЂРёС”РјРЅР°	РїСЂРёС”РјРЅРёР№ 		adj:f:v_naz:compb 
 ,	- - 
-кухня	кухня 		noun:f:v_naz 
-смачна	смачний 		adj:f:v_naz:compb 
+РєСѓС…РЅСЏ	РєСѓС…РЅСЏ 		noun:f:v_naz 
+СЃРјР°С‡РЅР°	СЃРјР°С‡РЅРёР№ 		adj:f:v_naz:compb 
 ,	- - 
-музика	музика 		noun:f:v_naz noun:f:v_naz:anim 
+РјСѓР·РёРєР°	РјСѓР·РёРєР° 		noun:f:v_naz noun:f:v_naz:anim 
 ...	- - 
 .	- - 
-ну	ну 		excl part 
-Голівуді	- - 
+РЅСѓ	РЅСѓ 		excl part 
+Р“РѕР»С–РІСѓРґС–	- - 
 )	- - 
-хлопчики	хлопчик 		noun:p:v_kly:anim noun:p:v_naz:anim 
+С…Р»РѕРїС‡РёРєРё	С…Р»РѕРїС‡РёРє 		noun:p:v_kly:anim noun:p:v_naz:anim 
 ,	- - 
-би	би 		part 
+Р±Рё	Р±Рё 		part 
 "	- - 
-на	на 	prep:rv_zna:rv_mis 
-велику	великий adj:f:v_zna:compb 
-сцену	сцена noun:f:v_zna 
+РЅР°	РЅР° 	prep:rv_zna:rv_mis 
+РІРµР»РёРєСѓ	РІРµР»РёРєРёР№ adj:f:v_zna:compb 
+СЃС†РµРЅСѓ	СЃС†РµРЅР° noun:f:v_zna 
 "	- - 
 ...	- - 
-назва	назва noun:f:v_naz 
-гурту	гурт noun:m:v_dav noun:m:v_mis noun:m:v_rod 
+РЅР°Р·РІР°	РЅР°Р·РІР° noun:f:v_naz 
+РіСѓСЂС‚Сѓ	РіСѓСЂС‚ noun:m:v_dav noun:m:v_mis noun:m:v_rod 
 VIP	- - 
-відповідає	відповідати verb:pres:s:3:imperf 
-статусу	статус noun:m:v_dav noun:m:v_mis noun:m:v_rod 
+РІС–РґРїРѕРІС–РґР°С”	РІС–РґРїРѕРІС–РґР°С‚Рё verb:pres:s:3:imperf 
+СЃС‚Р°С‚СѓСЃСѓ	СЃС‚Р°С‚СѓСЃ noun:m:v_dav noun:m:v_mis noun:m:v_rod 
 											SENT_START 
-святкували	святкувати verb:past:p:imperf 
-рочок	рочок noun:m:v_naz noun:m:v_zna 
-ому	ом noun:m:v_dav noun:m:v_mis 
-синочкові	синочок noun:m:v_dav:anim noun:m:v_mis:anim 
+СЃРІСЏС‚РєСѓРІР°Р»Рё	СЃРІСЏС‚РєСѓРІР°С‚Рё verb:past:p:imperf 
+СЂРѕС‡РѕРє	СЂРѕС‡РѕРє noun:m:v_naz noun:m:v_zna 
+РѕРјСѓ	РѕРј noun:m:v_dav noun:m:v_mis 
+СЃРёРЅРѕС‡РєРѕРІС–	СЃРёРЅРѕС‡РѕРє noun:m:v_dav:anim noun:m:v_mis:anim 
 !	- 
 									SENT_END 
 									
 								SENT_START 
-готувалася	готуватися verb:rev:past:f:imperf 
-свята	святий свято adj:f:v_naz:compb noun:n:v_rod noun:p:v_naz 
+РіРѕС‚СѓРІР°Р»Р°СЃСЏ	РіРѕС‚СѓРІР°С‚РёСЃСЏ verb:rev:past:f:imperf 
+СЃРІСЏС‚Р°	СЃРІСЏС‚РёР№ СЃРІСЏС‚Рѕ adj:f:v_naz:compb noun:n:v_rod noun:p:v_naz 
 ,	- - 
-обирала	обирати verb:past:f:imperf 
-ресторан	ресторан noun:m:v_naz 
+РѕР±РёСЂР°Р»Р°	РѕР±РёСЂР°С‚Рё verb:past:f:imperf 
+СЂРµСЃС‚РѕСЂР°РЅ	СЂРµСЃС‚РѕСЂР°РЅ noun:m:v_naz 
 ,	- - 
-пошкодувала	пошкодувати verb:past:f:perf 
+РїРѕС€РєРѕРґСѓРІР°Р»Р°	РїРѕС€РєРѕРґСѓРІР°С‚Рё verb:past:f:perf 
 !	- 
 								SENT_END 
 					SENT_START 
-прийшли	прийти verb:past:p:perf 
+РїСЂРёР№С€Р»Рё	РїСЂРёР№С‚Рё verb:past:p:perf 
 ,	- - 
-дізнаватися	дізнаватися verb:rev:inf:imperf 
+РґС–Р·РЅР°РІР°С‚РёСЃСЏ	РґС–Р·РЅР°РІР°С‚РёСЃСЏ verb:rev:inf:imperf 
 ,	- - 
-мали	мати verb:past:p:imperf 
-розмову	розмова noun:f:v_zna 
-мужчиною	мужчина noun:f:v_oru:bad:anim 
+РјР°Р»Рё	РјР°С‚Рё verb:past:p:imperf 
+СЂРѕР·РјРѕРІСѓ	СЂРѕР·РјРѕРІР° noun:f:v_zna 
+РјСѓР¶С‡РёРЅРѕСЋ	РјСѓР¶С‡РёРЅР° noun:f:v_oru:bad:anim 
 ,	- - 
-запевнив	запевнити verb:past:m:perf 
+Р·Р°РїРµРІРЅРёРІ	Р·Р°РїРµРІРЅРёС‚Рё verb:past:m:perf 
 ,	- - 
-буде	бути verb:futr:s:3:imperf 
+Р±СѓРґРµ	Р±СѓС‚Рё verb:futr:s:3:imperf 
 ,	- - 
-розповів	розповісти verb:past:m:perf 
-меню	меню noun:n:v_dav:nv noun:n:v_mis:nv 
+СЂРѕР·РїРѕРІС–РІ	СЂРѕР·РїРѕРІС–СЃС‚Рё verb:past:m:perf 
+РјРµРЅСЋ	РјРµРЅСЋ noun:n:v_dav:nv noun:n:v_mis:nv 
 ,	- - 
-музику	музика noun:f:v_zna noun:f:v_zna:anim 
+РјСѓР·РёРєСѓ	РјСѓР·РёРєР° noun:f:v_zna noun:f:v_zna:anim 
 ,	- - 
-ми	ми pron:pers:p:1:v_naz:anim
-залишили	залишити verb:past:p:perf 
-завдаток	завдаток noun:m:v_naz noun:m:v_zna 
+РјРё	РјРё pron:pers:p:1:v_naz:anim
+Р·Р°Р»РёС€РёР»Рё	Р·Р°Р»РёС€РёС‚Рё verb:past:p:perf 
+Р·Р°РІРґР°С‚РѕРє	Р·Р°РІРґР°С‚РѕРє noun:m:v_naz noun:m:v_zna 
 .	- 
 				SENT_END 
 				SENT_START 
 2	2 number 
-тижні	тиждень noun:m:v_mis noun:p:v_naz 
-прийшли	прийти verb:past:p:perf 
-скласти	скласти verb:inf:perf 
-меню	меню noun:n:v_dav:nv 
+С‚РёР¶РЅС–	С‚РёР¶РґРµРЅСЊ noun:m:v_mis noun:p:v_naz 
+РїСЂРёР№С€Р»Рё	РїСЂРёР№С‚Рё verb:past:p:perf 
+СЃРєР»Р°СЃС‚Рё	СЃРєР»Р°СЃС‚Рё verb:inf:perf 
+РјРµРЅСЋ	РјРµРЅСЋ noun:n:v_dav:nv 
 ,	- - 
-мали	мати verb:past:p:imperf 
-розмову	розмова noun:f:v_zna 
-другим	другий adj:m:v_oru 
-мужчиною	мужчина noun:f:v_oru:bad:anim 
+РјР°Р»Рё	РјР°С‚Рё verb:past:p:imperf 
+СЂРѕР·РјРѕРІСѓ	СЂРѕР·РјРѕРІР° noun:f:v_zna 
+РґСЂСѓРіРёРј	РґСЂСѓРіРёР№ adj:m:v_oru 
+РјСѓР¶С‡РёРЅРѕСЋ	РјСѓР¶С‡РёРЅР° noun:f:v_oru:bad:anim 
 ,	- - 
-взагалі	взагалі adv:v-u 
-співав	співати verb:past:m:imperf 
-пташка	пташка noun:f:v_naz:anim 
-до	до 	prep:rv_rod 
+РІР·Р°РіР°Р»С–	РІР·Р°РіР°Р»С– adv:v-u 
+СЃРїС–РІР°РІ	СЃРїС–РІР°С‚Рё verb:past:m:imperf 
+РїС‚Р°С€РєР°	РїС‚Р°С€РєР° noun:f:v_naz:anim 
+РґРѕ	РґРѕ 	prep:rv_rod 
 ,	- - 
-мала	малий мати adj:f:v_naz:compb verb:past:f:imperf 
-хання	- - 
+РјР°Р»Р°	РјР°Р»РёР№ РјР°С‚Рё adj:f:v_naz:compb verb:past:f:imperf 
+С…Р°РЅРЅСЏ	- - 
 ,	- - 
-банально	банально adv:compb 
-прикрасити	прикрасити verb:inf:perf 
-зал	зал зала noun:m:v_naz noun:m:v_zna noun:p:v_rod 
+Р±Р°РЅР°Р»СЊРЅРѕ	Р±Р°РЅР°Р»СЊРЅРѕ adv:compb 
+РїСЂРёРєСЂР°СЃРёС‚Рё	РїСЂРёРєСЂР°СЃРёС‚Рё verb:inf:perf 
+Р·Р°Р»	Р·Р°Р» Р·Р°Р»Р° noun:m:v_naz noun:m:v_zna noun:p:v_rod 
 ,	- - 
-дитячими	дитячий adj:p:v_oru 
-дрібничками	дрібничка noun:p:v_oru 
+РґРёС‚СЏС‡РёРјРё	РґРёС‚СЏС‡РёР№ adj:p:v_oru 
+РґСЂС–Р±РЅРёС‡РєР°РјРё	РґСЂС–Р±РЅРёС‡РєР° noun:p:v_oru 
 ,	- - 
-відповіли	відповісти verb:past:p:perf 
+РІС–РґРїРѕРІС–Р»Рё	РІС–РґРїРѕРІС–СЃС‚Рё verb:past:p:perf 
 ...	- 
 						SENT_END 
 						SENT_START 
-тиждень	тиждень noun:m:v_naz noun:m:v_zna 
-прийшли	прийти verb:past:p:perf 
+С‚РёР¶РґРµРЅСЊ	С‚РёР¶РґРµРЅСЊ noun:m:v_naz noun:m:v_zna 
+РїСЂРёР№С€Р»Рё	РїСЂРёР№С‚Рё verb:past:p:perf 
 ,	- - 
-уточнити	уточнити verb:inf:perf 
-точну	точний adj:f:v_zna:compb 
-кількість	кількість noun:f:v_naz noun:f:v_zna 
-людей	люди noun:p:v_rod:anim noun:p:v_zna:anim 
+СѓС‚РѕС‡РЅРёС‚Рё	СѓС‚РѕС‡РЅРёС‚Рё verb:inf:perf 
+С‚РѕС‡РЅСѓ	С‚РѕС‡РЅРёР№ adj:f:v_zna:compb 
+РєС–Р»СЊРєС–СЃС‚СЊ	РєС–Р»СЊРєС–СЃС‚СЊ noun:f:v_naz noun:f:v_zna 
+Р»СЋРґРµР№	Р»СЋРґРё noun:p:v_rod:anim noun:p:v_zna:anim 
 ,	- - 
-мали	мати verb:past:p:imperf 
-мову	мова noun:f:v_zna 
-третьою	третій adj:f:v_oru 
-особою	особа noun:f:v_oru:anim 
+РјР°Р»Рё	РјР°С‚Рё verb:past:p:imperf 
+РјРѕРІСѓ	РјРѕРІР° noun:f:v_zna 
+С‚СЂРµС‚СЊРѕСЋ	С‚СЂРµС‚С–Р№ adj:f:v_oru 
+РѕСЃРѕР±РѕСЋ	РѕСЃРѕР±Р° noun:f:v_oru:anim 
 ,	- - 
-була	булий бути adjp:actv:past:f:v_naz verb:past:f:imperf 
-жінка	жінка noun:f:v_naz:anim 
+Р±СѓР»Р°	Р±СѓР»РёР№ Р±СѓС‚Рё adjp:actv:past:f:v_naz verb:past:f:imperf 
+Р¶С–РЅРєР°	Р¶С–РЅРєР° noun:f:v_naz:anim 
 -	- - 
-директор	директор noun:m:v_naz:anim 
+РґРёСЂРµРєС‚РѕСЂ	РґРёСЂРµРєС‚РѕСЂ noun:m:v_naz:anim 
 .	- 
 					SENT_END 
 					SENT_START 
-Дуже	дуже дужий adv adj:n:v_naz:compb 
-гарно	гарно adv:compb 
-спілкувалася	спілкуватися verb:rev:past:f:imperf 
+Р”СѓР¶Рµ	РґСѓР¶Рµ РґСѓР¶РёР№ adv adj:n:v_naz:compb 
+РіР°СЂРЅРѕ	РіР°СЂРЅРѕ adv:compb 
+СЃРїС–Р»РєСѓРІР°Р»Р°СЃСЏ	СЃРїС–Р»РєСѓРІР°С‚РёСЃСЏ verb:rev:past:f:imperf 
 ,	- - 
-наголосила	наголосити verb:past:f:perf 
+РЅР°РіРѕР»РѕСЃРёР»Р°	РЅР°РіРѕР»РѕСЃРёС‚Рё verb:past:f:perf 
 ,	- - 
-стіл	стіл noun:m:v_naz noun:m:v_zna 
-був	бути verb:past:m:imperf 
-тележному	- - 
-кінці	кінець noun:m:v_mis 
-залу	зал зала noun:m:v_dav 
-музикантів	музикант noun:p:v_rod:anim noun:p:v_zna:anim 
+СЃС‚С–Р»	СЃС‚С–Р» noun:m:v_naz noun:m:v_zna 
+Р±СѓРІ	Р±СѓС‚Рё verb:past:m:imperf 
+С‚РµР»РµР¶РЅРѕРјСѓ	- - 
+РєС–РЅС†С–	РєС–РЅРµС†СЊ noun:m:v_mis 
+Р·Р°Р»Сѓ	Р·Р°Р» Р·Р°Р»Р° noun:m:v_dav 
+РјСѓР·РёРєР°РЅС‚С–РІ	РјСѓР·РёРєР°РЅС‚ noun:p:v_rod:anim noun:p:v_zna:anim 
 ,	- - 
-м	м noun:m:v_dav:nv:abbr 
-нькі	- - 
-діти	діти noun:p:v_kly:anim
+Рј	Рј noun:m:v_dav:nv:abbr 
+РЅСЊРєС–	- - 
+РґС–С‚Рё	РґС–С‚Рё noun:p:v_kly:anim
 ...	- 
 					SENT_END 
 					SENT_START 
-Отприйшов	- - 
-день	день noun:m:v_naz 
+РћС‚РїСЂРёР№С€РѕРІ	- - 
+РґРµРЅСЊ	РґРµРЅСЊ noun:m:v_naz 
 ,	- - 
-святкування	святкування noun:n:v_naz 
+СЃРІСЏС‚РєСѓРІР°РЅРЅСЏ	СЃРІСЏС‚РєСѓРІР°РЅРЅСЏ noun:n:v_naz 
 ,	- - 
-приїхала	приїхати verb:past:f:perf 
-прикрасити	прикрасити verb:inf:perf 
-зал	зал зала noun:m:v_naz 
+РїСЂРёС—С…Р°Р»Р°	РїСЂРёС—С…Р°С‚Рё verb:past:f:perf 
+РїСЂРёРєСЂР°СЃРёС‚Рё	РїСЂРёРєСЂР°СЃРёС‚Рё verb:inf:perf 
+Р·Р°Р»	Р·Р°Р» Р·Р°Р»Р° noun:m:v_naz 
 ,	- - 
-тикали	тикати verb:past:p:imperf 
+С‚РёРєР°Р»Рё	С‚РёРєР°С‚Рё verb:past:p:imperf 
 ,	- - 
 ,	- - 
 ...	- - 
-питання-	-  
+РїРёС‚Р°РЅРЅСЏ-	-  
 !	- 
 						SENT_END 
 						SENT_START 
-розмову	розмова noun:f:v_zna 
-адміністратором	адміністратор oun:m:v_oru:anim 
+СЂРѕР·РјРѕРІСѓ	СЂРѕР·РјРѕРІР° noun:f:v_zna 
+Р°РґРјС–РЅС–СЃС‚СЂР°С‚РѕСЂРѕРј	Р°РґРјС–РЅС–СЃС‚СЂР°С‚РѕСЂ oun:m:v_oru:anim 
 ,	- - 
-встрявала	встрявати verb:past:f:imperf:v-u 
-прибиральниця	прибиральниця noun:f:v_naz:anim 
+РІСЃС‚СЂСЏРІР°Р»Р°	РІСЃС‚СЂСЏРІР°С‚Рё verb:past:f:imperf:v-u 
+РїСЂРёР±РёСЂР°Р»СЊРЅРёС†СЏ	РїСЂРёР±РёСЂР°Р»СЊРЅРёС†СЏ noun:f:v_naz:anim 
 ,	- - 
-горем	горе noun:n:v_oru 
-полам	пола noun:p:v_dav 
+РіРѕСЂРµРј	РіРѕСЂРµ noun:n:v_oru 
+РїРѕР»Р°Рј	РїРѕР»Р° noun:p:v_dav 
 ,	- - 
-прикрасила	прикрасити verb:past:f:perf 
-зал	зал зала noun:m:v_naz 
+РїСЂРёРєСЂР°СЃРёР»Р°	РїСЂРёРєСЂР°СЃРёС‚Рё verb:past:f:perf 
+Р·Р°Р»	Р·Р°Р» Р·Р°Р»Р° noun:m:v_naz 
 - 
-половину	половина noun:f:v_zna 
-прикрас	прикраса noun:p:v_rod 
+РїРѕР»РѕРІРёРЅСѓ	РїРѕР»РѕРІРёРЅР° noun:f:v_zna 
+РїСЂРёРєСЂР°СЃ	РїСЂРёРєСЂР°СЃР° noun:p:v_rod 
 ,	- - 
-куплених	куплений adjp:pasv:past:p:v_misadjp:pasv:past:p:v_rod
-гроші	гроші гріш noun:p:v_naz noun:p:v_zna noun:m:v_mis 
+РєСѓРїР»РµРЅРёС…	РєСѓРїР»РµРЅРёР№ adjp:pasv:past:p:v_misadjp:pasv:past:p:v_rod
+РіСЂРѕС€С–	РіСЂРѕС€С– РіСЂС–С€ noun:p:v_naz noun:p:v_zna noun:m:v_mis 
 ,	- - 
-забрала	забрало забрати noun:n:v_rod noun:p:v_naz noun:p:v_zna verb:past:f:perf 
-додому	додому adv 
+Р·Р°Р±СЂР°Р»Р°	Р·Р°Р±СЂР°Р»Рѕ Р·Р°Р±СЂР°С‚Рё noun:n:v_rod noun:p:v_naz noun:p:v_zna verb:past:f:perf 
+РґРѕРґРѕРјСѓ	РґРѕРґРѕРјСѓ adv 
 !	- - 
 =	- - 
 (	- - 
-Прийшли	прийти verb:past:p:perf 
+РџСЂРёР№С€Р»Рё	РїСЂРёР№С‚Рё verb:past:p:perf 
 18	18 number 
-год	- - 
+РіРѕРґ	- - 
 .	- 
 				SENT_END 
 				SENT_START 
-був	бути verb:past:m:imperf 
-забитий	забитий adjp:pasv:past:m:v_nazadjp:pasv:past:m:v_zna
-зал	зал зала noun:m:v_naz noun:m:v_zna 
+Р±СѓРІ	Р±СѓС‚Рё verb:past:m:imperf 
+Р·Р°Р±РёС‚РёР№	Р·Р°Р±РёС‚РёР№ adjp:pasv:past:m:v_nazadjp:pasv:past:m:v_zna
+Р·Р°Р»	Р·Р°Р» Р·Р°Р»Р° noun:m:v_naz noun:m:v_zna 
 ,	- - 
-ше	- - 
+С€Рµ	- - 
 ,	- - 
-годину	година noun:f:v_zna 
-сь	- - 
-гості	гостя гість noun:f:v_dav:anim 
+РіРѕРґРёРЅСѓ	РіРѕРґРёРЅР° noun:f:v_zna 
+СЃСЊ	- - 
+РіРѕСЃС‚С–	РіРѕСЃС‚СЏ РіС–СЃС‚СЊ noun:f:v_dav:anim 
 - 
-дозволяли	дозволяти verb:past:p:imperf 
-співати	співати verb:inf:imperf 
-сь	- - 
-народні	народний adj:p:v_naz adj:p:v_zna 
-пісні	пісний пісня adj:p:v_naz adj:p:v_zna noun:f:v_dav 
+РґРѕР·РІРѕР»СЏР»Рё	РґРѕР·РІРѕР»СЏС‚Рё verb:past:p:imperf 
+СЃРїС–РІР°С‚Рё	СЃРїС–РІР°С‚Рё verb:inf:imperf 
+СЃСЊ	- - 
+РЅР°СЂРѕРґРЅС–	РЅР°СЂРѕРґРЅРёР№ adj:p:v_naz adj:p:v_zna 
+РїС–СЃРЅС–	РїС–СЃРЅРёР№ РїС–СЃРЅСЏ adj:p:v_naz adj:p:v_zna noun:f:v_dav 
 ,	- - 
-залі	зал зала noun:m:v_mis noun:f:v_dav noun:f:v_mis 
+Р·Р°Р»С–	Р·Р°Р» Р·Р°Р»Р° noun:m:v_mis noun:f:v_dav noun:f:v_mis 
 ,	- - 
-адміністратору	адміністратор noun:m:v_dav:anim noun:m:v_mis:anim 
+Р°РґРјС–РЅС–СЃС‚СЂР°С‚РѕСЂСѓ	Р°РґРјС–РЅС–СЃС‚СЂР°С‚РѕСЂ noun:m:v_dav:anim noun:m:v_mis:anim 
 ,	- - 
-би	би part 
+Р±Рё	Р±Рё part 
 !	- 
 					SENT_END 
 					SENT_START 
-кульмінація	кульмінація noun:f:v_naz 
-вечора	вечір noun:m:v_rod 
+РєСѓР»СЊРјС–РЅР°С†С–СЏ	РєСѓР»СЊРјС–РЅР°С†С–СЏ noun:f:v_naz 
+РІРµС‡РѕСЂР°	РІРµС‡С–СЂ noun:m:v_rod 
 ,	- - 
-виходять	виходити verb:pres:p:3:imperf 
-музиканти	музикант noun:p:v_kly:anim noun:p:v_naz:anim 
+РІРёС…РѕРґСЏС‚СЊ	РІРёС…РѕРґРёС‚Рё verb:pres:p:3:imperf 
+РјСѓР·РёРєР°РЅС‚Рё	РјСѓР·РёРєР°РЅС‚ noun:p:v_kly:anim noun:p:v_naz:anim 
 ,	- - 
-де	де adv:&pron:int:rel part 
-думаєте	думати verb:pres:p:2:imperf 
-стають	ставати verb:pres:p:3:imperf 
-грати	грати verb:inf:imperf 
+РґРµ	РґРµ adv:&pron:int:rel part 
+РґСѓРјР°С”С‚Рµ	РґСѓРјР°С‚Рё verb:pres:p:2:imperf 
+СЃС‚Р°СЋС‚СЊ	СЃС‚Р°РІР°С‚Рё verb:pres:p:3:imperf 
+РіСЂР°С‚Рё	РіСЂР°С‚Рё verb:inf:imperf 
 ,	- - 
-б	б part 
+Р±	Р± part 
 
 
 
