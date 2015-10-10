@@ -1,4 +1,4 @@
-					SENT_START 
+﻿					SENT_START 
 
 Не	        не              part 
 надійний	надійний 		adj:m:v_naz:compb 
