@@ -4,2240 +4,2240 @@ Language: Ukrainian
 What do the tags mean?			
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Ні	ні 	part 	
-,	- 	- 	
-неправильно	неправильно 	adv 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РќС–	РЅС–В 	partВ 	
+,	-В 	-В 	
+РЅРµРїСЂР°РІРёР»СЊРЅРѕ	РЅРµРїСЂР°РІРёР»СЊРЅРѕВ 	advВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Порція	порція 	noun:f:v_naz 	
-борщу	борщ 	noun:m:v_rod 	
-15	15 	number 	
-грн	грн 	noun:p:v_naz:nv:abbr 	
-.	- 	- 	
-Не	не 	part 	
-знаю	знати 	verb:pres:s:1:imperf 	
-точно	точно 	adv 	
-скільки	скільки 	numr:p:v_naz:&pron:ind 	
-там	там 	adv:&pron:dem 	
-грам	грам 	noun:m:v_zna 	
-,	- 	- 	
-порція	порція 	noun:f:v_naz 	
-стандартна	стандартний 	adj:f:v_naz:compb 	
-,	- 	- 	
-як	як 	conj:subord 	
-у	у 	prep: rv_mis:v-u 	
-всіх	весь 	adj:p:v_mis:&pron:dem 	
-закладах	заклад 	noun:p:v_mis 	
-харчуваня	- 	- 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РџРѕСЂС†С–СЏ	РїРѕСЂС†С–СЏВ 	noun:f:v_nazВ 	
+Р±РѕСЂС‰Сѓ	Р±РѕСЂС‰В 	noun:m:v_rodВ 	
+15	15В 	numberВ 	
+РіСЂРЅ	РіСЂРЅВ 	noun:p:v_naz:nv:abbrВ 	
+.	-В 	-В 	
+РќРµ	РЅРµВ 	partВ 	
+Р·РЅР°СЋ	Р·РЅР°С‚РёВ 	verb:pres:s:1:imperfВ 	
+С‚РѕС‡РЅРѕ	С‚РѕС‡РЅРѕВ 	advВ 	
+СЃРєС–Р»СЊРєРё	СЃРєС–Р»СЊРєРёВ 	numr:p:v_naz:&pron:indВ 	
+С‚Р°Рј	С‚Р°РјВ 	adv:&pron:demВ 	
+РіСЂР°Рј	РіСЂР°РјВ 	noun:m:v_znaВ 	
+,	-В 	-В 	
+РїРѕСЂС†С–СЏ	РїРѕСЂС†С–СЏВ 	noun:f:v_nazВ 	
+СЃС‚Р°РЅРґР°СЂС‚РЅР°	СЃС‚Р°РЅРґР°СЂС‚РЅРёР№В 	adj:f:v_naz:compbВ 	
+,	-В 	-В 	
+СЏРє	СЏРєВ 	conj:subordВ 	
+Сѓ	СѓВ 	prep: rv_mis:v-uВ 	
+РІСЃС–С…	РІРµСЃСЊВ 	adj:p:v_mis:&pron:demВ 	
+Р·Р°РєР»Р°РґР°С…	Р·Р°РєР»Р°РґВ 	noun:p:v_misВ 	
+С…Р°СЂС‡СѓРІР°РЅСЏ	-В 	-В 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Кльове	- 	- 	
-місце	місце 	noun:n:v_naz 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РљР»СЊРѕРІРµ	-В 	-В 	
+РјС–СЃС†Рµ	РјС–СЃС†РµВ 	noun:n:v_nazВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Вся	весь 	adj:f:v_naz:&pron:dem 	
-їжа	їжа 	noun:f:v_naz 	
-по	по 	prep: rv_zna 	
-7	7 	number 	
-грн	грн 	noun:p:v_zna:nv:abbr 	
-за	за 	prep: rv_zna	
-100	100 	number 	
-г	- 	- 	
-,	- 	- 	
-по-моєму	по-моєму 	insert 	
--	- 	- 	
-геніально	геніально 	adv:compb 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р’СЃСЏ	РІРµСЃСЊВ 	adj:f:v_naz:&pron:demВ 	
+С—Р¶Р°	С—Р¶Р°В 	noun:f:v_nazВ 	
+РїРѕ	РїРѕВ 	prep: rv_znaВ 	
+7	7В 	numberВ 	
+РіСЂРЅ	РіСЂРЅВ 	noun:p:v_zna:nv:abbrВ 	
+Р·Р°	Р·Р°В 	prep: rv_zna	
+100	100В 	numberВ 	
+Рі	-В 	-В 	
+,	-В 	-В 	
+РїРѕ-РјРѕС”РјСѓ	РїРѕ-РјРѕС”РјСѓВ 	insertВ 	
+-	-В 	-В 	
+РіРµРЅС–Р°Р»СЊРЅРѕ	РіРµРЅС–Р°Р»СЊРЅРѕВ 	adv:compbВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Є	бути 	verb:pres:p:3:imperf 	
-і	і 	conj:coord 	
-вареники	вареник 	noun:p:v_naz 	
-,	- 	- 	
-і	і 	conj:coord 	
-борщ	борщ 	noun:m:v_naz 	
-,	- 	- 	
-і	і 	conj:coord 	
-салат-бар	салат-бар 	noun:m:v_naz 	
-,	- 	- 	
-і	і 	conj:coord 	
-чай-лимонад	чай-лимонад 	noun:m:v_naz 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р„	Р±СѓС‚РёВ 	verb:pres:p:3:imperfВ 	
+С–	С–В 	conj:coordВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+,	-В 	-В 	
+С–	С–В 	conj:coordВ 	
+Р±РѕСЂС‰	Р±РѕСЂС‰В 	noun:m:v_nazВ 	
+,	-В 	-В 	
+С–	С–В 	conj:coordВ 	
+СЃР°Р»Р°С‚-Р±Р°СЂ	СЃР°Р»Р°С‚-Р±Р°СЂВ 	noun:m:v_nazВ 	
+,	-В 	-В 	
+С–	С–В 	conj:coordВ 	
+С‡Р°Р№-Р»РёРјРѕРЅР°Рґ	С‡Р°Р№-Р»РёРјРѕРЅР°РґВ 	noun:m:v_nazВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: 			
-DIS_PREP_OR_NOUN_DO:1 До[до/noun:n:v_dav:nv*,до/noun:n:v_mis:nv*,до/noun:n:v_naz:nv*,до/noun:n:v_oru:nv*,до/noun:n:v_rod:nv*,до/noun:n:v_zna:nv*,до/noun:p:v_dav:nv*,до/noun:p:v_mis:nv*,до/noun:p:v_naz:nv*,до/noun:p:v_oru:nv*,до/noun:p:v_rod:nv*,до/noun:p:v_zna:nv*,до/prep:rv_rod*] -> До[до/prep:rv_rod*]			
+DIS_PREP_OR_NOUN_DO:1 Р”Рѕ[РґРѕ/noun:n:v_dav:nv*,РґРѕ/noun:n:v_mis:nv*,РґРѕ/noun:n:v_naz:nv*,РґРѕ/noun:n:v_oru:nv*,РґРѕ/noun:n:v_rod:nv*,РґРѕ/noun:n:v_zna:nv*,РґРѕ/noun:p:v_dav:nv*,РґРѕ/noun:p:v_mis:nv*,РґРѕ/noun:p:v_naz:nv*,РґРѕ/noun:p:v_oru:nv*,РґРѕ/noun:p:v_rod:nv*,РґРѕ/noun:p:v_zna:nv*,РґРѕ/prep:rv_rod*] -> Р”Рѕ[РґРѕ/prep:rv_rod*]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-До	до 	prep:rv_rod 	
-купи			
-	купа 	noun:f:v_rod 	
-ще	ще 	part 	
-й	й 	conj:coord 	
-інтер'єр	інтер'єр 	noun:m:v_naz 	
-приємний	приємний 	adj:m:v_naz:compb 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р”Рѕ	РґРѕВ 	prep:rv_rodВ 	
+РєСѓРїРё			
+	РєСѓРїР°В 	noun:f:v_rodВ 	
+С‰Рµ	С‰РµВ 	partВ 	
+Р№	Р№В 	conj:coordВ 	
+С–РЅС‚РµСЂ'С”СЂ	С–РЅС‚РµСЂ'С”СЂВ 	noun:m:v_nazВ 	
+РїСЂРёС”РјРЅРёР№	РїСЂРёС”РјРЅРёР№В 	adj:m:v_naz:compbВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Все	все 	part:v-u 	
-,	- 	- 	
-що	що 	conj:subord 	
-треба	треба 	predic 	
-для	для 	prep:rv_rod 	
-хорошої	хороший 	adj:f:v_rod:compb 	
-вечері	вечеря 	noun:f:v_rod 	
-:	- 	- 	
-)	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р’СЃРµ	РІСЃРµВ 	part:v-uВ 	
+,	-В 	-В 	
+С‰Рѕ	С‰РѕВ 	conj:subordВ 	
+С‚СЂРµР±Р°	С‚СЂРµР±Р°В 	predicВ 	
+РґР»СЏ	РґР»СЏВ 	prep:rv_rodВ 	
+С…РѕСЂРѕС€РѕС—	С…РѕСЂРѕС€РёР№В 	adj:f:v_rod:compbВ 	
+РІРµС‡РµСЂС–	РІРµС‡РµСЂСЏВ 	noun:f:v_rodВ 	
+:	-В 	-В 	
+)	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Борщ	борщ 	noun:m:v_naz 	
-за	за 	prep:rv_zna	
-15	15 	number 	
-,	- 	- 	
-лимонад	лимонад 	noun:m:v_naz 	
-за	за 	prep: rv_zna	
-15	15 	number 	
-,	- 	- 	
-глінтвейн	глінтвейн 	noun:m:v_naz 	
-за	за 	prep: rv_zna	
-15	15 	number 	
-?	- 	- 	
-,	- 	- 	
-4	4 	number 	
-маленьких	маленький 	adj:p:v_rod 	
-мандаринки	мандаринка 	noun:f:v_rod 	
-=	- 	- 	
-сотка	сотка 	noun:f:v_naz 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р‘РѕСЂС‰	Р±РѕСЂС‰В 	noun:m:v_nazВ 	
+Р·Р°	Р·Р°В 	prep:rv_zna	
+15	15В 	numberВ 	
+,	-В 	-В 	
+Р»РёРјРѕРЅР°Рґ	Р»РёРјРѕРЅР°РґВ 	noun:m:v_nazВ 	
+Р·Р°	Р·Р°В 	prep: rv_zna	
+15	15В 	numberВ 	
+,	-В 	-В 	
+РіР»С–РЅС‚РІРµР№РЅ	РіР»С–РЅС‚РІРµР№РЅВ 	noun:m:v_nazВ 	
+Р·Р°	Р·Р°В 	prep: rv_zna	
+15	15В 	numberВ 	
+?	-В 	-В 	
+,	-В 	-В 	
+4	4В 	numberВ 	
+РјР°Р»РµРЅСЊРєРёС…	РјР°Р»РµРЅСЊРєРёР№В 	adj:p:v_rodВ 	
+РјР°РЅРґР°СЂРёРЅРєРё	РјР°РЅРґР°СЂРёРЅРєР°В 	noun:f:v_rodВ 	
+=	-В 	-В 	
+СЃРѕС‚РєР°	СЃРѕС‚РєР°В 	noun:f:v_nazВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-"	- 	- 	
-жирно	жирно 	adv 	
-"	- 	- 	
-виходять	виходити 	verb:pres:p:3:imperf 	
-мандаринки	мандаринка 	noun:p:v_naz 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+"	-В 	-В 	
+Р¶РёСЂРЅРѕ	Р¶РёСЂРЅРѕВ 	advВ 	
+"	-В 	-В 	
+РІРёС…РѕРґСЏС‚СЊ	РІРёС…РѕРґРёС‚РёВ 	verb:pres:p:3:imperfВ 	
+РјР°РЅРґР°СЂРёРЅРєРё	РјР°РЅРґР°СЂРёРЅРєР°В 	noun:p:v_nazВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-По	по 	prep:rv_mis:rv_zna 	
-ходу	хода	noun:f:v_zna 	
-	хід 		
-		noun:m:v_dav 	
-		noun:m:v_rod 	
-в	в 	prep:rv_rod:v-u 	
-мене	я 	pron:pers:s:1:v_zna:anim 	
-получилась	- 	- 	
-сотка	сотка 	noun:f:v_naz 	
-в	в 	prep:rv_mis:v-u 	
-чеку	чек 	noun:m:v_mis 	
-,	- 	- 	
-по	по 	prep:rv_mis:rv_zna 	
-суті	суть 	noun:f:v_dav 	
-		noun:f:v_mis 	
-		noun:f:v_rod 	
-нічого	 ніщо 	pron:neg:v_rod 	
-не	не 	part 	
-взявши	взяти 	advp:perf 	
-smile	- 	- 	
-через	через 	prep:rv_zna 	
-мандаринки	мандаринка 	noun:p:v_zna 	
-)	- 	- 	
-)	- 	- 	
-)	- 	- 	
-якщо	якщо 	conj:subord 	
-їх	вони 	pron:pers:p:3:v_zna:anim 	
-так	так 	adv:&pron:dem 	
-		conj:coord:subord 	
-		part 	
-само	сам 	adj:n:v_naz:&pron:def 	
-враховують	враховувати 	verb:pres:p:3:imperf:v-u 	
-15грн	- 	- 	
-за	за 	prep: rv_zna	
-100грам	- 	- 	
-)	- 	- 	
-Борщ	борщ 	noun:m:v_naz 	
-за	за 	prep: rv_zna	
-15	15 	number 	
-,	- 	- 	
-лимонад	лимонад 	noun:m:v_naz 	
-за	за 	prep: rv_zna	
-15	15 	number 	
-,	- 	- 	
-глінтвейн	глінтвейн 	noun:m:v_naz 	
-за	за 	prep: rv_zna	
-15	15 	number 	
-?	- 	- 	
-,	- 	- 	
-4	4 	number 	
-маленьких	маленький 	adj:p:v_zna 	
-мандаринки	мандаринка 	noun:p:v_zna 	
-=	- 	- 	
-сотка	сотка 	noun:f:v_naz 	
-big_smile	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РџРѕ	РїРѕВ 	prep:rv_mis:rv_znaВ 	
+С…РѕРґСѓ	С…РѕРґР°	noun:f:v_znaВ 	
+	С…С–РґВ 		
+		noun:m:v_davВ 	
+		noun:m:v_rodВ 	
+РІ	РІВ 	prep:rv_rod:v-uВ 	
+РјРµРЅРµ	СЏВ 	pron:pers:s:1:v_zna:animВ 	
+РїРѕР»СѓС‡РёР»Р°СЃСЊ	-В 	-В 	
+СЃРѕС‚РєР°	СЃРѕС‚РєР°В 	noun:f:v_nazВ 	
+РІ	РІВ 	prep:rv_mis:v-uВ 	
+С‡РµРєСѓ	С‡РµРєВ 	noun:m:v_misВ 	
+,	-В 	-В 	
+РїРѕ	РїРѕВ 	prep:rv_mis:rv_znaВ 	
+СЃСѓС‚С–	СЃСѓС‚СЊВ 	noun:f:v_davВ 	
+		noun:f:v_misВ 	
+		noun:f:v_rodВ 	
+РЅС–С‡РѕРіРѕ	В РЅС–С‰РѕВ 	pron:neg:v_rodВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РІР·СЏРІС€Рё	РІР·СЏС‚РёВ 	advp:perfВ 	
+smile	-В 	-В 	
+С‡РµСЂРµР·	С‡РµСЂРµР·В 	prep:rv_znaВ 	
+РјР°РЅРґР°СЂРёРЅРєРё	РјР°РЅРґР°СЂРёРЅРєР°В 	noun:p:v_znaВ 	
+)	-В 	-В 	
+)	-В 	-В 	
+)	-В 	-В 	
+СЏРєС‰Рѕ	СЏРєС‰РѕВ 	conj:subordВ 	
+С—С…	РІРѕРЅРёВ 	pron:pers:p:3:v_zna:animВ 	
+С‚Р°Рє	С‚Р°РєВ 	adv:&pron:demВ 	
+		conj:coord:subordВ 	
+		partВ 	
+СЃР°РјРѕ	СЃР°РјВ 	adj:n:v_naz:&pron:defВ 	
+РІСЂР°С…РѕРІСѓСЋС‚СЊ	РІСЂР°С…РѕРІСѓРІР°С‚РёВ 	verb:pres:p:3:imperf:v-uВ 	
+15РіСЂРЅ	-В 	-В 	
+Р·Р°	Р·Р°В 	prep: rv_zna	
+100РіСЂР°Рј	-В 	-В 	
+)	-В 	-В 	
+Р‘РѕСЂС‰	Р±РѕСЂС‰В 	noun:m:v_nazВ 	
+Р·Р°	Р·Р°В 	prep: rv_zna	
+15	15В 	numberВ 	
+,	-В 	-В 	
+Р»РёРјРѕРЅР°Рґ	Р»РёРјРѕРЅР°РґВ 	noun:m:v_nazВ 	
+Р·Р°	Р·Р°В 	prep: rv_zna	
+15	15В 	numberВ 	
+,	-В 	-В 	
+РіР»С–РЅС‚РІРµР№РЅ	РіР»С–РЅС‚РІРµР№РЅВ 	noun:m:v_nazВ 	
+Р·Р°	Р·Р°В 	prep: rv_zna	
+15	15В 	numberВ 	
+?	-В 	-В 	
+,	-В 	-В 	
+4	4В 	numberВ 	
+РјР°Р»РµРЅСЊРєРёС…	РјР°Р»РµРЅСЊРєРёР№В 	adj:p:v_znaВ 	
+РјР°РЅРґР°СЂРёРЅРєРё	РјР°РЅРґР°СЂРёРЅРєР°В 	noun:p:v_znaВ 	
+=	-В 	-В 	
+СЃРѕС‚РєР°	СЃРѕС‚РєР°В 	noun:f:v_nazВ 	
+big_smile	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Мають	мати  	verb:pres:p:3:imperf 	
-бути	бути 	verb:inf:imperf 	
-вареники	вареник 	noun:p:v_naz 	
-не	не 	part 	
-великі	великий 	adj:p:v_naz:compb 	
-і	і 	conj:coord 	
-смачні	смачний 	adj:p:v_naz:compb 	
-,	- 	- 	
-щоб	щоб 	conj:subord 	
-		part 	
-в	в 	prep: rv_mis:v-u 	
-роті	рот 	noun:m:v_mis 	
-потопали	потопати 	verb:past:p:imperf 	(verb:impr:p:3)
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РњР°СЋС‚СЊ	РјР°С‚РёВ В 	verb:pres:p:3:imperfВ 	
+Р±СѓС‚Рё	Р±СѓС‚РёВ 	verb:inf:imperfВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РІРµР»РёРєС–	РІРµР»РёРєРёР№В 	adj:p:v_naz:compbВ 	
+С–	С–В 	conj:coordВ 	
+СЃРјР°С‡РЅС–	СЃРјР°С‡РЅРёР№В 	adj:p:v_naz:compbВ 	
+,	-В 	-В 	
+С‰РѕР±	С‰РѕР±В 	conj:subordВ 	
+		partВ 	
+РІ	РІВ 	prep: rv_mis:v-uВ 	
+СЂРѕС‚С–	СЂРѕС‚В 	noun:m:v_misВ 	
+РїРѕС‚РѕРїР°Р»Рё	РїРѕС‚РѕРїР°С‚РёВ 	verb:past:p:imperfВ 	(verb:impr:p:3)
+.	-В 	SENT_ENDВ 	
 Disambiguator log: 			
-PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]			
+PRON_OR_CONJ_TA:1 С‚Р°[С‚Р°/conj:coord,С‚Р°/part,С‚РѕР№/adj:f:v_naz:&pron:dem] -> С‚Р°[С‚Р°/conj:coord,С‚Р°/part]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-А	а 	conj:coord 	
-"	- 	- 	
-ТАМ	там 	adv:&pron:dem 	
-"	- 	- 	
--	- 	- 	
-великі	великий 	adj:p:v_naz:compb 	
-і	і 	conj:coord 	
-недоварені	недоварений 	adj:p:v_naz 	
-,	- 	- 	
-та	та 	conj:coord 	
-ще	ще 	part 	
-й	й 	conj:coord 	
+	-В 	SENT_STARTВ 	
+Рђ	Р°В 	conj:coordВ 	
+"	-В 	-В 	
+РўРђРњ	С‚Р°РјВ 	adv:&pron:demВ 	
+"	-В 	-В 	
+-	-В 	-В 	
+РІРµР»РёРєС–	РІРµР»РёРєРёР№В 	adj:p:v_naz:compbВ 	
+С–	С–В 	conj:coordВ 	
+РЅРµРґРѕРІР°СЂРµРЅС–	РЅРµРґРѕРІР°СЂРµРЅРёР№В 	adj:p:v_nazВ 	
+,	-В 	-В 	
+С‚Р°	С‚Р°В 	conj:coordВ 	
+С‰Рµ	С‰РµВ 	partВ 	
+Р№	Р№В 	conj:coordВ 	
 			
-дорогі	дорогий 	adj:p:v_naz:compb 	
-:	- 	- 	
-за	за 	prep: rv_zna	
-100гр	- 	- 	
-.	- 	- 	
--7грн	- 	- 	
-.	- 	- 	
-,	- 	- 	
-а	а 	conj:coord 	
-за	за 	prep:rv_zna	
-200	200 	number 	
--	- 	- 	
-14	14,00 	number 	
-,	- 	- 	
-отже	отже 	insert 	
-,	- 	- 	
-порція	порція 	noun:f:v_naz 	
-як	як 	conj:subord 	
-в	в 	prep::rv_mis:v-u 	
-ресторані	ресторан 	noun:m:v_mis 	
-.	- 	SENT_END 	
+РґРѕСЂРѕРіС–	РґРѕСЂРѕРіРёР№В 	adj:p:v_naz:compbВ 	
+:	-В 	-В 	
+Р·Р°	Р·Р°В 	prep: rv_zna	
+100РіСЂ	-В 	-В 	
+.	-В 	-В 	
+-7РіСЂРЅ	-В 	-В 	
+.	-В 	-В 	
+,	-В 	-В 	
+Р°	Р°В 	conj:coordВ 	
+Р·Р°	Р·Р°В 	prep:rv_zna	
+200	200В 	numberВ 	
+-	-В 	-В 	
+14	14,00В 	numberВ 	
+,	-В 	-В 	
+РѕС‚Р¶Рµ	РѕС‚Р¶РµВ 	insertВ 	
+,	-В 	-В 	
+РїРѕСЂС†С–СЏ	РїРѕСЂС†С–СЏВ 	noun:f:v_nazВ 	
+СЏРє	СЏРєВ 	conj:subordВ 	
+РІ	РІВ 	prep::rv_mis:v-uВ 	
+СЂРµСЃС‚РѕСЂР°РЅС–	СЂРµСЃС‚РѕСЂР°РЅВ 	noun:m:v_misВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Проте	проте 	adv 	
-реклама	реклама 	noun:f:v_naz 	
--	- 	- 	
-класна	класний 	adj:f:v_naz 	
-,	- 	- 	
-приваблює	приваблювати 	verb:pres:s:3:imperf 	
-і	і 	conj:coord 	
-заганяє	заганяти 	verb:pres:s:3:imperf 	
-гіпнотично	гіпнотично 	adv 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РџСЂРѕС‚Рµ	РїСЂРѕС‚РµВ 	advВ 	
+СЂРµРєР»Р°РјР°	СЂРµРєР»Р°РјР°В 	noun:f:v_nazВ 	
+-	-В 	-В 	
+РєР»Р°СЃРЅР°	РєР»Р°СЃРЅРёР№В 	adj:f:v_nazВ 	
+,	-В 	-В 	
+РїСЂРёРІР°Р±Р»СЋС”	РїСЂРёРІР°Р±Р»СЋРІР°С‚РёВ 	verb:pres:s:3:imperfВ 	
+С–	С–В 	conj:coordВ 	
+Р·Р°РіР°РЅСЏС”	Р·Р°РіР°РЅСЏС‚РёВ 	verb:pres:s:3:imperfВ 	
+РіС–РїРЅРѕС‚РёС‡РЅРѕ	РіС–РїРЅРѕС‚РёС‡РЅРѕВ 	advВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Лише	лише 	conj:subord 	
-біля	біля 	adv 	(prep:rv_rod:v-u) 
-каси	каса 	noun:f:v_rod 	
-розкриваєш	розкривати 	verb:pres:s:2:imperf 	
-рота	рот 	noun:m:v_rod 	
-і	і 	conj:coord 	
-кажеш	казати 	verb:pres:s:2:imperf 	
-:	- 	- 	
-"	- 	- 	
-ОГО	ого 	excl 	
-!	- 	- 	
-"	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р›РёС€Рµ	Р»РёС€РµВ 	conj:subordВ 	
+Р±С–Р»СЏ	Р±С–Р»СЏВ 	advВ 	(prep:rv_rod:v-u)В 
+РєР°СЃРё	РєР°СЃР°В 	noun:f:v_rodВ 	
+СЂРѕР·РєСЂРёРІР°С”С€	СЂРѕР·РєСЂРёРІР°С‚РёВ 	verb:pres:s:2:imperfВ 	
+СЂРѕС‚Р°	СЂРѕС‚В 	noun:m:v_rodВ 	
+С–	С–В 	conj:coordВ 	
+РєР°Р¶РµС€	РєР°Р·Р°С‚РёВ 	verb:pres:s:2:imperfВ 	
+:	-В 	-В 	
+"	-В 	-В 	
+РћР“Рћ	РѕРіРѕВ 	exclВ 	
+!	-В 	-В 	
+"	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
 Analysis Result			
 LanguageTool version: 3.0-SNAPSHOT (2015-04-25 22:01)			
 Language: Ukrainian			
 What do the tags mean?			
 Disambiguator log: 			
-PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]			
-PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]			
-PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]			
+PRON_OR_CONJ_TA:1 С‚Р°[С‚Р°/conj:coord,С‚Р°/part,С‚РѕР№/adj:f:v_naz:&pron:dem] -> С‚Р°[С‚Р°/conj:coord,С‚Р°/part]			
+PRON_OR_CONJ_TA:1 С‚Р°[С‚Р°/conj:coord,С‚Р°/part,С‚РѕР№/adj:f:v_naz:&pron:dem] -> С‚Р°[С‚Р°/conj:coord,С‚Р°/part]			
+PRON_OR_CONJ_TA:1 С‚Р°[С‚Р°/conj:coord,С‚Р°/part,С‚РѕР№/adj:f:v_naz:&pron:dem] -> С‚Р°[С‚Р°/conj:coord,С‚Р°/part]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Я	я 	pron:pers:s:1:v_naz:anim 	
-тобі	ти 	pron:pers:s:2:v_dav:anim 	
-так	так 	adv:&pron:dem 	
-скажу	сказати  	verb:futr:s:1:perf 	
-:	- 	- 	
-жінка	жінка 	noun:f:v_naz:anim 	
-яка	який 	adj:f:v_naz:&pron:int:rel:def 	
-вміє	вміти 	verb:pres:s:3:imperf:v-u 	
-готувати	готувати 	verb:inf:imperf 	
-,	- 	- 	
-красива	красивий 	adj:f:v_naz:compb 	
-та	та 	conj:coord	
-самодостатня	самодостатній 	adj:f:v_naz 	
-в	в 	prep: rv_mis	
-тобі	ти 	pron:pers:s:2:v_mis:anim 	
-явно	явно 	adv 	
-потреби	потреба 	noun:f:v_rod 	
-не	не 	part 	
-має	мати  	verb:pres:s:3:imperf 	
-,	- 	- 	
-вже	вже 	adv:v-u 	
-можу	могти 	verb:unknown 	
-сказати	сказати 	verb:inf:perf 	
-100%	100% 	number 	
-,	- 	- 	
-адже	адже 	conj:subord 	
-,	- 	- 	
-та	той 	adj:f:v_naz:&pron:dem 	
-людина	людина 	noun:f:v_naz:anim 	
-,	- 	- 	
-якій	який 	adj:f:v_dav:&pron:int:rel:def 	
-потрібен	потрібен 	predic 	
-повар	повар 	noun:m:v_naz:anim 	
-на	на 	prep:rv_mis 	
-кухні-це	- 	- 	
-непотріб	непотріб 	noun:m:v_naz 	
-,	- 	- 	
-бо	бо 	conj:subord  	
-сам	сам 	adj:m:v_naz:&pron:def 	
-нічого	ніщо 	pron:neg:v_rod 	
-не	не 	part 	
-вміє	вміти 	verb:pres:s:3:imperf:v-u 	
-робити	робити 	verb:inf:imperf 	
-)	- 	- 	
-,	- 	- 	
-а	а 	conj:coord 	
-та	та	conj:coord 	(той – adj:f:v_naz:&pron:dem) 
-		part 	
-яка	який 	adj:f:v_naz:&pron:int:rel:def 	
-вміє	вміти 	verb:pres:s:3:imperf:v-u 	
-готувати	готувати 	verb:inf:imperf 	
-і	і 	conj:coord  	
-словом	слово 	noun:n:v_oru 	
-не	не 	part 	
-лбмивиться	- 	- 	
-про	про 	prep:rv_zna 	
-це	цей 	adj:n:v_zna:&pron:dem 	
-,	- 	- 	
-а	а 	conj:coord 	
-просто	просто 	adv:compb 	
-мовчки	мовчки 	adv 	
-покаже	показати 	verb:futr:s:3:perf 	
-,	- 	- 	
-що	що 	conj:subord 	
-вміє	вміти 	verb:pres:s:3:imperf:v-u 	
-готувати	готувати 	verb:inf:imperf 	
-і	і 	conj:coord 	
-той	той 	adj:m:v_naz:&pron:dem 	
-хто	хто 	pron:int:rel:m:v_naz:anim 	
-дійсно	дійсно 	adv 	
-любить	любити 	verb:pres:s:3:imperf 	
-,	- 	- 	
-бдуде	- 	- 	
-кохати	кохати 	verb:inf:imperf 	
-не	не 	part 	
-за	за 	prep:rv_rod:rv_zna:rv_oru 	
-те	той 	adj:n:v_naz:&pron:dem 	
-		adj:n:v_zna:&pron:dem 	
-,	- 	- 	
-що	що 	conj:subord 	
-		pron:int:rel:n:v_naz 	
-		pron:int:rel:n:v_zna 	
-вміє	вміти 	verb:pres:s:3:imperf:v-u 	
-чи	чи 	conj:coord:subord 	
-		part 	
-не	не 	part 	
-вміє	вміти 	verb:pres:s:3:imperf:v-u 	
-готувати	готувати 	verb:inf:imperf 	
-,	- 	- 	
-а	а 	conj:coord 	
-		excl 	
-		part 	
-просто	просто 	adv:compb 	
-		part 	
-		prep:rv_rod 	
-за	за 	prep:rv_zna 	
-те	той 	adj:n:v_zna:&pron:dem 	
-,	- 	- 	
-що	що 	conj:subord 	
-саме	саме 	adv 	
-ця	цей 	adj:f:v_naz:&pron:dem 	
-людина	людина 	noun:f:v_naz:anim 	
-поруч	поруч 	adv 	
-,	- 	- 	
-за	за 	prep:rv_zna	
-те	той 	adj:n:v_zna:&pron:dem 	
-що	що 	conj:subord 	
-Бог	бог 	noun:m:v_naz:anim 	
-дав	дати 	verb:past:m:perf 	
-таку	такий 	adj:f:v_zna:&pron:def 	
-чудову	чудовий 	adj:f:v_zna:compb 	
-мо-ть	- 	- 	
-кохати	кохати 	verb:inf:imperf 	
-та	та 	conj:coord 	
-бути	бути 	verb:inf:imperf 	
-коханим	коханий 	adjp:pasv:past:m:v_oru 	
-,	- 	- 	
-а	а 	conj:coord 	
-якщо	якщо 	conj:subord 	
-ще	ще 	part 	
-брати	брати 	verb:inf:imperf 	
-на	на 	prep:rv_zna	
-"	- 	- 	
-рахунок	рахунок 	noun:m:v_zna 	
-"	- 	- 	
-,	- 	- 	
-то	то 	conj:subord 	
-ти	ти 	pron:pers:s:2:v_naz:anim 	
-хто	хто 	pron:int:rel:m:v_naz:anim 	
-Білл	Білл 	noun:m:v_naz:anim:fname 	
-Гейтс	Гейтс 	noun:m:v_naz:anim:lname 	
-чи	чи 	conj:coord:subord 	
-Бредд	- 	- 	
-Пітт	Пітт 	noun:m:v_naz:anim:fname 	
-?	- 	- 	
-:	- 	- 	
-)	- 	- 	
-Ще	ще 	part 	
-ти	ти 	pron:pers:s:2:v_naz:anim 	
-собі	себе 	pron:refl:m:v_dav 	
-на	на 	prep:rv_zna	
-рахунок	рахунок 	noun:m:v_zna 	
-візьми	взяти 	verb:impr:s:2:perf 	
-,	- 	- 	
-шановний	шановний 	adj:m:v_naz 	
-)	- 	- 	
-)	- 	- 	
-)	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РЇ	СЏВ 	pron:pers:s:1:v_naz:animВ 	
+С‚РѕР±С–	С‚РёВ 	pron:pers:s:2:v_dav:animВ 	
+С‚Р°Рє	С‚Р°РєВ 	adv:&pron:demВ 	
+СЃРєР°Р¶Сѓ	СЃРєР°Р·Р°С‚РёВ В 	verb:futr:s:1:perfВ 	
+:	-В 	-В 	
+Р¶С–РЅРєР°	Р¶С–РЅРєР°В 	noun:f:v_naz:animВ 	
+СЏРєР°	СЏРєРёР№В 	adj:f:v_naz:&pron:int:rel:defВ 	
+РІРјС–С”	РІРјС–С‚РёВ 	verb:pres:s:3:imperf:v-uВ 	
+РіРѕС‚СѓРІР°С‚Рё	РіРѕС‚СѓРІР°С‚РёВ 	verb:inf:imperfВ 	
+,	-В 	-В 	
+РєСЂР°СЃРёРІР°	РєСЂР°СЃРёРІРёР№В 	adj:f:v_naz:compbВ 	
+С‚Р°	С‚Р°В 	conj:coord	
+СЃР°РјРѕРґРѕСЃС‚Р°С‚РЅСЏ	СЃР°РјРѕРґРѕСЃС‚Р°С‚РЅС–Р№В 	adj:f:v_nazВ 	
+РІ	РІВ 	prep: rv_mis	
+С‚РѕР±С–	С‚РёВ 	pron:pers:s:2:v_mis:animВ 	
+СЏРІРЅРѕ	СЏРІРЅРѕВ 	advВ 	
+РїРѕС‚СЂРµР±Рё	РїРѕС‚СЂРµР±Р°В 	noun:f:v_rodВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РјР°С”	РјР°С‚РёВ В 	verb:pres:s:3:imperfВ 	
+,	-В 	-В 	
+РІР¶Рµ	РІР¶РµВ 	adv:v-uВ 	
+РјРѕР¶Сѓ	РјРѕРіС‚РёВ 	verb:unknownВ 	
+СЃРєР°Р·Р°С‚Рё	СЃРєР°Р·Р°С‚РёВ 	verb:inf:perfВ 	
+100%	100%В 	numberВ 	
+,	-В 	-В 	
+Р°РґР¶Рµ	Р°РґР¶РµВ 	conj:subordВ 	
+,	-В 	-В 	
+С‚Р°	С‚РѕР№В 	adj:f:v_naz:&pron:demВ 	
+Р»СЋРґРёРЅР°	Р»СЋРґРёРЅР°В 	noun:f:v_naz:animВ 	
+,	-В 	-В 	
+СЏРєС–Р№	СЏРєРёР№В 	adj:f:v_dav:&pron:int:rel:defВ 	
+РїРѕС‚СЂС–Р±РµРЅ	РїРѕС‚СЂС–Р±РµРЅВ 	predicВ 	
+РїРѕРІР°СЂ	РїРѕРІР°СЂВ 	noun:m:v_naz:animВ 	
+РЅР°	РЅР°В 	prep:rv_misВ 	
+РєСѓС…РЅС–-С†Рµ	-В 	-В 	
+РЅРµРїРѕС‚СЂС–Р±	РЅРµРїРѕС‚СЂС–Р±В 	noun:m:v_nazВ 	
+,	-В 	-В 	
+Р±Рѕ	Р±РѕВ 	conj:subordВ В 	
+СЃР°Рј	СЃР°РјВ 	adj:m:v_naz:&pron:defВ 	
+РЅС–С‡РѕРіРѕ	РЅС–С‰РѕВ 	pron:neg:v_rodВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РІРјС–С”	РІРјС–С‚РёВ 	verb:pres:s:3:imperf:v-uВ 	
+СЂРѕР±РёС‚Рё	СЂРѕР±РёС‚РёВ 	verb:inf:imperfВ 	
+)	-В 	-В 	
+,	-В 	-В 	
+Р°	Р°В 	conj:coordВ 	
+С‚Р°	С‚Р°	conj:coordВ 	(С‚РѕР№ вЂ“ adj:f:v_naz:&pron:dem)В 
+		partВ 	
+СЏРєР°	СЏРєРёР№В 	adj:f:v_naz:&pron:int:rel:defВ 	
+РІРјС–С”	РІРјС–С‚РёВ 	verb:pres:s:3:imperf:v-uВ 	
+РіРѕС‚СѓРІР°С‚Рё	РіРѕС‚СѓРІР°С‚РёВ 	verb:inf:imperfВ 	
+С–	С–В 	conj:coordВ В 	
+СЃР»РѕРІРѕРј	СЃР»РѕРІРѕВ 	noun:n:v_oruВ 	
+РЅРµ	РЅРµВ 	partВ 	
+Р»Р±РјРёРІРёС‚СЊСЃСЏ	-В 	-В 	
+РїСЂРѕ	РїСЂРѕВ 	prep:rv_znaВ 	
+С†Рµ	С†РµР№В 	adj:n:v_zna:&pron:demВ 	
+,	-В 	-В 	
+Р°	Р°В 	conj:coordВ 	
+РїСЂРѕСЃС‚Рѕ	РїСЂРѕСЃС‚РѕВ 	adv:compbВ 	
+РјРѕРІС‡РєРё	РјРѕРІС‡РєРёВ 	advВ 	
+РїРѕРєР°Р¶Рµ	РїРѕРєР°Р·Р°С‚РёВ 	verb:futr:s:3:perfВ 	
+,	-В 	-В 	
+С‰Рѕ	С‰РѕВ 	conj:subordВ 	
+РІРјС–С”	РІРјС–С‚РёВ 	verb:pres:s:3:imperf:v-uВ 	
+РіРѕС‚СѓРІР°С‚Рё	РіРѕС‚СѓРІР°С‚РёВ 	verb:inf:imperfВ 	
+С–	С–В 	conj:coordВ 	
+С‚РѕР№	С‚РѕР№В 	adj:m:v_naz:&pron:demВ 	
+С…С‚Рѕ	С…С‚РѕВ 	pron:int:rel:m:v_naz:animВ 	
+РґС–Р№СЃРЅРѕ	РґС–Р№СЃРЅРѕВ 	advВ 	
+Р»СЋР±РёС‚СЊ	Р»СЋР±РёС‚РёВ 	verb:pres:s:3:imperfВ 	
+,	-В 	-В 	
+Р±РґСѓРґРµ	-В 	-В 	
+РєРѕС…Р°С‚Рё	РєРѕС…Р°С‚РёВ 	verb:inf:imperfВ 	
+РЅРµ	РЅРµВ 	partВ 	
+Р·Р°	Р·Р°В 	prep:rv_rod:rv_zna:rv_oruВ 	
+С‚Рµ	С‚РѕР№В 	adj:n:v_naz:&pron:demВ 	
+		adj:n:v_zna:&pron:demВ 	
+,	-В 	-В 	
+С‰Рѕ	С‰РѕВ 	conj:subordВ 	
+		pron:int:rel:n:v_nazВ 	
+		pron:int:rel:n:v_znaВ 	
+РІРјС–С”	РІРјС–С‚РёВ 	verb:pres:s:3:imperf:v-uВ 	
+С‡Рё	С‡РёВ 	conj:coord:subordВ 	
+		partВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РІРјС–С”	РІРјС–С‚РёВ 	verb:pres:s:3:imperf:v-uВ 	
+РіРѕС‚СѓРІР°С‚Рё	РіРѕС‚СѓРІР°С‚РёВ 	verb:inf:imperfВ 	
+,	-В 	-В 	
+Р°	Р°В 	conj:coordВ 	
+		exclВ 	
+		partВ 	
+РїСЂРѕСЃС‚Рѕ	РїСЂРѕСЃС‚РѕВ 	adv:compbВ 	
+		partВ 	
+		prep:rv_rodВ 	
+Р·Р°	Р·Р°В 	prep:rv_znaВ 	
+С‚Рµ	С‚РѕР№В 	adj:n:v_zna:&pron:demВ 	
+,	-В 	-В 	
+С‰Рѕ	С‰РѕВ 	conj:subordВ 	
+СЃР°РјРµ	СЃР°РјРµВ 	advВ 	
+С†СЏ	С†РµР№В 	adj:f:v_naz:&pron:demВ 	
+Р»СЋРґРёРЅР°	Р»СЋРґРёРЅР°В 	noun:f:v_naz:animВ 	
+РїРѕСЂСѓС‡	РїРѕСЂСѓС‡В 	advВ 	
+,	-В 	-В 	
+Р·Р°	Р·Р°В 	prep:rv_zna	
+С‚Рµ	С‚РѕР№В 	adj:n:v_zna:&pron:demВ 	
+С‰Рѕ	С‰РѕВ 	conj:subordВ 	
+Р‘РѕРі	Р±РѕРіВ 	noun:m:v_naz:animВ 	
+РґР°РІ	РґР°С‚РёВ 	verb:past:m:perfВ 	
+С‚Р°РєСѓ	С‚Р°РєРёР№В 	adj:f:v_zna:&pron:defВ 	
+С‡СѓРґРѕРІСѓ	С‡СѓРґРѕРІРёР№В 	adj:f:v_zna:compbВ 	
+РјРѕ-С‚СЊ	-В 	-В 	
+РєРѕС…Р°С‚Рё	РєРѕС…Р°С‚РёВ 	verb:inf:imperfВ 	
+С‚Р°	С‚Р°В 	conj:coordВ 	
+Р±СѓС‚Рё	Р±СѓС‚РёВ 	verb:inf:imperfВ 	
+РєРѕС…Р°РЅРёРј	РєРѕС…Р°РЅРёР№В 	adjp:pasv:past:m:v_oruВ 	
+,	-В 	-В 	
+Р°	Р°В 	conj:coordВ 	
+СЏРєС‰Рѕ	СЏРєС‰РѕВ 	conj:subordВ 	
+С‰Рµ	С‰РµВ 	partВ 	
+Р±СЂР°С‚Рё	Р±СЂР°С‚РёВ 	verb:inf:imperfВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+"	-В 	-В 	
+СЂР°С…СѓРЅРѕРє	СЂР°С…СѓРЅРѕРєВ 	noun:m:v_znaВ 	
+"	-В 	-В 	
+,	-В 	-В 	
+С‚Рѕ	С‚РѕВ 	conj:subordВ 	
+С‚Рё	С‚РёВ 	pron:pers:s:2:v_naz:animВ 	
+С…С‚Рѕ	С…С‚РѕВ 	pron:int:rel:m:v_naz:animВ 	
+Р‘С–Р»Р»	Р‘С–Р»Р»В 	noun:m:v_naz:anim:fnameВ 	
+Р“РµР№С‚СЃ	Р“РµР№С‚СЃВ 	noun:m:v_naz:anim:lnameВ 	
+С‡Рё	С‡РёВ 	conj:coord:subordВ 	
+Р‘СЂРµРґРґ	-В 	-В 	
+РџС–С‚С‚	РџС–С‚С‚В 	noun:m:v_naz:anim:fnameВ 	
+?	-В 	-В 	
+:	-В 	-В 	
+)	-В 	-В 	
+Р©Рµ	С‰РµВ 	partВ 	
+С‚Рё	С‚РёВ 	pron:pers:s:2:v_naz:animВ 	
+СЃРѕР±С–	СЃРµР±РµВ 	pron:refl:m:v_davВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+СЂР°С…СѓРЅРѕРє	СЂР°С…СѓРЅРѕРєВ 	noun:m:v_znaВ 	
+РІС–Р·СЊРјРё	РІР·СЏС‚РёВ 	verb:impr:s:2:perfВ 	
+,	-В 	-В 	
+С€Р°РЅРѕРІРЅРёР№	С€Р°РЅРѕРІРЅРёР№В 	adj:m:v_nazВ 	
+)	-В 	-В 	
+)	-В 	-В 	
+)	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-А	а 	conj:coord 	
-вареники	вареник 	noun:p:v_naz 	
-в	в 	prep:rv_rod:v-u 	
-Бровіна	- 	- 	
-справді	справді 	adv 	
-відповідають	відповідати 	verb:pres:p:3:imperf 	
-усім	увесь 	adj:p:v_dav:&pron:dem 	
-смаковим	смаковий 	adj:p:v_dav 	
-стандартам	стандарт 	noun:p:v_dav 	
-цієї	цей 	adj:f:v_rod:&pron:dem 	
-національної	національний 	adj:f:v_rod 	
-страви	страва 	noun:f:v_rod 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Рђ	Р°В 	conj:coordВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+РІ	РІВ 	prep:rv_rod:v-uВ 	
+Р‘СЂРѕРІС–РЅР°	-В 	-В 	
+СЃРїСЂР°РІРґС–	СЃРїСЂР°РІРґС–В 	advВ 	
+РІС–РґРїРѕРІС–РґР°СЋС‚СЊ	РІС–РґРїРѕРІС–РґР°С‚РёВ 	verb:pres:p:3:imperfВ 	
+СѓСЃС–Рј	СѓРІРµСЃСЊВ 	adj:p:v_dav:&pron:demВ 	
+СЃРјР°РєРѕРІРёРј	СЃРјР°РєРѕРІРёР№В 	adj:p:v_davВ 	
+СЃС‚Р°РЅРґР°СЂС‚Р°Рј	СЃС‚Р°РЅРґР°СЂС‚В 	noun:p:v_davВ 	
+С†С–С”С—	С†РµР№В 	adj:f:v_rod:&pron:demВ 	
+РЅР°С†С–РѕРЅР°Р»СЊРЅРѕС—	РЅР°С†С–РѕРЅР°Р»СЊРЅРёР№В 	adj:f:v_rodВ 	
+СЃС‚СЂР°РІРё	СЃС‚СЂР°РІР°В 	noun:f:v_rodВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-І	і 	conj:coord 	
-це	цей 	adj:n:v_naz:&pron:dem 	
-чи	чи 	conj:coord:subord  	
-не	не 	part 	
-єдиний	єдиний 	adj:m:v_naz 	
-заклад	заклад 	noun:m:v_naz 	
-громадського	громадський 	adj:n:v_rod 	
-харчування	харчування 	noun:n:v_naz 	
-		noun:n:v_rod 	
-		noun:n:v_zna 	
-		noun:p:v_naz 	
-		noun:p:v_zna 	
-в	в 	prep:rv_mis:v-u 	
-Луцьку	Луцьк 	noun:m:v_mis 	
-з	з 	prep: rv_oru 	
-такими	такий 	adj:p:v_oru:&pron:def 	
-смачними	смачний 	adj:p:v_oru:compb 	
-варениками	вареник 	noun:p:v_oru 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р†	С–В 	conj:coordВ 	
+С†Рµ	С†РµР№В 	adj:n:v_naz:&pron:demВ 	
+С‡Рё	С‡РёВ 	conj:coord:subordВ В 	
+РЅРµ	РЅРµВ 	partВ 	
+С”РґРёРЅРёР№	С”РґРёРЅРёР№В 	adj:m:v_nazВ 	
+Р·Р°РєР»Р°Рґ	Р·Р°РєР»Р°РґВ 	noun:m:v_nazВ 	
+РіСЂРѕРјР°РґСЃСЊРєРѕРіРѕ	РіСЂРѕРјР°РґСЃСЊРєРёР№В 	adj:n:v_rodВ 	
+С…Р°СЂС‡СѓРІР°РЅРЅСЏ	С…Р°СЂС‡СѓРІР°РЅРЅСЏВ 	noun:n:v_nazВ 	
+		noun:n:v_rodВ 	
+		noun:n:v_znaВ 	
+		noun:p:v_nazВ 	
+		noun:p:v_znaВ 	
+РІ	РІВ 	prep:rv_mis:v-uВ 	
+Р›СѓС†СЊРєСѓ	Р›СѓС†СЊРєВ 	noun:m:v_misВ 	
+Р·	Р·В 	prep: rv_oruВ 	
+С‚Р°РєРёРјРё	С‚Р°РєРёР№В 	adj:p:v_oru:&pron:defВ 	
+СЃРјР°С‡РЅРёРјРё	СЃРјР°С‡РЅРёР№В 	adj:p:v_oru:compbВ 	
+РІР°СЂРµРЅРёРєР°РјРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_oruВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: 			
-DIS_RARE_WORDS:1 можна[можна/predic,можний/adj:f:v_naz:rare] -> можна[можна/predic]			
+DIS_RARE_WORDS:1 РјРѕР¶РЅР°[РјРѕР¶РЅР°/predic,РјРѕР¶РЅРёР№/adj:f:v_naz:rare] -> РјРѕР¶РЅР°[РјРѕР¶РЅР°/predic]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Широкий	широкий 	adj:m:v_naz:compb 	
-вибір	вибір 	noun:m:v_naz 	
-на	на 	prep:rv_zna	
-всі	весь 	adj:p:v_zna:&pron:dem 	
-смаки	смак 	noun:p:v_zna 	
-,	- 	- 	
-вареники	вареник 	noun:p:v_naz 	
-великі	великий 	adj:p:v_naz:compb 	
-,	- 	- 	
-бо	бо 	conj:subord 	
-в	в 	prep:rv_mis:v-u 	
-інших	інший 	adj:p:v_mis:&pron:def 	
-закладах	заклад 	noun:p:v_mis 	
-можна	можна 	predic 	
-покласти	покласти 	verb:inf:perf 	
-5	5 	number 	
-Штук	штука 	noun:p:v_rod 	
-В	в 	prep:rv_zna:v-u 	
-Рот	рот 	noun:m:v_zna 	
-І	і 	conj:coord 	
-Ще	ще 	part 	
-в	в 	prep:rv_zna:v-u 	
-чотири	чотири 	numr:p:v_zna 	
-пальці	палець 	noun:p:v_zna 	
-свиснути	свиснути 	verb:inf:perf 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РЁРёСЂРѕРєРёР№	С€РёСЂРѕРєРёР№В 	adj:m:v_naz:compbВ 	
+РІРёР±С–СЂ	РІРёР±С–СЂВ 	noun:m:v_nazВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+РІСЃС–	РІРµСЃСЊВ 	adj:p:v_zna:&pron:demВ 	
+СЃРјР°РєРё	СЃРјР°РєВ 	noun:p:v_znaВ 	
+,	-В 	-В 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+РІРµР»РёРєС–	РІРµР»РёРєРёР№В 	adj:p:v_naz:compbВ 	
+,	-В 	-В 	
+Р±Рѕ	Р±РѕВ 	conj:subordВ 	
+РІ	РІВ 	prep:rv_mis:v-uВ 	
+С–РЅС€РёС…	С–РЅС€РёР№В 	adj:p:v_mis:&pron:defВ 	
+Р·Р°РєР»Р°РґР°С…	Р·Р°РєР»Р°РґВ 	noun:p:v_misВ 	
+РјРѕР¶РЅР°	РјРѕР¶РЅР°В 	predicВ 	
+РїРѕРєР»Р°СЃС‚Рё	РїРѕРєР»Р°СЃС‚РёВ 	verb:inf:perfВ 	
+5	5В 	numberВ 	
+РЁС‚СѓРє	С€С‚СѓРєР°В 	noun:p:v_rodВ 	
+Р’	РІВ 	prep:rv_zna:v-uВ 	
+Р РѕС‚	СЂРѕС‚В 	noun:m:v_znaВ 	
+Р†	С–В 	conj:coordВ 	
+Р©Рµ	С‰РµВ 	partВ 	
+РІ	РІВ 	prep:rv_zna:v-uВ 	
+С‡РѕС‚РёСЂРё	С‡РѕС‚РёСЂРёВ 	numr:p:v_znaВ 	
+РїР°Р»СЊС†С–	РїР°Р»РµС†СЊВ 	noun:p:v_znaВ 	
+СЃРІРёСЃРЅСѓС‚Рё	СЃРІРёСЃРЅСѓС‚РёВ 	verb:inf:perfВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Бровін	- 	- 	
--	- 	- 	
-молодець	молодець 	noun:m:v_naz:anim 	(predic)
-!	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р‘СЂРѕРІС–РЅ	-В 	-В 	
+-	-В 	-В 	
+РјРѕР»РѕРґРµС†СЊ	РјРѕР»РѕРґРµС†СЊВ 	noun:m:v_naz:animВ 	(predic)
+!	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Так	так 	adv:&pron:dem 	
-,	- 	- 	
-Олеже	Олег 	noun:m:v_kly:anim:fname	
-,	- 	- 	
-тримати	тримати 	verb:inf:imperf 	
-!	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РўР°Рє	С‚Р°РєВ 	adv:&pron:demВ 	
+,	-В 	-В 	
+РћР»РµР¶Рµ	РћР»РµРіВ 	noun:m:v_kly:anim:fname	
+,	-В 	-В 	
+С‚СЂРёРјР°С‚Рё	С‚СЂРёРјР°С‚РёВ 	verb:inf:imperfВ 	
+!	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-А	а 	conj:coord 	
-"	- 	- 	
-Лучанка	лучанка 	noun:f:v_naz:anim 	
-"	- 	- 	
-завжди	завжди 	adv:&pron:gen 	
-рве	рвати 	verb:pres:s:3:imperf 	
-гланди	гланда 	noun:p:v_zna 	
-через	через 	prep:rv_zna 	
-дупу	дупа 	noun:f:v_zna 	
-,	- 	- 	
-але	але 	conj:coord 	
-то	то 	conj:subord 	
-справа	справа 	noun:f:v_naz 	
-її	її  	adj:f:nv:&pron:pos 	
-характеру	характер 	noun:m:v_rod 	
-.	- 	SENT_END 	
-	- 	PARA_END 	
+	-В 	SENT_STARTВ 	
+Рђ	Р°В 	conj:coordВ 	
+"	-В 	-В 	
+Р›СѓС‡Р°РЅРєР°	Р»СѓС‡Р°РЅРєР°В 	noun:f:v_naz:animВ 	
+"	-В 	-В 	
+Р·Р°РІР¶РґРё	Р·Р°РІР¶РґРёВ 	adv:&pron:genВ 	
+СЂРІРµ	СЂРІР°С‚РёВ 	verb:pres:s:3:imperfВ 	
+РіР»Р°РЅРґРё	РіР»Р°РЅРґР°В 	noun:p:v_znaВ 	
+С‡РµСЂРµР·	С‡РµСЂРµР·В 	prep:rv_znaВ 	
+РґСѓРїСѓ	РґСѓРїР°В 	noun:f:v_znaВ 	
+,	-В 	-В 	
+Р°Р»Рµ	Р°Р»РµВ 	conj:coordВ 	
+С‚Рѕ	С‚РѕВ 	conj:subordВ 	
+СЃРїСЂР°РІР°	СЃРїСЂР°РІР°В 	noun:f:v_nazВ 	
+С—С—	С—С—В В 	adj:f:nv:&pron:posВ 	
+С…Р°СЂР°РєС‚РµСЂСѓ	С…Р°СЂР°РєС‚РµСЂВ 	noun:m:v_rodВ 	
+.	-В 	SENT_ENDВ 	
+	-В 	PARA_ENDВ 	
 Analysis Result			
 LanguageTool version: 3.0-SNAPSHOT (2015-04-25 22:01)			
 Language: Ukrainian			
 What do the tags mean?			
 Disambiguator log: 			
-DIS_INSERTS:1 може[може/insert,могти/verb:unknown] -> може[могти/verb:unknown]			
+DIS_INSERTS:1 РјРѕР¶Рµ[РјРѕР¶Рµ/insert,РјРѕРіС‚Рё/verb:unknown] -> РјРѕР¶Рµ[РјРѕРіС‚Рё/verb:unknown]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Кавуська	- 	- 	
-(	- 	- 	
-як	як 	conj:subord 	
-вона	вона 	pron:pers:f:3:v_naz:anim 	
-називає	називати 	verb:pres:s:3:imperf 	
-)	- 	- 	
-,	- 	- 	
-є	бути 	verb:pres:s:3:imperf 	
-для	для 	prep:rv_rod 	
-різних	різний 	adj:p:v_rod 	
-людей	люди 	noun:p:v_rod:anim 	
-:	- 	- 	
-комусь	хтось 	pron:ind:v_dav:anim 	
-смачна	смачний 	adj:f:v_naz:compb 	
-з	з 	prep:rv_rod	
-жолудів	жолудь 	noun:p:v_rod 	
-і	і 	conj:coord 	
-каштанів	каштан 	noun:p:v_rod 	
-за	за 	prep:rv_zna	
-7	7 	number 	
-гривень	гривня 	noun:p:v_rod 	(noun:p:v_zna)
-,	- 	- 	
-А	а 	conj:coord 	
-хтось	хтось 	pron:ind:v_naz:anim 	
-може	могти 	verb:unknown 	
-заплатити	заплатити 	verb:inf:perf 	
-І	і 	conj:coord 	
-15-ть	- 	- 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РљР°РІСѓСЃСЊРєР°	-В 	-В 	
+(	-В 	-В 	
+СЏРє	СЏРєВ 	conj:subordВ 	
+РІРѕРЅР°	РІРѕРЅР°В 	pron:pers:f:3:v_naz:animВ 	
+РЅР°Р·РёРІР°С”	РЅР°Р·РёРІР°С‚РёВ 	verb:pres:s:3:imperfВ 	
+)	-В 	-В 	
+,	-В 	-В 	
+С”	Р±СѓС‚РёВ 	verb:pres:s:3:imperfВ 	
+РґР»СЏ	РґР»СЏВ 	prep:rv_rodВ 	
+СЂС–Р·РЅРёС…	СЂС–Р·РЅРёР№В 	adj:p:v_rodВ 	
+Р»СЋРґРµР№	Р»СЋРґРёВ 	noun:p:v_rod:animВ 	
+:	-В 	-В 	
+РєРѕРјСѓСЃСЊ	С…С‚РѕСЃСЊВ 	pron:ind:v_dav:animВ 	
+СЃРјР°С‡РЅР°	СЃРјР°С‡РЅРёР№В 	adj:f:v_naz:compbВ 	
+Р·	Р·В 	prep:rv_rod	
+Р¶РѕР»СѓРґС–РІ	Р¶РѕР»СѓРґСЊВ 	noun:p:v_rodВ 	
+С–	С–В 	conj:coordВ 	
+РєР°С€С‚Р°РЅС–РІ	РєР°С€С‚Р°РЅВ 	noun:p:v_rodВ 	
+Р·Р°	Р·Р°В 	prep:rv_zna	
+7	7В 	numberВ 	
+РіСЂРёРІРµРЅСЊ	РіСЂРёРІРЅСЏВ 	noun:p:v_rodВ 	(noun:p:v_zna)
+,	-В 	-В 	
+Рђ	Р°В 	conj:coordВ 	
+С…С‚РѕСЃСЊ	С…С‚РѕСЃСЊВ 	pron:ind:v_naz:animВ 	
+РјРѕР¶Рµ	РјРѕРіС‚РёВ 	verb:unknownВ 	
+Р·Р°РїР»Р°С‚РёС‚Рё	Р·Р°РїР»Р°С‚РёС‚РёВ 	verb:inf:perfВ 	
+Р†	С–В 	conj:coordВ 	
+15-С‚СЊ	-В 	-В 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Це	цей 	adj:n:v_naz:&pron:dem	
-Ж	ж 	conj:coord 	
--	- 	- 	
-по	по 	prep:rv_mis	
-доходах	 дохід 	noun:p:v_mis 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р¦Рµ	С†РµР№В 	adj:n:v_naz:&pron:dem	
+Р–	Р¶В 	conj:coordВ 	
+-	-В 	-В 	
+РїРѕ	РїРѕВ 	prep:rv_mis	
+РґРѕС…РѕРґР°С…	В РґРѕС…С–РґВ 	noun:p:v_misВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-пан	пан 	noun:m:v_naz:anim 	
-Бровін	- 	- 	
-,	- 	- 	
-якщо	якщо 	conj:subord 	
-Я	я 	pron:pers:s:1:v_naz:anim 	
-не	не 	part 	
-помиляюсь	помилятися 	verb:rev:pres:s:1:imperf 	
-,	- 	- 	
-купив	купити 	verb:past:m:perf 	
-франшизу	франшиза 	noun:f:v_zna 	
-на	на 	prep:rv_zna	
-"	- 	- 	
-Вареники	вареник 	noun:p:v_naz 	
-тут	тут 	adv:&pron:dem 	
-"	- 	- 	
-І	і 	conj:coord 	
-правильно	правильно 	adv:compb 	
-зробив	зробити 	verb:past:m:perf 	
--	- 	- 	
-У	у 	prep:rv_mis:v-u 	
-луцьку	луцький	adj:f:v_zna	
-такого	такий	adj:m:v_rod:&pron:def 	
-ще	ще 	 part 	
-не	не 	part 	
-було	бути 	verb:past:n:imperf 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РїР°РЅ	РїР°РЅВ 	noun:m:v_naz:animВ 	
+Р‘СЂРѕРІС–РЅ	-В 	-В 	
+,	-В 	-В 	
+СЏРєС‰Рѕ	СЏРєС‰РѕВ 	conj:subordВ 	
+РЇ	СЏВ 	pron:pers:s:1:v_naz:animВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РїРѕРјРёР»СЏСЋСЃСЊ	РїРѕРјРёР»СЏС‚РёСЃСЏВ 	verb:rev:pres:s:1:imperfВ 	
+,	-В 	-В 	
+РєСѓРїРёРІ	РєСѓРїРёС‚РёВ 	verb:past:m:perfВ 	
+С„СЂР°РЅС€РёР·Сѓ	С„СЂР°РЅС€РёР·Р°В 	noun:f:v_znaВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+"	-В 	-В 	
+Р’Р°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+С‚СѓС‚	С‚СѓС‚В 	adv:&pron:demВ 	
+"	-В 	-В 	
+Р†	С–В 	conj:coordВ 	
+РїСЂР°РІРёР»СЊРЅРѕ	РїСЂР°РІРёР»СЊРЅРѕВ 	adv:compbВ 	
+Р·СЂРѕР±РёРІ	Р·СЂРѕР±РёС‚РёВ 	verb:past:m:perfВ 	
+-	-В 	-В 	
+РЈ	СѓВ 	prep:rv_mis:v-uВ 	
+Р»СѓС†СЊРєСѓ	Р»СѓС†СЊРєРёР№	adj:f:v_zna	
+С‚Р°РєРѕРіРѕ	С‚Р°РєРёР№	adj:m:v_rod:&pron:defВ 	
+С‰Рµ	С‰РµВ 	В partВ 	
+РЅРµ	РЅРµВ 	partВ 	
+Р±СѓР»Рѕ	Р±СѓС‚РёВ 	verb:past:n:imperfВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-У	у 	prep:rv_mis:v-u 	
-Львові	Львів 	noun:m:v_mis 	
-це	цей 	adj:n:v_naz:&pron:dem 	
-дуже	дуже  	adv 	
-популярне	популярний 	adj:n:v_naz:compb 	
-місце	місце 	noun:n:v_naz 	
-В	в 	prep:rv_mis:v-u 	
-Ашані	Ашан 	noun:m:v_mis 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РЈ	СѓВ 	prep:rv_mis:v-uВ 	
+Р›СЊРІРѕРІС–	Р›СЊРІС–РІВ 	noun:m:v_misВ 	
+С†Рµ	С†РµР№В 	adj:n:v_naz:&pron:demВ 	
+РґСѓР¶Рµ	РґСѓР¶РµВ В 	advВ 	
+РїРѕРїСѓР»СЏСЂРЅРµ	РїРѕРїСѓР»СЏСЂРЅРёР№В 	adj:n:v_naz:compbВ 	
+РјС–СЃС†Рµ	РјС–СЃС†РµВ 	noun:n:v_nazВ 	
+Р’	РІВ 	prep:rv_mis:v-uВ 	
+РђС€Р°РЅС–	РђС€Р°РЅВ 	noun:m:v_misВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: 			
-DIS_RARE_WORDS:1 Можна[можна/predic*,можний/adj:f:v_naz:rare*] -> Можна[можна/predic*]			
+DIS_RARE_WORDS:1 РњРѕР¶РЅР°[РјРѕР¶РЅР°/predic*,РјРѕР¶РЅРёР№/adj:f:v_naz:rare*] -> РњРѕР¶РЅР°[РјРѕР¶РЅР°/predic*]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Можна	можна 	predic 	
-смачно	смачно 	adv:compb 	
-поїсти	поїсти 	verb:inf:perf 	
-І	і 	conj:coord 	
-не	не 	part 	
-лише	лише 	part 	
-вареники	вареник 	noun:p:v_naz 	
-		noun:p:v_zna 	
--	- 	- 	
-соління-квашіння	- 	- 	
-,	- 	- 	
-варені	варений 	adj:p:v_naz:&adjp:pasv:past	
-овочі	овоч 	noun:p:v_naz 	
-,	- 	- 	
--	- 	- 	
-для	для 	prep:rv_rod 	
-тих	той 	adj:p:v_rod:&pron:dem 	
-,	- 	- 	
-хто	хто 	pron:int:rel:m:v_naz:anim 	
-не	не 	part 	
-хоче	хотіти 	verb:unknown 	
-гладшати	гладшати 	verb:inf:imperf 	
-!	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РњРѕР¶РЅР°	РјРѕР¶РЅР°В 	predicВ 	
+СЃРјР°С‡РЅРѕ	СЃРјР°С‡РЅРѕВ 	adv:compbВ 	
+РїРѕС—СЃС‚Рё	РїРѕС—СЃС‚РёВ 	verb:inf:perfВ 	
+Р†	С–В 	conj:coordВ 	
+РЅРµ	РЅРµВ 	partВ 	
+Р»РёС€Рµ	Р»РёС€РµВ 	partВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+		noun:p:v_znaВ 	
+-	-В 	-В 	
+СЃРѕР»С–РЅРЅСЏ-РєРІР°С€С–РЅРЅСЏ	-В 	-В 	
+,	-В 	-В 	
+РІР°СЂРµРЅС–	РІР°СЂРµРЅРёР№В 	adj:p:v_naz:&adjp:pasv:past	
+РѕРІРѕС‡С–	РѕРІРѕС‡В 	noun:p:v_nazВ 	
+,	-В 	-В 	
+-	-В 	-В 	
+РґР»СЏ	РґР»СЏВ 	prep:rv_rodВ 	
+С‚РёС…	С‚РѕР№В 	adj:p:v_rod:&pron:demВ 	
+,	-В 	-В 	
+С…С‚Рѕ	С…С‚РѕВ 	pron:int:rel:m:v_naz:animВ 	
+РЅРµ	РЅРµВ 	partВ 	
+С…РѕС‡Рµ	С…РѕС‚С–С‚РёВ 	verb:unknownВ 	
+РіР»Р°РґС€Р°С‚Рё	РіР»Р°РґС€Р°С‚РёВ 	verb:inf:imperfВ 	
+!	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
 Disambiguator log: 			
-DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]			
+DIS_PREP_NA:1 РЅР°[РЅР°/excl,РЅР°/part,РЅР°/prep:rv_zna:rv_mis] -> РЅР°[РЅР°/prep:rv_zna:rv_mis]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-люблю	любити 	verb:pres:s:1:imperf 	
-вареники	вареник 	noun:p:v_zna 	
-І	і 	conj:coord  	
-З	з 	prep:rv_oru	
-сиром	сир 	noun:m:v_oru 	
-пироги	пиріг 	noun:p:v_zna 	
-,	- 	- 	
-08.02.2013	08.02.2013 	date 	
-Я	я 	pron:pers:s:1:v_naz:anim 	
-люблю	любити 	verb:pres:s:1:imperf 	
-заходити	заходити 	verb:inf:perf 	
-туди	туди 	adv:&pron:dem 	
-на	на 	prep:rv_zna	
-вареники	вареник 	noun:p:v_zna 	
-,	- 	- 	
-бо	бо 	conj:subord 	
-дуже	дуже  	adv 	
-смачні	смачний 	adj:p:v_naz:compb 	
-,	- 	- 	
-А	а 	conj:coord 	
-ще	ще 	part 	
-задивляюсь	задивлятися 	verb:rev:pres:s:1:imperf 	
-на	на 	prep:rv_zna	
-дівчат	дівча 	noun:p:v_zna:anim 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р»СЋР±Р»СЋ	Р»СЋР±РёС‚РёВ 	verb:pres:s:1:imperfВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_znaВ 	
+Р†	С–В 	conj:coordВ В 	
+Р—	Р·В 	prep:rv_oru	
+СЃРёСЂРѕРј	СЃРёСЂВ 	noun:m:v_oruВ 	
+РїРёСЂРѕРіРё	РїРёСЂС–РіВ 	noun:p:v_znaВ 	
+,	-В 	-В 	
+08.02.2013	08.02.2013В 	dateВ 	
+РЇ	СЏВ 	pron:pers:s:1:v_naz:animВ 	
+Р»СЋР±Р»СЋ	Р»СЋР±РёС‚РёВ 	verb:pres:s:1:imperfВ 	
+Р·Р°С…РѕРґРёС‚Рё	Р·Р°С…РѕРґРёС‚РёВ 	verb:inf:perfВ 	
+С‚СѓРґРё	С‚СѓРґРёВ 	adv:&pron:demВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_znaВ 	
+,	-В 	-В 	
+Р±Рѕ	Р±РѕВ 	conj:subordВ 	
+РґСѓР¶Рµ	РґСѓР¶РµВ В 	advВ 	
+СЃРјР°С‡РЅС–	СЃРјР°С‡РЅРёР№В 	adj:p:v_naz:compbВ 	
+,	-В 	-В 	
+Рђ	Р°В 	conj:coordВ 	
+С‰Рµ	С‰РµВ 	partВ 	
+Р·Р°РґРёРІР»СЏСЋСЃСЊ	Р·Р°РґРёРІР»СЏС‚РёСЃСЏВ 	verb:rev:pres:s:1:imperfВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+РґС–РІС‡Р°С‚	РґС–РІС‡Р°В 	noun:p:v_zna:animВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Усі	увесь 	adj:p:v_naz:&pron:dem 	
-вони	вони 	pron:pers:p:3:v_naz:anim	
-там	там 	adv:&pron:dem 	
-дуже	дуже  	adv 	
-красиві	красивий 	adj:p:v_naz:compb 	
-(	- 	- 	
-хай	хай 	part 	
-Бог	бог 	noun:m:v_naz:anim 	
-мені	я 	pron:pers:s:1:v_dav:anim	
-прощає	прощати 	verb:pres:s:3:imperf 	
-гріх	гріх 	noun:m:v_zna 	
-,	- 	- 	
-Я	я 	pron:pers:s:1:v_naz:anim	
-вже	вже 	adv:v-u 	
-трохи	трохи 	adv 	
-пристаркуватий	пристаркуватий 	adj:m:v_naz 	
-,	- 	- 	
-але	але 	conj:coord 	
-Я	я 	pron:pers:s:1:v_naz:anim	
-крадькома	крадькома 	adv 	
-)	- 	- 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РЈСЃС–	СѓРІРµСЃСЊВ 	adj:p:v_naz:&pron:demВ 	
+РІРѕРЅРё	РІРѕРЅРёВ 	pron:pers:p:3:v_naz:anim	
+С‚Р°Рј	С‚Р°РјВ 	adv:&pron:demВ 	
+РґСѓР¶Рµ	РґСѓР¶РµВ В 	advВ 	
+РєСЂР°СЃРёРІС–	РєСЂР°СЃРёРІРёР№В 	adj:p:v_naz:compbВ 	
+(	-В 	-В 	
+С…Р°Р№	С…Р°Р№В 	partВ 	
+Р‘РѕРі	Р±РѕРіВ 	noun:m:v_naz:animВ 	
+РјРµРЅС–	СЏВ 	pron:pers:s:1:v_dav:anim	
+РїСЂРѕС‰Р°С”	РїСЂРѕС‰Р°С‚РёВ 	verb:pres:s:3:imperfВ 	
+РіСЂС–С…	РіСЂС–С…В 	noun:m:v_znaВ 	
+,	-В 	-В 	
+РЇ	СЏВ 	pron:pers:s:1:v_naz:anim	
+РІР¶Рµ	РІР¶РµВ 	adv:v-uВ 	
+С‚СЂРѕС…Рё	С‚СЂРѕС…РёВ 	advВ 	
+РїСЂРёСЃС‚Р°СЂРєСѓРІР°С‚РёР№	РїСЂРёСЃС‚Р°СЂРєСѓРІР°С‚РёР№В 	adj:m:v_nazВ 	
+,	-В 	-В 	
+Р°Р»Рµ	Р°Р»РµВ 	conj:coordВ 	
+РЇ	СЏВ 	pron:pers:s:1:v_naz:anim	
+РєСЂР°РґСЊРєРѕРјР°	РєСЂР°РґСЊРєРѕРјР°В 	advВ 	
+)	-В 	-В 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Коментатор	коментатор 	noun:m:v_naz:anim 	
-"	- 	- 	
-Журналіст	журналіст 	noun:m:v_naz:anim 	
-"	- 	- 	
-правий	правий 	adj:m:v_naz:compb 	
-на	на 	prep:rv_zna	
-101	101 	number 	
-відсоток	відсоток 	noun:m:v_zna 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РљРѕРјРµРЅС‚Р°С‚РѕСЂ	РєРѕРјРµРЅС‚Р°С‚РѕСЂВ 	noun:m:v_naz:animВ 	
+"	-В 	-В 	
+Р–СѓСЂРЅР°Р»С–СЃС‚	Р¶СѓСЂРЅР°Р»С–СЃС‚В 	noun:m:v_naz:animВ 	
+"	-В 	-В 	
+РїСЂР°РІРёР№	РїСЂР°РІРёР№В 	adj:m:v_naz:compbВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+101	101В 	numberВ 	
+РІС–РґСЃРѕС‚РѕРє	РІС–РґСЃРѕС‚РѕРєВ 	noun:m:v_znaВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Смачніших	смачний 	adj:p:v_rod:compr 	
-вареників	вареник 	noun:p:v_rod 	
-немає	немає 	predic 	
-В	в 	prep:rv_mis:v-u 	
-світі	світ  	noun:m:v_mis 	
-,	- 	- 	
-А	а 	conj:coord 	
-молодим	молодий 	adj:p:v_dav:compb 	
-хлопятам	- 	- 	
-скажу	сказати 	verb:futr:s:1:perf 	
-:	- 	- 	
-дівчина	дівчина 	noun:f:v_naz:anim 	
-,	- 	- 	
-яка	який 	adj:f:v_naz:&pron:int:rel:def 	
-вміє	вміти 	verb:pres:s:3:imperf:v-u 	
-приготувати	приготувати 	verb:inf:perf 	
-смачні	смачний 	adj:p:v_zna:compb 	
-вареники	вареник 	noun:p:v_zna 	
--	- 	- 	
-чудова	чудовий 	adj:f:v_naz:compb 	
-господиня	господиня 	noun:f:v_naz:anim 	
-І	і 	conj:coord 	
-прекрасна	прекрасний 	adj:f:v_naz:compb 	
-майбутня	майбутній 	adj:f:v_naz 	
-дружина	дружина 	noun:f:v_naz:anim 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РЎРјР°С‡РЅС–С€РёС…	СЃРјР°С‡РЅРёР№В 	adj:p:v_rod:comprВ 	
+РІР°СЂРµРЅРёРєС–РІ	РІР°СЂРµРЅРёРєВ 	noun:p:v_rodВ 	
+РЅРµРјР°С”	РЅРµРјР°С”В 	predicВ 	
+Р’	РІВ 	prep:rv_mis:v-uВ 	
+СЃРІС–С‚С–	СЃРІС–С‚В В 	noun:m:v_misВ 	
+,	-В 	-В 	
+Рђ	Р°В 	conj:coordВ 	
+РјРѕР»РѕРґРёРј	РјРѕР»РѕРґРёР№В 	adj:p:v_dav:compbВ 	
+С…Р»РѕРїСЏС‚Р°Рј	-В 	-В 	
+СЃРєР°Р¶Сѓ	СЃРєР°Р·Р°С‚РёВ 	verb:futr:s:1:perfВ 	
+:	-В 	-В 	
+РґС–РІС‡РёРЅР°	РґС–РІС‡РёРЅР°В 	noun:f:v_naz:animВ 	
+,	-В 	-В 	
+СЏРєР°	СЏРєРёР№В 	adj:f:v_naz:&pron:int:rel:defВ 	
+РІРјС–С”	РІРјС–С‚РёВ 	verb:pres:s:3:imperf:v-uВ 	
+РїСЂРёРіРѕС‚СѓРІР°С‚Рё	РїСЂРёРіРѕС‚СѓРІР°С‚РёВ 	verb:inf:perfВ 	
+СЃРјР°С‡РЅС–	СЃРјР°С‡РЅРёР№В 	adj:p:v_zna:compbВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_znaВ 	
+-	-В 	-В 	
+С‡СѓРґРѕРІР°	С‡СѓРґРѕРІРёР№В 	adj:f:v_naz:compbВ 	
+РіРѕСЃРїРѕРґРёРЅСЏ	РіРѕСЃРїРѕРґРёРЅСЏВ 	noun:f:v_naz:animВ 	
+Р†	С–В 	conj:coordВ 	
+РїСЂРµРєСЂР°СЃРЅР°	РїСЂРµРєСЂР°СЃРЅРёР№В 	adj:f:v_naz:compbВ 	
+РјР°Р№Р±СѓС‚РЅСЏ	РјР°Р№Р±СѓС‚РЅС–Р№В 	adj:f:v_nazВ 	
+РґСЂСѓР¶РёРЅР°	РґСЂСѓР¶РёРЅР°В 	noun:f:v_naz:animВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Візьміть	взяти 	verb:impr:p:2:perf 	
-собі	себе 	pron:refl:m:v_dav 	(pron:refl:p:2:v_dav)
-		pron:refl:m:v_mis 	
-		pron:refl:n:v_dav 	
-		pron:refl:n:v_mis 	
-на	на 	prep:rv_zna	
-"	- 	- 	
-рахунок	рахунок 	 noun:m:v_zna 	
-"	- 	- 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р’С–Р·СЊРјС–С‚СЊ	РІР·СЏС‚РёВ 	verb:impr:p:2:perfВ 	
+СЃРѕР±С–	СЃРµР±РµВ 	pron:refl:m:v_davВ 	(pron:refl:p:2:v_dav)
+		pron:refl:m:v_misВ 	
+		pron:refl:n:v_davВ 	
+		pron:refl:n:v_misВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+"	-В 	-В 	
+СЂР°С…СѓРЅРѕРє	СЂР°С…СѓРЅРѕРєВ 	В noun:m:v_znaВ 	
+"	-В 	-В 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
-Analysis Result			
-LanguageTool version: 3.0-SNAPSHOT (2015-04-25 22:01)			
-Language: Ukrainian			
-What do the tags mean?			
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Тут	тут 	adv:&pron:dem 	
-"	- 	- 	
-відвідувач	відвідувач 	noun:m:v_naz:anim 	
-"	- 	- 	
-хоче	хотіти 	verb:unknown 	
-вареників	вареник 	noun:p:v_rod 	
-,	- 	- 	
-А	а 	conj:coord 	
-не	не 	part 	
-має	мати  	verb:pres:s:3:imperf 	
-грошей	гроші 	noun:p:v_rod 	
-,	- 	- 	
-І	і 	conj:coord 	
-,	- 	- 	
-соваючи	совати 	advp:imperf 	
-мідяки	мідяк 	noun:p:v_zna 	
-на	на 	prep:rv_mis 	
-долоні	долоня 	noun:f:v_mis 	
-,	- 	- 	
-хоче	хотіти 	verb:unknown 	
-щось	щось 	pron:ind:n:v_zna 	
-сказати	сказати 	verb:inf:perf 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Немає	немає 	predic 	
-грошей	гроші 	noun:p:v_rod 	
-,	- 	- 	
-їж	їсти 	verb:impr:s:2:imperf 	
-дома	дома 	adv 	
-квашену	квашений 	adjp:pasv:past:f:v_zna 	
-капусту	капуста 	noun:f:v_zna 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-А	а 	conj:coord 	
-то	то 	conj:subord 	
-,	- 	- 	
-виходить	виходить  	insert 	
-,	- 	- 	
-як	як 	conj:subord 	
-У	у 	prep:rv_zna:rv_mis:rv_rod:v-u 	
-тому	той 	adj:m:v_mis:&pron:dem 	
-анекдоті	анекдот 	noun:m:v_mis 	
-:	- 	- 	
-штани	штани 	noun:p:v_naz 	
-,	- 	- 	
-штани	штани 	noun:p:v_naz 	
-,	- 	- 	
-А	а 	conj:coord 	
-насправді	насправді 	adv 	
-вкакався	- 	- 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Я	я 	pron:pers:s:1:v_naz:anim 	
-З	з 	prep:rv_oru 	
-вами	ви 	pron:pers:p:2:v_oru:anim 	
-не	не 	part 	
-згідна	згідний 	adj:f:v_naz 	
-,	- 	- 	
-щодо	щодо 	prep:rv_rod 	
-посуду	посуд 	noun:m:v_rod 	
-,	- 	- 	
-він	він 	pron:pers:m:3:v_naz:anim 	
-гарно	гарно 	adv:compb 	
-вимитий	вимитий 	adjp:pasv:past:m:v_naz 	
-І	і 	conj:coord  	
-чистий	чистий 	adj:m:v_naz:compb 	
-,	- 	- 	
-А	а 	conj:coord 	
-			
-те	той 	adj:n:v_naz:&pron:dem 	
-що	що 	pron:int:rel:n:v_naz 	
-деякі	деякий 	adj:p:v_naz 	
-люди	люди 	noun:p:v_naz:anim 	
-як	як 	conj:subord 	
-"	- 	- 	
-свині	свині	noun:unknown 	(свиня - noun:p:v_naz:anim) 
-	свиний 		
-	свиня	adj:p:v_naz 	
-		adj:p:v_zna 	
-		noun:f:v_dav:anim 	
-		noun:f:v_mis:anim 	
-		noun:f:v_rod:anim 	
-"	- 	- 	
-накидають	накидати 	verb:pres:p:3:imperf 	
-вареники	вареник 	noun:p:v_zna 	
-то	то 	conj:subord 	
-заклад	заклад 	noun:m:v_naz 	
-В	в 	prep: rv_mis:v-u 	
-цьому	цей 	adj:m:v_mis:&pron:dem 	
-не	не 	part 	
-винний	винний 	adj:m:v_naz 	
-.	- 	SENT_END 	
-Disambiguator log: 			
-DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Ви	ви 	pron:pers:p:2:v_naz:anim 	
-Ж	ж 	part 	
-не	не 	part 	
-підставите	підставити 	verb:futr:p:2:perf 	
-тарілку	тарілка 	noun:f:v_zna 	
-до	до 	prep:rv_rod 	
-самої	самий 	adj:f:v_rod 	
-миски	миска 	noun:f:v_rod 	
-З	з 	prep:rv_oru 	
-варениками	вареник 	noun:p:v_oru 	
-,	- 	- 	
-А	а 	conj:coord 	
-за	за 	prep: rv_zna	
-метр	метр 	noun:m:v_zna 	
-їх	вони 	pron:pers:p:3:v_rod:anim 	
-накидуєте	- 	- 	
-,	- 	- 	
-А	а 	conj:coord 	
-масло	масло 	noun:n:v_naz 	
-чи	чи 	conj:coord:subord 	
-смалець	смалець 	noun:m:v_naz 	
-В	в 	prep: rv_mis:v-u 	
-якому	який 	adj:m:v_mis:&pron:int:rel:def	
-вони	вони 	pron:pers:p:3:v_naz:anim 	
-знаходяться	знаходитися 	verb:rev:pres:p:3:imperf 	
-стікає	стікати 	verb:pres:s:3:imperf 	
-по	по 	prep:rv_mis	
-тарілці	тарілка 	noun:f:v_mis 	
-вниз	вниз 	adv:v-u 	
-,	- 	- 	
-А	а 	conj:coord 	
-тоді	тоді 	adv:&pron:dem 	
-вже	вже 	adv:v-u 	
-винний	винний 	adj:m:v_naz 	
-заклад	заклад 	noun:m:v_naz 	
-.	- 	- 	
-АКУРАТНО	акуратно 	adv:compb 	
-І	і 	conj:coord 	
-ПОМАЛЕНЬКУ	помаленьку 	adv 	
-НАКИДУЙТЕ	- 	- 	
-ВАРЕНИКИ	вареник 	noun:p:v_zna 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-І	і 	conj:coord  	
-БУДЕ	бути 	verb:futr:s:3:imperf 	
-ВСЕ	весь 	adj:n:v_naz:&pron:dem	
-НОРМАЛЬНО	нормально 	adv 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-ВАРЕНИКИ	вареник 	noun:p:v_naz 	
-СМАЧНІ	смачний 	adj:p:v_naz:compb 	
-,	- 	- 	
-ДУЖЕ	дуже  	adv 	
-ДУЖЕ	дуже 	adv 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Були	бути 	verb:past:p:imperf 	
-сьогодні	сьогодні 	adv 	
-,	- 	- 	
-дуже	дуже  	adv 	
-дуже	дуже 	adv 	
-смачно	смачно 	adv:compb 	
-молодці	молодець 	noun:p:v_naz:anim 	
-			
-			
-			
-!	- 	- 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Вареники	вареник 	noun:p:v_naz 	
-великі	великий 	adj:p:v_naz:compb 	
-,	- 	- 	
-соковиті	соковитий 	adj:p:v_naz:compb 	
-І	і 	conj:coord 	
-ситні	ситний 	adj:p:v_naz:compb 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Все	 весь 	adj:n:v_naz:&pron:dem	
-сподобалось	сподобатися 	verb:rev:past:n:perf 	
-,	- 	- 	
-великий	великий 	adj:m:v_naz:compb 	
-плюс	плюс 	noun:m:v_naz 	
-І	і 	conj:coord 	
-персоналу	персонал 	noun:m:v_dav 	
-,	- 	- 	
-молодці	молодець  	noun:p:v_naz:anim 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Бажаємо	бажати 	verb:pres:p:1:imperf 	
-вам	ви 	pron:pers:p:2:v_dav:anim	
-тільки	тільки 	part 	
-процвітати	процвітати 	verb:inf:imperf 	
-!	- 	- 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
-Disambiguator log: 			
-PRON_OR_CONJ_TA:1 та[та/conj:coord*,та/part*,той/adj:f:v_naz:&pron:dem*] -> та[та/conj:coord*,та/part*]			
-PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-та	та 	conj:coord 	
-вареники	вареник 	noun:p:v_naz 	
-ніби	ніби 	conj:subord 	
-Й	й 	conj:coord 	
-не	не 	part 	
-дуже	дуже  	adv 	
-дорого	дорого 	adv:compb 	
-,	- 	- 	
-але	але 	conj:coord 	
-якщо	якщо 	conj:subord 	
-ще	ще 	adv 	
-взяти	взяти 	verb:inf:perf 	
-бовщику	- 	- 	
-та	та 	conj:coord 	
-на	на 	prep:rv_zna	
-4	4 	number 	
-осіб	особа 	noun:p:v_zna:anim 	
-...	- 	- 	
-то	то 	conj:subord 	
-набігає	набігати 	verb:pres:s:3:imperf 	
-.	- 	SENT_END 	
-Disambiguator log: 			
-DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Файно	файно 	adv 	
-їсти	їсти 	verb:inf:imperf 	
-В	в 	prep:rv_mis:v-u 	
-Озерному	озерний 	adj:m:v_dav 	(Озерне - noun:n:v_mis) 
-		adj:m:v_mis 	
-		adj:n:v_dav 	
-		adj:n:v_mis 	
-,	- 	- 	
-на	на 	prep:rv_mis 	
-Тернопіллі	Тернопілля 	noun:n:v_mis 	
-...	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Там	там 	adv:&pron:dem 	
-ми	ми 	pron:pers:p:1:v_naz:anim	
-,	- 	- 	
-4	4 	number 	
-особи	Особа	noun:p:v_naz:anim 	
-,	- 	- 	
-на	на 	prep:rv_zna	
-59	59 	number 	
-гривень	гривня 	noun:p:v_rod 	(noun:p:v_zna)
-так	так 	adv:&pron:dem 	
-наїлися	наїстися 	verb:rev:past:p:perf 	
-,	- 	- 	
-що	що 	conj:subord 	
-ого	ого 	excl 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
 Analysis Result			
 LanguageTool version: 3.0-SNAPSHOT (2015-04-25 22:01)			
 Language: Ukrainian			
 What do the tags mean?			
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Ви	ви 	pron:pers:p:2:v_naz:anim	
-ше	- 	- 	
-ніц	- 	- 	
-не	не 	part 	
-виділи	виділити	verb:impr:s:2:perf 	(видіти -  verb:impr:s:dial:2:imperf) 
-	виділ 		
-		noun:p:v_naz 	
-		noun:p:v_zna 	
+	-В 	SENT_STARTВ 	
+РўСѓС‚	С‚СѓС‚В 	adv:&pron:demВ 	
+"	-В 	-В 	
+РІС–РґРІС–РґСѓРІР°С‡	РІС–РґРІС–РґСѓРІР°С‡В 	noun:m:v_naz:animВ 	
+"	-В 	-В 	
+С…РѕС‡Рµ	С…РѕС‚С–С‚РёВ 	verb:unknownВ 	
+РІР°СЂРµРЅРёРєС–РІ	РІР°СЂРµРЅРёРєВ 	noun:p:v_rodВ 	
+,	-В 	-В 	
+Рђ	Р°В 	conj:coordВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РјР°С”	РјР°С‚РёВ В 	verb:pres:s:3:imperfВ 	
+РіСЂРѕС€РµР№	РіСЂРѕС€С–В 	noun:p:v_rodВ 	
+,	-В 	-В 	
+Р†	С–В 	conj:coordВ 	
+,	-В 	-В 	
+СЃРѕРІР°СЋС‡Рё	СЃРѕРІР°С‚РёВ 	advp:imperfВ 	
+РјС–РґСЏРєРё	РјС–РґСЏРєВ 	noun:p:v_znaВ 	
+РЅР°	РЅР°В 	prep:rv_misВ 	
+РґРѕР»РѕРЅС–	РґРѕР»РѕРЅСЏВ 	noun:f:v_misВ 	
+,	-В 	-В 	
+С…РѕС‡Рµ	С…РѕС‚С–С‚РёВ 	verb:unknownВ 	
+С‰РѕСЃСЊ	С‰РѕСЃСЊВ 	pron:ind:n:v_znaВ 	
+СЃРєР°Р·Р°С‚Рё	СЃРєР°Р·Р°С‚РёВ 	verb:inf:perfВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РќРµРјР°С”	РЅРµРјР°С”В 	predicВ 	
+РіСЂРѕС€РµР№	РіСЂРѕС€С–В 	noun:p:v_rodВ 	
+,	-В 	-В 	
+С—Р¶	С—СЃС‚РёВ 	verb:impr:s:2:imperfВ 	
+РґРѕРјР°	РґРѕРјР°В 	advВ 	
+РєРІР°С€РµРЅСѓ	РєРІР°С€РµРЅРёР№В 	adjp:pasv:past:f:v_znaВ 	
+РєР°РїСѓСЃС‚Сѓ	РєР°РїСѓСЃС‚Р°В 	noun:f:v_znaВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Рђ	Р°В 	conj:coordВ 	
+С‚Рѕ	С‚РѕВ 	conj:subordВ 	
+,	-В 	-В 	
+РІРёС…РѕРґРёС‚СЊ	РІРёС…РѕРґРёС‚СЊВ В 	insertВ 	
+,	-В 	-В 	
+СЏРє	СЏРєВ 	conj:subordВ 	
+РЈ	СѓВ 	prep:rv_zna:rv_mis:rv_rod:v-uВ 	
+С‚РѕРјСѓ	С‚РѕР№В 	adj:m:v_mis:&pron:demВ 	
+Р°РЅРµРєРґРѕС‚С–	Р°РЅРµРєРґРѕС‚В 	noun:m:v_misВ 	
+:	-В 	-В 	
+С€С‚Р°РЅРё	С€С‚Р°РЅРёВ 	noun:p:v_nazВ 	
+,	-В 	-В 	
+С€С‚Р°РЅРё	С€С‚Р°РЅРёВ 	noun:p:v_nazВ 	
+,	-В 	-В 	
+Рђ	Р°В 	conj:coordВ 	
+РЅР°СЃРїСЂР°РІРґС–	РЅР°СЃРїСЂР°РІРґС–В 	advВ 	
+РІРєР°РєР°РІСЃСЏ	-В 	-В 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РЇ	СЏВ 	pron:pers:s:1:v_naz:animВ 	
+Р—	Р·В 	prep:rv_oruВ 	
+РІР°РјРё	РІРёВ 	pron:pers:p:2:v_oru:animВ 	
+РЅРµ	РЅРµВ 	partВ 	
+Р·РіС–РґРЅР°	Р·РіС–РґРЅРёР№В 	adj:f:v_nazВ 	
+,	-В 	-В 	
+С‰РѕРґРѕ	С‰РѕРґРѕВ 	prep:rv_rodВ 	
+РїРѕСЃСѓРґСѓ	РїРѕСЃСѓРґВ 	noun:m:v_rodВ 	
+,	-В 	-В 	
+РІС–РЅ	РІС–РЅВ 	pron:pers:m:3:v_naz:animВ 	
+РіР°СЂРЅРѕ	РіР°СЂРЅРѕВ 	adv:compbВ 	
+РІРёРјРёС‚РёР№	РІРёРјРёС‚РёР№В 	adjp:pasv:past:m:v_nazВ 	
+Р†	С–В 	conj:coordВ В 	
+С‡РёСЃС‚РёР№	С‡РёСЃС‚РёР№В 	adj:m:v_naz:compbВ 	
+,	-В 	-В 	
+Рђ	Р°В 	conj:coordВ 	
+			
+С‚Рµ	С‚РѕР№В 	adj:n:v_naz:&pron:demВ 	
+С‰Рѕ	С‰РѕВ 	pron:int:rel:n:v_nazВ 	
+РґРµСЏРєС–	РґРµСЏРєРёР№В 	adj:p:v_nazВ 	
+Р»СЋРґРё	Р»СЋРґРёВ 	noun:p:v_naz:animВ 	
+СЏРє	СЏРєВ 	conj:subordВ 	
+"	-В 	-В 	
+СЃРІРёРЅС–	СЃРІРёРЅС–	noun:unknownВ 	(СЃРІРёРЅСЏВ - noun:p:v_naz:anim)В 
+	СЃРІРёРЅРёР№В 		
+	СЃРІРёРЅСЏ	adj:p:v_nazВ 	
+		adj:p:v_znaВ 	
+		noun:f:v_dav:animВ 	
+		noun:f:v_mis:animВ 	
+		noun:f:v_rod:animВ 	
+"	-В 	-В 	
+РЅР°РєРёРґР°СЋС‚СЊ	РЅР°РєРёРґР°С‚РёВ 	verb:pres:p:3:imperfВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_znaВ 	
+С‚Рѕ	С‚РѕВ 	conj:subordВ 	
+Р·Р°РєР»Р°Рґ	Р·Р°РєР»Р°РґВ 	noun:m:v_nazВ 	
+Р’	РІВ 	prep: rv_mis:v-uВ 	
+С†СЊРѕРјСѓ	С†РµР№В 	adj:m:v_mis:&pron:demВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РІРёРЅРЅРёР№	РІРёРЅРЅРёР№В 	adj:m:v_nazВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: 			
+DIS_PREP_OR_NOUN_DO:1 РґРѕ[РґРѕ/noun:n:v_dav:nv,РґРѕ/noun:n:v_mis:nv,РґРѕ/noun:n:v_naz:nv,РґРѕ/noun:n:v_oru:nv,РґРѕ/noun:n:v_rod:nv,РґРѕ/noun:n:v_zna:nv,РґРѕ/noun:p:v_dav:nv,РґРѕ/noun:p:v_mis:nv,РґРѕ/noun:p:v_naz:nv,РґРѕ/noun:p:v_oru:nv,РґРѕ/noun:p:v_rod:nv,РґРѕ/noun:p:v_zna:nv,РґРѕ/prep:rv_rod] -> РґРѕ[РґРѕ/prep:rv_rod]			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р’Рё	РІРёВ 	pron:pers:p:2:v_naz:animВ 	
+Р–	Р¶В 	partВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РїС–РґСЃС‚Р°РІРёС‚Рµ	РїС–РґСЃС‚Р°РІРёС‚РёВ 	verb:futr:p:2:perfВ 	
+С‚Р°СЂС–Р»РєСѓ	С‚Р°СЂС–Р»РєР°В 	noun:f:v_znaВ 	
+РґРѕ	РґРѕВ 	prep:rv_rodВ 	
+СЃР°РјРѕС—	СЃР°РјРёР№В 	adj:f:v_rodВ 	
+РјРёСЃРєРё	РјРёСЃРєР°В 	noun:f:v_rodВ 	
+Р—	Р·В 	prep:rv_oruВ 	
+РІР°СЂРµРЅРёРєР°РјРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_oruВ 	
+,	-В 	-В 	
+Рђ	Р°В 	conj:coordВ 	
+Р·Р°	Р·Р°В 	prep: rv_zna	
+РјРµС‚СЂ	РјРµС‚СЂВ 	noun:m:v_znaВ 	
+С—С…	РІРѕРЅРёВ 	pron:pers:p:3:v_rod:animВ 	
+РЅР°РєРёРґСѓС”С‚Рµ	-В 	-В 	
+,	-В 	-В 	
+Рђ	Р°В 	conj:coordВ 	
+РјР°СЃР»Рѕ	РјР°СЃР»РѕВ 	noun:n:v_nazВ 	
+С‡Рё	С‡РёВ 	conj:coord:subordВ 	
+СЃРјР°Р»РµС†СЊ	СЃРјР°Р»РµС†СЊВ 	noun:m:v_nazВ 	
+Р’	РІВ 	prep: rv_mis:v-uВ 	
+СЏРєРѕРјСѓ	СЏРєРёР№В 	adj:m:v_mis:&pron:int:rel:def	
+РІРѕРЅРё	РІРѕРЅРёВ 	pron:pers:p:3:v_naz:animВ 	
+Р·РЅР°С…РѕРґСЏС‚СЊСЃСЏ	Р·РЅР°С…РѕРґРёС‚РёСЃСЏВ 	verb:rev:pres:p:3:imperfВ 	
+СЃС‚С–РєР°С”	СЃС‚С–РєР°С‚РёВ 	verb:pres:s:3:imperfВ 	
+РїРѕ	РїРѕВ 	prep:rv_mis	
+С‚Р°СЂС–Р»С†С–	С‚Р°СЂС–Р»РєР°В 	noun:f:v_misВ 	
+РІРЅРёР·	РІРЅРёР·В 	adv:v-uВ 	
+,	-В 	-В 	
+Рђ	Р°В 	conj:coordВ 	
+С‚РѕРґС–	С‚РѕРґС–В 	adv:&pron:demВ 	
+РІР¶Рµ	РІР¶РµВ 	adv:v-uВ 	
+РІРёРЅРЅРёР№	РІРёРЅРЅРёР№В 	adj:m:v_nazВ 	
+Р·Р°РєР»Р°Рґ	Р·Р°РєР»Р°РґВ 	noun:m:v_nazВ 	
+.	-В 	-В 	
+РђРљРЈР РђРўРќРћ	Р°РєСѓСЂР°С‚РЅРѕВ 	adv:compbВ 	
+Р†	С–В 	conj:coordВ 	
+РџРћРњРђР›Р•РќР¬РљРЈ	РїРѕРјР°Р»РµРЅСЊРєСѓВ 	advВ 	
+РќРђРљРР”РЈР™РўР•	-В 	-В 	
+Р’РђР Р•РќРРљР	РІР°СЂРµРЅРёРєВ 	noun:p:v_znaВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р†	С–В 	conj:coordВ В 	
+Р‘РЈР”Р•	Р±СѓС‚РёВ 	verb:futr:s:3:imperfВ 	
+Р’РЎР•	РІРµСЃСЊВ 	adj:n:v_naz:&pron:dem	
+РќРћР РњРђР›Р¬РќРћ	РЅРѕСЂРјР°Р»СЊРЅРѕВ 	advВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р’РђР Р•РќРРљР	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+РЎРњРђР§РќР†	СЃРјР°С‡РЅРёР№В 	adj:p:v_naz:compbВ 	
+,	-В 	-В 	
+Р”РЈР–Р•	РґСѓР¶РµВ В 	advВ 	
+Р”РЈР–Р•	РґСѓР¶РµВ 	advВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р‘СѓР»Рё	Р±СѓС‚РёВ 	verb:past:p:imperfВ 	
+СЃСЊРѕРіРѕРґРЅС–	СЃСЊРѕРіРѕРґРЅС–В 	advВ 	
+,	-В 	-В 	
+РґСѓР¶Рµ	РґСѓР¶РµВ В 	advВ 	
+РґСѓР¶Рµ	РґСѓР¶РµВ 	advВ 	
+СЃРјР°С‡РЅРѕ	СЃРјР°С‡РЅРѕВ 	adv:compbВ 	
+РјРѕР»РѕРґС†С–	РјРѕР»РѕРґРµС†СЊВ 	noun:p:v_naz:animВ 	
 			
 			
-!	- 	SENT_END 	
+			
+!	-В 	-В 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р’Р°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+РІРµР»РёРєС–	РІРµР»РёРєРёР№В 	adj:p:v_naz:compbВ 	
+,	-В 	-В 	
+СЃРѕРєРѕРІРёС‚С–	СЃРѕРєРѕРІРёС‚РёР№В 	adj:p:v_naz:compbВ 	
+Р†	С–В 	conj:coordВ 	
+СЃРёС‚РЅС–	СЃРёС‚РЅРёР№В 	adj:p:v_naz:compbВ 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р’СЃРµ	В РІРµСЃСЊВ 	adj:n:v_naz:&pron:dem	
+СЃРїРѕРґРѕР±Р°Р»РѕСЃСЊ	СЃРїРѕРґРѕР±Р°С‚РёСЃСЏВ 	verb:rev:past:n:perfВ 	
+,	-В 	-В 	
+РІРµР»РёРєРёР№	РІРµР»РёРєРёР№В 	adj:m:v_naz:compbВ 	
+РїР»СЋСЃ	РїР»СЋСЃВ 	noun:m:v_nazВ 	
+Р†	С–В 	conj:coordВ 	
+РїРµСЂСЃРѕРЅР°Р»Сѓ	РїРµСЂСЃРѕРЅР°Р»В 	noun:m:v_davВ 	
+,	-В 	-В 	
+РјРѕР»РѕРґС†С–	РјРѕР»РѕРґРµС†СЊВ В 	noun:p:v_naz:animВ 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р‘Р°Р¶Р°С”РјРѕ	Р±Р°Р¶Р°С‚РёВ 	verb:pres:p:1:imperfВ 	
+РІР°Рј	РІРёВ 	pron:pers:p:2:v_dav:anim	
+С‚С–Р»СЊРєРё	С‚С–Р»СЊРєРёВ 	partВ 	
+РїСЂРѕС†РІС–С‚Р°С‚Рё	РїСЂРѕС†РІС–С‚Р°С‚РёВ 	verb:inf:imperfВ 	
+!	-В 	-В 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
 Disambiguator log: 			
-DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]			
+PRON_OR_CONJ_TA:1 С‚Р°[С‚Р°/conj:coord*,С‚Р°/part*,С‚РѕР№/adj:f:v_naz:&pron:dem*] -> С‚Р°[С‚Р°/conj:coord*,С‚Р°/part*]			
+PRON_OR_CONJ_TA:1 С‚Р°[С‚Р°/conj:coord,С‚Р°/part,С‚РѕР№/adj:f:v_naz:&pron:dem] -> С‚Р°[С‚Р°/conj:coord,С‚Р°/part]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Я	я 	pron:pers:s:1:v_naz:anim 	
-був	бути 	verb:past:m:imperf 	
-У	у 	prep:rv_mis:v-u 	
-кафешці-ресторані	кафешка-ресторан 	noun:f:v_mis:slang 	
-Полавського	- 	- 	
-,	- 	- 	
-що	що 	pron:int:rel:n:v_naz 	
-на	на 	prep:rv_zna:rv_mis 	
-трасі	траса 	noun:f:v_mis 	
-Київ-Одеса	Київ-Одеса 	noun:m:v_naz 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Там	там 	adv:&pron:dem 	
-достатня	достатній 	adj:f:v_naz 	
-порція	порція 	noun:f:v_naz 	
-для	для 	prep:rv_rod 	
-хлопа	хлоп 	noun:m:v_rod:anim 	
-вартує	вартувати 	verb:pres:s:3:imperf 	
-35	35 	number 	
-грвень	- 	- 	
-,	- 	- 	
-А	а 	conj:coord 	
-туди	туди 	adv:&pron:dem 	
-входять	входити 	verb:pres:p:3:imperf 	
-сметана	сметана 	noun:f:v_naz 	
-І	і 	conj:coord 	
-окремо	окремо 	adv 	
-сало	сало 	noun:n:v_naz 	
-мелене	мелений 	adjp:pasv:past:n:v_naz 	
-З	з 	prep: rv_oru	
-спеціями	спеція 	noun:p:v_oru 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-А	а 	conj:coord 	
-точка	точка 	noun:f:v_naz 	
-так	так 	adv:&pron:dem 	
-І	і 	conj:coord 	
-називається	називатися 	verb:rev:pres:s:3:imperf	
-:	- 	- 	
-50	50 	number 	
-видів	вид 	noun:p:v_rod 	
-вареників	вареник 	noun:p:v_rod 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Спеціально	спеціально 	adv 	
-дививсь	дивитися 	verb:rev:past:m:imperf 	
-В	в 	prep:rv_zna:v-u 	
-меню	меню 	noun:n:v_zna:nv 	
--	- 	- 	
-50	50 	number 	
-видів	вид 	noun:p:v_rod 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+С‚Р°	С‚Р°В 	conj:coordВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+РЅС–Р±Рё	РЅС–Р±РёВ 	conj:subordВ 	
+Р™	Р№В 	conj:coordВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РґСѓР¶Рµ	РґСѓР¶РµВ В 	advВ 	
+РґРѕСЂРѕРіРѕ	РґРѕСЂРѕРіРѕВ 	adv:compbВ 	
+,	-В 	-В 	
+Р°Р»Рµ	Р°Р»РµВ 	conj:coordВ 	
+СЏРєС‰Рѕ	СЏРєС‰РѕВ 	conj:subordВ 	
+С‰Рµ	С‰РµВ 	advВ 	
+РІР·СЏС‚Рё	РІР·СЏС‚РёВ 	verb:inf:perfВ 	
+Р±РѕРІС‰РёРєСѓ	-В 	-В 	
+С‚Р°	С‚Р°В 	conj:coordВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+4	4В 	numberВ 	
+РѕСЃС–Р±	РѕСЃРѕР±Р°В 	noun:p:v_zna:animВ 	
+...	-В 	-В 	
+С‚Рѕ	С‚РѕВ 	conj:subordВ 	
+РЅР°Р±С–РіР°С”	РЅР°Р±С–РіР°С‚РёВ 	verb:pres:s:3:imperfВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: 			
-DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]			
+DIS_PREP_NA:1 РЅР°[РЅР°/excl,РЅР°/part,РЅР°/prep:rv_zna:rv_mis] -> РЅР°[РЅР°/prep:rv_zna:rv_mis]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Дивився	дивитися 	verb:rev:past:m:imperf 	
-відгуки	відгук 	noun:p:v_zna 	
-:	- 	- 	
-Від	від 	prep:rv_rod 	
-Генеральної	генеральний 	adj:f:v_rod 	
-Прокуратури	прокуратура 	noun:f:v_rod 	
-України	Україна 	noun:f:v_rod 	
--	- 	- 	
-до	до 	prep:rv_rod 	
-бабусі	бабуся 	noun:f:v_rod:anim 	
-Сельвестра	- 	- 	
-Сталоне	- 	- 	
-...	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р¤Р°Р№РЅРѕ	С„Р°Р№РЅРѕВ 	advВ 	
+С—СЃС‚Рё	С—СЃС‚РёВ 	verb:inf:imperfВ 	
+Р’	РІВ 	prep:rv_mis:v-uВ 	
+РћР·РµСЂРЅРѕРјСѓ	РѕР·РµСЂРЅРёР№В 	adj:m:v_davВ 	(РћР·РµСЂРЅРµ - noun:n:v_mis)В 
+		adj:m:v_misВ 	
+		adj:n:v_davВ 	
+		adj:n:v_misВ 	
+,	-В 	-В 	
+РЅР°	РЅР°В 	prep:rv_misВ 	
+РўРµСЂРЅРѕРїС–Р»Р»С–	РўРµСЂРЅРѕРїС–Р»Р»СЏВ 	noun:n:v_misВ 	
+...	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Вотак	- 	- 	
-!	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РўР°Рј	С‚Р°РјВ 	adv:&pron:demВ 	
+РјРё	РјРёВ 	pron:pers:p:1:v_naz:anim	
+,	-В 	-В 	
+4	4В 	numberВ 	
+РѕСЃРѕР±Рё	РћСЃРѕР±Р°	noun:p:v_naz:animВ 	
+,	-В 	-В 	
+РЅР°	РЅР°В 	prep:rv_zna	
+59	59В 	numberВ 	
+РіСЂРёРІРµРЅСЊ	РіСЂРёРІРЅСЏВ 	noun:p:v_rodВ 	(noun:p:v_zna)
+С‚Р°Рє	С‚Р°РєВ 	adv:&pron:demВ 	
+РЅР°С—Р»РёСЃСЏ	РЅР°С—СЃС‚РёСЃСЏВ 	verb:rev:past:p:perfВ 	
+,	-В 	-В 	
+С‰Рѕ	С‰РѕВ 	conj:subordВ 	
+РѕРіРѕ	РѕРіРѕВ 	exclВ 	
+!	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-вареники	вареник 	noun:p:v_naz 	
-правда	правда 	insert 	
-дуже	дуже 	adv 	
-смачні	смачний 	adj:p:v_naz:compb 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-лимонад	лимонад 	noun:m:v_naz 	
-непоганий	непоганий 	adj:m:v_naz 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-обслуговуючий	обслуговуючий 	adjp:actv:pres:m:v_naz:bad	
-персонал	персонал 	noun:m:v_naz 	
-привітний	привітний 	adj:m:v_naz:compb 	
-І	і 	conj:coord 	
-аж	аж 	part 	
-надто	надто 	adv 	
-старанний	старанний 	adj:m:v_naz:compb 	
-.	- 	SENT_END 	
-Disambiguator log: 			
-DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-не	не 	part 	
-встигла	встигнути 	verb:past:f:perf:v-u 	
-покласти	покласти 	verb:inf:perf 	
-до	до 	prep:rv_rod 	
-рота	рот 	noun:m:v_rod 	
-останній	останній 	adj:m:v_zna 	
-шматочок	шматочок 	noun:m:v_zna 	
-вареника	вареник 	noun:m:v_rod 	
-,	- 	- 	
-А	а 	conj:coord 	
-тарілку	тарілка 	noun:f:v_zna 	
-вже	вже 	adv:v-u 	
-забрали	забрати 	verb:past:p:perf 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-)	- 	- 	
-)	- 	- 	
-В	в 	prep: rv_mis:v-u 	
-прямому	прямий 	adj:n:v_mis:compb 	
-значенні	значення 	noun:n:v_mis 	
-слова	слово 	noun:n:v_rod 	
-)	- 	- 	
-)	- 	- 	
-)	- 	- 	
-офіціантки	офіціантка 	noun:p:v_naz:anim 	
-просто	просто 	adv:compb 	
-стоять	стояти 	verb:pres:p:3:imperf 	
-І	і 	conj:coord 	
-спостерігають	спостерігати 	verb:pres:p:3:imperf 	
-хто	хто 	pron:int:rel:m:v_naz:anim 	
-вже	вже 	adv:v-u 	
-доїв	доїсти 	verb:past:m:perf 	
-,	- 	- 	
-щоб	щоб 	conj:subord 	
-прибрати	прибрати 	verb:inf:perf 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-аж	аж 	part 	
-смішно	смішно 	adv 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-але	але 	conj:coord 	
-це	цей 	adj:n:v_naz:&pron:dem	
-дрібниці	дрібниця 	noun:p:v_naz 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-вареники	вареник 	noun:p:v_naz 	
-правда	правда 	insert 	
-смачнючі	- 	- 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Взяв	взяти 	verb:past:m:perf 	
-вареники	вареник 	noun:p:v_zna 	
-зі	зі 	prep: rv_oru 	
-шкварками	шкварка 	noun:p:v_oru 	
-,	- 	- 	
-шкварки	шкварка 	noun:p:v_naz 	
-були	бути 	verb:past:p:imperf 	
-згорівші	- 	- 	
-,	- 	- 	
-вареники	вареник 	noun:p:v_naz 	
-З	з 	prep: rv_oru 	
-печінкою	печінка 	noun:f:v_oru 	
-вкусні	- 	- 	
-А	а 	conj:coord 	
-З	з 	prep: rv_oru 	
-картошкою	- 	- 	
-задорого	задорого 	adv 	
-як	як 	adv:&pron:int:rel 	
-для	для 	prep:rv_rod 	
-такої	такий 	adj:f:v_rod:&pron:def 	
-ціни	ціна 	noun:f:v_rod 	
-,	- 	- 	
-пиво	пиво 	noun:n:v_naz 	
-наливають	наливати 	verb:pres:p:3:imperf 	
-В	в 	prep:rv_zna:v-u 	
-стакан	стакан 	noun:m:v_zna 	
-400	400 	number 	
-мл	мл 	noun:p:v_rod:nv:abbr 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-капусту	капуста 	noun:f:v_zna 	
-по	по 	prep:rv_mis:rv_zna 	
-70	70 	number 	
-грн.	- 	- 	
-за	за 	prep:rv_zna	
-кг	кг 	noun:m:v_zna:nv:abbr 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-їжте	їсти 	verb:impr:p:2:imperf 	
-самі	сам 	adj:p:v_naz:&pron:def 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
 Analysis Result			
 LanguageTool version: 3.0-SNAPSHOT (2015-04-25 22:01)			
 Language: Ukrainian			
 What do the tags mean?			
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-добрий	добрий 	adj:m:v_naz:compb 	
+	-В 	SENT_STARTВ 	
+Р’Рё	РІРёВ 	pron:pers:p:2:v_naz:anim	
+С€Рµ	-В 	-В 	
+РЅС–С†	-В 	-В 	
+РЅРµ	РЅРµВ 	partВ 	
+РІРёРґС–Р»Рё	РІРёРґС–Р»РёС‚Рё	verb:impr:s:2:perfВ 	(РІРёРґС–С‚РёВ - В verb:impr:s:dial:2:imperf)В 
+	РІРёРґС–Р»В 		
+		noun:p:v_nazВ 	
+		noun:p:v_znaВ 	
 			
 			
-день	день 	noun:m:v_naz 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-сподобалось	сподобатися 	verb:rev:past:n:perf 	
-що	що 	conj:subord 	
-багато	багато 	numr:p:v_naz:&pron:ind	
-Української	український 	adj:f:v_rod 	
-символіки	символіка 	noun:f:v_rod 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-мене	я 	pron:pers:s:1:v_rod:anim	
-це	цей 	adj:n:v_naz:&pron:dem 	
-І	і 	conj:coord 	
-купило	купити 	verb:past:n:perf 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-але	але 	conj:coord 	
-це	цей 	adj:n:v_naz:&pron:dem	
-все	весь 	adj:n:v_naz:&pron:dem	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-коли	коли 	adv:&pron:int:rel 	
-			
-Я	я 	pron:pers:s:1:v_naz:anim	
-побачив	побачити 	verb:past:m:perf 	
-вареники	вареник 	noun:p:v_zna 	
-яки	як 	noun:p:v_naz:anim 	
-		noun:p:v_zna:anim 	
-похоронені	похоронений 	adjp:pasv:past:p:v_naz 	
-під	під 	prep: rv_oru 	
-товстим	товстий 	adj:m:v_oru:compb 	
-шаром	шар 	noun:m:v_oru 	
-жиру	жир 	noun:m:v_rod 	
-...	- 	- 	
-?	- 	SENT_END 	
+!	-В 	SENT_ENDВ 	
 Disambiguator log: 			
-DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]			
+DIS_PREP_NA:1 РЅР°[РЅР°/excl,РЅР°/part,РЅР°/prep:rv_zna:rv_mis] -> РЅР°[РЅР°/prep:rv_zna:rv_mis]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-не	не 	part 	
-знаю	знати 	verb:pres:s:1:imperf 	
-на	на 	prep:rv_zna:rv_mis 	
-віщо	що 	pron:int:rel:n:v_zna 	
-?	- 	- 	
-?	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РЇ	СЏВ 	pron:pers:s:1:v_naz:animВ 	
+Р±СѓРІ	Р±СѓС‚РёВ 	verb:past:m:imperfВ 	
+РЈ	СѓВ 	prep:rv_mis:v-uВ 	
+РєР°С„РµС€С†С–-СЂРµСЃС‚РѕСЂР°РЅС–	РєР°С„РµС€РєР°-СЂРµСЃС‚РѕСЂР°РЅВ 	noun:f:v_mis:slangВ 	
+РџРѕР»Р°РІСЃСЊРєРѕРіРѕ	-В 	-В 	
+,	-В 	-В 	
+С‰Рѕ	С‰РѕВ 	pron:int:rel:n:v_nazВ 	
+РЅР°	РЅР°В 	prep:rv_zna:rv_misВ 	
+С‚СЂР°СЃС–	С‚СЂР°СЃР°В 	noun:f:v_misВ 	
+РљРёС—РІ-РћРґРµСЃР°	РљРёС—РІ-РћРґРµСЃР°В 	noun:m:v_nazВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-апетит	апетит 	noun:m:v_naz 	
-зник	зникнути 	verb:past:m:perf 	
-,	- 	- 	
-на	на 	prep:rv_zna	
-прохання	прохання 	noun:p:v_zna 	
-зварити	зварити 	verb:inf:perf 	
-вареники	вареник 	noun:p:v_zna 	
-без	без 	prep:rv_rod 	
-жиру	жир 	noun:m:v_rod 	
-?	- 	- 	
-?	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РўР°Рј	С‚Р°РјВ 	adv:&pron:demВ 	
+РґРѕСЃС‚Р°С‚РЅСЏ	РґРѕСЃС‚Р°С‚РЅС–Р№В 	adj:f:v_nazВ 	
+РїРѕСЂС†С–СЏ	РїРѕСЂС†С–СЏВ 	noun:f:v_nazВ 	
+РґР»СЏ	РґР»СЏВ 	prep:rv_rodВ 	
+С…Р»РѕРїР°	С…Р»РѕРїВ 	noun:m:v_rod:animВ 	
+РІР°СЂС‚СѓС”	РІР°СЂС‚СѓРІР°С‚РёВ 	verb:pres:s:3:imperfВ 	
+35	35В 	numberВ 	
+РіСЂРІРµРЅСЊ	-В 	-В 	
+,	-В 	-В 	
+Рђ	Р°В 	conj:coordВ 	
+С‚СѓРґРё	С‚СѓРґРёВ 	adv:&pron:demВ 	
+РІС…РѕРґСЏС‚СЊ	РІС…РѕРґРёС‚РёВ 	verb:pres:p:3:imperfВ 	
+СЃРјРµС‚Р°РЅР°	СЃРјРµС‚Р°РЅР°В 	noun:f:v_nazВ 	
+Р†	С–В 	conj:coordВ 	
+РѕРєСЂРµРјРѕ	РѕРєСЂРµРјРѕВ 	advВ 	
+СЃР°Р»Рѕ	СЃР°Р»РѕВ 	noun:n:v_nazВ 	
+РјРµР»РµРЅРµ	РјРµР»РµРЅРёР№В 	adjp:pasv:past:n:v_nazВ 	
+Р—	Р·В 	prep: rv_oru	
+СЃРїРµС†С–СЏРјРё	СЃРїРµС†С–СЏВ 	noun:p:v_oruВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-мені	я 	pron:pers:s:1:v_dav:anim 	
-посміялись	посміятися 	verb:rev:past:p:perf 	
-В	в 	prep:rv_zna:	
-лице	лице 	noun:n:v_zna 	
-!	- 	- 	
-!	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Рђ	Р°В 	conj:coordВ 	
+С‚РѕС‡РєР°	С‚РѕС‡РєР°В 	noun:f:v_nazВ 	
+С‚Р°Рє	С‚Р°РєВ 	adv:&pron:demВ 	
+Р†	С–В 	conj:coordВ 	
+РЅР°Р·РёРІР°С”С‚СЊСЃСЏ	РЅР°Р·РёРІР°С‚РёСЃСЏВ 	verb:rev:pres:s:3:imperf	
+:	-В 	-В 	
+50	50В 	numberВ 	
+РІРёРґС–РІ	РІРёРґВ 	noun:p:v_rodВ 	
+РІР°СЂРµРЅРёРєС–РІ	РІР°СЂРµРЅРёРєВ 	noun:p:v_rodВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-директор	директор 	noun:m:v_naz:anim 	
-І	і 	conj:coord 	
-адміністратор	адміністратор 	noun:m:v_naz:anim 	
-на	на 	prep:rv_zna	
-моє	мій 	 adj:n:v_zna:&pron:pos 	
-прохання	прохання 	noun:n:v_zna 	
-не	не 	part 	
-вийшли	вийти 	verb:past:p:perf:perf 	
-!	- 	- 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-певно	певно 	adv:compb 	
-В	в 	prep: rv_rod:v-u 	
-них	вони 	pron:pers:p:3:v_rod:anim 	
-немає	немає 	predic 	
-часу	час 	noun:m:v_rod 	
-на	на 	prep:rv_zna	
-такі	такий 	adj:p:v_zna:&pron:def 	
-дрібниці	дрібниця 	noun:p:v_zna 	
-!	- 	- 	
-!	- 	- 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-більше	багато 	adv:compr 	
-В	в 	prep:rv_zna:v-u 	
-цей	цей 	adj:m:v_zna:&pron:dem 	
-заклад	заклад 	noun:m:v_zna 	
-не	не 	part 	
-піду	піти 	verb:futr:s:1:perf 	
-І	і 	conj:coord 	
-друзям	друзі 	noun:p:v_dav:anim 	
-росповім	- 	- 	
-!	- 	- 	
-!	- 	- 	
-робіть	робити 	verb:impr:p:2:imperf 	
-висновки	висновок 	noun:p:v_zna 	
-адреса	адреса 	noun:f:v_naz 	
-:	- 	- 	
-Генерала	генерал 	noun:m:v_rod:anim 	
-Ватутіна2т	- 	- 	
-Київ	Київ 	noun:m:v_naz 	
-			
-		SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-03.07.2013	- 	- 	
-мали	мати 	verb:past:p:imperf 	
-необережність	необережність 	noun:f:v_zna 	
-скуштувати	скуштувати 	verb:inf:perf 	
-вареників	вареник 	noun:p:v_rod 	
-З	з 	prep: rv_oru	
-капустою	капуста 	noun:f:v_oru 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-В	в 	prep:rv_mis:rv:v-u 	
-одному	один 	numr:m:v_mis 	
-З	з 	prep:rv_rod	
-них	вони 	pron:pers:p:3:v_rod:anim 	
-знайшли	знайти 	verb:past:p:perf 	
-плівку	плівка 	noun:f:v_zna 	
-від	від 	prep:rv_rod 	
-ковбаси	ковбаса 	noun:f:v_rod 	
-)	- 	- 	
-)	- 	- 	
-)	- 	- 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Запропонували	запропонувати 	verb:past:p:perf 	
-ще	ще 	adv 	
-одну	один 	numr:f:v_zna 	
-порцію	порція 	noun:f:v_zna 	
-вареників	вареник 	noun:p:v_rod 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-От	от 	part 	
-І	і 	conj:coord 	
-думайте	думати 	verb:impr:p:2:imperf 	
-,	- 	- 	
-З	з 	prep:rv_rod	
-чого	що 	pron:int:rel:n:v_rod 	
-:	- 	- 	
-!	- 	- 	
-:	- 	- 	
-:	- 	- 	
-oops	- 	- 	
-:	- 	- 	
-ті	той 	adj:p:v_naz:&pron:dem 	
-			
-вареники	вареник 	noun:p:v_naz 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-03.Лип	03.07 	time 	
-були	бути 	verb:past:p:imperf 	
-В	в 	prep: rv_mis:v-u 	
-цьому	цей 	adj:m:v_mis:&pron:dem 	
-фаст	- 	- 	
-фуді	- 	- 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-В	в 	prep: rv_mis:v-u 	
-варениках	вареник 	noun:p:v_mis 	
-З	з 	prep: rv_oru 	
-капустою	капуста 	noun:f:v_oru 	
-була	 бути 	verb:past:f:imperf 	
-плівка	плівка 	noun:f:v_naz 	
-від	від 	prep:rv_rod 	
-ковбаси	ковбаса 	noun:f:v_rod 	
-!	- 	- 	
-!	- 	- 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-З	з 	prep:rv_rod	
-чого	що 	pron:int:rel:n:v_rod 	
-ці	цей 	adj:p:v_naz:&pron:dem 	
-вареники	вареник 	noun:p:v_naz 	
-:	- 	- 	
-!	- 	- 	
-:	- 	- 	
-:	- 	- 	
-oops	- 	- 	
-:	- 	- 	
-—	- 	- 	
-не	не 	part 	
-зрозуміло	зрозуміло 	adv:compb 	
-.	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Будьте	бути 	verb:impr:p:3:imperf 	
-обережні	обережний 	adj:p:v_naz:compb 	
-,	- 	- 	
-особливо	особливо 	adv 	
-мамт	- 	- 	
-З	з 	prep: rv_oru	
-дітками	дітки 	noun:p:v_oru:anim 	
-!	- 	SENT_END 	
-Disambiguator log: (no disambiguations)			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-(	- 	- 	
-не	не 	part 	
-видаляйте	видаляти 	verb:impr:p:2:imperf 	
-цей	цей 	adj:m:v_zna:&pron:dem	
-коменар	- 	- 	
-)	- 	SENT_END 	
-	- 	PARA_END 	
-Analysis Result			
-LanguageTool version: 3.0-SNAPSHOT (2015-04-25 22:01)			
-Language: Ukrainian			
-What do the tags mean?			
+	-В 	SENT_STARTВ 	
+РЎРїРµС†С–Р°Р»СЊРЅРѕ	СЃРїРµС†С–Р°Р»СЊРЅРѕВ 	advВ 	
+РґРёРІРёРІСЃСЊ	РґРёРІРёС‚РёСЃСЏВ 	verb:rev:past:m:imperfВ 	
+Р’	РІВ 	prep:rv_zna:v-uВ 	
+РјРµРЅСЋ	РјРµРЅСЋВ 	noun:n:v_zna:nvВ 	
+-	-В 	-В 	
+50	50В 	numberВ 	
+РІРёРґС–РІ	РІРёРґВ 	noun:p:v_rodВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: 			
-DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]			
+DIS_PREP_OR_NOUN_DO:1 РґРѕ[РґРѕ/noun:n:v_dav:nv,РґРѕ/noun:n:v_mis:nv,РґРѕ/noun:n:v_naz:nv,РґРѕ/noun:n:v_oru:nv,РґРѕ/noun:n:v_rod:nv,РґРѕ/noun:n:v_zna:nv,РґРѕ/noun:p:v_dav:nv,РґРѕ/noun:p:v_mis:nv,РґРѕ/noun:p:v_naz:nv,РґРѕ/noun:p:v_oru:nv,РґРѕ/noun:p:v_rod:nv,РґРѕ/noun:p:v_zna:nv,РґРѕ/prep:rv_rod] -> РґРѕ[РґРѕ/prep:rv_rod]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Завжди	завжди 	adv:&pron:gen 	
-Із	із 	prep:rv_oru	
-задоволенням	задоволення 	noun:n:v_oru 	
-відвідувала	відвідувати 	verb:past:f:imperf 	
-цей	цей 	adj:m:v_zna:&pron:dem 	
-заклад	заклад 	noun:m:v_zna 	
-,	- 	- 	
-але	але 	conj:coord 	
-сьогодні	сьогодні 	adv 	
-,	- 	- 	
-узявши	узяти 	advp:perf 	
-на	на 	prep:rv_zna	
-вагу	вага 	noun:f:v_zna 	
-із	із 	prep:rv_oru	
-собою	себе 	pron:refl:m:v_oru 	(pron:refl:s:1:v_oru)
-		pron:refl:n:v_oru 	
-вареники	вареник 	noun:p:v_zna 	
-на	на 	prep:rv_mis 	
-800	800 	number 	
-грамах	грам 	noun:p:v_mis 	
-«	- 	- 	
-обважили	обважити 	verb:past:p:perf 	
-»	- 	- 	
-на	на 	prep:rv_zna	
-120	120 	number 	
-грам	грам 	noun:m:v_zna 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р”РёРІРёРІСЃСЏ	РґРёРІРёС‚РёСЃСЏВ 	verb:rev:past:m:imperfВ 	
+РІС–РґРіСѓРєРё	РІС–РґРіСѓРєВ 	noun:p:v_znaВ 	
+:	-В 	-В 	
+Р’С–Рґ	РІС–РґВ 	prep:rv_rodВ 	
+Р“РµРЅРµСЂР°Р»СЊРЅРѕС—	РіРµРЅРµСЂР°Р»СЊРЅРёР№В 	adj:f:v_rodВ 	
+РџСЂРѕРєСѓСЂР°С‚СѓСЂРё	РїСЂРѕРєСѓСЂР°С‚СѓСЂР°В 	noun:f:v_rodВ 	
+РЈРєСЂР°С—РЅРё	РЈРєСЂР°С—РЅР°В 	noun:f:v_rodВ 	
+-	-В 	-В 	
+РґРѕ	РґРѕВ 	prep:rv_rodВ 	
+Р±Р°Р±СѓСЃС–	Р±Р°Р±СѓСЃСЏВ 	noun:f:v_rod:animВ 	
+РЎРµР»СЊРІРµСЃС‚СЂР°	-В 	-В 	
+РЎС‚Р°Р»РѕРЅРµ	-В 	-В 	
+...	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Дуже	дуже 	adv 	
-прикро	прикро 	adv:compb 	
-,	- 	- 	
-навіть	навіть 	part 	
-не	не 	part 	
-очікувала	очікувати 	verb:past:f:imperf 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р’РѕС‚Р°Рє	-В 	-В 	
+!	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Просто	просто 	adv:compb 	
-за	за 	prep: rv_oru	
-об	об 	prep:rv_zna:rv_mis 	
-"	- 	- 	
-ємом	- 	- 	
-якось	якось 	adv:&pron:ind 	
-мало	мало  	adv:compb 	
-здалося	здатися 	verb:rev:past:n:perf 	
-,	- 	- 	
-вдома	вдома 	adv:v-u 	
-переважила	переважити 	verb:past:f:perf 	
-...	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Сором	сором 	noun:m:v_naz 	
-!	- 	- 	
-!	- 	- 	
-!	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+РїСЂР°РІРґР°	РїСЂР°РІРґР°В 	insertВ 	
+РґСѓР¶Рµ	РґСѓР¶РµВ 	advВ 	
+СЃРјР°С‡РЅС–	СЃРјР°С‡РЅРёР№В 	adj:p:v_naz:compbВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+Р»РёРјРѕРЅР°Рґ	Р»РёРјРѕРЅР°РґВ 	noun:m:v_nazВ 	
+РЅРµРїРѕРіР°РЅРёР№	РЅРµРїРѕРіР°РЅРёР№В 	adj:m:v_nazВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Так	так 	adv:&pron:dem 	
-,	- 	- 	
-дійсно	дійсно 	adv 	
-правда	правда 	insert 	
-,	- 	- 	
-платити	платити 	verb:inf:imperf 	
-за	за 	prep:]rv_zna	
-капусту	капуста 	noun:f:v_zna 	
-,	- 	- 	
-хліб	хліб 	noun:m:v_zna 	
-,	- 	- 	
-сметану	сметана 	noun:f:v_zna 	
-по	по 	prep: rv_zna 	
-70	70 	number 	
-гривень	гривня 	noun:p:v_rod	(noun:p:v_zna)
-за	за 	prep:rv_zna	
-кг	кг 	noun:m:v_zna:nv:abbr 	
-—	- 	- 	
-це	цей 	adj:n:v_naz:&pron:dem 	
-жах	жах 	noun:m:v_naz 	
-!	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РѕР±СЃР»СѓРіРѕРІСѓСЋС‡РёР№	РѕР±СЃР»СѓРіРѕРІСѓСЋС‡РёР№В 	adjp:actv:pres:m:v_naz:bad	
+РїРµСЂСЃРѕРЅР°Р»	РїРµСЂСЃРѕРЅР°Р»В 	noun:m:v_nazВ 	
+РїСЂРёРІС–С‚РЅРёР№	РїСЂРёРІС–С‚РЅРёР№В 	adj:m:v_naz:compbВ 	
+Р†	С–В 	conj:coordВ 	
+Р°Р¶	Р°Р¶В 	partВ 	
+РЅР°РґС‚Рѕ	РЅР°РґС‚РѕВ 	advВ 	
+СЃС‚Р°СЂР°РЅРЅРёР№	СЃС‚Р°СЂР°РЅРЅРёР№В 	adj:m:v_naz:compbВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: 			
-DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]			
+DIS_PREP_OR_NOUN_DO:1 РґРѕ[РґРѕ/noun:n:v_dav:nv,РґРѕ/noun:n:v_mis:nv,РґРѕ/noun:n:v_naz:nv,РґРѕ/noun:n:v_oru:nv,РґРѕ/noun:n:v_rod:nv,РґРѕ/noun:n:v_zna:nv,РґРѕ/noun:p:v_dav:nv,РґРѕ/noun:p:v_mis:nv,РґРѕ/noun:p:v_naz:nv,РґРѕ/noun:p:v_oru:nv,РґРѕ/noun:p:v_rod:nv,РґРѕ/noun:p:v_zna:nv,РґРѕ/prep:rv_rod] -> РґРѕ[РґРѕ/prep:rv_rod]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-А	а 	conj:coord 	
-В	в 	prep: mis:v-u 	
-цілому	цілий 	adj:m:v_mis 	
-вже	вже 	adv:v-u 	
-зникає	зникати 	verb:pres:s:3:imperf 	
-апетит	апетит 	noun:m:v_naz 	
-,	- 	- 	
-коли	коли 	adv:&pron:int:rel 	
-наближаєшся	наближатися 	verb:rev:pres:s:2:imperf 	
-до	до 	prep:rv_rod 	
-закладу	заклад 	noun:m:v_rod 	
-І	і 	conj:coord 	
-відчуваєш	відчувати 	verb:pres:s:2:imperf 	
-жахливий	жахливий 	adj:m:v_zna:compb 	
-запах	запах 	noun:m:v_zna 	
-			
-від	від 	prep:rv_rod 	
-нього	він 	pron:pers:m:3:v_rod:anim 	
-.	- 	SENT_END 	
-Disambiguator log: 			
-DIS_RARE_WORDS:1 можна[можна/predic,можний/adj:f:v_naz:rare] -> можна[можна/predic]			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Невже	невже 	part 	
-не	не 	part 	
-можна	можна 	predic 	
-зробити	зробити 	verb:inf:perf 	
-потужніші	потужний 	adj:p:v_zna:compr 	
-витяжки	витяжка 	noun:p:v_zna 	
-?	- 	- 	
-!	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РІСЃС‚РёРіР»Р°	РІСЃС‚РёРіРЅСѓС‚РёВ 	verb:past:f:perf:v-uВ 	
+РїРѕРєР»Р°СЃС‚Рё	РїРѕРєР»Р°СЃС‚РёВ 	verb:inf:perfВ 	
+РґРѕ	РґРѕВ 	prep:rv_rodВ 	
+СЂРѕС‚Р°	СЂРѕС‚В 	noun:m:v_rodВ 	
+РѕСЃС‚Р°РЅРЅС–Р№	РѕСЃС‚Р°РЅРЅС–Р№В 	adj:m:v_znaВ 	
+С€РјР°С‚РѕС‡РѕРє	С€РјР°С‚РѕС‡РѕРєВ 	noun:m:v_znaВ 	
+РІР°СЂРµРЅРёРєР°	РІР°СЂРµРЅРёРєВ 	noun:m:v_rodВ 	
+,	-В 	-В 	
+Рђ	Р°В 	conj:coordВ 	
+С‚Р°СЂС–Р»РєСѓ	С‚Р°СЂС–Р»РєР°В 	noun:f:v_znaВ 	
+РІР¶Рµ	РІР¶РµВ 	adv:v-uВ 	
+Р·Р°Р±СЂР°Р»Рё	Р·Р°Р±СЂР°С‚РёВ 	verb:past:p:perfВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+)	-В 	-В 	
+)	-В 	-В 	
+Р’	РІВ 	prep: rv_mis:v-uВ 	
+РїСЂСЏРјРѕРјСѓ	РїСЂСЏРјРёР№В 	adj:n:v_mis:compbВ 	
+Р·РЅР°С‡РµРЅРЅС–	Р·РЅР°С‡РµРЅРЅСЏВ 	noun:n:v_misВ 	
+СЃР»РѕРІР°	СЃР»РѕРІРѕВ 	noun:n:v_rodВ 	
+)	-В 	-В 	
+)	-В 	-В 	
+)	-В 	-В 	
+РѕС„С–С†С–Р°РЅС‚РєРё	РѕС„С–С†С–Р°РЅС‚РєР°В 	noun:p:v_naz:animВ 	
+РїСЂРѕСЃС‚Рѕ	РїСЂРѕСЃС‚РѕВ 	adv:compbВ 	
+СЃС‚РѕСЏС‚СЊ	СЃС‚РѕСЏС‚РёВ 	verb:pres:p:3:imperfВ 	
+Р†	С–В 	conj:coordВ 	
+СЃРїРѕСЃС‚РµСЂС–РіР°СЋС‚СЊ	СЃРїРѕСЃС‚РµСЂС–РіР°С‚РёВ 	verb:pres:p:3:imperfВ 	
+С…С‚Рѕ	С…С‚РѕВ 	pron:int:rel:m:v_naz:animВ 	
+РІР¶Рµ	РІР¶РµВ 	adv:v-uВ 	
+РґРѕС—РІ	РґРѕС—СЃС‚РёВ 	verb:past:m:perfВ 	
+,	-В 	-В 	
+С‰РѕР±	С‰РѕР±В 	conj:subordВ 	
+РїСЂРёР±СЂР°С‚Рё	РїСЂРёР±СЂР°С‚РёВ 	verb:inf:perfВ 	
+!	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Найцікавіший	цікавий 	adj:m:v_naz:super 	
-обід	обід 	noun:m:v_naz 	
-У	у 	prep: rv_mis:v-u 	
-ВАРЕНИКИ	вареник 	noun:p:v_naz 	
-		noun:p:v_zna 	
-ТУТ	тут 	adv:&pron:dem 	
-В	в 	prep: rv_mis:v-u 	
-ЦУМі	- 	- 	
-.	- 	SENT_END 	
-Disambiguator log: 			
-PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]			
-Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Смачнющий	- 	- 	
-червоний	червоний 	adj:m:v_naz:compb 	
-борщ	борщ 	noun:m:v_naz 	
-зі	зі 	prep:rv_oru	
-сметаною	сметана 	noun:f:v_oru 	
-та	та 	conj:coord 	
-мясом	- 	- 	
-за	за 	prep: rv_zna	
-7	7 	number 	
-ГРН	грн 	noun:p:v_zna:nv:abbr 	
-.	- 	- 	
-,	- 	- 	
-А	а 	conj:coord 	
-хліб	хліб 	noun:m:v_naz 	
-зі	зі 	prep: rv_oru	
-смальцем	смалець 	noun:m:v_oru 	
-БЕЗКОШТОВНО	безкоштовно 	adv 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р°Р¶	Р°Р¶В 	partВ 	
+СЃРјС–С€РЅРѕ	СЃРјС–С€РЅРѕВ 	advВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+Р°Р»Рµ	Р°Р»РµВ 	conj:coordВ 	
+С†Рµ	С†РµР№В 	adj:n:v_naz:&pron:dem	
+РґСЂС–Р±РЅРёС†С–	РґСЂС–Р±РЅРёС†СЏВ 	noun:p:v_nazВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-З	з 	prep: rv_oru 	
-твоєю	твій 	adj:f:v_oru:&pron:pos 	
-пенсією	пенсія 	noun:f:v_oru 	
-тільки	тільки 	adv 	
-дома	дома 	adv 	
-сидіти	сидіти 	verb:inf:imperf 	
-,	- 	- 	
-про	про 	prep:rv_zna 	
-що	що 	pron:int:rel:n:v_zna 	
-ти	ти 	pron:pers:s:2:v_naz:anim 	
-лепечеш	лепетати 	verb:pres:s:2:imperf 	
-?	- 	- 	
-?	- 	- 	
-?	- 	- 	
-?	- 	- 	
-про	про 	prep:rv_zna 	
-які	який 	adj:p:v_zna:&pron:int:rel:def	
-бари	бар 	noun:p:v_zna 	
-,	- 	- 	
-ресторани	ресторан 	noun:p:v_zna 	
-?	- 	- 	
-?	- 	- 	
-?	- 	- 	
-?	- 	- 	
-хто	хто 	pron:int:rel:m:v_naz:anim 	
-тебе	ти 	pron:pers:s:2:v_zna:anim 	
-стару	старий 	adj:f:v_zna:compb 	
-шкапу	шкапа 	noun:f:v_zna 	
-туди	туди 	adv:&pron:dem 	
-запросить	запросити 	verb:futr:s:3:perf 	
-?	- 	- 	
-?	- 	- 	
-?	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+РїСЂР°РІРґР°	РїСЂР°РІРґР°В 	insertВ 	
+СЃРјР°С‡РЅСЋС‡С–	-В 	-В 	
+!	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р’Р·СЏРІ	РІР·СЏС‚РёВ 	verb:past:m:perfВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_znaВ 	
+Р·С–	Р·С–В 	prep: rv_oruВ 	
+С€РєРІР°СЂРєР°РјРё	С€РєРІР°СЂРєР°В 	noun:p:v_oruВ 	
+,	-В 	-В 	
+С€РєРІР°СЂРєРё	С€РєРІР°СЂРєР°В 	noun:p:v_nazВ 	
+Р±СѓР»Рё	Р±СѓС‚РёВ 	verb:past:p:imperfВ 	
+Р·РіРѕСЂС–РІС€С–	-В 	-В 	
+,	-В 	-В 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+Р—	Р·В 	prep: rv_oruВ 	
+РїРµС‡С–РЅРєРѕСЋ	РїРµС‡С–РЅРєР°В 	noun:f:v_oruВ 	
+РІРєСѓСЃРЅС–	-В 	-В 	
+Рђ	Р°В 	conj:coordВ 	
+Р—	Р·В 	prep: rv_oruВ 	
+РєР°СЂС‚РѕС€РєРѕСЋ	-В 	-В 	
+Р·Р°РґРѕСЂРѕРіРѕ	Р·Р°РґРѕСЂРѕРіРѕВ 	advВ 	
+СЏРє	СЏРєВ 	adv:&pron:int:relВ 	
+РґР»СЏ	РґР»СЏВ 	prep:rv_rodВ 	
+С‚Р°РєРѕС—	С‚Р°РєРёР№В 	adj:f:v_rod:&pron:defВ 	
+С†С–РЅРё	С†С–РЅР°В 	noun:f:v_rodВ 	
+,	-В 	-В 	
+РїРёРІРѕ	РїРёРІРѕВ 	noun:n:v_nazВ 	
+РЅР°Р»РёРІР°СЋС‚СЊ	РЅР°Р»РёРІР°С‚РёВ 	verb:pres:p:3:imperfВ 	
+Р’	РІВ 	prep:rv_zna:v-uВ 	
+СЃС‚Р°РєР°РЅ	СЃС‚Р°РєР°РЅВ 	noun:m:v_znaВ 	
+400	400В 	numberВ 	
+РјР»	РјР»В 	noun:p:v_rod:nv:abbrВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РєР°РїСѓСЃС‚Сѓ	РєР°РїСѓСЃС‚Р°В 	noun:f:v_znaВ 	
+РїРѕ	РїРѕВ 	prep:rv_mis:rv_znaВ 	
+70	70В 	numberВ 	
+РіСЂРЅ.	-В 	-В 	
+Р·Р°	Р·Р°В 	prep:rv_zna	
+РєРі	РєРіВ 	noun:m:v_zna:nv:abbrВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+С—Р¶С‚Рµ	С—СЃС‚РёВ 	verb:impr:p:2:imperfВ 	
+СЃР°РјС–	СЃР°РјВ 	adj:p:v_naz:&pron:defВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
 Analysis Result			
 LanguageTool version: 3.0-SNAPSHOT (2015-04-25 22:01)			
 Language: Ukrainian			
 What do the tags mean?			
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Порада	порада 	noun:f:v_naz 	
-власникам	власник 	noun:p:v_dav:anim 	
-:	- 	- 	
-виясніть	вияснити 	verb:impr:p:2:perf 	
-питання	питання 	noun:p:v_zna 	
-З	з 	prep: rv_oru 	
-фаст-фУДОМ	- 	- 	
-,	- 	- 	
-який	який 	adj:m:v_naz:&pron:int:rel:def	
-поряд	поряд 	adv 	
-З	з 	prep:rv_oru 	
-вами	ви 	pron:pers:p:2:v_oru:anim 	
-там	там 	adv:&pron:dem 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РґРѕР±СЂРёР№	РґРѕР±СЂРёР№В 	adj:m:v_naz:compbВ 	
+			
+			
+РґРµРЅСЊ	РґРµРЅСЊВ 	noun:m:v_nazВ 	
+!	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Ми	ми 	pron:pers:p:1:v_naz:anim	
-З	з 	prep:rv_oru	
-подругою	подруга 	noun:f:v_oru:anim 	
-якось	якось 	adv:&pron:ind 	
-були	бути 	verb:past:p:imperf 	
-І	і 	conj:coord 	
-нечаяно	- 	- 	
-сіли	сісти 	verb:past:p:perf 	
-за	за 	prep: rv_zna	
-їх	вони 	pron:pers:p:3:v_rod:anim 	
+	-В 	SENT_STARTВ 	
+СЃРїРѕРґРѕР±Р°Р»РѕСЃСЊ	СЃРїРѕРґРѕР±Р°С‚РёСЃСЏВ 	verb:rev:past:n:perfВ 	
+С‰Рѕ	С‰РѕВ 	conj:subordВ 	
+Р±Р°РіР°С‚Рѕ	Р±Р°РіР°С‚РѕВ 	numr:p:v_naz:&pron:ind	
+РЈРєСЂР°С—РЅСЃСЊРєРѕС—	СѓРєСЂР°С—РЅСЃСЊРєРёР№В 	adj:f:v_rodВ 	
+СЃРёРјРІРѕР»С–РєРё	СЃРёРјРІРѕР»С–РєР°В 	noun:f:v_rodВ 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РјРµРЅРµ	СЏВ 	pron:pers:s:1:v_rod:anim	
+С†Рµ	С†РµР№В 	adj:n:v_naz:&pron:demВ 	
+Р†	С–В 	conj:coordВ 	
+РєСѓРїРёР»Рѕ	РєСѓРїРёС‚РёВ 	verb:past:n:perfВ 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р°Р»Рµ	Р°Р»РµВ 	conj:coordВ 	
+С†Рµ	С†РµР№В 	adj:n:v_naz:&pron:dem	
+РІСЃРµ	РІРµСЃСЊВ 	adj:n:v_naz:&pron:dem	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РєРѕР»Рё	РєРѕР»РёВ 	adv:&pron:int:relВ 	
+			
+РЇ	СЏВ 	pron:pers:s:1:v_naz:anim	
+РїРѕР±Р°С‡РёРІ	РїРѕР±Р°С‡РёС‚РёВ 	verb:past:m:perfВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_znaВ 	
+СЏРєРё	СЏРєВ 	noun:p:v_naz:animВ 	
+		noun:p:v_zna:animВ 	
+РїРѕС…РѕСЂРѕРЅРµРЅС–	РїРѕС…РѕСЂРѕРЅРµРЅРёР№В 	adjp:pasv:past:p:v_nazВ 	
+РїС–Рґ	РїС–РґВ 	prep: rv_oruВ 	
+С‚РѕРІСЃС‚РёРј	С‚РѕРІСЃС‚РёР№В 	adj:m:v_oru:compbВ 	
+С€Р°СЂРѕРј	С€Р°СЂВ 	noun:m:v_oruВ 	
+Р¶РёСЂСѓ	Р¶РёСЂВ 	noun:m:v_rodВ 	
+...	-В 	-В 	
+?	-В 	SENT_ENDВ 	
+Disambiguator log: 			
+DIS_PREP_NA:1 РЅР°[РЅР°/excl,РЅР°/part,РЅР°/prep:rv_zna:rv_mis] -> РЅР°[РЅР°/prep:rv_zna:rv_mis]			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РЅРµ	РЅРµВ 	partВ 	
+Р·РЅР°СЋ	Р·РЅР°С‚РёВ 	verb:pres:s:1:imperfВ 	
+РЅР°	РЅР°В 	prep:rv_zna:rv_misВ 	
+РІС–С‰Рѕ	С‰РѕВ 	pron:int:rel:n:v_znaВ 	
+?	-В 	-В 	
+?	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р°РїРµС‚РёС‚	Р°РїРµС‚РёС‚В 	noun:m:v_nazВ 	
+Р·РЅРёРє	Р·РЅРёРєРЅСѓС‚РёВ 	verb:past:m:perfВ 	
+,	-В 	-В 	
+РЅР°	РЅР°В 	prep:rv_zna	
+РїСЂРѕС…Р°РЅРЅСЏ	РїСЂРѕС…Р°РЅРЅСЏВ 	noun:p:v_znaВ 	
+Р·РІР°СЂРёС‚Рё	Р·РІР°СЂРёС‚РёВ 	verb:inf:perfВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_znaВ 	
+Р±РµР·	Р±РµР·В 	prep:rv_rodВ 	
+Р¶РёСЂСѓ	Р¶РёСЂВ 	noun:m:v_rodВ 	
+?	-В 	-В 	
+?	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РјРµРЅС–	СЏВ 	pron:pers:s:1:v_dav:animВ 	
+РїРѕСЃРјС–СЏР»РёСЃСЊ	РїРѕСЃРјС–СЏС‚РёСЃСЏВ 	verb:rev:past:p:perfВ 	
+Р’	РІВ 	prep:rv_zna:	
+Р»РёС†Рµ	Р»РёС†РµВ 	noun:n:v_znaВ 	
+!	-В 	-В 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РґРёСЂРµРєС‚РѕСЂ	РґРёСЂРµРєС‚РѕСЂВ 	noun:m:v_naz:animВ 	
+Р†	С–В 	conj:coordВ 	
+Р°РґРјС–РЅС–СЃС‚СЂР°С‚РѕСЂ	Р°РґРјС–РЅС–СЃС‚СЂР°С‚РѕСЂВ 	noun:m:v_naz:animВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+РјРѕС”	РјС–Р№В 	В adj:n:v_zna:&pron:posВ 	
+РїСЂРѕС…Р°РЅРЅСЏ	РїСЂРѕС…Р°РЅРЅСЏВ 	noun:n:v_znaВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РІРёР№С€Р»Рё	РІРёР№С‚РёВ 	verb:past:p:perf:perfВ 	
+!	-В 	-В 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РїРµРІРЅРѕ	РїРµРІРЅРѕВ 	adv:compbВ 	
+Р’	РІВ 	prep: rv_rod:v-uВ 	
+РЅРёС…	РІРѕРЅРёВ 	pron:pers:p:3:v_rod:animВ 	
+РЅРµРјР°С”	РЅРµРјР°С”В 	predicВ 	
+С‡Р°СЃСѓ	С‡Р°СЃВ 	noun:m:v_rodВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+С‚Р°РєС–	С‚Р°РєРёР№В 	adj:p:v_zna:&pron:defВ 	
+РґСЂС–Р±РЅРёС†С–	РґСЂС–Р±РЅРёС†СЏВ 	noun:p:v_znaВ 	
+!	-В 	-В 	
+!	-В 	-В 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р±С–Р»СЊС€Рµ	Р±Р°РіР°С‚РѕВ 	adv:comprВ 	
+Р’	РІВ 	prep:rv_zna:v-uВ 	
+С†РµР№	С†РµР№В 	adj:m:v_zna:&pron:demВ 	
+Р·Р°РєР»Р°Рґ	Р·Р°РєР»Р°РґВ 	noun:m:v_znaВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РїС–РґСѓ	РїС–С‚РёВ 	verb:futr:s:1:perfВ 	
+Р†	С–В 	conj:coordВ 	
+РґСЂСѓР·СЏРј	РґСЂСѓР·С–В 	noun:p:v_dav:animВ 	
+СЂРѕСЃРїРѕРІС–Рј	-В 	-В 	
+!	-В 	-В 	
+!	-В 	-В 	
+СЂРѕР±С–С‚СЊ	СЂРѕР±РёС‚РёВ 	verb:impr:p:2:imperfВ 	
+РІРёСЃРЅРѕРІРєРё	РІРёСЃРЅРѕРІРѕРєВ 	noun:p:v_znaВ 	
+Р°РґСЂРµСЃР°	Р°РґСЂРµСЃР°В 	noun:f:v_nazВ 	
+:	-В 	-В 	
+Р“РµРЅРµСЂР°Р»Р°	РіРµРЅРµСЂР°Р»В 	noun:m:v_rod:animВ 	
+Р’Р°С‚СѓС‚С–РЅР°2С‚	-В 	-В 	
+РљРёС—РІ	РљРёС—РІВ 	noun:m:v_nazВ 	
+			
+		SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+03.07.2013	-В 	-В 	
+РјР°Р»Рё	РјР°С‚РёВ 	verb:past:p:imperfВ 	
+РЅРµРѕР±РµСЂРµР¶РЅС–СЃС‚СЊ	РЅРµРѕР±РµСЂРµР¶РЅС–СЃС‚СЊВ 	noun:f:v_znaВ 	
+СЃРєСѓС€С‚СѓРІР°С‚Рё	СЃРєСѓС€С‚СѓРІР°С‚РёВ 	verb:inf:perfВ 	
+РІР°СЂРµРЅРёРєС–РІ	РІР°СЂРµРЅРёРєВ 	noun:p:v_rodВ 	
+Р—	Р·В 	prep: rv_oru	
+РєР°РїСѓСЃС‚РѕСЋ	РєР°РїСѓСЃС‚Р°В 	noun:f:v_oruВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р’	РІВ 	prep:rv_mis:rv:v-uВ 	
+РѕРґРЅРѕРјСѓ	РѕРґРёРЅВ 	numr:m:v_misВ 	
+Р—	Р·В 	prep:rv_rod	
+РЅРёС…	РІРѕРЅРёВ 	pron:pers:p:3:v_rod:animВ 	
+Р·РЅР°Р№С€Р»Рё	Р·РЅР°Р№С‚РёВ 	verb:past:p:perfВ 	
+РїР»С–РІРєСѓ	РїР»С–РІРєР°В 	noun:f:v_znaВ 	
+РІС–Рґ	РІС–РґВ 	prep:rv_rodВ 	
+РєРѕРІР±Р°СЃРё	РєРѕРІР±Р°СЃР°В 	noun:f:v_rodВ 	
+)	-В 	-В 	
+)	-В 	-В 	
+)	-В 	-В 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р—Р°РїСЂРѕРїРѕРЅСѓРІР°Р»Рё	Р·Р°РїСЂРѕРїРѕРЅСѓРІР°С‚РёВ 	verb:past:p:perfВ 	
+С‰Рµ	С‰РµВ 	advВ 	
+РѕРґРЅСѓ	РѕРґРёРЅВ 	numr:f:v_znaВ 	
+РїРѕСЂС†С–СЋ	РїРѕСЂС†С–СЏВ 	noun:f:v_znaВ 	
+РІР°СЂРµРЅРёРєС–РІ	РІР°СЂРµРЅРёРєВ 	noun:p:v_rodВ 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РћС‚	РѕС‚В 	partВ 	
+Р†	С–В 	conj:coordВ 	
+РґСѓРјР°Р№С‚Рµ	РґСѓРјР°С‚РёВ 	verb:impr:p:2:imperfВ 	
+,	-В 	-В 	
+Р—	Р·В 	prep:rv_rod	
+С‡РѕРіРѕ	С‰РѕВ 	pron:int:rel:n:v_rodВ 	
+:	-В 	-В 	
+!	-В 	-В 	
+:	-В 	-В 	
+:	-В 	-В 	
+oops	-В 	-В 	
+:	-В 	-В 	
+С‚С–	С‚РѕР№В 	adj:p:v_naz:&pron:demВ 	
+			
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+03.Р›РёРї	03.07В 	timeВ 	
+Р±СѓР»Рё	Р±СѓС‚РёВ 	verb:past:p:imperfВ 	
+Р’	РІВ 	prep: rv_mis:v-uВ 	
+С†СЊРѕРјСѓ	С†РµР№В 	adj:m:v_mis:&pron:demВ 	
+С„Р°СЃС‚	-В 	-В 	
+С„СѓРґС–	-В 	-В 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р’	РІВ 	prep: rv_mis:v-uВ 	
+РІР°СЂРµРЅРёРєР°С…	РІР°СЂРµРЅРёРєВ 	noun:p:v_misВ 	
+Р—	Р·В 	prep: rv_oruВ 	
+РєР°РїСѓСЃС‚РѕСЋ	РєР°РїСѓСЃС‚Р°В 	noun:f:v_oruВ 	
+Р±СѓР»Р°	В Р±СѓС‚РёВ 	verb:past:f:imperfВ 	
+РїР»С–РІРєР°	РїР»С–РІРєР°В 	noun:f:v_nazВ 	
+РІС–Рґ	РІС–РґВ 	prep:rv_rodВ 	
+РєРѕРІР±Р°СЃРё	РєРѕРІР±Р°СЃР°В 	noun:f:v_rodВ 	
+!	-В 	-В 	
+!	-В 	-В 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р—	Р·В 	prep:rv_rod	
+С‡РѕРіРѕ	С‰РѕВ 	pron:int:rel:n:v_rodВ 	
+С†С–	С†РµР№В 	adj:p:v_naz:&pron:demВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+:	-В 	-В 	
+!	-В 	-В 	
+:	-В 	-В 	
+:	-В 	-В 	
+oops	-В 	-В 	
+:	-В 	-В 	
+вЂ”	-В 	-В 	
+РЅРµ	РЅРµВ 	partВ 	
+Р·СЂРѕР·СѓРјС–Р»Рѕ	Р·СЂРѕР·СѓРјС–Р»РѕВ 	adv:compbВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р‘СѓРґСЊС‚Рµ	Р±СѓС‚РёВ 	verb:impr:p:3:imperfВ 	
+РѕР±РµСЂРµР¶РЅС–	РѕР±РµСЂРµР¶РЅРёР№В 	adj:p:v_naz:compbВ 	
+,	-В 	-В 	
+РѕСЃРѕР±Р»РёРІРѕ	РѕСЃРѕР±Р»РёРІРѕВ 	advВ 	
+РјР°РјС‚	-В 	-В 	
+Р—	Р·В 	prep: rv_oru	
+РґС–С‚РєР°РјРё	РґС–С‚РєРёВ 	noun:p:v_oru:animВ 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+(	-В 	-В 	
+РЅРµ	РЅРµВ 	partВ 	
+РІРёРґР°Р»СЏР№С‚Рµ	РІРёРґР°Р»СЏС‚РёВ 	verb:impr:p:2:imperfВ 	
+С†РµР№	С†РµР№В 	adj:m:v_zna:&pron:dem	
+РєРѕРјРµРЅР°СЂ	-В 	-В 	
+)	-В 	SENT_ENDВ 	
+	-В 	PARA_ENDВ 	
+Analysis Result			
+LanguageTool version: 3.0-SNAPSHOT (2015-04-25 22:01)			
+Language: Ukrainian			
+What do the tags mean?			
+Disambiguator log: 			
+DIS_PREP_NA:1 РЅР°[РЅР°/excl,РЅР°/part,РЅР°/prep:rv_zna:rv_mis] -> РЅР°[РЅР°/prep:rv_zna:rv_mis]			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р—Р°РІР¶РґРё	Р·Р°РІР¶РґРёВ 	adv:&pron:genВ 	
+Р†Р·	С–Р·В 	prep:rv_oru	
+Р·Р°РґРѕРІРѕР»РµРЅРЅСЏРј	Р·Р°РґРѕРІРѕР»РµРЅРЅСЏВ 	noun:n:v_oruВ 	
+РІС–РґРІС–РґСѓРІР°Р»Р°	РІС–РґРІС–РґСѓРІР°С‚РёВ 	verb:past:f:imperfВ 	
+С†РµР№	С†РµР№В 	adj:m:v_zna:&pron:demВ 	
+Р·Р°РєР»Р°Рґ	Р·Р°РєР»Р°РґВ 	noun:m:v_znaВ 	
+,	-В 	-В 	
+Р°Р»Рµ	Р°Р»РµВ 	conj:coordВ 	
+СЃСЊРѕРіРѕРґРЅС–	СЃСЊРѕРіРѕРґРЅС–В 	advВ 	
+,	-В 	-В 	
+СѓР·СЏРІС€Рё	СѓР·СЏС‚РёВ 	advp:perfВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+РІР°РіСѓ	РІР°РіР°В 	noun:f:v_znaВ 	
+С–Р·	С–Р·В 	prep:rv_oru	
+СЃРѕР±РѕСЋ	СЃРµР±РµВ 	pron:refl:m:v_oruВ 	(pron:refl:s:1:v_oru)
+		pron:refl:n:v_oruВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_znaВ 	
+РЅР°	РЅР°В 	prep:rv_misВ 	
+800	800В 	numberВ 	
+РіСЂР°РјР°С…	РіСЂР°РјВ 	noun:p:v_misВ 	
+В«	-В 	-В 	
+РѕР±РІР°Р¶РёР»Рё	РѕР±РІР°Р¶РёС‚РёВ 	verb:past:p:perfВ 	
+В»	-В 	-В 	
+РЅР°	РЅР°В 	prep:rv_zna	
+120	120В 	numberВ 	
+РіСЂР°Рј	РіСЂР°РјВ 	noun:m:v_znaВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р”СѓР¶Рµ	РґСѓР¶РµВ 	advВ 	
+РїСЂРёРєСЂРѕ	РїСЂРёРєСЂРѕВ 	adv:compbВ 	
+,	-В 	-В 	
+РЅР°РІС–С‚СЊ	РЅР°РІС–С‚СЊВ 	partВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РѕС‡С–РєСѓРІР°Р»Р°	РѕС‡С–РєСѓРІР°С‚РёВ 	verb:past:f:imperfВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РџСЂРѕСЃС‚Рѕ	РїСЂРѕСЃС‚РѕВ 	adv:compbВ 	
+Р·Р°	Р·Р°В 	prep: rv_oru	
+РѕР±	РѕР±В 	prep:rv_zna:rv_misВ 	
+"	-В 	-В 	
+С”РјРѕРј	-В 	-В 	
+СЏРєРѕСЃСЊ	СЏРєРѕСЃСЊВ 	adv:&pron:indВ 	
+РјР°Р»Рѕ	РјР°Р»РѕВ В 	adv:compbВ 	
+Р·РґР°Р»РѕСЃСЏ	Р·РґР°С‚РёСЃСЏВ 	verb:rev:past:n:perfВ 	
+,	-В 	-В 	
+РІРґРѕРјР°	РІРґРѕРјР°В 	adv:v-uВ 	
+РїРµСЂРµРІР°Р¶РёР»Р°	РїРµСЂРµРІР°Р¶РёС‚РёВ 	verb:past:f:perfВ 	
+...	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РЎРѕСЂРѕРј	СЃРѕСЂРѕРјВ 	noun:m:v_nazВ 	
+!	-В 	-В 	
+!	-В 	-В 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РўР°Рє	С‚Р°РєВ 	adv:&pron:demВ 	
+,	-В 	-В 	
+РґС–Р№СЃРЅРѕ	РґС–Р№СЃРЅРѕВ 	advВ 	
+РїСЂР°РІРґР°	РїСЂР°РІРґР°В 	insertВ 	
+,	-В 	-В 	
+РїР»Р°С‚РёС‚Рё	РїР»Р°С‚РёС‚РёВ 	verb:inf:imperfВ 	
+Р·Р°	Р·Р°В 	prep:]rv_zna	
+РєР°РїСѓСЃС‚Сѓ	РєР°РїСѓСЃС‚Р°В 	noun:f:v_znaВ 	
+,	-В 	-В 	
+С…Р»С–Р±	С…Р»С–Р±В 	noun:m:v_znaВ 	
+,	-В 	-В 	
+СЃРјРµС‚Р°РЅСѓ	СЃРјРµС‚Р°РЅР°В 	noun:f:v_znaВ 	
+РїРѕ	РїРѕВ 	prep: rv_znaВ 	
+70	70В 	numberВ 	
+РіСЂРёРІРµРЅСЊ	РіСЂРёРІРЅСЏВ 	noun:p:v_rod	(noun:p:v_zna)
+Р·Р°	Р·Р°В 	prep:rv_zna	
+РєРі	РєРіВ 	noun:m:v_zna:nv:abbrВ 	
+вЂ”	-В 	-В 	
+С†Рµ	С†РµР№В 	adj:n:v_naz:&pron:demВ 	
+Р¶Р°С…	Р¶Р°С…В 	noun:m:v_nazВ 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: 			
+DIS_PREP_OR_NOUN_DO:1 РґРѕ[РґРѕ/noun:n:v_dav:nv,РґРѕ/noun:n:v_mis:nv,РґРѕ/noun:n:v_naz:nv,РґРѕ/noun:n:v_oru:nv,РґРѕ/noun:n:v_rod:nv,РґРѕ/noun:n:v_zna:nv,РґРѕ/noun:p:v_dav:nv,РґРѕ/noun:p:v_mis:nv,РґРѕ/noun:p:v_naz:nv,РґРѕ/noun:p:v_oru:nv,РґРѕ/noun:p:v_rod:nv,РґРѕ/noun:p:v_zna:nv,РґРѕ/prep:rv_rod] -> РґРѕ[РґРѕ/prep:rv_rod]			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Рђ	Р°В 	conj:coordВ 	
+Р’	РІВ 	prep: mis:v-uВ 	
+С†С–Р»РѕРјСѓ	С†С–Р»РёР№В 	adj:m:v_misВ 	
+РІР¶Рµ	РІР¶РµВ 	adv:v-uВ 	
+Р·РЅРёРєР°С”	Р·РЅРёРєР°С‚РёВ 	verb:pres:s:3:imperfВ 	
+Р°РїРµС‚РёС‚	Р°РїРµС‚РёС‚В 	noun:m:v_nazВ 	
+,	-В 	-В 	
+РєРѕР»Рё	РєРѕР»РёВ 	adv:&pron:int:relВ 	
+РЅР°Р±Р»РёР¶Р°С”С€СЃСЏ	РЅР°Р±Р»РёР¶Р°С‚РёСЃСЏВ 	verb:rev:pres:s:2:imperfВ 	
+РґРѕ	РґРѕВ 	prep:rv_rodВ 	
+Р·Р°РєР»Р°РґСѓ	Р·Р°РєР»Р°РґВ 	noun:m:v_rodВ 	
+Р†	С–В 	conj:coordВ 	
+РІС–РґС‡СѓРІР°С”С€	РІС–РґС‡СѓРІР°С‚РёВ 	verb:pres:s:2:imperfВ 	
+Р¶Р°С…Р»РёРІРёР№	Р¶Р°С…Р»РёРІРёР№В 	adj:m:v_zna:compbВ 	
+Р·Р°РїР°С…	Р·Р°РїР°С…В 	noun:m:v_znaВ 	
+			
+РІС–Рґ	РІС–РґВ 	prep:rv_rodВ 	
+РЅСЊРѕРіРѕ	РІС–РЅВ 	pron:pers:m:3:v_rod:animВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: 			
+DIS_RARE_WORDS:1 РјРѕР¶РЅР°[РјРѕР¶РЅР°/predic,РјРѕР¶РЅРёР№/adj:f:v_naz:rare] -> РјРѕР¶РЅР°[РјРѕР¶РЅР°/predic]			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РќРµРІР¶Рµ	РЅРµРІР¶РµВ 	partВ 	
+РЅРµ	РЅРµВ 	partВ 	
+РјРѕР¶РЅР°	РјРѕР¶РЅР°В 	predicВ 	
+Р·СЂРѕР±РёС‚Рё	Р·СЂРѕР±РёС‚РёВ 	verb:inf:perfВ 	
+РїРѕС‚СѓР¶РЅС–С€С–	РїРѕС‚СѓР¶РЅРёР№В 	adj:p:v_zna:comprВ 	
+РІРёС‚СЏР¶РєРё	РІРёС‚СЏР¶РєР°В 	noun:p:v_znaВ 	
+?	-В 	-В 	
+!	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РќР°Р№С†С–РєР°РІС–С€РёР№	С†С–РєР°РІРёР№В 	adj:m:v_naz:superВ 	
+РѕР±С–Рґ	РѕР±С–РґВ 	noun:m:v_nazВ 	
+РЈ	СѓВ 	prep: rv_mis:v-uВ 	
+Р’РђР Р•РќРРљР	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+		noun:p:v_znaВ 	
+РўРЈРў	С‚СѓС‚В 	adv:&pron:demВ 	
+Р’	РІВ 	prep: rv_mis:v-uВ 	
+Р¦РЈРњС–	-В 	-В 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: 			
+PRON_OR_CONJ_TA:1 С‚Р°[С‚Р°/conj:coord,С‚Р°/part,С‚РѕР№/adj:f:v_naz:&pron:dem] -> С‚Р°[С‚Р°/conj:coord,С‚Р°/part]			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РЎРјР°С‡РЅСЋС‰РёР№	-В 	-В 	
+С‡РµСЂРІРѕРЅРёР№	С‡РµСЂРІРѕРЅРёР№В 	adj:m:v_naz:compbВ 	
+Р±РѕСЂС‰	Р±РѕСЂС‰В 	noun:m:v_nazВ 	
+Р·С–	Р·С–В 	prep:rv_oru	
+СЃРјРµС‚Р°РЅРѕСЋ	СЃРјРµС‚Р°РЅР°В 	noun:f:v_oruВ 	
+С‚Р°	С‚Р°В 	conj:coordВ 	
+РјСЏСЃРѕРј	-В 	-В 	
+Р·Р°	Р·Р°В 	prep: rv_zna	
+7	7В 	numberВ 	
+Р“Р Рќ	РіСЂРЅВ 	noun:p:v_zna:nv:abbrВ 	
+.	-В 	-В 	
+,	-В 	-В 	
+Рђ	Р°В 	conj:coordВ 	
+С…Р»С–Р±	С…Р»С–Р±В 	noun:m:v_nazВ 	
+Р·С–	Р·С–В 	prep: rv_oru	
+СЃРјР°Р»СЊС†РµРј	СЃРјР°Р»РµС†СЊВ 	noun:m:v_oruВ 	
+Р‘Р•Р—РљРћРЁРўРћР’РќРћ	Р±РµР·РєРѕС€С‚РѕРІРЅРѕВ 	advВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+Р—	Р·В 	prep: rv_oruВ 	
+С‚РІРѕС”СЋ	С‚РІС–Р№В 	adj:f:v_oru:&pron:posВ 	
+РїРµРЅСЃС–С”СЋ	РїРµРЅСЃС–СЏВ 	noun:f:v_oruВ 	
+С‚С–Р»СЊРєРё	С‚С–Р»СЊРєРёВ 	advВ 	
+РґРѕРјР°	РґРѕРјР°В 	advВ 	
+СЃРёРґС–С‚Рё	СЃРёРґС–С‚РёВ 	verb:inf:imperfВ 	
+,	-В 	-В 	
+РїСЂРѕ	РїСЂРѕВ 	prep:rv_znaВ 	
+С‰Рѕ	С‰РѕВ 	pron:int:rel:n:v_znaВ 	
+С‚Рё	С‚РёВ 	pron:pers:s:2:v_naz:animВ 	
+Р»РµРїРµС‡РµС€	Р»РµРїРµС‚Р°С‚РёВ 	verb:pres:s:2:imperfВ 	
+?	-В 	-В 	
+?	-В 	-В 	
+?	-В 	-В 	
+?	-В 	-В 	
+РїСЂРѕ	РїСЂРѕВ 	prep:rv_znaВ 	
+СЏРєС–	СЏРєРёР№В 	adj:p:v_zna:&pron:int:rel:def	
+Р±Р°СЂРё	Р±Р°СЂВ 	noun:p:v_znaВ 	
+,	-В 	-В 	
+СЂРµСЃС‚РѕСЂР°РЅРё	СЂРµСЃС‚РѕСЂР°РЅВ 	noun:p:v_znaВ 	
+?	-В 	-В 	
+?	-В 	-В 	
+?	-В 	-В 	
+?	-В 	-В 	
+С…С‚Рѕ	С…С‚РѕВ 	pron:int:rel:m:v_naz:animВ 	
+С‚РµР±Рµ	С‚РёВ 	pron:pers:s:2:v_zna:animВ 	
+СЃС‚Р°СЂСѓ	СЃС‚Р°СЂРёР№В 	adj:f:v_zna:compbВ 	
+С€РєР°РїСѓ	С€РєР°РїР°В 	noun:f:v_znaВ 	
+С‚СѓРґРё	С‚СѓРґРёВ 	adv:&pron:demВ 	
+Р·Р°РїСЂРѕСЃРёС‚СЊ	Р·Р°РїСЂРѕСЃРёС‚РёВ 	verb:futr:s:3:perfВ 	
+?	-В 	-В 	
+?	-В 	-В 	
+?	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
+Analysis Result			
+LanguageTool version: 3.0-SNAPSHOT (2015-04-25 22:01)			
+Language: Ukrainian			
+What do the tags mean?			
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РџРѕСЂР°РґР°	РїРѕСЂР°РґР°В 	noun:f:v_nazВ 	
+РІР»Р°СЃРЅРёРєР°Рј	РІР»Р°СЃРЅРёРєВ 	noun:p:v_dav:animВ 	
+:	-В 	-В 	
+РІРёСЏСЃРЅС–С‚СЊ	РІРёСЏСЃРЅРёС‚РёВ 	verb:impr:p:2:perfВ 	
+РїРёС‚Р°РЅРЅСЏ	РїРёС‚Р°РЅРЅСЏВ 	noun:p:v_znaВ 	
+Р—	Р·В 	prep: rv_oruВ 	
+С„Р°СЃС‚-С„РЈР”РћРњ	-В 	-В 	
+,	-В 	-В 	
+СЏРєРёР№	СЏРєРёР№В 	adj:m:v_naz:&pron:int:rel:def	
+РїРѕСЂСЏРґ	РїРѕСЂСЏРґВ 	advВ 	
+Р—	Р·В 	prep:rv_oruВ 	
+РІР°РјРё	РІРёВ 	pron:pers:p:2:v_oru:animВ 	
+С‚Р°Рј	С‚Р°РјВ 	adv:&pron:demВ 	
+.	-В 	SENT_ENDВ 	
+Disambiguator log: (no disambiguations)			
+Token	Lemma	Part-of-speech	Chunk
+	-В 	SENT_STARTВ 	
+РњРё	РјРёВ 	pron:pers:p:1:v_naz:anim	
+Р—	Р·В 	prep:rv_oru	
+РїРѕРґСЂСѓРіРѕСЋ	РїРѕРґСЂСѓРіР°В 	noun:f:v_oru:animВ 	
+СЏРєРѕСЃСЊ	СЏРєРѕСЃСЊВ 	adv:&pron:indВ 	
+Р±СѓР»Рё	Р±СѓС‚РёВ 	verb:past:p:imperfВ 	
+Р†	С–В 	conj:coordВ 	
+РЅРµС‡Р°СЏРЅРѕ	-В 	-В 	
+СЃС–Р»Рё	СЃС–СЃС‚РёВ 	verb:past:p:perfВ 	
+Р·Р°	Р·Р°В 	prep: rv_zna	
+С—С…	РІРѕРЅРёВ 	pron:pers:p:3:v_rod:animВ 	
 		pron:pers:p:3:v_zna:anim	
-стлик	- 	- 	
-.	- 	SENT_END 	
+СЃС‚Р»РёРє	-В 	-В 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-навіть	навіть 	part 	
-уваги	увага 	noun:f:v_rod 	
-не	не 	part 	
-звернули	звернути 	verb:past:p:perf 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РЅР°РІС–С‚СЊ	РЅР°РІС–С‚СЊВ 	partВ 	
+СѓРІР°РіРё	СѓРІР°РіР°В 	noun:f:v_rodВ 	
+РЅРµ	РЅРµВ 	partВ 	
+Р·РІРµСЂРЅСѓР»Рё	Р·РІРµСЂРЅСѓС‚РёВ 	verb:past:p:perfВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: 			
-DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv*,до/noun:n:v_mis:nv*,до/noun:n:v_naz:nv*,до/noun:n:v_oru:nv*,до/noun:n:v_rod:nv*,до/noun:n:v_zna:nv*,до/noun:p:v_dav:nv*,до/noun:p:v_mis:nv*,до/noun:p:v_naz:nv*,до/noun:p:v_oru:nv*,до/noun:p:v_rod:nv*,до/noun:p:v_zna:nv*,до/prep:rv_rod*] -> до[до/prep:rv_rod*]			
+DIS_PREP_OR_NOUN_DO:1 РґРѕ[РґРѕ/noun:n:v_dav:nv*,РґРѕ/noun:n:v_mis:nv*,РґРѕ/noun:n:v_naz:nv*,РґРѕ/noun:n:v_oru:nv*,РґРѕ/noun:n:v_rod:nv*,РґРѕ/noun:n:v_zna:nv*,РґРѕ/noun:p:v_dav:nv*,РґРѕ/noun:p:v_mis:nv*,РґРѕ/noun:p:v_naz:nv*,РґРѕ/noun:p:v_oru:nv*,РґРѕ/noun:p:v_rod:nv*,РґРѕ/noun:p:v_zna:nv*,РґРѕ/prep:rv_rod*] -> РґРѕ[РґРѕ/prep:rv_rod*]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-до	до 	prep:rv_rod 	
-нас	ми 	pron:pers:p:1:v_rod:anim 	
-підійшла	підійти 	verb:past:f:perf 	
-якась	якийсь 	adj:f:v_naz:&pron:ind 	
-неприємна	неприємний 	adj:f:v_naz:compb 	
-жіночка	жіночка 	noun:f:v_naz:anim 	
-І	і 	conj:coord  	
-каже	казати 	verb:pres:s:3:imperf 	
-"	- 	- 	
-ви	ви 	pron:pers:p:2:v_naz:anim 	
-У	у 	prep: rv_rod:v-u 	
-нас	ми 	pron:pers:p:1:v_rod:anim 	
-нічого	ніщо 	pron:neg:v_rod 	
-не	не 	part 	
-заказували	заказувати 	verb:past:p:imperf 	
-то	то 	conj:subord 	
-пересядьте	пересісти 	verb:impr:p:2:perf 	
-"	- 	- 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РґРѕ	РґРѕВ 	prep:rv_rodВ 	
+РЅР°СЃ	РјРёВ 	pron:pers:p:1:v_rod:animВ 	
+РїС–РґС–Р№С€Р»Р°	РїС–РґС–Р№С‚РёВ 	verb:past:f:perfВ 	
+СЏРєР°СЃСЊ	СЏРєРёР№СЃСЊВ 	adj:f:v_naz:&pron:indВ 	
+РЅРµРїСЂРёС”РјРЅР°	РЅРµРїСЂРёС”РјРЅРёР№В 	adj:f:v_naz:compbВ 	
+Р¶С–РЅРѕС‡РєР°	Р¶С–РЅРѕС‡РєР°В 	noun:f:v_naz:animВ 	
+Р†	С–В 	conj:coordВ В 	
+РєР°Р¶Рµ	РєР°Р·Р°С‚РёВ 	verb:pres:s:3:imperfВ 	
+"	-В 	-В 	
+РІРё	РІРёВ 	pron:pers:p:2:v_naz:animВ 	
+РЈ	СѓВ 	prep: rv_rod:v-uВ 	
+РЅР°СЃ	РјРёВ 	pron:pers:p:1:v_rod:animВ 	
+РЅС–С‡РѕРіРѕ	РЅС–С‰РѕВ 	pron:neg:v_rodВ 	
+РЅРµ	РЅРµВ 	partВ 	
+Р·Р°РєР°Р·СѓРІР°Р»Рё	Р·Р°РєР°Р·СѓРІР°С‚РёВ 	verb:past:p:imperfВ 	
+С‚Рѕ	С‚РѕВ 	conj:subordВ 	
+РїРµСЂРµСЃСЏРґСЊС‚Рµ	РїРµСЂРµСЃС–СЃС‚РёВ 	verb:impr:p:2:perfВ 	
+"	-В 	-В 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-А	а 	conj:coord 	
-ми	ми 	pron:pers:p:1:v_naz:anim	
-вже	вже 	adv:v-u 	
-розклалися	розкластися 	verb:rev:past:p:perf 	
-,	- 	- 	
-розслабилися	розслабитися 	verb:rev:past:p:perf 	
-...	- 	- 	
-.	- 	- 	
-було	бути 	verb:past:n:imperf 	
-неприємно	неприємно 	adv:compb 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Рђ	Р°В 	conj:coordВ 	
+РјРё	РјРёВ 	pron:pers:p:1:v_naz:anim	
+РІР¶Рµ	РІР¶РµВ 	adv:v-uВ 	
+СЂРѕР·РєР»Р°Р»РёСЃСЏ	СЂРѕР·РєР»Р°СЃС‚РёСЃСЏВ 	verb:rev:past:p:perfВ 	
+,	-В 	-В 	
+СЂРѕР·СЃР»Р°Р±РёР»РёСЃСЏ	СЂРѕР·СЃР»Р°Р±РёС‚РёСЃСЏВ 	verb:rev:past:p:perfВ 	
+...	-В 	-В 	
+.	-В 	-В 	
+Р±СѓР»Рѕ	Р±СѓС‚РёВ 	verb:past:n:imperfВ 	
+РЅРµРїСЂРёС”РјРЅРѕ	РЅРµРїСЂРёС”РјРЅРѕВ 	adv:compbВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Якусь	якийсь 	adj:f:v_zna:&pron:ind 	
-перегородку	перегородка 	noun:f:v_zna 	
-поставте	поставити 	verb:impr:p:2:perf 	
-чи	чи 	conj:coord:subord 	
-шо	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РЇРєСѓСЃСЊ	СЏРєРёР№СЃСЊВ 	adj:f:v_zna:&pron:indВ 	
+РїРµСЂРµРіРѕСЂРѕРґРєСѓ	РїРµСЂРµРіРѕСЂРѕРґРєР°В 	noun:f:v_znaВ 	
+РїРѕСЃС‚Р°РІС‚Рµ	РїРѕСЃС‚Р°РІРёС‚РёВ 	verb:impr:p:2:perfВ 	
+С‡Рё	С‡РёВ 	conj:coord:subordВ 	
+С€Рѕ	-В 	SENT_ENDВ 	
 Disambiguator log: 			
-PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]			
+PRON_OR_CONJ_TA:1 С‚Р°[С‚Р°/conj:coord,С‚Р°/part,С‚РѕР№/adj:f:v_naz:&pron:dem] -> С‚Р°[С‚Р°/conj:coord,С‚Р°/part]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Молода	молодий 	adj:f:v_naz:compb 	
-відварна	відварний 	adj:f:v_naz 	
-картопля	картопля 	noun:f:v_naz 	
-З	з 	prep: rv_oru	
-маслом	масло 	noun:n:v_oru 	
-та	та 	conj:coord  	
-слабосоленим	- 	- 	
-огірком	огірок 	noun:m:v_oru 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РњРѕР»РѕРґР°	РјРѕР»РѕРґРёР№В 	adj:f:v_naz:compbВ 	
+РІС–РґРІР°СЂРЅР°	РІС–РґРІР°СЂРЅРёР№В 	adj:f:v_nazВ 	
+РєР°СЂС‚РѕРїР»СЏ	РєР°СЂС‚РѕРїР»СЏВ 	noun:f:v_nazВ 	
+Р—	Р·В 	prep: rv_oru	
+РјР°СЃР»РѕРј	РјР°СЃР»РѕВ 	noun:n:v_oruВ 	
+С‚Р°	С‚Р°В 	conj:coordВ В 	
+СЃР»Р°Р±РѕСЃРѕР»РµРЅРёРј	-В 	-В 	
+РѕРіС–СЂРєРѕРј	РѕРіС–СЂРѕРєВ 	noun:m:v_oruВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: 			
-PRON_OR_CONJ_TA:1 та[та/conj:coord,та/part,той/adj:f:v_naz:&pron:dem] -> та[та/conj:coord,та/part]			
+PRON_OR_CONJ_TA:1 С‚Р°[С‚Р°/conj:coord,С‚Р°/part,С‚РѕР№/adj:f:v_naz:&pron:dem] -> С‚Р°[С‚Р°/conj:coord,С‚Р°/part]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Смачно	смачно 	adv:compb 	
-та	та 	conj:coord 	
-дешево	дешево 	adv:compb 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РЎРјР°С‡РЅРѕ	СЃРјР°С‡РЅРѕВ 	adv:compbВ 	
+С‚Р°	С‚Р°В 	conj:coordВ 	
+РґРµС€РµРІРѕ	РґРµС€РµРІРѕВ 	adv:compbВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-А	а 	conj:coord 	
-вареники	вареник 	noun:p:v_naz 	
-З	з 	prep: rv_oru	
-вишнями	вишня 	noun:p:v_oru 	
-як	як 	adv:&pron:int:rel 	
-завжди	завжди 	adv:&pron:gen 	
-на	на 	prep:rv_zna	
-десерт	десерт 	noun:m:v_zna 	
-!	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Рђ	Р°В 	conj:coordВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_nazВ 	
+Р—	Р·В 	prep: rv_oru	
+РІРёС€РЅСЏРјРё	РІРёС€РЅСЏВ 	noun:p:v_oruВ 	
+СЏРє	СЏРєВ 	adv:&pron:int:relВ 	
+Р·Р°РІР¶РґРё	Р·Р°РІР¶РґРёВ 	adv:&pron:genВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+РґРµСЃРµСЂС‚	РґРµСЃРµСЂС‚В 	noun:m:v_znaВ 	
+!	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Якби	якби 	conj:subord 	
-щє	- 	- 	
-не	не 	part 	
-так	так 	adv:&pron:dem 	
-спекотно	спекотно 	adv 	
-,	- 	- 	
-то	то 	conj:subord 	
-взагалі	взагалі 	adv:v-u 	
-респект	- 	- 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РЇРєР±Рё	СЏРєР±РёВ 	conj:subordВ 	
+С‰С”	-В 	-В 	
+РЅРµ	РЅРµВ 	partВ 	
+С‚Р°Рє	С‚Р°РєВ 	adv:&pron:demВ 	
+СЃРїРµРєРѕС‚РЅРѕ	СЃРїРµРєРѕС‚РЅРѕВ 	advВ 	
+,	-В 	-В 	
+С‚Рѕ	С‚РѕВ 	conj:subordВ 	
+РІР·Р°РіР°Р»С–	РІР·Р°РіР°Р»С–В 	adv:v-uВ 	
+СЂРµСЃРїРµРєС‚	-В 	-В 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Нагадую	нагадувати 	verb:pres:s:1:imperf 	
--	- 	- 	
-це	цей 	adj:n:v_naz:&pron:dem	
-НЕ	не 	part 	
-ресторан	ресторан 	noun:m:v_naz 	
-,	- 	- 	
-ЦЕ-ФАСТФУД	- 	- 	
-,	- 	- 	
-І	і 	conj:coord 	
-150	150 	number 	
-гривень	гривня 	noun:p:v_rod 	
-рахунок	рахунок 	noun:m:v_naz 	
-на	на 	prep:rv_zna	
-двох	двоє 	numr:p:v_zna 	
-без	без 	prep:rv_rod 	
-алко	- 	- 	
-...	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РќР°РіР°РґСѓСЋ	РЅР°РіР°РґСѓРІР°С‚РёВ 	verb:pres:s:1:imperfВ 	
+-	-В 	-В 	
+С†Рµ	С†РµР№В 	adj:n:v_naz:&pron:dem	
+РќР•	РЅРµВ 	partВ 	
+СЂРµСЃС‚РѕСЂР°РЅ	СЂРµСЃС‚РѕСЂР°РЅВ 	noun:m:v_nazВ 	
+,	-В 	-В 	
+Р¦Р•-Р¤РђРЎРўР¤РЈР”	-В 	-В 	
+,	-В 	-В 	
+Р†	С–В 	conj:coordВ 	
+150	150В 	numberВ 	
+РіСЂРёРІРµРЅСЊ	РіСЂРёРІРЅСЏВ 	noun:p:v_rodВ 	
+СЂР°С…СѓРЅРѕРє	СЂР°С…СѓРЅРѕРєВ 	noun:m:v_nazВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+РґРІРѕС…	РґРІРѕС”В 	numr:p:v_znaВ 	
+Р±РµР·	Р±РµР·В 	prep:rv_rodВ 	
+Р°Р»РєРѕ	-В 	-В 	
+...	-В 	SENT_ENDВ 	
 Disambiguator log: 			
-DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]			
-DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]			
+DIS_PREP_NA:1 РЅР°[РЅР°/excl,РЅР°/part,РЅР°/prep:rv_zna:rv_mis] -> РЅР°[РЅР°/prep:rv_zna:rv_mis]			
+DIS_PREP_OR_NOUN_DO:1 РґРѕ[РґРѕ/noun:n:v_dav:nv,РґРѕ/noun:n:v_mis:nv,РґРѕ/noun:n:v_naz:nv,РґРѕ/noun:n:v_oru:nv,РґРѕ/noun:n:v_rod:nv,РґРѕ/noun:n:v_zna:nv,РґРѕ/noun:p:v_dav:nv,РґРѕ/noun:p:v_mis:nv,РґРѕ/noun:p:v_naz:nv,РґРѕ/noun:p:v_oru:nv,РґРѕ/noun:p:v_rod:nv,РґРѕ/noun:p:v_zna:nv,РґРѕ/prep:rv_rod] -> РґРѕ[РґРѕ/prep:rv_rod]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-ЦЕ	цей 	adj:n:v_naz:&pron:dem  	
-ДУЖЕ	дуже 	adv 	
-ДОРОГО	дорого 	adv:compb 	
-,	- 	- 	
-навіть	навіть 	part 	
-В	в 	prep: rv_mis:v-u 	
-обласному	обласний 	adj:m:v_mis 	
-центрі	центр 	noun:m:v_mis 	
-І	і 	conj:coord 	
-В	в 	prep: rv_mis:v-u 	
-новому	новий 	adj:m:v_mis:compb 	
-ЦуМі	- 	- 	
-,	- 	- 	
-власники-адміністратори	власник-адміністратор 	noun:p:v_naz:anim 	
-спустіться	спуститися 	verb:rev:impr:p:2:perf 	
-на	на 	prep:rv_zna	
-землю	земля 	noun:f:v_zna 	
-,	- 	- 	
-ви	ви 	pron:pers:p:2:v_naz:anim 	
-на	на 	prep:rv_mis 	
-волині	- 	- 	
--	- 	- 	
-будьте	бути 	verb:impr:p:3:imperf 	
-ближче	близький 	adj:n:v_naz:compr 	
-до	до 	prep:rv_rod 	
-людей	люди 	noun:p:v_rod:anim 	
-...	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р¦Р•	С†РµР№В 	adj:n:v_naz:&pron:demВ В 	
+Р”РЈР–Р•	РґСѓР¶РµВ 	advВ 	
+Р”РћР РћР“Рћ	РґРѕСЂРѕРіРѕВ 	adv:compbВ 	
+,	-В 	-В 	
+РЅР°РІС–С‚СЊ	РЅР°РІС–С‚СЊВ 	partВ 	
+Р’	РІВ 	prep: rv_mis:v-uВ 	
+РѕР±Р»Р°СЃРЅРѕРјСѓ	РѕР±Р»Р°СЃРЅРёР№В 	adj:m:v_misВ 	
+С†РµРЅС‚СЂС–	С†РµРЅС‚СЂВ 	noun:m:v_misВ 	
+Р†	С–В 	conj:coordВ 	
+Р’	РІВ 	prep: rv_mis:v-uВ 	
+РЅРѕРІРѕРјСѓ	РЅРѕРІРёР№В 	adj:m:v_mis:compbВ 	
+Р¦СѓРњС–	-В 	-В 	
+,	-В 	-В 	
+РІР»Р°СЃРЅРёРєРё-Р°РґРјС–РЅС–СЃС‚СЂР°С‚РѕСЂРё	РІР»Р°СЃРЅРёРє-Р°РґРјС–РЅС–СЃС‚СЂР°С‚РѕСЂВ 	noun:p:v_naz:animВ 	
+СЃРїСѓСЃС‚С–С‚СЊСЃСЏ	СЃРїСѓСЃС‚РёС‚РёСЃСЏВ 	verb:rev:impr:p:2:perfВ 	
+РЅР°	РЅР°В 	prep:rv_zna	
+Р·РµРјР»СЋ	Р·РµРјР»СЏВ 	noun:f:v_znaВ 	
+,	-В 	-В 	
+РІРё	РІРёВ 	pron:pers:p:2:v_naz:animВ 	
+РЅР°	РЅР°В 	prep:rv_misВ 	
+РІРѕР»РёРЅС–	-В 	-В 	
+-	-В 	-В 	
+Р±СѓРґСЊС‚Рµ	Р±СѓС‚РёВ 	verb:impr:p:3:imperfВ 	
+Р±Р»РёР¶С‡Рµ	Р±Р»РёР·СЊРєРёР№В 	adj:n:v_naz:comprВ 	
+РґРѕ	РґРѕВ 	prep:rv_rodВ 	
+Р»СЋРґРµР№	Р»СЋРґРёВ 	noun:p:v_rod:animВ 	
+...	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Зайшов	зайти 	verb:past:m:perf 	
-туди	туди 	adv:&pron:dem 	
-для	для 	prep:rv_rod 	
-цікавості	цікавість 	 noun:f:v_rod 	
-раз	раз 	adv 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р—Р°Р№С€РѕРІ	Р·Р°Р№С‚РёВ 	verb:past:m:perfВ 	
+С‚СѓРґРё	С‚СѓРґРёВ 	adv:&pron:demВ 	
+РґР»СЏ	РґР»СЏВ 	prep:rv_rodВ 	
+С†С–РєР°РІРѕСЃС‚С–	С†С–РєР°РІС–СЃС‚СЊВ 	 noun:f:v_rodВ 	
+СЂР°Р·	СЂР°Р·В 	advВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Набрав	набрати 	verb:past:m:perf 	
-по	по 	prep: rv_zna 	
-2	2 	number 	
-вареники	вареник 	noun:p:v_zna 	
-кожного	кожний 	adj:m:v_rod:&pron:def 	
-виду	вид 	noun:m:v_rod 	
-(	- 	- 	
-несолодких	несолодкий 	adj:p:v_rod 	
-)	- 	- 	
-,	- 	- 	
-плюс	плюс 	noun:m:v_naz 	
-взяв	взяти 	verb:past:m:perf 	
-їхній	їхній 	adj:m:v_zna:&pron:pos	
-лимонад	лимонад 	noun:m:v_zna 	
-І	і 	conj:coord 	
-каву	кава 	noun:f:v_zna 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РќР°Р±СЂР°РІ	РЅР°Р±СЂР°С‚РёВ 	verb:past:m:perfВ 	
+РїРѕ	РїРѕВ 	prep: rv_znaВ 	
+2	2В 	numberВ 	
+РІР°СЂРµРЅРёРєРё	РІР°СЂРµРЅРёРєВ 	noun:p:v_znaВ 	
+РєРѕР¶РЅРѕРіРѕ	РєРѕР¶РЅРёР№В 	adj:m:v_rod:&pron:defВ 	
+РІРёРґСѓ	РІРёРґВ 	noun:m:v_rodВ 	
+(	-В 	-В 	
+РЅРµСЃРѕР»РѕРґРєРёС…	РЅРµСЃРѕР»РѕРґРєРёР№В 	adj:p:v_rodВ 	
+)	-В 	-В 	
+,	-В 	-В 	
+РїР»СЋСЃ	РїР»СЋСЃВ 	noun:m:v_nazВ 	
+РІР·СЏРІ	РІР·СЏС‚РёВ 	verb:past:m:perfВ 	
+С—С…РЅС–Р№	С—С…РЅС–Р№В 	adj:m:v_zna:&pron:pos	
+Р»РёРјРѕРЅР°Рґ	Р»РёРјРѕРЅР°РґВ 	noun:m:v_znaВ 	
+Р†	С–В 	conj:coordВ 	
+РєР°РІСѓ	РєР°РІР°В 	noun:f:v_znaВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Заплатив	заплатити 	verb:past:m:perf 	
-45	45 	number 	
-гривень	гривня 	noun:p:v_rod 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р—Р°РїР»Р°С‚РёРІ	Р·Р°РїР»Р°С‚РёС‚РёВ 	verb:past:m:perfВ 	
+45	45В 	numberВ 	
+РіСЂРёРІРµРЅСЊ	РіСЂРёРІРЅСЏВ 	noun:p:v_rodВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Але	але 	conj:coord 	
-коли	коли 	adv:&pron:int:rel 	
-З	з 	prep:rv_rod:rv_zna:rv_oru	
-"	- 	- 	
-їв	їсти 	verb:past:m:imperf 	
--	- 	- 	
-поняв	- 	- 	
-,	- 	- 	
-шо	- 	- 	
-набрав	набрати 	verb:past:m:perf 	
-забагато	забагато 	adv 	
-)	- 	- 	
-)	- 	- 	
-)	- 	- 	
-)	- 	- 	
-Плюс	плюс 	noun:m:v_naz 	
-нашо	- 	- 	
-взяв	взяти 	verb:past:m:perf 	
-І	і 	conj:coord 	
-каву	кава 	noun:f:v_zna 	
-І	і 	conj:coord 	
-лимонад	лимонад 	noun:m:v_zna 	
--	- 	- 	
-тоже	- 	- 	
-непонятно	- 	- 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РђР»Рµ	Р°Р»РµВ 	conj:coordВ 	
+РєРѕР»Рё	РєРѕР»РёВ 	adv:&pron:int:relВ 	
+Р—	Р·В 	prep:rv_rod:rv_zna:rv_oru	
+"	-В 	-В 	
+С—РІ	С—СЃС‚РёВ 	verb:past:m:imperfВ 	
+-	-В 	-В 	
+РїРѕРЅСЏРІ	-В 	-В 	
+,	-В 	-В 	
+С€Рѕ	-В 	-В 	
+РЅР°Р±СЂР°РІ	РЅР°Р±СЂР°С‚РёВ 	verb:past:m:perfВ 	
+Р·Р°Р±Р°РіР°С‚Рѕ	Р·Р°Р±Р°РіР°С‚РѕВ 	advВ 	
+)	-В 	-В 	
+)	-В 	-В 	
+)	-В 	-В 	
+)	-В 	-В 	
+РџР»СЋСЃ	РїР»СЋСЃВ 	noun:m:v_nazВ 	
+РЅР°С€Рѕ	-В 	-В 	
+РІР·СЏРІ	РІР·СЏС‚РёВ 	verb:past:m:perfВ 	
+Р†	С–В 	conj:coordВ 	
+РєР°РІСѓ	РєР°РІР°В 	noun:f:v_znaВ 	
+Р†	С–В 	conj:coordВ 	
+Р»РёРјРѕРЅР°Рґ	Р»РёРјРѕРЅР°РґВ 	noun:m:v_znaВ 	
+-	-В 	-В 	
+С‚РѕР¶Рµ	-В 	-В 	
+РЅРµРїРѕРЅСЏС‚РЅРѕ	-В 	-В 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
 Analysis Result			
 LanguageTool version: 3.0-SNAPSHOT (2015-04-25 22:01)			
 Language: Ukrainian			
 What do the tags mean?			
 Disambiguator log: 			
-DIS_RARE_WORDS:1 можна[можна/predic,можний/adj:f:v_naz:rare] -> можна[можна/predic]			
+DIS_RARE_WORDS:1 РјРѕР¶РЅР°[РјРѕР¶РЅР°/predic,РјРѕР¶РЅРёР№/adj:f:v_naz:rare] -> РјРѕР¶РЅР°[РјРѕР¶РЅР°/predic]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-По	по 	prep:rv_mis	
-моїх	мій 	adj:p:v_mis:&pron:pos 	
-прикидках	прикидка 	noun:p:v_mis 	
-поїсти	поїсти 	verb:inf:perf 	
-тут	тут 	adv:&pron:dem 	
-можна	можна 	predic 	
-нормально	нормально 	adv 	
-за	за 	prep: rv_zna	
-грн	грн 	noun:p:v_zna:nv:abbr 	
-30	30 	number 	
-.	- 	- 	
-цілком	цілком 	adv 	
-,	- 	- 	
-по-моєму	по-моєму 	insert 	
-		SENT_END 	
+	-В 	SENT_STARTВ 	
+РџРѕ	РїРѕВ 	prep:rv_mis	
+РјРѕС—С…	РјС–Р№В 	adj:p:v_mis:&pron:posВ 	
+РїСЂРёРєРёРґРєР°С…	РїСЂРёРєРёРґРєР°В 	noun:p:v_misВ 	
+РїРѕС—СЃС‚Рё	РїРѕС—СЃС‚РёВ 	verb:inf:perfВ 	
+С‚СѓС‚	С‚СѓС‚В 	adv:&pron:demВ 	
+РјРѕР¶РЅР°	РјРѕР¶РЅР°В 	predicВ 	
+РЅРѕСЂРјР°Р»СЊРЅРѕ	РЅРѕСЂРјР°Р»СЊРЅРѕВ 	advВ 	
+Р·Р°	Р·Р°В 	prep: rv_zna	
+РіСЂРЅ	РіСЂРЅВ 	noun:p:v_zna:nv:abbrВ 	
+30	30В 	numberВ 	
+.	-В 	-В 	
+С†С–Р»РєРѕРј	С†С–Р»РєРѕРјВ 	advВ 	
+,	-В 	-В 	
+РїРѕ-РјРѕС”РјСѓ	РїРѕ-РјРѕС”РјСѓВ 	insertВ 	
+		SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Йшов	йти 	verb:past:m:imperf 	
-туди	туди 	adv:&pron:dem 	
-,	- 	- 	
-чекаючи	чекати 	advp:imperf 	
-дурного	дурний 	adj:m:v_rod:compb 	
-гламуру	гламур 	noun:m:v_rod:slang 	
-І	і 	conj:coord 	
-захмарних	захмарний 	adj:p:v_rod 	
-цін	ціна 	noun:p:v_rod 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р™С€РѕРІ	Р№С‚РёВ 	verb:past:m:imperfВ 	
+С‚СѓРґРё	С‚СѓРґРёВ 	adv:&pron:demВ 	
+,	-В 	-В 	
+С‡РµРєР°СЋС‡Рё	С‡РµРєР°С‚РёВ 	advp:imperfВ 	
+РґСѓСЂРЅРѕРіРѕ	РґСѓСЂРЅРёР№В 	adj:m:v_rod:compbВ 	
+РіР»Р°РјСѓСЂСѓ	РіР»Р°РјСѓСЂВ 	noun:m:v_rod:slangВ 	
+Р†	С–В 	conj:coordВ 	
+Р·Р°С…РјР°СЂРЅРёС…	Р·Р°С…РјР°СЂРЅРёР№В 	adj:p:v_rodВ 	
+С†С–РЅ	С†С–РЅР°В 	noun:p:v_rodВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Був	бути 	verb:past:m:imperf 	
-приємно	приємно 	adv:compb 	
-вражений	вражений 	adjp:pasv:past:m:v_naz	
--	- 	- 	
-І	і 	conj:coord 	
-передусім	передусім 	adv 	
-продуманістю	продуманість 	noun:f:v_oru 	
-того	той 	adj:m:v_rod:&pron:dem	
-,	- 	- 	
-як	як 	adv:&pron:int:rel 	
-усе	увесь 	adj:n:v_naz:&pron:dem 	
-розміщено	розмістити 	verb:impers:perf 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р‘СѓРІ	Р±СѓС‚РёВ 	verb:past:m:imperfВ 	
+РїСЂРёС”РјРЅРѕ	РїСЂРёС”РјРЅРѕВ 	adv:compbВ 	
+РІСЂР°Р¶РµРЅРёР№	РІСЂР°Р¶РµРЅРёР№В 	adjp:pasv:past:m:v_naz	
+-	-В 	-В 	
+Р†	С–В 	conj:coordВ 	
+РїРµСЂРµРґСѓСЃС–Рј	РїРµСЂРµРґСѓСЃС–РјВ 	advВ 	
+РїСЂРѕРґСѓРјР°РЅС–СЃС‚СЋ	РїСЂРѕРґСѓРјР°РЅС–СЃС‚СЊВ 	noun:f:v_oruВ 	
+С‚РѕРіРѕ	С‚РѕР№В 	adj:m:v_rod:&pron:dem	
+,	-В 	-В 	
+СЏРє	СЏРєВ 	adv:&pron:int:relВ 	
+СѓСЃРµ	СѓРІРµСЃСЊВ 	adj:n:v_naz:&pron:demВ 	
+СЂРѕР·РјС–С‰РµРЅРѕ	СЂРѕР·РјС–СЃС‚РёС‚РёВ 	verb:impers:perfВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Ці	цей 	adj:p:v_naz:&pron:dem 	
-столи	стіл 	noun:p:v_naz 	
-З	з 	prep: rv_oru	
-мисками	миска 	noun:p:v_oru 	
-І	і 	conj:coord  	
-іншою	інший 	adj:f:v_oru:&pron:def 	
-іжею	- 	- 	
-,	- 	- 	
-І	і 	conj:coord 	
-кас	каса 	noun:p:v_rod 	
-багато	багато 	adv 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р¦С–	С†РµР№В 	adj:p:v_naz:&pron:demВ 	
+СЃС‚РѕР»Рё	СЃС‚С–Р»В 	noun:p:v_nazВ 	
+Р—	Р·В 	prep: rv_oru	
+РјРёСЃРєР°РјРё	РјРёСЃРєР°В 	noun:p:v_oruВ 	
+Р†	С–В 	conj:coordВ В 	
+С–РЅС€РѕСЋ	С–РЅС€РёР№В 	adj:f:v_oru:&pron:defВ 	
+С–Р¶РµСЋ	-В 	-В 	
+,	-В 	-В 	
+Р†	С–В 	conj:coordВ 	
+РєР°СЃ	РєР°СЃР°В 	noun:p:v_rodВ 	
+Р±Р°РіР°С‚Рѕ	Р±Р°РіР°С‚РѕВ 	advВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-І	і 	conj:coord 	
-толкучкі	- 	- 	
-немає	немає 	predic 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+Р†	С–В 	conj:coordВ 	
+С‚РѕР»РєСѓС‡РєС–	-В 	-В 	
+РЅРµРјР°С”	РЅРµРјР°С”В 	predicВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Прикольно	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РџСЂРёРєРѕР»СЊРЅРѕ	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Ну	ну 	part 	
-бидлохамство	- 	- 	
-непереборне	непереборний 	adj:n:v_naz 	
-якою	який 	adj:f:v_oru:&pron:int:rel:def	
-Б	б 	part 	
-прекрасною	прекрасний 	adj:f:v_oru:compb 	
-не	не 	part 	
-була	 бути 	verb:past:f:imperf 	
-обгортка	обгортка 	noun:f:v_naz 	
-!	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РќСѓ	РЅСѓВ 	partВ 	
+Р±РёРґР»РѕС…Р°РјСЃС‚РІРѕ	-В 	-В 	
+РЅРµРїРµСЂРµР±РѕСЂРЅРµ	РЅРµРїРµСЂРµР±РѕСЂРЅРёР№В 	adj:n:v_nazВ 	
+СЏРєРѕСЋ	СЏРєРёР№В 	adj:f:v_oru:&pron:int:rel:def	
+Р‘	Р±В 	partВ 	
+РїСЂРµРєСЂР°СЃРЅРѕСЋ	РїСЂРµРєСЂР°СЃРЅРёР№В 	adj:f:v_oru:compbВ 	
+РЅРµ	РЅРµВ 	partВ 	
+Р±СѓР»Р°	В Р±СѓС‚РёВ 	verb:past:f:imperfВ 	
+РѕР±РіРѕСЂС‚РєР°	РѕР±РіРѕСЂС‚РєР°В 	noun:f:v_nazВ 	
+!	-В 	SENT_ENDВ 	
 Disambiguator log: 			
-DIS_PREP_NA:1 на[на/excl,на/part,на/prep:rv_zna:rv_mis] -> на[на/prep:rv_zna:rv_mis]			
-DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]			
+DIS_PREP_NA:1 РЅР°[РЅР°/excl,РЅР°/part,РЅР°/prep:rv_zna:rv_mis] -> РЅР°[РЅР°/prep:rv_zna:rv_mis]			
+DIS_PREP_OR_NOUN_DO:1 РґРѕ[РґРѕ/noun:n:v_dav:nv,РґРѕ/noun:n:v_mis:nv,РґРѕ/noun:n:v_naz:nv,РґРѕ/noun:n:v_oru:nv,РґРѕ/noun:n:v_rod:nv,РґРѕ/noun:n:v_zna:nv,РґРѕ/noun:p:v_dav:nv,РґРѕ/noun:p:v_mis:nv,РґРѕ/noun:p:v_naz:nv,РґРѕ/noun:p:v_oru:nv,РґРѕ/noun:p:v_rod:nv,РґРѕ/noun:p:v_zna:nv,РґРѕ/prep:rv_rod] -> РґРѕ[РґРѕ/prep:rv_rod]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Те	той 	adj:n:v_naz:&pron:dem 	
-"	- 	- 	
-ну	ну 	excl 	
-пересядьте	пересісти 	verb:impr:p:2:perf 	
-"	- 	- 	
-теж	теж 	adv 	
-на	на 	prep:rv_mis 	
-собі	себе 	pron:refl:m:v_mis	(pron:refl:p:1:v_mis) 
-		pron:refl:m:v_mis 	
+	-В 	SENT_STARTВ 	
+РўРµ	С‚РѕР№В 	adj:n:v_naz:&pron:demВ 	
+"	-В 	-В 	
+РЅСѓ	РЅСѓВ 	exclВ 	
+РїРµСЂРµСЃСЏРґСЊС‚Рµ	РїРµСЂРµСЃС–СЃС‚РёВ 	verb:impr:p:2:perfВ 	
+"	-В 	-В 	
+С‚РµР¶	С‚РµР¶В 	advВ 	
+РЅР°	РЅР°В 	prep:rv_misВ 	
+СЃРѕР±С–	СЃРµР±РµВ 	pron:refl:m:v_mis	(pron:refl:p:1:v_mis)В 
+		pron:refl:m:v_misВ 	
 		pron:refl:n:v_mis	
-		pron:refl:n:v_mis 	
-відчули	відчути 	verb:past:p:perf 	
-,	- 	- 	
-прийшли	прийти 	verb:past:p:perf 	
-туди	туди 	adv:&pron:dem 	
-вперше	вперше 	adv:v-u 	
-,	- 	- 	
-дитина	дитина 	noun:f:v_naz:anim 	
-просила	просити 	verb:past:f:imperf 	
-,	- 	- 	
-ще	ще 	adv 	
-не	не 	part 	
-знали	знати 	verb:past:p:imperf 	
-що	що 	pron:int:rel:n:v_naz 	
-до	до 	prep:rv_rod 	
-чого	що 	pron:int:rel:n:v_rod 	
-І	і 	conj:coord 	
-теж	теж 	adv 	
-сіли	сісти 	verb:past:p:perf 	
-не	не 	part 	
-за	за 	prep: rv_zna	
-білі	білий 	adj:p:v_zna:compb 	
-,	- 	- 	
-А	а 	conj:coord 	
-за	за 	prep: rv_zna	
-червоні	червоний 	adj:p:v_zna:compb 	
-столики	столик 	noun:p:v_zna 	
-,	- 	- 	
-після	після 	adv 	
-"	- 	- 	
-ну	ну 	excl 	
-пересядьте	пересісти 	verb:impr:p:2:perf 	
-"	- 	- 	
-йти	йти 	verb:inf:imperf 	
-туди	туди 	adv:&pron:dem 	
-більше	багато 	adv:compr 	
-не	не 	part 	
-хочеться	хотітися 	verb:unknown 	
-.	- 	SENT_END 	
+		pron:refl:n:v_misВ 	
+РІС–РґС‡СѓР»Рё	РІС–РґС‡СѓС‚РёВ 	verb:past:p:perfВ 	
+,	-В 	-В 	
+РїСЂРёР№С€Р»Рё	РїСЂРёР№С‚РёВ 	verb:past:p:perfВ 	
+С‚СѓРґРё	С‚СѓРґРёВ 	adv:&pron:demВ 	
+РІРїРµСЂС€Рµ	РІРїРµСЂС€РµВ 	adv:v-uВ 	
+,	-В 	-В 	
+РґРёС‚РёРЅР°	РґРёС‚РёРЅР°В 	noun:f:v_naz:animВ 	
+РїСЂРѕСЃРёР»Р°	РїСЂРѕСЃРёС‚РёВ 	verb:past:f:imperfВ 	
+,	-В 	-В 	
+С‰Рµ	С‰РµВ 	advВ 	
+РЅРµ	РЅРµВ 	partВ 	
+Р·РЅР°Р»Рё	Р·РЅР°С‚РёВ 	verb:past:p:imperfВ 	
+С‰Рѕ	С‰РѕВ 	pron:int:rel:n:v_nazВ 	
+РґРѕ	РґРѕВ 	prep:rv_rodВ 	
+С‡РѕРіРѕ	С‰РѕВ 	pron:int:rel:n:v_rodВ 	
+Р†	С–В 	conj:coordВ 	
+С‚РµР¶	С‚РµР¶В 	advВ 	
+СЃС–Р»Рё	СЃС–СЃС‚РёВ 	verb:past:p:perfВ 	
+РЅРµ	РЅРµВ 	partВ 	
+Р·Р°	Р·Р°В 	prep: rv_zna	
+Р±С–Р»С–	Р±С–Р»РёР№В 	adj:p:v_zna:compbВ 	
+,	-В 	-В 	
+Рђ	Р°В 	conj:coordВ 	
+Р·Р°	Р·Р°В 	prep: rv_zna	
+С‡РµСЂРІРѕРЅС–	С‡РµСЂРІРѕРЅРёР№В 	adj:p:v_zna:compbВ 	
+СЃС‚РѕР»РёРєРё	СЃС‚РѕР»РёРєВ 	noun:p:v_znaВ 	
+,	-В 	-В 	
+РїС–СЃР»СЏ	РїС–СЃР»СЏВ 	advВ 	
+"	-В 	-В 	
+РЅСѓ	РЅСѓВ 	exclВ 	
+РїРµСЂРµСЃСЏРґСЊС‚Рµ	РїРµСЂРµСЃС–СЃС‚РёВ 	verb:impr:p:2:perfВ 	
+"	-В 	-В 	
+Р№С‚Рё	Р№С‚РёВ 	verb:inf:imperfВ 	
+С‚СѓРґРё	С‚СѓРґРёВ 	adv:&pron:demВ 	
+Р±С–Р»СЊС€Рµ	Р±Р°РіР°С‚РѕВ 	adv:comprВ 	
+РЅРµ	РЅРµВ 	partВ 	
+С…РѕС‡РµС‚СЊСЃСЏ	С…РѕС‚С–С‚РёСЃСЏВ 	verb:unknownВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: 			
-DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]			
-DIS_PREP_OR_NOUN_DO:1 до[до/noun:n:v_dav:nv,до/noun:n:v_mis:nv,до/noun:n:v_naz:nv,до/noun:n:v_oru:nv,до/noun:n:v_rod:nv,до/noun:n:v_zna:nv,до/noun:p:v_dav:nv,до/noun:p:v_mis:nv,до/noun:p:v_naz:nv,до/noun:p:v_oru:nv,до/noun:p:v_rod:nv,до/noun:p:v_zna:nv,до/prep:rv_rod] -> до[до/prep:rv_rod]			
+DIS_PREP_OR_NOUN_DO:1 РґРѕ[РґРѕ/noun:n:v_dav:nv,РґРѕ/noun:n:v_mis:nv,РґРѕ/noun:n:v_naz:nv,РґРѕ/noun:n:v_oru:nv,РґРѕ/noun:n:v_rod:nv,РґРѕ/noun:n:v_zna:nv,РґРѕ/noun:p:v_dav:nv,РґРѕ/noun:p:v_mis:nv,РґРѕ/noun:p:v_naz:nv,РґРѕ/noun:p:v_oru:nv,РґРѕ/noun:p:v_rod:nv,РґРѕ/noun:p:v_zna:nv,РґРѕ/prep:rv_rod] -> РґРѕ[РґРѕ/prep:rv_rod]			
+DIS_PREP_OR_NOUN_DO:1 РґРѕ[РґРѕ/noun:n:v_dav:nv,РґРѕ/noun:n:v_mis:nv,РґРѕ/noun:n:v_naz:nv,РґРѕ/noun:n:v_oru:nv,РґРѕ/noun:n:v_rod:nv,РґРѕ/noun:n:v_zna:nv,РґРѕ/noun:p:v_dav:nv,РґРѕ/noun:p:v_mis:nv,РґРѕ/noun:p:v_naz:nv,РґРѕ/noun:p:v_oru:nv,РґРѕ/noun:p:v_rod:nv,РґРѕ/noun:p:v_zna:nv,РґРѕ/prep:rv_rod] -> РґРѕ[РґРѕ/prep:rv_rod]			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-Справді	справді 	adv 	
-перегородку	перегородка 	noun:f:v_zna 	
-якусь	якийсь 	adj:f:v_zna:&pron:ind 	
-,	- 	- 	
-або	або 	conj:coord 	
-хай	хай 	part 	
-офіціанти	офіціант 	noun:p:v_naz:anim 	
-пояснюють	пояснювати 	verb:pres:p:3:imperf 	
-,	- 	- 	
-що	що 	pron:int:rel:n:v_naz 	
-до	до 	prep:rv_rod 	
-чого	що 	pron:int:rel:n:v_rod 	
-при	при 	prep:rv_mis 	
-вході	вхід 	noun:m:v_mis 	
-що	що 	pron:int:rel:n:v_naz 	
-до	до 	prep:rv_rod 	
-чого	що 	pron:int:rel:n:v_rod 	
-.	- 	SENT_END 	
+	-В 	SENT_STARTВ 	
+РЎРїСЂР°РІРґС–	СЃРїСЂР°РІРґС–В 	advВ 	
+РїРµСЂРµРіРѕСЂРѕРґРєСѓ	РїРµСЂРµРіРѕСЂРѕРґРєР°В 	noun:f:v_znaВ 	
+СЏРєСѓСЃСЊ	СЏРєРёР№СЃСЊВ 	adj:f:v_zna:&pron:indВ 	
+,	-В 	-В 	
+Р°Р±Рѕ	Р°Р±РѕВ 	conj:coordВ 	
+С…Р°Р№	С…Р°Р№В 	partВ 	
+РѕС„С–С†С–Р°РЅС‚Рё	РѕС„С–С†С–Р°РЅС‚В 	noun:p:v_naz:animВ 	
+РїРѕСЏСЃРЅСЋСЋС‚СЊ	РїРѕСЏСЃРЅСЋРІР°С‚РёВ 	verb:pres:p:3:imperfВ 	
+,	-В 	-В 	
+С‰Рѕ	С‰РѕВ 	pron:int:rel:n:v_nazВ 	
+РґРѕ	РґРѕВ 	prep:rv_rodВ 	
+С‡РѕРіРѕ	С‰РѕВ 	pron:int:rel:n:v_rodВ 	
+РїСЂРё	РїСЂРёВ 	prep:rv_misВ 	
+РІС…РѕРґС–	РІС…С–РґВ 	noun:m:v_misВ 	
+С‰Рѕ	С‰РѕВ 	pron:int:rel:n:v_nazВ 	
+РґРѕ	РґРѕВ 	prep:rv_rodВ 	
+С‡РѕРіРѕ	С‰РѕВ 	pron:int:rel:n:v_rodВ 	
+.	-В 	SENT_ENDВ 	
 Disambiguator log: (no disambiguations)			
 Token	Lemma	Part-of-speech	Chunk
-	- 	SENT_START 	
-	- 	SENT_END 	
-		PARA_END 	
+	-В 	SENT_STARTВ 	
+	-В 	SENT_ENDВ 	
+		PARA_ENDВ 	
